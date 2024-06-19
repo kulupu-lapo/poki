@@ -28,8 +28,8 @@ jan pi mute lili li pali e nasin nanpa sin ni; taso, jan Misali li pali e [nasin
 * `mute` li kulupu `luka` pi ijo `luka` (li sama `mute luka luka luka wan` kepeken nasin pu)
 * `ale` li kulupu `luka` pi ijo `mute`
 
-nasin pu la, `mute` li `luka` tu tu; taso `ale` li `mute` tu tu *wan*.\
-nasin ni la, `mute` li `luka` tu tu tu; `ale` li `mute` tu tu tu kin! (kin la, `luka` li `wan` tu tu tu.)\
+nasin pu la, `mute` li `luka` tu tu; taso `ale` li `mute` tu tu *wan*.  
+nasin ni la, `mute` li `luka` tu tu tu; `ale` li `mute` tu tu tu kin! (kin la, `luka` li `wan` tu tu tu.)  
 *nimi nanpa suli li sama nimi nanpa lili tu tu tu.*
 
 ## nasin nanpa pi suli lon
