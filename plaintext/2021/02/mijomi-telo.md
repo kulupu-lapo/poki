@@ -421,4 +421,4 @@ ale li kama pona!
 
 \[*ona tu li uta e ona sama.*\]
 
-*~ p i n i ~*
+*~* *p i n i* *~*
