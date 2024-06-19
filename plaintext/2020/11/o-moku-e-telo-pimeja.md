@@ -3,7 +3,7 @@ title: o moku e telo pimeja!
 authors:
   - jan pi sona ala
 date: '2020-11-11'
-collection:
+collections:
   - utala.pona.la
   - utala pi toki musi (2020)
 license:

@@ -3,7 +3,7 @@ title: lipu kule li kama lon
 authors:
   - jan Ana
 date: '2021-01-20'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

@@ -3,7 +3,7 @@ title: lawa pi ma Setona
 authors:
   - kule epiku Atawan
 date: '2021-02-19'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

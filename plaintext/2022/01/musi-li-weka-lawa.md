@@ -3,7 +3,7 @@ title: musi li weka lawa
 authors:
   - waso Wilo
 date: 2022-01-13T05:00:13.822Z
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

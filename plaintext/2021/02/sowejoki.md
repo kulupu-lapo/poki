@@ -3,7 +3,7 @@ title: sowejoki
 authors:
   - kala pona Tonyu
 date: '2021-02-16'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

@@ -3,7 +3,7 @@ title: lipu Wikipesija sin
 authors:
   - jan Jan
 date: '2021-05-02'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

@@ -3,7 +3,7 @@ title: "pali kulupu: toki forth pi jan Eris"
 authors:
   - jan Jan
 date: '2021-03-02'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

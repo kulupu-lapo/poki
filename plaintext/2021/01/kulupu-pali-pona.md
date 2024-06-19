@@ -3,7 +3,7 @@ title: kulupu pali pona
 authors:
   - jan Jan
 date: '2021-01-25'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

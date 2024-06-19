@@ -3,7 +3,7 @@ title: nasin nanpa mute li lon
 authors:
   - jan Kita
 date: '2021-09-21'
-collection:
+collections:
   - lipu kule
 license: CC0
 sources:

@@ -3,7 +3,7 @@ title: nasin kulupu li seme?
 authors:
   - kulupu Aponi
 date: '2021-02-25'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

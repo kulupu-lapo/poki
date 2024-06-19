@@ -3,7 +3,7 @@ title: waso seli pona
 authors:
   - jan Jan
 date: '2022-01-20'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

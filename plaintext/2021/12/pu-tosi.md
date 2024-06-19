@@ -3,7 +3,7 @@ title: lipu pu Tosi li lon a
 authors:
   - jan Juli
 date: '2021-12-08'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

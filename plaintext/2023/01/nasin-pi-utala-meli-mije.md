@@ -3,7 +3,7 @@ title: nasin pi utala meli mije
 authors:
   - jan Olipija
 date: 2023-01-03
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

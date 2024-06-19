@@ -3,7 +3,7 @@ title: Wi-pi (Wi-Fi)
 authors:
   - jan Tomisu
 date: '2021-02-01'
-collection:
+collections:
   - lipu tenpo
   - lipu tenpo nanpa akesi
 license: CC-BY-SA 4.0

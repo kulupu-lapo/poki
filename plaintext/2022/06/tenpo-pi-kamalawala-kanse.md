@@ -3,7 +3,7 @@ title: nasin tenpo pi kamalawala Kanse
 authors:
   - jan Peton
 date: 2022-06-14T16:47:45.607Z
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

@@ -3,7 +3,7 @@ title: jan pi moli ala
 authors:
   - jan Api
 date: '2021-03-11'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

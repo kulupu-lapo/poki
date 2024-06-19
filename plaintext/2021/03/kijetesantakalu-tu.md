@@ -4,7 +4,7 @@ authors:
   - jan Wija
   - lipamanka
 date: '2021-03-05'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

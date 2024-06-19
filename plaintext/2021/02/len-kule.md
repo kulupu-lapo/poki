@@ -3,7 +3,7 @@ title: len kule
 authors:
   - jan Nijo
 date: '2021-02-11'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

@@ -3,7 +3,7 @@ title: waso kule pi tawa mute
 authors:
   - jan Kuli
 date: '2021-02-28'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

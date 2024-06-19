@@ -3,7 +3,7 @@ title: omekapo
 authors:
   - kala pona Tonyu
 date: '2021-01-23'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

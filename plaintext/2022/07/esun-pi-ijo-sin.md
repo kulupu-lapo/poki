@@ -3,7 +3,7 @@ title: ante toki pi AU MAGASIN DE NOUVEAUTES (esun pi ijo sin)
 authors:
   - jan Epen
 date: 2022-07-16T20:31:50.310Z
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

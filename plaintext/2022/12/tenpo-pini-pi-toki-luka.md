@@ -3,7 +3,7 @@ title: toki luka li sin ala li toki pali ala! tenpo pini pi toki luka
 authors:
   - jan Olipija
 date: 2022-12-26
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

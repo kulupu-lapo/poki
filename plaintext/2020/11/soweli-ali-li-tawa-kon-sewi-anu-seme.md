@@ -3,7 +3,7 @@ title: soweli ali li tawa e kon sewi anu seme?
 authors:
   - kapesi Pake
 date: '2020-11-11'
-collection:
+collections:
   - utala.pona.la
   - utala pi toki musi (2020)
 license:

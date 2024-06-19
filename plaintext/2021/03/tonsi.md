@@ -3,7 +3,7 @@ title: nimi 'tonsi' li pona a!
 authors:
   - jan Olipija
 date: '2021-03-08'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

@@ -4,7 +4,7 @@ authors:
   - waso pimeja
   - jan Nijo
 date: '2021-02-09'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

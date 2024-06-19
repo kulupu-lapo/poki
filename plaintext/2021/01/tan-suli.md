@@ -3,7 +3,7 @@ title: tan suli lipu li seme?
 authors:
   - jan pali pi lipu kule
 date: '2021-01-24'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

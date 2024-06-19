@@ -3,7 +3,7 @@ title: telo li kama
 authors:
   - jan Tanije
 date: '2020-11-11'
-collection:
+collections:
   - utala.pona.la
   - utala pi toki musi (2020)
 license:

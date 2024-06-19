@@ -3,7 +3,7 @@ title: utala
 authors:
   - jan Ateneja
 date: '2020-11-11'
-collection:
+collections:
   - utala.pona.la
   - utala pi toki musi (2020)
 license:

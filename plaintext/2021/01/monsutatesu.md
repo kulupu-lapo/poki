@@ -3,7 +3,7 @@ title: monsutatesu
 authors:
   - kala pona Tonyu
 date: '2021-01-29'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

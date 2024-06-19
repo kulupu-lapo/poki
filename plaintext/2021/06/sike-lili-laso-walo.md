@@ -3,7 +3,7 @@ title: sike lili laso walo
 authors:
   - jan Emalan
 date: '2021-06-13'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

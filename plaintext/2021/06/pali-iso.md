@@ -3,7 +3,7 @@ title: kulupu pi lanpan nimi ISO tawa toki pona
 authors:
   - jan Jan
 date: '2021-06-12'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

@@ -5,7 +5,7 @@ authors:
   - jan Kawa
   - jan inwin
 date: '2021-02-08'
-collection:
+collections:
   - utala.pona.la
   - utala pi lipu kalama tawa (2021)
 license:

@@ -3,7 +3,7 @@ title: akesi pi ante kule
 authors:
   - jan Sonja
 date: 2022-02-03T02:40:23.912Z
-collection:
+collections:
   - lipu kule
 license: CC0
 sources:

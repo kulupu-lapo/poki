@@ -3,7 +3,7 @@ title: lon ma tomo pi tenpo pini suli
 authors:
   - jan Kapilu
 date: '2020-11-11'
-collection:
+collections:
   - utala.pona.la
   - utala pi toki musi (2020)
 license:

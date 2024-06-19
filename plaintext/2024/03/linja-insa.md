@@ -4,7 +4,7 @@ description: "nasin sitelen pona mute li lon. taso ala li jo e kon sama linja In
 authors:
   - jan pali pi lipu kule
 date: '2024-03-11'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

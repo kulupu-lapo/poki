@@ -3,7 +3,7 @@ title: 'nasin Juniko pi sitelen pona'
 authors:
   - jan Jan
 date: '2024-03-16'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

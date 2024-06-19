@@ -3,7 +3,7 @@ title: nasin lanpan pi nimi iso
 authors:
   - jan Jan
 date: 2022-01-17T04:10:01.094Z
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

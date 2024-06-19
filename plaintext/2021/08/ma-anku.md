@@ -3,7 +3,7 @@ title: tenpo pi suno sin pi ma Anku li kama!
 authors:
   - jan Epen
 date: '2021-08-15'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

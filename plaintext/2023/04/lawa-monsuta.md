@@ -3,7 +3,7 @@ title: lawa monsuta
 authors:
   - jan Juli
 date:
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

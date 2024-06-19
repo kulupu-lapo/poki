@@ -3,7 +3,7 @@ title: pan sike suwi
 authors:
   - jan Nijo
 date: '2021-02-04'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

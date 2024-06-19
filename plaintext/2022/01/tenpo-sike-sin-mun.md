@@ -3,7 +3,7 @@ title: tenpo suno pi tenpo sike sin lon nasin tenpo mun li kama a!
 authors:
   - jan Epen
 date: 2022-01-31T15:00:16.178Z
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

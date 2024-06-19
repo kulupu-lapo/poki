@@ -3,7 +3,7 @@ title: pali kulupu pi lipu tenpo li seme?
 authors:
   - jan Ke Tami
 date: '2021-03-01'
-collection:
+collections:
   - lipu tenpo
   - lipu tenpo nanpa mun
 license: CC-BY-SA 4.0

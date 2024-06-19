@@ -4,7 +4,7 @@ authors:
   - kule epiku Atawan
   - kala pona Tonyu
 date: '2021-02-08'
-collection:
+collections:
   - utala.pona.la
   - utala pi lipu kalama tawa (2021)  
 license: CC0 1.0

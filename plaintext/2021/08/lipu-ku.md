@@ -3,7 +3,7 @@ title: 'lipu ku: lipu sin pi toki pona'
 authors:
   - jan Epen
 date: '2021-08-07'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:

@@ -10,7 +10,7 @@ description:
 authors:
   -
 date:
-collection:
+collections:
   -
 license:
 sources:

@@ -3,7 +3,7 @@ title: musi moli
 authors:
   - jan Juli
 date: '2021-07-10'
-collection:
+collections:
   - lipu kule
 license: CC-BY-SA 4.0
 sources:
