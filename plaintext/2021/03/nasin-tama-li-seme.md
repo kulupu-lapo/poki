@@ -5,6 +5,7 @@ authors:
 date: '2021-03-01'
 collection:
   - lipu tenpo
+  - lipu tenpo nanpa mun
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0002mun.pdf
@@ -16,19 +17,19 @@ nasin Tama (toki Inli: Buddhism, toki Sanki: Dharma) li nasin sewi. ni li kama t
 
 jan ale pi nasin Tatakata li kama awen pi “kiwen tu wan”. kiwen ni li sewi Tatakata, li lipu pi kama tan sewi Tatakata, li kulupu pi jan Tatakata. jan ale pi nasin Tatakata li toki e “lon sewi tu tu”:
 
-pakala Tuka
+**pakala Tuka**
 
 pilin ni pi pona ala li lon ma Sansala.
 
-tan Samutaja
+**tan Samutaja**
 
 pakala Tuka li tan tawa wile.
 
-pini Nilota
+**pini Nilota**
 
 jo ala e wile la pilin Tuka li pini.
 
-nasin Maka
+**nasin Maka**
 
 nasin Alija Atankika Maka (nasin sewi luka tu wan) li nasin ni, li pini pi pilin Tuka.
 

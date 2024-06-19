@@ -5,6 +5,7 @@ authors:
 date: '2021-03-01'
 collection:
   - lipu tenpo
+  - lipu tenpo nanpa mun
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0002mun.pdf
@@ -19,7 +20,9 @@ jan pi toki pona li wile e ni: kulupu ISO la, toki pona li kama suli. taso kulup
 
 nasin kulupu pi lipu tenpo en pali pi kulupu ni en tenpo ona li seme? mi wile pana e sona mi, e pilin mi.
 
-# lipu tenpo li ken kama ijo mute, li seme?/ nanpa wan la, tenpo pini la, lipu tenpo li lon ala. nimi pi lipu sin ni li lon ala. kulupu li wile e nimi la, nimi ni li seme? nimi “lipu” en nimi “o lukin” en nimi “lipu pi toki pona” en “lipu tenpo” li ken. jan li wile la, nimi li “lipu pi toki pona” ala; nimi “lipu” li lili mute taso; nimi “o lukin” li ken; nimi “lipu tenpo” li mute pona. tan ni la, nimi pi lipu sin li “lipu tenpo”. sitelen pi lipu tenpo li kama lon:
+# lipu tenpo li ken kama ijo mute, li seme?
+
+nanpa wan la, tenpo pini la, lipu tenpo li lon ala. nimi pi lipu sin ni li lon ala. kulupu li wile e nimi la, nimi ni li seme? nimi “lipu” en nimi “o lukin” en nimi “lipu pi toki pona” en “lipu tenpo” li ken. jan li wile la, nimi li “lipu pi toki pona” ala; nimi “lipu” li lili mute taso; nimi “o lukin” li ken; nimi “lipu tenpo” li mute pona. tan ni la, nimi pi lipu sin li “lipu tenpo”. sitelen pi lipu tenpo li kama lon:
 
 ![Logo of lipu tenpo](https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_of_lipu_tenpo.png)
 
