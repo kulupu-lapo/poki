@@ -11,8 +11,8 @@ sources:
   - https://utala.pona.la/toki-musi-lili/
 ---
 
-sina olin e utala.
-taso sina sona ala:
-utala li ike e sina.
-tenpo ala la,
+sina olin e utala.  
+taso sina sona ala:  
+utala li ike e sina.  
+tenpo ala la,  
 ala li pona.

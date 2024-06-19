@@ -44,39 +44,39 @@ mi lukin tawa nasin sin: nimi 'kipisi'. mi kama pilin e ni: pilin pi nimi 'kipis
 o sona e ni: nimi ante pi pona mute li lon. taso mi pilin e ni: mi toki e nimi ale tawa sina la, sina kama lape. ni la, mi o pana e toki pini tawa sina! o lukin pona, o pilin pona tan lukin!
 
 ## pini pi ante toki
-tenpo sun, la kipi tela
-li misu li musu lon ma wapon.
-iken ale li kilenwa,
+tenpo sun, la kipi tela  
+li misu li musu lon ma wapon.  
+iken ale li kilenwa,  
 waselo mimi li mon.
 
-"o lukin e Sowejo, lili mi o!
-ona li utala, ona li pakala!
-o lukin e waso Mumu, o weka tan
+"o lukin e Sowejo, lili mi o!  
+ona li utala, ona li pakala!  
+o lukin e waso Mumu, o weka tan  
 pikesi Palapan!"
 
-ona li luka e ilo utawa;
-ike monsume li alasa ona--
-ona li lape lon kasi Tutun
+ona li luka e ilo utawa;  
+ike monsume li alasa ona--  
+ona li lape lon kasi Tutun  
 li alasa sona pona.
 
-ona li awen lon pakeja
-la Sowejo pi oko seli
-li kama wapisi tan ma kasi teko
+ona li awen lon pakeja  
+la Sowejo pi oko seli  
+li kama wapisi tan ma kasi teko  
 li tokaki lon kama!
 
-wan, tu! wan, tu! o awen tawa!
-ilo utawa li mu e si-win!
-jan li luka e lawa ona
+wan, tu! wan, tu! o awen tawa!  
+ilo utawa li mu e si-win!  
+jan li luka e lawa ona  
 li tawa waselu sin.
 
-"sina moli ala moli e Sowejo?
-o kama lon poka, jan wawa mi o!
-ni li wana mute! a wa! a je!"
+"sina moli ala moli e Sowejo?  
+o kama lon poka, jan wawa mi o!  
+ni li wana mute! a wa! a je!"  
 ona li kintu suli.
 
-tenpo sun, la kipi tela
-li misu li musu lon ma wapon.
-iken ale li kilenwa,
+tenpo sun, la kipi tela  
+li misu li musu lon ma wapon.  
+iken ale li kilenwa,  
 waselo mimi li mon.
 
 sina ken ala ken lukin e pali musi nimi mi - sama nimi 'kintu' tan 'kuntu'? sina lukin la, o toki tawa mi! ni li pona mute a. kin la, sina wile la, sina ken alasa ante e ona kin. ken la ante sina li sama ala pi ante mi. ni li ken musi mute a!

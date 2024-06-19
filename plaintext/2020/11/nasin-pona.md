@@ -11,7 +11,7 @@ sources:
   - https://utala.pona.la/toki-musi-lili/
 ---
 
-ante li awen
-lon tenpo ale.
-ni li nasin
+ante li awen  
+lon tenpo ale.  
+ni li nasin  
 pi ijo ale.

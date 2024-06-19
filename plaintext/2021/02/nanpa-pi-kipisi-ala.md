@@ -14,7 +14,8 @@ sources:
 ---
 
 *lon sinpin sinpin*
-\[LEN\] *(o toki kepeken tenpo suli. o kepeken lipu lon sinpin lawa)*:
+
+*(o toki kepeken tenpo suli. o kepeken lipu lon sinpin lawa)*:
 
 tu
 

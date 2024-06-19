@@ -11,12 +11,12 @@ sources:
   - https://utala.pona.la/toki-musi-lili/
 ---
 
-pilin mi li
-awen ala lon
+pilin mi li  
+awen ala lon  
 poki, li telo.
 
-ma pona ni la
-kalama utala li
-kama tawa mi.
-kon lete li wawa.
+ma pona ni la  
+kalama utala li  
+kama tawa mi.  
+kon lete li wawa.  
 taso mi wawa mute.

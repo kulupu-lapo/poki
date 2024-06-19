@@ -11,15 +11,15 @@ sources:
   - https://utala.pona.la/toki-musi-lili/
 ---
 
-toki weka ale li kalama lon ike.
-ijo wan li kama la ni li tawa pini,
-tenpo wan kama la kasi kule kin,
+toki weka ale li kalama lon ike.  
+ijo wan li kama la ni li tawa pini,  
+tenpo wan kama la kasi kule kin,  
 en lukin pi ma pona li kama lon ala.
 
-taso toki weka li ike ale ala.
-ijo wan li tawa la ni li kama pini,
-jan li moku wan e kon li pana wan e kon la,
+taso toki weka li ike ale ala.  
+ijo wan li tawa la ni li kama pini,  
+jan li moku wan e kon li pana wan e kon la,  
 tawa kon pi toki ni en tenpo li sama.
 
-ale li kama lon li awen ale ala,
+ale li kama lon li awen ale ala,  
 tan ni la tenpo li kama ala moli.

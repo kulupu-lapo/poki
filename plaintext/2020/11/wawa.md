@@ -11,6 +11,6 @@ sources:
   - https://utala.pona.la/toki-musi-lili/
 ---
 
-ilo utala li wawa lili.
-ilo sitelen li wawa mute.
+ilo utala li wawa lili.  
+ilo sitelen li wawa mute.  
 luka li wawa mute mute.

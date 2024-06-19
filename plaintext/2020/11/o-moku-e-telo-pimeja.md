@@ -11,8 +11,8 @@ sources:
   - https://utala.pona.la/toki-musi-lili/
 ---
 
-o moku e telo pimeja!
-ona li seli.
-ona li pana e wawa tawa sina.
-ona li pimeja e kiwen uta sina.
+o moku e telo pimeja!  
+ona li seli.  
+ona li pana e wawa tawa sina.  
+ona li pimeja e kiwen uta sina.  
 ale li kama pona.

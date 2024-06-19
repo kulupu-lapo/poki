@@ -11,6 +11,6 @@ sources:
   - https://utala.pona.la/toki-musi-lili/
 ---
 
-mi lukin e sewi
-sewi lukin e mi
+mi lukin e sewi  
+sewi lukin e mi  
 sama oko a!

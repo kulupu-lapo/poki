@@ -11,7 +11,7 @@ sources:
   - https://utala.pona.la/toki-musi-lili/
 ---
 
-jan mute li jo e waso
-waso ni li waso taso
-waso jan li kule mute
+jan mute li jo e waso  
+waso ni li waso taso  
+waso jan li kule mute  
 taso, waso mi li laso

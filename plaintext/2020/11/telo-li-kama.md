@@ -11,6 +11,6 @@ sources:
   - https://utala.pona.la/toki-musi-lili/
 ---
 
-telo li kama
-tan sewi tan oko mi
+telo li kama  
+tan sewi tan oko mi  
 tan ni: mi olin
