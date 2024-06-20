@@ -6,7 +6,7 @@ authors:
 date: '2021-02-08'
 collections:
   - utala.pona.la
-  - utala pi lipu kalama tawa (2021)  
+  - utala pi lipu kalama tawa (2021)
 license: CC0 1.0
 sources:
   - https://utala.pona.la/lipu-kalama-tawa/
