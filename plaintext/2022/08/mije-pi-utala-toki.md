@@ -9,7 +9,7 @@ collections:
   - utala pi lipu musi lili (2022)
 tags:
   - moku
-license:
+license: CC-BY-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/lipu-lili/mije-pi-utala-toki.md
   - http://utala.pona.la/lipu-lili/mije-pi-utala-toki.html

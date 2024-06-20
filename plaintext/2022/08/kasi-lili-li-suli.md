@@ -9,7 +9,7 @@ collections:
   - utala pi lipu musi lili (2022)
 tags:
   - kasi li pilin ike tawa ona sama
-license:
+license: CC-BY-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/lipu-lili/kasi-lili-li-suli.md
   - http://utala.pona.la/lipu-lili/kasi-lili-li-suli.html

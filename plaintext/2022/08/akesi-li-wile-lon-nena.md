@@ -9,7 +9,7 @@ collections:
   - utala pi lipu musi lili (2022)
 tags:
   - moku li lon
-license:
+license: CC0-1.0
 sources:
   - https://github.com/raacz/utala/blob/main/lipu-lili/akesi-li-wile-lon-nena.md
   - http://utala.pona.la/lipu-lili/akesi-li-wile-lon-nena.html

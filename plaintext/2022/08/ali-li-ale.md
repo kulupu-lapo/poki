@@ -15,7 +15,7 @@ tags:
   - jan li pakala e sijelo jan tawa ni: ona li ken sona e sona len
   - nimi sin mute
   - nasin sewi
-license:
+license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/lipu-lili/ali-li-ale.md
   - http://utala.pona.la/lipu-lili/ali-li-ale.html
