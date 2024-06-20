@@ -54,7 +54,7 @@ tenpo ante la, toki sewi ni li ante. taso ale la, tonsi li lon.
 
 o sona e ni:
 
-\*nimi pi toki Emeki lon toki Inli li ‘Sume- rian’  
+\*nimi pi toki Emeki lon toki Inli li ‘Sumerian’  
 \*sewi Inana - toki Emeki la, nimi ona li ‘Inanna’. toki Akatu la, nimi ona li ‘Ishtar’  
 \*sewi Enki - toki Emeki la, nimi ona li ‘Enki’. toki Akatu la, nimi ona li ‘Ea’  
 \*sewi Elesikala - toki Emeki la, nimi ona li ‘Ereshkigal’. mi alasa la, taso mi lukin ala e nimi ante lon toki Akatu.  
