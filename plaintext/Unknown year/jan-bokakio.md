@@ -1,6 +1,9 @@
 ---
 title: toki tan toki pi jan Bokakio
+original-title: Selections from Ecclesiastes
 authors:
+  - Giovanni Boccaccio
+translators:
   - Michael F.
 date: Unknown
 collections:

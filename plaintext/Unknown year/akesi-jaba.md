@@ -1,6 +1,9 @@
 ---
 title: akesi Jaba
+original-title: Jabberwocky
 authors:
+  - Lewis Carroll
+translators:
   - Michael F.
 date: Unknown
 collections:
@@ -16,6 +19,8 @@ archives:
 ---
 
 # Jabberwocky (akesi Jaba)
+
+![akesi Jaba](https://web.archive.org/web/20140305060542im_/http://failbluedot.com/images/jabberwock.jpg)
 
 a! tenpo Brilig la soweli jaki
 
@@ -72,5 +77,3 @@ li musi li moku li lape li lon.
 soweli sewi li lili li suwi
 
 li sike li tawa lon tawa kon. 
-
-![akesi Jaba](https://web.archive.org/web/20140305060542im_/http://failbluedot.com/images/jabberwock.jpg)

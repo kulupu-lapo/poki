@@ -1,6 +1,9 @@
 ---
-title: jan en soweli
+title: monsi pi jan Hanki 
+original-title: Kissing Hank’s Ass 
 authors:
+  - James Huber
+translators:
   - Michael F.
 date: Unknown
 collections:
@@ -17,7 +20,7 @@ archives:
 
 # Kissing Hank’s Ass
 
-toki musi ni li tan [lipu pona ni](https://web.archive.org/web/20140305061302/http://www.jhuger.com/kisshank.php).
+toki musi ni li tan [lipu pona ni](https://web.archive.org/web/20140731090716/http://www.jhuger.com/kissing-hanks-ass).
 
 tenpo pi suno kama la jan tu li kama e tomo mi. ona mute li pona lukin li jo e len pona.
 
