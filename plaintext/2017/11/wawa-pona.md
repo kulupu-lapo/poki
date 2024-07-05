@@ -3,7 +3,7 @@ title: wawa pona
 original-title: Strong in the Real Way
 translators:
   - jan Kawa
-  - jan Mali
+  - jan Minasa
 date: 2017-11-01
 tags:
   - music
