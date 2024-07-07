@@ -1,5 +1,5 @@
 ---
-title: ma pi lon linja
+title: ma pi lon ala
 authors:
   - jan Usawi
 date: 2021-10-11
