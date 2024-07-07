@@ -1,5 +1,6 @@
 ---
-title: tenpo pimeja sewi (O Holy Night)
+title: tenpo pimeja sewi
+original-title: O Holy Night
 authors:
   - jan Kapesi Pake
 date: '2022-02-01'
