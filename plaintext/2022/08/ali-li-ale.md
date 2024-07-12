@@ -12,7 +12,7 @@ tags:
   - moli
   - pakala ma
   - seli tomo
-  - jan li pakala e sijelo jan tawa ni: ona li ken sona e sona len
+  - "jan li pakala e sijelo jan tawa ni: ona li ken sona e sona len"
   - nimi sin mute
   - nasin sewi
 license: CC-BY-SA-4.0

@@ -1,6 +1,6 @@
 ---
 title: akesi li wile lon nena
-description: lipu ni li kepeken nasin suwi: kulupu nimi ale la nimi luka taso li lon. o kama sona e ni: akesi pona li ken lon nena kepeken nasin seme?
+description: "lipu ni li kepeken nasin suwi: kulupu nimi ale la nimi luka taso li lon. o kama sona e ni: akesi pona li ken lon nena kepeken nasin seme?"
 authors:
   - jan Kita
 date: '2022-08-06'
