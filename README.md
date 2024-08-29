@@ -38,3 +38,18 @@ accessibility-notes:
 notes:
 ---
 ```
+
+## Sources
+
+| Name                                                                                                                                                                                              | Made / maintained by | Issue                                         | Claimed by            |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------------------------------------|-----------------------|
+| lipu kule                                                                                                                                                                                         | akesi Jan            | https://github.com/kulupu-lapo/poki/issues/9  | kala Asi              |
+| Writing contests [site](https://utala.pona.la) / [gh](https://github.com/raacz/utala)                                                                                                             | jan Lakuse           | https://github.com/kulupu-lapo/poki/issues/11 | kala Asi              |
+| lipu tenpo                                                                                                                                                                                        | jan Alonola          | https://github.com/kulupu-lapo/poki/issues/10 | ijo vivi              |
+| Song collection [yt](https://www.youtube.com/playlist?list=PLc7R2x5fn6AqRFUR9JzGIqh0FMdtsXRnH) / [docs](https://docs.google.com/spreadsheets/d/1qXextl70wJUo9xJ0VzECLXb3smiroQDT8U2_aAb_ycM/edit) | jan Ke Tami          | No                                            | ijo \[osuka\] en poka |
+| [TP Library](https://docs.google.com/document/d/1IdMucmhPCzvoUF94Gp25XCwocWOl4PfQ_wfOkiU8cu8/edit?usp=sharing)                                                                                    | kala pona Tonyu      | No                                            |                       |
+| [Wikisource](https://wikisource.org/wiki/Category:Toki_pona)                                                                                                                                      | various              | No                                            |                       |
+| [Corpora](https://sona.pona.la/wiki/Corpora)                                                                                                                                                      | (sona pona)          | No                                            |                       |
+| [nltk-tp](https://github.com/davidar/nltk-tp/tree/master/Corpus)                                                                                                                                  | davidar              | No                                            |                       |
+| [kijetesantakalu o!](https://kijetesantakalu-o.tumblr.com/tagged/comic)                                                                                                                           | jan Ke Tami          | No                                            |                       |
+| [Archive Of Our Own](https://archiveofourown.org/works/search?work_search%5Blanguage_id%5D=tok)                                                                                                   | various              | No                                            |                       |
