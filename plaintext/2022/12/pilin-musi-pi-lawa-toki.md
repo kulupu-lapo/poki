@@ -1,6 +1,7 @@
 ---
 title: pilin musi pi lawa toki
-# no author given in source document
+author:
+  - (anonymous)
 date: '2022-12-09'
 collections:
   - lipu tenpo
