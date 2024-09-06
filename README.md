@@ -41,24 +41,24 @@ notes:
 
 ## Sources
 
-![lipu kule site](https://lipukule.org/)
-![lipu kule repo](https://github.com/lipukule/lipu-kule)
-![utala musi site](https://utala.pona.la)
-![utala musi repo](https://github.com/raacz/utala)
-![kalama sin site](https://redcircle.com/shows/kalama-sin)
-![kalama sin ws](https://wikisource.org/wiki/Kalama_sin)
-![lipu tenpo site](https://liputenpo.org/)
-![lipu tenpo repo](https://github.com/lipu-tenpo/liputenpo.org)
-![songs yt](https://www.youtube.com/playlist?list=PLc7R2x5fn6AqRFUR9JzGIqh0FMdtsXRnH)
-![songs doc](https://docs.google.com/spreadsheets/d/1qXextl70wJUo9xJ0VzECLXb3smiroQDT8U2_aAb_ycM/edit)
-![tonyu lib](https://docs.google.com/document/d/1IdMucmhPCzvoUF94Gp25XCwocWOl4PfQ_wfOkiU8cu8/edit?usp=sharing)
-![Wikisource](https://wikisource.org/wiki/Category:Toki_pona)
-![Corpora](https://sona.pona.la/wiki/Corpora)
-![nltk-tp](https://github.com/davidar/nltk-tp/tree/master/Corpus)
-![kije o](https://kijetesantakalu-o.tumblr.com/tagged/comic)
-![ao3](https://archiveofourown.org/works/search?work_search%5Blanguage_id%5D=tok)
-![lentan](https://lipu-sona.pona.la/lentan/)
-![lipu monsuta](https://lipumonsuta.neocities.org/)
+[lipu kule site]:https://lipukule.org/
+[lipu kule repo]:https://github.com/lipukule/lipu-kule
+[utala musi site]:https://utala.pona.la
+[utala musi repo]:https://github.com/raacz/utala
+[kalama sin site]:https://redcircle.com/shows/kalama-sin
+[kalama sin ws]:https://wikisource.org/wiki/Kalama_sin
+[lipu tenpo site]:https://liputenpo.org/
+[lipu tenpo repo]:https://github.com/lipu-tenpo/liputenpo.org
+[songs yt]:https://www.youtube.com/playlist?list=PLc7R2x5fn6AqRFUR9JzGIqh0FMdtsXRnH
+[songs doc]:https://docs.google.com/spreadsheets/d/1qXextl70wJUo9xJ0VzECLXb3smiroQDT8U2_aAb_ycM/edit
+[tonyu lib]:https://docs.google.com/document/d/1IdMucmhPCzvoUF94Gp25XCwocWOl4PfQ_wfOkiU8cu8/edit?usp=sharing
+[Wikisource]:https://wikisource.org/wiki/Category:Toki_pona
+[Corpora]:https://sona.pona.la/wiki/Corpora
+[nltk-tp]:https://github.com/davidar/nltk-tp/tree/master/Corpus
+[kije o]:https://kijetesantakalu-o.tumblr.com/tagged/comic
+[ao3]:https://archiveofourown.org/works/search?work_search%5Blanguage_id%5D=tok
+[lentan]:https://lipu-sona.pona.la/lentan/
+[lipu monsuta]:https://lipumonsuta.neocities.org/
 
 
 | Name                                                                | Made / maintained by | Issue                                         | Claimed by            |
