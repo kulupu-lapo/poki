@@ -41,14 +41,14 @@ notes:
 
 ## Sources
 
-[lipu kule site]:https://lipukule.org/
-[lipu kule repo]:https://github.com/lipukule/lipu-kule
-[utala musi site]:https://utala.pona.la
-[utala musi repo]:https://github.com/raacz/utala
-[kalama sin site]:https://redcircle.com/shows/kalama-sin
-[kalama sin ws]:https://wikisource.org/wiki/Kalama_sin
-[lipu tenpo site]:https://liputenpo.org/
-[lipu tenpo repo]:https://github.com/lipu-tenpo/liputenpo.org
+[lk site]:https://lipukule.org/
+[lk repo]:https://github.com/lipukule/lipu-kule
+[um site]:https://utala.pona.la
+[um repo]:https://github.com/raacz/utala
+[ks site]:https://redcircle.com/shows/kalama-sin
+[ks ws]:https://wikisource.org/wiki/Kalama_sin
+[lt site]:https://liputenpo.org/
+[lt repo]:https://github.com/lipu-tenpo/liputenpo.org
 [songs yt]:https://www.youtube.com/playlist?list=PLc7R2x5fn6AqRFUR9JzGIqh0FMdtsXRnH
 [songs doc]:https://docs.google.com/spreadsheets/d/1qXextl70wJUo9xJ0VzECLXb3smiroQDT8U2_aAb_ycM/edit
 [tonyu lib]:https://docs.google.com/document/d/1IdMucmhPCzvoUF94Gp25XCwocWOl4PfQ_wfOkiU8cu8/edit?usp=sharing
@@ -61,18 +61,18 @@ notes:
 [lipu monsuta]:https://lipumonsuta.neocities.org/
 
 
-| Name                                                                | Made / maintained by | Issue                                         | Claimed by            |
-|---------------------------------------------------------------------|----------------------|-----------------------------------------------|-----------------------|
-| lipu kule ([site][lipu kule site] / [repo][lipu kule repo])         | akesi Jan            | https://github.com/kulupu-lapo/poki/issues/9  | kala Asi              |
-| Writing contests ([site][utala musi site] / [repo][utala musi repo])| jan Lakuse           | https://github.com/kulupu-lapo/poki/issues/11 | kala Asi              |
-| kalama sin ([site][kalama sin site] / [ws][kalama sin ws])          | various              | https://github.com/kulupu-lapo/poki/issues/12 | kala Asi              |
-| lipu tenpo ([site][lipu tenpo site] / [repo][lipu tenpo repo])      | jan Alonola          | https://github.com/kulupu-lapo/poki/issues/10 | ijo vivi              |
-| Song collection ([yt][songs yt] / [docs][songs doc])                | jan Ke Tami          | No                                            | ijo \[osuka\] en poka |
-| [TP Library][tonyu lib]                                             | kala pona Tonyu      | No                                            |                       |
-| [Wikisource]                                                        | various              | No                                            |                       |
-| [Corpora]                                                           | (sona pona)          | No                                            |                       |
-| [nltk-tp]                                                           | davidar              | No                                            |                       |
-| [kijetesantakalu o!][kije o]                                        | jan Ke Tami          | No                                            |                       |
-| [Archive Of Our Own][ao3]                                           | various              | No                                            |                       |
-| [jan Lentan's blog posts][lentan]                                   | jan Lentan           | No                                            |                       |
-| [lipu monsuta]                                                      | soweli kina          | No                                            |                       |
+| Name                                                  | Made / maintained by | Issue                                         | Claimed by            |
+|-------------------------------------------------------|----------------------|-----------------------------------------------|-----------------------|
+| lipu kule ([site][lk site] / [repo][lk repo])         | akesi Jan            | https://github.com/kulupu-lapo/poki/issues/9  | kala Asi              |
+| Writing contests ([site][um site] / [repo][um repo])  | jan Lakuse           | https://github.com/kulupu-lapo/poki/issues/11 | kala Asi              |
+| kalama sin ([site][ks site] / [ws][ks ws])            | various              | https://github.com/kulupu-lapo/poki/issues/12 | kala Asi              |
+| lipu tenpo ([site][lt site] / [repo][lt repo])        | jan Alonola          | https://github.com/kulupu-lapo/poki/issues/10 | ijo vivi              |
+| Song collection ([yt][songs yt] / [docs][songs doc])  | jan Ke Tami          | No                                            | ijo \[osuka\] en poka |
+| [TP Library][tonyu lib]                               | kala pona Tonyu      | No                                            |                       |
+| [Wikisource]                                          | various              | No                                            |                       |
+| [Corpora]                                             | (sona pona)          | No                                            |                       |
+| [nltk-tp]                                             | davidar              | No                                            |                       |
+| [kijetesantakalu o!][kije o]                          | jan Ke Tami          | No                                            |                       |
+| [Archive Of Our Own][ao3]                             | various              | No                                            |                       |
+| [jan Lentan's blog posts][lentan]                     | jan Lentan           | No                                            |                       |
+| [lipu monsuta]                                        | soweli kina          | No                                            |                       |
