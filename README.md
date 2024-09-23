@@ -72,7 +72,7 @@ notes:
 | [Wikisource]                                          | various              | No                                            |                       |
 | [Corpora]                                             | (sona pona)          | No                                            |                       |
 | [nltk-tp]                                             | davidar              | No                                            |                       |
-| [kijetesantakalu o!][kije o]                          | jan Ke Tami          | No                                            |                       |
-| [Archive Of Our Own][ao3]                             | various              | No                                            |                       |
+| [kijetesantakalu o!][kije o]                          | jan Ke Tami          | No                                            | ijo vivi              |
+| [Archive Of Our Own][ao3]                             | various              | No                                            | ijo vivi              |
 | [jan Lentan's blog posts][lentan]                     | jan Lentan           | No                                            |                       |
 | [lipu monsuta]                                        | soweli kina          | No                                            |                       |
