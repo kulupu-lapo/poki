@@ -1,98 +1,12 @@
-# TODO: sort collection!
-
 name: utala.pona.la
+# source: https://utala.pona.la/
 items:
-  - plaintext/2023/08/tawa-suli-soweli.md
-  - plaintext/2023/08/ilo-wawa.md
-  - plaintext/2023/08/ilo-wawa-pi-ma-toli.md
-  - plaintext/2023/08/jan-mun.md
-  - plaintext/2023/08/nasi.md
-  - plaintext/2023/08/luka-waso-pi-nena-taso.md
-  - plaintext/2023/08/mama-sewi-pi-unpa-ala.md
-  - plaintext/2023/08/lon-n-taso-ala.md
-  - plaintext/2023/08/moku-pi-telo-loje.md
-  - plaintext/2023/08/mu-wawa.md
-  - plaintext/2023/08/mu-namako.md
-  - plaintext/2023/08/ilo-sitelen-wawa.md
-  - plaintext/2023/08/sona-la.md
-  - plaintext/2023/08/linja-mije.md
-  - plaintext/2023/08/kili.md
-  - plaintext/2023/08/tenpo-pini-weka.md
-  - plaintext/2023/08/tenpo-li-lili.md
-  - plaintext/2023/08/pilin-pipi.md
-  - plaintext/2023/08/alasa-musi-pini.md
-  - plaintext/2023/08/ilo-toki.md
-  - plaintext/2023/08/pimeja.md
-  - plaintext/2023/08/sitelen-tawa-lon.md
-  - plaintext/2023/08/mi-en-waso-kaka.md
-  - plaintext/2023/08/pipi-li-wile-pakala.md
-  - plaintext/2023/08/nasin-mun.md
-  - plaintext/2023/08/jan-pilipu-kalasi.md
-  - plaintext/2023/08/ken-la-jan.md
-  - plaintext/2023/08/nasin-nasa-mupa.md
-  - plaintext/2023/08/sina-lon-e-ma.md
-  - plaintext/2021/02/mijomi-telo.md
-  - plaintext/2021/02/toki-ala-o-e-toki-inli.md
-  - plaintext/2021/02/nanpa-pi-kipisi-ala.md
-  - plaintext/2021/02/tu-kuntu.md
-  - plaintext/2021/02/wi-lon.md
-  - plaintext/2020/11/kulupu-pona-pi-mun-weka.md
-  - plaintext/2020/11/monsuta-insa.md
-  - plaintext/2020/11/wan-taso.md
-  - plaintext/2020/11/lon-sina.md
-  - plaintext/2020/11/o-lukin-e-insa-pi-lawa-mi.md
-  - plaintext/2020/11/nasin-pona.md
-  - plaintext/2020/11/kala-lepijatan.md
-  - plaintext/2020/11/telo-wawa.md
-  - plaintext/2020/11/mun-lili.md
-  - plaintext/2020/11/nasin-pi-pona-sijelo.md
-  - plaintext/2020/11/lon-ma-tomo-pi-tenpo-pini-suli.md
-  - plaintext/2020/11/o-toki-pona.md
-  - plaintext/2020/11/lipu-pi-jan-wawa-en-kala.md
-  - plaintext/2020/11/ni-li-lipu.md
-  - plaintext/2020/11/toki-ala.md
-  - plaintext/2020/11/lukin.md
-  - plaintext/2020/11/kama-pi-poki-ala.md
-  - plaintext/2020/11/utala.md
-  - plaintext/2020/11/wawa.md
-  - plaintext/2020/11/musi-mute.md
-  - plaintext/2020/11/kalama-waso.md
-  - plaintext/2020/11/mi-tawa-kon-sewi.md
-  - plaintext/2020/11/taso-waso-mi-li-laso.md
-  - plaintext/2020/11/sama-oko-en-oko-ante.md
-  - plaintext/2020/11/mu.md
-  - plaintext/2020/11/kiwen-telo-sewi.md
-  - plaintext/2020/11/laso-tu.md
-  - plaintext/2020/11/nena-kiwen-mi.md
-  - plaintext/2020/11/lon-pi-tenpo.md
-  - plaintext/2020/11/o-moku-e-telo-pimeja.md
-  - plaintext/2020/11/telo-li-kama.md
-  - plaintext/2020/11/lon-linja-telo.md
-  - plaintext/2020/11/mi-wile-e-awen.md
-  - plaintext/2020/11/soweli-ali-li-tawa-kon-sewi-anu-seme.md
-  - plaintext/2020/11/wile-open.md
-  - plaintext/2020/11/awen.md
-  - plaintext/2020/11/alasa.md
-  - plaintext/2020/11/ona-li-monsuta-e-jan.md
-  - plaintext/2020/11/kule-pi-insa-mi.md
-  - plaintext/2020/11/kala-nasa.md
-  - plaintext/2020/11/tenpo-ala-la.md
-  - plaintext/2020/11/ike-kolona.md
-  - plaintext/2020/11/tenpo-weka.md
-  - plaintext/2020/11/wile-pi-weka-ala.md
-  - plaintext/2022/08/kasi-lili-li-suli.md
-  - plaintext/2022/08/olin-kijetesantakalu.md
-  - plaintext/2022/08/waso-mumu-li-mu-ala.md
-  - plaintext/2022/08/ni-li-nasin.md
-  - plaintext/2022/08/jan-usawi.md
-  - plaintext/2022/08/ali-li-ale.md
-  - plaintext/2022/08/lipu-pi-soweli-lulu.md
-  - plaintext/2022/08/lipu-pi-jan-kosi.md
-  - plaintext/2022/08/aaa-mute.md
-  - plaintext/2022/08/ilo-li-wile-e-soweli.md
-  - plaintext/2022/08/akesi-li-wile-lon-nena.md
-  - plaintext/2022/08/kala-pi-alasa-kala.md
-  - plaintext/2022/08/mije-pi-utala-toki.md
-  - plaintext/2022/08/lipu-tenpo-pi-waso-lili.md
-  - plaintext/2022/08/jan-pi-sona-mi-en-jan-pona-ona.md
-  - plaintext/2022/08/jan-posepomamuka-o.md
+  - collections/utala-musi/2020-toki-musi-lili.yaml       # 2020-11-11
+  - collections/utala-musi/2021-lipu-kalama-tawa.yaml     # 2021-02-08
+  # https://utala.pona.la/sitelen-ma/                     # 2021-07-01   # A server icon contest for ma pona
+  - collections/utala-musi/2022-lipu-lili.yaml            # 2022-08-06
+  # https://utala.pona.la/musi-mu/                        # 2023-05-16   # A meme(?) contest
+  # https://utala.pona.la/sitelen-ma-nanpa-tu/            # 2023-02-01   # A server icon contest for ma pona
+  - collections/utala-musi/2023-toki-en-lipu.yaml         # 2023-08-15
+
+# 2024: as of 2024-10-22, the 2024 contest results are not released yet, but it exists

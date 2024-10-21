@@ -1,30 +1,36 @@
-# TODO: sort collection!
-
 name: kalama sin
 items:
-  - plaintext/2023/06/ma-tomo-win.md
-  - plaintext/2021/03/o-lukin-ala-e-monsi.md
-  - plaintext/2021/09/nanpa-open-tan-jan-juli.md
-  - plaintext/2021/11/ma-pi-lipu-tun.md
-  - plaintext/2021/11/nasin-pona-lipu.md
-  - plaintext/2021/11/o-toki-e-ijo-pi-toki-pona-ala.md
-  - plaintext/2021/11/tu-lukin-lon.md
-  - plaintext/2021/10/pilin-ku.md
-  - plaintext/2021/10/ilo-sitelen.md
-  - plaintext/2021/10/tenpo-mun-monsuta.md
-  - plaintext/2021/10/musi-pi-kala-ko.md
-  - plaintext/2021/12/pu-tosi-kalama-sin.md
-  - plaintext/2021/12/tenpo-santa-li-kama.md
-  - plaintext/2021/12/ike-li-ken-ike-ala.md
-  - plaintext/2022/02/nasin-iso.md
-  - plaintext/2022/02/jan-mun-en-nasin-waso.md
-  - plaintext/2022/06/nasin-puta.md
-  - plaintext/2022/06/jan-monsuta-loje.md
-  - plaintext/2022/06/poki-nasa.md
-  - plaintext/2022/09/kalama-sin-suno-pi-toki-pona.md
-  - plaintext/2022/07/ijo-sin.md
-  - plaintext/2022/05/ma-li-supa.md
-  - plaintext/2022/01/nasin-pi-kama-sona.md
-  - plaintext/2022/01/toki-wijosa.md
-  - plaintext/2022/01/musi-pi-toki-pona.md
-  - plaintext/2022/10/o-moku-pona.md
+  - plaintext/2021/09/nanpa-open-tan-jan-juli.md        # 01
+  - plaintext/2021/10/pilin-ku.md                       # 02
+  - plaintext/2021/10/ilo-sitelen.md                    # 03
+  - plaintext/2021/10/musi-pi-kala-ko.md                # 04
+  - plaintext/2021/10/tenpo-mun-monsuta.md              # 05
+  - plaintext/2021/03/o-lukin-ala-e-monsi.md            # 06
+  - plaintext/2021/11/ma-pi-lipu-tun.md                 # 07
+  - plaintext/2021/11/nasin-pona-lipu.md                # 08
+  - plaintext/2021/11/o-toki-e-ijo-pi-toki-pona-ala.md  # 09
+  - plaintext/2021/11/tu-lukin-lon.md                   # 10
+  # https://wikisource.org/wiki/Kalama_sin/11
+  - plaintext/2021/12/ike-li-ken-ike-ala.md             # 12
+  - plaintext/2021/12/pu-tosi-kalama-sin.md             # 13
+  - plaintext/2021/12/tenpo-santa-li-kama.md            # 14
+  - plaintext/2022/01/musi-pi-toki-pona.md              # 15
+  - plaintext/2022/01/toki-wijosa.md                    # 16
+  - plaintext/2022/01/nasin-pi-kama-sona.md             # 17
+  - plaintext/2022/02/jan-mun-en-nasin-waso.md          # 18
+  - plaintext/2022/02/nasin-iso.md                      # 19
+  - plaintext/2022/05/ma-li-supa.md                     # 20
+  - plaintext/2022/06/nasin-puta.md                     # 21
+  - plaintext/2022/06/poki-nasa.md                      # 22
+  - plaintext/2022/06/jan-monsuta-loje.md               # 23
+  - plaintext/2022/07/ijo-sin.md                        # 24
+  - plaintext/2022/09/kalama-sin-suno-pi-toki-pona.md   # 25
+  - plaintext/2022/10/o-moku-pona.md                    # 26
+  # https://wikisource.org/wiki/Kalama_sin/27
+  - plaintext/2023/06/ma-tomo-win.md                    # 27
+  # https://wikisource.org/wiki/Kalama_sin/29
+  # https://wikisource.org/wiki/Kalama_sin/30
+  # https://wikisource.org/wiki/Kalama_sin/31
+  # https://wikisource.org/wiki/Kalama_sin/32
+  # https://wikisource.org/wiki/Kalama_sin/33
+  # https://wikisource.org/wiki/Kalama_sin/34
