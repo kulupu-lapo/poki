@@ -1,15 +1,12 @@
 ---
 title: tenpo seli
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2023-05-12'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0019mama.pdf
-  - https://liputenpo.org/lipu/nanpa-mama/
+- https://liputenpo.org/pdfs/0019mama.pdf
+- https://liputenpo.org/lipu/nanpa-mama/
 ---
 
 tenpo seli li kama la,  

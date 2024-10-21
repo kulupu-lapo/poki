@@ -1,18 +1,15 @@
 ---
 title: o pali e mulapisu[^1]!
 authors:
-  - kije Enki
+- kije Enki
 date: '2022-09-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moku
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0015moku.pdf
-  - https://liputenpo.org/lipu/nanpa-moku/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_moku_open.png
+- https://liputenpo.org/pdfs/0015moku.pdf
+- https://liputenpo.org/lipu/nanpa-moku/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_moku_open.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 toki! sina wile ala wile moku e mulapisu? toki Italija la, ona li “Pizza”. mi kin li wile! o open.

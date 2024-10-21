@@ -1,15 +1,13 @@
 ---
 title: tenpo pi suno sin pi ma Anku li kama!
 authors:
-  - jan Epen
+- jan Epen
 date: '2021-08-15'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-08-15-maanku.md
-  - https://lipukule.org/post/2021/08/15/tenpo-pi-suno-sin-pi-ma-anku-li-kama/
-preprocessing:
+- https://github.com/lipukule/site/blob/main/content/post/2021-08-15-maanku.md
+- https://lipukule.org/post/2021/08/15/tenpo-pi-suno-sin-pi-ma-anku-li-kama/
+preprocessing: null
 ---
 
 ## mi pali e lipu ni tan seme?

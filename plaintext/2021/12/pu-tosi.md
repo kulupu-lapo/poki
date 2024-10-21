@@ -1,14 +1,12 @@
 ---
 title: lipu pu Tosi li lon a
 authors:
-  - jan Juli
+- jan Juli
 date: '2021-12-08'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-12-08-pu_tosi.md
-  - https://lipukule.org/post/2021/12/08/lipu-pu-tosi-li-lon-a/
+- https://github.com/lipukule/site/blob/main/content/post/2021-12-08-pu_tosi.md
+- https://lipukule.org/post/2021/12/08/lipu-pu-tosi-li-lon-a/
 ---
 
 jan ale pi toki pona o · toki a

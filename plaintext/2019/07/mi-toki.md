@@ -1,14 +1,14 @@
 ---
 title: mi toki
 authors:
-  - jan Sotan
+- jan Sotan
 date: 2019-07-22
 tags:
-  - poetry
-  - read-aloud poetry
+- poetry
+- read-aloud poetry
 license: CC BY 4.0
 sources:
-  - https://www.youtube.com/watch?v=rQ3mImRpzY8
+- https://www.youtube.com/watch?v=rQ3mImRpzY8
 ---
 
 sina wile utala.  \

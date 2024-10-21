@@ -1,15 +1,13 @@
 ---
 title: telo li lon ma mi
 authors:
-  - waso pimeja
-  - jan Nijo
+- waso pimeja
+- jan Nijo
 date: '2021-02-09'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-02-09-teloma.md
-  - https://lipukule.org/post/2021/02/09/telo-li-lon-ma-mi/
+- https://github.com/lipukule/site/blob/main/content/post/2021-02-09-teloma.md
+- https://lipukule.org/post/2021/02/09/telo-li-lon-ma-mi/
 ---
 
 telo li lon ma mi

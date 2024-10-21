@@ -2,18 +2,16 @@
 title: kalama musi suli
 original-title: Song of Songs
 authors:
-  - Michael F.
+- Michael F.
 date: Unknown
-collections:
-  - Fail Blue Dot
 tags:
-  - translation
-  - poetry
+- translation
+- poetry
 license: CC BY-NC 3.0
 sources:
-  - http://failbluedot.com/toki_pona/song_of_songs
+- http://failbluedot.com/toki_pona/song_of_songs
 archives:
-  - https://web.archive.org/web/20140305064517/http://failbluedot.com/toki_pona/song_of_songs
+- https://web.archive.org/web/20140305064517/http://failbluedot.com/toki_pona/song_of_songs
 ---
 
 # kalama musi suli

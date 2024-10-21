@@ -1,21 +1,19 @@
 ---
-title: monsi pi jan Hanki 
-original-title: Kissing Hank’s Ass 
+title: monsi pi jan Hanki
+original-title: Kissing Hank’s Ass
 authors:
-  - James Huber
+- James Huber
 translators:
-  - Michael F.
+- Michael F.
 date: Unknown
-collections:
-  - Fail Blue Dot
 tags:
-  - translation
-  - prose
+- translation
+- prose
 license: CC BY-NC 3.0
 sources:
-  - http://failbluedot.com/toki_pona/kha
+- http://failbluedot.com/toki_pona/kha
 archives:
-  - https://web.archive.org/web/20140305061302/http://failbluedot.com/toki_pona/kha
+- https://web.archive.org/web/20140305061302/http://failbluedot.com/toki_pona/kha
 ---
 
 # Kissing Hank’s Ass

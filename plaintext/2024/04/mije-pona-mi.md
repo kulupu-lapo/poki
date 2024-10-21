@@ -2,14 +2,14 @@
 title: mije pona mi
 description: jan Pitun li alasa e jan unpa. jan Iso lon ni!
 authors:
-  - Chameleon_Marx
+- Chameleon_Marx
 date: '2024-04-08'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/55048231
+- https://archiveofourown.org/works/55048231
 archives:
-  - https://web.archive.org/web/20240927154029/https://archiveofourown.org/works/55048231
+- https://web.archive.org/web/20240927154029/https://archiveofourown.org/works/55048231
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: Explicit
 ---

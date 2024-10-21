@@ -1,15 +1,12 @@
 ---
 title: Wi-pi (Wi-Fi)
 authors:
-  - jan Tomisu
+- jan Tomisu
 date: '2021-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa akesi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0001akesi.pdf
-  - https://liputenpo.org/lipu/nanpa-akesi/
+- https://liputenpo.org/pdfs/0001akesi.pdf
+- https://liputenpo.org/lipu/nanpa-akesi/
 ---
 
 jan ale li jo e ilo Wi-Pi. ona li pana e wawa kon lon tenpo ale. jan mute li wile kama sona e ni: wawa kon li ike tawa sijelo anu seme? sina wile sona e ni la o kama sona e ni: wawa kon li seme?

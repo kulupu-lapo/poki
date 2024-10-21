@@ -1,18 +1,16 @@
 ---
 title: Haikus
 authors:
-  - Michael F.
+- Michael F.
 date: Unknown
-collections:
-  - Fail Blue Dot
 tags:
-  - original work
-  - poetry
+- original work
+- poetry
 license: CC BY-NC 3.0
 sources:
-  - http://failbluedot.com/toki_pona/haikus
+- http://failbluedot.com/toki_pona/haikus
 archives:
-  - https://web.archive.org/web/20140305064514/http://failbluedot.com/toki_pona/haikus
+- https://web.archive.org/web/20140305064514/http://failbluedot.com/toki_pona/haikus
 ---
 
 # Haikus

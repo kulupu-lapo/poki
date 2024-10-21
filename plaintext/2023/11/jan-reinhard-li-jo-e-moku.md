@@ -3,16 +3,16 @@ title: jan Reinhard li jo e moku
 original-title: Reinhard has a meal
 description: jan Reinhard li jo e moku
 authors:
-  - jan Reinhard li jo e moku
+- jan Reinhard li jo e moku
 translators:
-  - AngryToasterNoises
+- AngryToasterNoises
 date: '2023-11-28'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/51895672?view_adult=true
+- https://archiveofourown.org/works/51895672?view_adult=true
 archives:
-  - https://web.archive.org/web/20240930135206/https://archiveofourown.org/works/51895672?view_adult=true
+- https://web.archive.org/web/20240930135206/https://archiveofourown.org/works/51895672?view_adult=true
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

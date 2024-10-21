@@ -1,17 +1,13 @@
 ---
 title: o moku pona!
-description: 
+description: null
 authors:
-  - jan Simiman
+- jan Simiman
 date: '2022-10-31'
-collections:
-  - kalama sin
-  - lipu monsuta
-  - mun monsuta (2022)
 license: CC-BY-SA 4.0
 sources:
-  - https://lipumonsuta.neocities.org/mun-monsuta/o-moku-pona
-  - https://wikisource.org/wiki/Kalama_sin/26
+- https://lipumonsuta.neocities.org/mun-monsuta/o-moku-pona
+- https://wikisource.org/wiki/Kalama_sin/26
 ---
 
 tenpo poka la tomo moku sin li kama lon ma tomo.  

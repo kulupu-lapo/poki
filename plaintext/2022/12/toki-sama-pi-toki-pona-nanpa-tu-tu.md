@@ -1,18 +1,15 @@
 ---
 title: toki sama pi toki pona - nanpa tu tu
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2022-12-09'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa musi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0017musi.pdf
-  - https://liputenpo.org/lipu/nanpa-musi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_musi_-_toki_sama_toki_pona.png
+- https://liputenpo.org/pdfs/0017musi.pdf
+- https://liputenpo.org/lipu/nanpa-musi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_musi_-_toki_sama_toki_pona.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 toki pona li jo e toki sama mute. mi pana e sona ni lon tenpo pini. tan seme la, toki sama pi mute mute li lon? ona li lon tan ni: jan li olin e toki pona. olin ni la, jan li pana e kon pi toki pona tawa nasin ante, tawa toki ante. toki sama pi toki pona li ken sama toki pona, li ken ante. toki ali ni li kama tan pilin pi jan pali ona. o kama sona e toki sama pi toki pona.

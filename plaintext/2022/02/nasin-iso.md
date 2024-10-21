@@ -1,16 +1,14 @@
 ---
 title: nasin ISO
-description: 
+description: null
 authors:
-  - jan Pensa
-  - jan Tepo
+- jan Pensa
+- jan Tepo
 date: '2022-02-24'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vS30k7ZPiuKYSKZh-u3aYVLKQFHcoBe9q38Ka8vdDZBRYhNGvo3gLRV3uq-3HWUaV55bSzwqdIwH3lU/pub
-  - https://wikisource.org/wiki/Kalama_sin/19
+- https://docs.google.com/document/d/e/2PACX-1vS30k7ZPiuKYSKZh-u3aYVLKQFHcoBe9q38Ka8vdDZBRYhNGvo3gLRV3uq-3HWUaV55bSzwqdIwH3lU/pub
+- https://wikisource.org/wiki/Kalama_sin/19
 preprocessing: replaced unusual "j." abbreviation with the full names
 ---
 

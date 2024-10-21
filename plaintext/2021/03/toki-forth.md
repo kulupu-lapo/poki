@@ -1,14 +1,12 @@
 ---
-title: "pali kulupu: toki forth pi jan Eris"
+title: 'pali kulupu: toki forth pi jan Eris'
 authors:
-  - jan Jan
+- jan Jan
 date: '2021-03-02'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-03-02-pali%20kulupu_%20toki%20forth%20pi%20jan%20Eris.md
-  - https://lipukule.org/post/2021/03/02/pali-kulupu-toki-forth-pi-jan-eris/
+- https://github.com/lipukule/site/blob/main/content/post/2021-03-02-pali%20kulupu_%20toki%20forth%20pi%20jan%20Eris.md
+- https://lipukule.org/post/2021/03/02/pali-kulupu-toki-forth-pi-jan-eris/
 ---
 
 toki ilo `forth` li ilo wan ala. ona li kulupu ilo. ona mute li jo e tan wan, taso ona li ken ante mute a! ilo `forth` ante li lon. ilo `gforth` li lon. ilo `jonesforth` li lon. ilo `pforth` li lon. ale li ante. taso ale li ilo `forth`.

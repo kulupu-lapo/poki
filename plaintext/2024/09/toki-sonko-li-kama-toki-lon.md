@@ -1,18 +1,15 @@
 ---
 title: toki Sonko li kama toki lon
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2024-09-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lawa
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0028lawa.pdf
-  - https://liputenpo.org/lipu/nanpa-lawa/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_waso_suli.png
+- https://liputenpo.org/pdfs/0028lawa.pdf
+- https://liputenpo.org/lipu/nanpa-lawa/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_waso_suli.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![waso pi kulupu Sonko · kulupu Sonko la waso ni li suli li waso ona](https://upload.wikimedia.org/wikipedia/commons/7/7f/Lipu_tenpo_nanpa_lawa_-_waso_suli.png)

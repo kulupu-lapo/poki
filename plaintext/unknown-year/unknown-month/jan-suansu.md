@@ -2,22 +2,20 @@
 title: toki tan lipu pi jan Suansu
 original-title: The Book of Chuang Tzu
 authors:
-  - Zhuang Zhou
+- Zhuang Zhou
 translators:
-  - Martin Palmer
-  - Elizabeth Breuilly
-  - Michael F.
+- Martin Palmer
+- Elizabeth Breuilly
+- Michael F.
 date: Unknown
-collections:
-  - Fail Blue Dot
 tags:
-  - translation
-  - prose
+- translation
+- prose
 license: CC BY-NC 3.0
 sources:
-  - http://failbluedot.com/toki_pona/chuang_tzu
+- http://failbluedot.com/toki_pona/chuang_tzu
 archives:
-  - https://web.archive.org/web/20140305064535/http://failbluedot.com/toki_pona/chuang_tzu
+- https://web.archive.org/web/20140305064535/http://failbluedot.com/toki_pona/chuang_tzu
 ---
 
 # toki tan lipu pi jan Suansu

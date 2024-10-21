@@ -1,19 +1,17 @@
 ---
 title: lipu tenpo pi waso lili
-description: ijo sin li kama tawa waso lili. jan laso nasa li kama lon poka! waso lili li sitelen e pilin ona lon lipu...
+description: ijo sin li kama tawa waso lili. jan laso nasa li kama lon poka! waso
+  lili li sitelen e pilin ona lon lipu...
 authors:
-  - jan Sepi (pi mute to)
+- jan Sepi (pi mute to)
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - moli li lon
-  - nimi sin mute li lon
-license:
+- moli li lon
+- nimi sin mute li lon
+license: null
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/lipu-tenpo-pi-waso-lili.md
-  - http://utala.pona.la/lipu-lili/lipu-tenpo-pi-waso-lili.html
+- https://github.com/raacz/utala/blob/main/lipu-lili/lipu-tenpo-pi-waso-lili.md
+- http://utala.pona.la/lipu-lili/lipu-tenpo-pi-waso-lili.html
 ---
 
 **tenpo suno**
@@ -84,4 +82,4 @@ seme a?
 
 mi... jan, lon ma tomo jan. lawa mi li pilin pona tan lape. lape nasa! taso la mi awen pilin e ko kapesi... sona li kama sike tawa mi: mi pilin e ko kapesi lon tenpo ale. pilin li ken lili li ken suli li ken ala ala.
 
-pilin pi ko ala li nasa li pona. lape li pana e pona wan ni tawa mi! pona ante li lon kin li ni: nasin pi pali nasa ni, en kasi, en sitelen, li awen lon sona mi. mi ken pali ni. mi ken weka e ko.  
+pilin pi ko ala li nasa li pona. lape li pana e pona wan ni tawa mi! pona ante li lon kin li ni: nasin pi pali nasa ni, en kasi, en sitelen, li awen lon sona mi. mi ken pali ni. mi ken weka e ko.

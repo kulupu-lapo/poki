@@ -1,16 +1,13 @@
 ---
 title: ni li pona tawa sina la ni kin li pona
 authors:
-  - lon Jawin
+- lon Jawin
 date: '2022-07-04'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa seli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0014seli.pdf
-  - https://liputenpo.org/lipu/nanpa-seli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_kalama_musi.png
+- https://liputenpo.org/pdfs/0014seli.pdf
+- https://liputenpo.org/lipu/nanpa-seli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_kalama_musi.png
 ---
 
 ![kalama musi](https://upload.wikimedia.org/wikipedia/commons/b/bb/Lipu_tenpo_nanpa_seli_-_kalama_musi.png)

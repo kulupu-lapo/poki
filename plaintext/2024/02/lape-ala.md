@@ -2,14 +2,14 @@
 title: lape ala
 description: jan Lan Me li wile lape ala. ni li ike mute tawa jan Weso.
 authors:
-  - CAYTION_RAYMEN
+- CAYTION_RAYMEN
 date: '2024-02-08'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/53607739
+- https://archiveofourown.org/works/53607739
 archives:
-  - https://web.archive.org/web/20240927160554/https://archiveofourown.org/works/53607739
+- https://web.archive.org/web/20240927160554/https://archiveofourown.org/works/53607739
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

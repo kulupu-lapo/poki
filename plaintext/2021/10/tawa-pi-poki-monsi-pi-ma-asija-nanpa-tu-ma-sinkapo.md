@@ -1,16 +1,13 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa tu. ma Sinkapo
 authors:
-  - jan Polo
+- jan Polo
 date: '2021-10-31'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0009moli.pdf
-  - https://liputenpo.org/lipu/nanpa-moli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_ma_Sinkapo.png
+- https://liputenpo.org/pdfs/0009moli.pdf
+- https://liputenpo.org/lipu/nanpa-moli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_ma_Sinkapo.png
 ---
 
 ![ma Sinkapo](https://upload.wikimedia.org/wikipedia/commons/7/7d/Lipu_tenpo_nanpa_moli_-_ma_Sinkapo.png)

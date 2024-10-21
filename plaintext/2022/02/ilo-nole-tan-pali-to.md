@@ -1,16 +1,13 @@
 ---
 title: ilo Nole tan pali To
 authors:
-  - jan Pije
+- jan Pije
 date: '2022-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa walo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0011walo.pdf
-  - https://liputenpo.org/lipu/nanpa-walo/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_ko_lete_walo.png
+- https://liputenpo.org/pdfs/0011walo.pdf
+- https://liputenpo.org/lipu/nanpa-walo/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_ko_lete_walo.png
 ---
 
 sina sona ala sona e pali To? ona li nasin linluwi[^1], li ilo pona. sina kepeken ona la jan ante (en jan ike) li ken ala lukin e pali linluwi sina. ni li suli kin tawa jan sitelen pi sona sin, li suli tawa jan pi wile ante lon ma ike, li suli tawa jan ante mute kin. (kin la sina ken tawa lipu pi "linluwi pimeja" kepeken ilo To. lipu ni li jo e nimi ".onion" lon pini nimi. sina ken ala tawa lipu ni kepeken ilo linluwi ante.)

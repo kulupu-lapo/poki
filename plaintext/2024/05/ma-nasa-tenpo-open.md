@@ -1,15 +1,12 @@
 ---
 title: ma nasa – tenpo open
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2024-05-14'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa jaki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0026jaki.pdf
-  - https://liputenpo.org/lipu/nanpa-jaki/
+- https://liputenpo.org/pdfs/0026jaki.pdf
+- https://liputenpo.org/lipu/nanpa-jaki/
 ---
 
 ## tenpo telo

@@ -1,24 +1,21 @@
 ---
 title: musi nasin linja
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2021-06-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pan
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0005pan.pdf
-  - https://liputenpo.org/lipu/nanpa-pan/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_ken.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_jaki.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_en.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_pi.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_li.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_nasin.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_ala.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_anu.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_musi_nasin_linja.png
+- https://liputenpo.org/pdfs/0005pan.pdf
+- https://liputenpo.org/lipu/nanpa-pan/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_ken.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_jaki.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_en.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_pi.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_li.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_nasin.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_ala.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_anu.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_musi_nasin_linja.png
 ---
 
 jan tu - anu jan pi mute ante - li wile e musi la, ona li ken musi e musi ni.

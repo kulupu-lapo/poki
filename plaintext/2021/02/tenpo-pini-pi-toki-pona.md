@@ -1,16 +1,13 @@
 ---
 title: tenpo pini pi toki pona
 authors:
-  - jan Telakoman
+- jan Telakoman
 date: '2021-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa akesi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0001akesi.pdf
-  - https://liputenpo.org/lipu/nanpa-akesi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu_pu.png
+- https://liputenpo.org/pdfs/0001akesi.pdf
+- https://liputenpo.org/lipu/nanpa-akesi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu_pu.png
 ---
 
 open la (2001) jan Sonja li pana e lipu tawa jan ale lon linluwi[^1]. lipu ni la ona li pana e sona pi toki sin. nimi pi toki sin ni li toki pona.

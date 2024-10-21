@@ -1,16 +1,13 @@
 ---
 title: pimeja
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-10-31'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0009moli.pdf
-  - https://liputenpo.org/lipu/nanpa-moli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_pimeja.png
+- https://liputenpo.org/pdfs/0009moli.pdf
+- https://liputenpo.org/lipu/nanpa-moli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_pimeja.png
 ---
 
 suno li lon ala. sina lon ma. sina ken ala lukin. sina pilin e ma. ma li telo.

@@ -1,16 +1,13 @@
 ---
 title: o kalama - ilo kalama pi linja tu tu
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-10-31'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0009moli.pdf
-  - https://liputenpo.org/lipu/nanpa-moli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_jan_Alonola.png
+- https://liputenpo.org/pdfs/0009moli.pdf
+- https://liputenpo.org/lipu/nanpa-moli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_jan_Alonola.png
 ---
 
 ilo kalama mute li lon. sina ken pana e kalama kepeken nasin ni: sina ken selo wawa e ilo kalama, sina ken selo e linja pi ilo kalama kepeken ilo selo, sina ken selo e linja kepeken luka sina, sina ken pali kin e ijo ante!

@@ -1,17 +1,14 @@
 ---
 title: o pali e moku Sule (Żurek)
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-03-10'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nimi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0012nimi.pdf
-  - https://liputenpo.org/lipu/nanpa-nimi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_moku_open.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_moku_Sule.png
+- https://liputenpo.org/pdfs/0012nimi.pdf
+- https://liputenpo.org/lipu/nanpa-nimi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_moku_open.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_moku_Sule.png
 ---
 
 moku Sule li moku pona pi ma Polaka. ona li nasa mute tawa jan mute, taso ona li pona mute kin tawa jan mute. o pali e ona!

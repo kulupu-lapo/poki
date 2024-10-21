@@ -1,19 +1,16 @@
 ---
 title: jan li toki e wile ona lon ma Netelan
 authors:
-  - jan Kasape
-  - jan Simiman
+- jan Kasape
+- jan Simiman
 date: '2023-12-25'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sewi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0023sewi.pdf
-  - https://liputenpo.org/lipu/nanpa-sewi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_wile_pi_ma_Netelan.svg
+- https://liputenpo.org/pdfs/0023sewi.pdf
+- https://liputenpo.org/lipu/nanpa-sewi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_wile_pi_ma_Netelan.svg
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![kulupu mute li lon · jan li wile e kulupu wan](https://upload.wikimedia.org/wikipedia/commons/1/16/Lipu_tenpo_nanpa_sewi_-_wile_pi_ma_Netelan.svg)

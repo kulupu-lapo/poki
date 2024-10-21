@@ -1,15 +1,18 @@
 ---
 title: jan Kawin li sona ala e toki pona
-description: '(short little thing i did to practice toki pona; its plotless and short) au where gavin wants to learn toki pona and nines speaks it around him lipu ni li lon ma suli ante. ni li kama: jan Kawin li wile kama sona e toki pona. jan Nin li toki e toki pona tan jan Kawin'
+description: '(short little thing i did to practice toki pona; its plotless and short)
+  au where gavin wants to learn toki pona and nines speaks it around him lipu ni li
+  lon ma suli ante. ni li kama: jan Kawin li wile kama sona e toki pona. jan Nin li
+  toki e toki pona tan jan Kawin'
 authors:
-  - len_hoshi
+- len_hoshi
 date: '2021-08-08'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/33122965
+- https://archiveofourown.org/works/33122965
 archives:
-  - https://archive.ph/DSck7
+- https://archive.ph/DSck7
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---

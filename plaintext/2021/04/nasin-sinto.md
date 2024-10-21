@@ -1,16 +1,13 @@
 ---
 title: nasin Sinto
 authors:
-  - jan Sose L-S
+- jan Sose L-S
 date: '2021-04-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa soweli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0003soweli.pdf
-  - https://liputenpo.org/lipu/nanpa-soweli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_nasin_Sinto.png
+- https://liputenpo.org/pdfs/0003soweli.pdf
+- https://liputenpo.org/lipu/nanpa-soweli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_nasin_Sinto.png
 ---
 
 mi sitelen e ni lon poka pi jan sewi pi nasin Sinto Lipinwikami (Livingwithkami).

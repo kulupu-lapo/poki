@@ -1,16 +1,13 @@
 ---
 title: jan lili pi toki pona
 authors:
-  - jan Nowa
+- jan Nowa
 date: '2021-10-31'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0009moli.pdf
-  - https://liputenpo.org/lipu/nanpa-moli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_jan_lili.png
+- https://liputenpo.org/pdfs/0009moli.pdf
+- https://liputenpo.org/lipu/nanpa-moli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_jan_lili.png
 ---
 
 jan ale li sona e ni: jan Tewi li pana e toki pona tawa jan lili ona. jan lili ni li jan wan pi toki pona. taso la jan lili ale li ken kama sona e toki pona.

@@ -1,18 +1,14 @@
 ---
 title: sitelen pona li ken ala ken lon nasin Juniko
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2024-02-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa tenpo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0024tenpo.pdf
-  - https://liputenpo.org/lipu/nanpa-tenpo/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_nasin_Juniko.png
-preprocessing:
-  – wrote alt text
+- https://liputenpo.org/pdfs/0024tenpo.pdf
+- https://liputenpo.org/lipu/nanpa-tenpo/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_nasin_Juniko.png
+preprocessing: – wrote alt text
 ---
 
 ![jan li lon ilo nimi · ilo li pana e nimi mute](https://upload.wikimedia.org/wikipedia/commons/b/b0/Lipu_tenpo_nanpa_tenpo_-_nasin_Juniko.png)

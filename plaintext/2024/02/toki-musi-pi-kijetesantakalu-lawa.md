@@ -1,16 +1,13 @@
 ---
 title: toki musi pi kijetesantakalu lawa
 authors:
-  - jan pi nimi ala
+- jan pi nimi ala
 date: '2024-02-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa tenpo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0024tenpo.pdf
-  - https://liputenpo.org/lipu/nanpa-tenpo/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_kijetesantakalu_lawa.png
+- https://liputenpo.org/pdfs/0024tenpo.pdf
+- https://liputenpo.org/lipu/nanpa-tenpo/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_kijetesantakalu_lawa.png
 ---
 
 ![kijetesantakalu lawa Winsen](https://upload.wikimedia.org/wikipedia/commons/a/a8/Lipu_tenpo_nanpa_tenpo_-_kijetesantakalu_lawa.png)

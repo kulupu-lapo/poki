@@ -2,16 +2,17 @@
 title: toki pi pona mute
 description: 'toki ona li pona. ijo li ken ala ken pali e ni: ona li pona mute?'
 authors:
-  - DarkatningAwesome
+- DarkatningAwesome
 date: '2023-04-08'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/46329748
+- https://archiveofourown.org/works/46329748
 archives:
-  - https://web.archive.org/web/20240930143722/https://archiveofourown.org/works/46329748
+- https://web.archive.org/web/20240930143722/https://archiveofourown.org/works/46329748
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-notes: jan pali li toki Inli e lipu li toki e lon pi lipu ni sin kepeken toki Inli · mi weka e toki ona ni
+notes: jan pali li toki Inli e lipu li toki e lon pi lipu ni sin kepeken toki Inli
+  · mi weka e toki ona ni
 ---
 
 ale la, mi wile e ni: mi pona.

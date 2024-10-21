@@ -1,15 +1,15 @@
 ---
 title: ma sewi pi poka meli ala
-description: 'jan Joje li lon poka jan ala. ona li pali e sitelen lape ona.'
+description: jan Joje li lon poka jan ala. ona li pali e sitelen lape ona.
 authors:
-  - boatNectar
+- boatNectar
 date: '2024-10-15'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/59777143
+- https://archiveofourown.org/works/59777143
 archives:
-  - https://archive.ph/WbzDP
+- https://archive.ph/WbzDP
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---

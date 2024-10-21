@@ -1,15 +1,12 @@
 ---
 title: toki pona li ken ala ken suwi e pilin sina?
 authors:
-  - jan Lapate
+- jan Lapate
 date: '2023-11-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sin
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0022sin.pdf
-  - https://liputenpo.org/lipu/nanpa-sin/
+- https://liputenpo.org/pdfs/0022sin.pdf
+- https://liputenpo.org/lipu/nanpa-sin/
 ---
 
 jan Lapate li toki e moli e pilin anpa.

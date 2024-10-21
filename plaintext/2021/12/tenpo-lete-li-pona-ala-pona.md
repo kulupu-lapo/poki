@@ -1,15 +1,12 @@
 ---
 title: tenpo lete li pona ala pona?
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-12-08'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lete
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0010lete.pdf
-  - https://liputenpo.org/lipu/nanpa-lete/
+- https://liputenpo.org/pdfs/0010lete.pdf
+- https://liputenpo.org/lipu/nanpa-lete/
 ---
 
 tenpo ni la, tenpo lete li open lon ma mute. taso, tenpo lete li pona ala pona tawa jan?

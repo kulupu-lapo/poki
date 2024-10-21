@@ -1,15 +1,16 @@
 ---
 title: sitelen lili pi musi Kensin Inpaku
-description: musi Kensin Inpaku la mi pali e sitelen mute lon toki pona. sitelen mi la jan pi musi ni li ken ante suli. wile mi la sitelen ni li pona tawa sina :)
+description: musi Kensin Inpaku la mi pali e sitelen mute lon toki pona. sitelen mi
+  la jan pi musi ni li ken ante suli. wile mi la sitelen ni li pona tawa sina :)
 authors:
-  - JDAbadeer
+- JDAbadeer
 date: '2024-02-19'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/53909767?view_full_work=true
+- https://archiveofourown.org/works/53909767?view_full_work=true
 archives:
-  - https://web.archive.org/web/20240927155641/https://archiveofourown.org/works/53909767?view_full_work=true
+- https://web.archive.org/web/20240927155641/https://archiveofourown.org/works/53909767?view_full_work=true
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

@@ -1,24 +1,22 @@
 ---
 title: mi en waso Kaka en monsuta pi ma kasi
-description: 
+description: null
 authors:
-  - jan Pensa
+- jan Pensa
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - pakala sijelo
-  - pilin ike pi ken moli
-  - sijelo moli jaki
-  - moku li lon
-  - utala sijelo
-  - nimi ku li mute
+- pakala sijelo
+- pilin ike pi ken moli
+- sijelo moli jaki
+- moku li lon
+- utala sijelo
+- nimi ku li mute
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.html
-notes: this is the second version of the work. The first version used lanpan a lot, and is not stored here due to redundancy.
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.html
+notes: this is the second version of the work. The first version used lanpan a lot,
+  and is not stored here due to redundancy.
 ---
 
 ***
@@ -632,4 +630,3 @@ waso Kaka li mu pi pilin pona.
 tenpo wan la mi lukin sin e ma pi tomo nasa, e soweli pona. soweli li lukin e mi li tawa e luka ona. mi sona ala e kon pi tawa luka ni, taso pilin mi la ona li ijo pona. mi kin li tawa e luka mi, sama soweli pona. ni la mi en mama en waso Kaka li tawa lon nasin li tawa ma kasi, li tawa tomo.
 
 tenpo suno ni li nasa a. ijo ike mute en ijo nasa mute li kama. taso, pini la, tenpo suno ni li pona wawa a tawa mi.
-

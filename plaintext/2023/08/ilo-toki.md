@@ -1,18 +1,15 @@
 ---
 title: ilo toki
-description: 
+description: null
 authors:
-  - jan Peton
+- jan Peton
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - ilo nanpa li sona wawa e toki
+- ilo nanpa li sona wawa e toki
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-toki.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-toki.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-toki.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-toki.html
 preprocessing: includes HTML
 ---
 

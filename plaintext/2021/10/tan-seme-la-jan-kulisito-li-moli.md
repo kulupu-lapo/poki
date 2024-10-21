@@ -1,16 +1,13 @@
 ---
 title: tan seme la jan Kulisito li moli?
 authors:
-  - jan Sose L-S
+- jan Sose L-S
 date: '2021-10-31'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0009moli.pdf
-  - https://liputenpo.org/lipu/nanpa-moli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_jan_Kulisito.png
+- https://liputenpo.org/pdfs/0009moli.pdf
+- https://liputenpo.org/lipu/nanpa-moli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_jan_Kulisito.png
 ---
 
 lon ma ale la, jan mute li sona e lipu pi jan Jesu Kulisito. nimi ona li jo e kon pi “jan Jesu li jo e telo sijelo sewi”. jan pi nasin ona li jo e pilin ante mute: kulupu Katoliko (Catholic) en kulupu Lutelan (Lutheran) en kulupu Anlika (Anglican) en kulupu mute ante la, jan ale li pilin ante! taso, jan ni ale li pilin e ni: moli pi jan Kulisito lon palisa suli li suli mute. lipu ni la, mi wile pana e sona pi pilin mute ni tawa sina.

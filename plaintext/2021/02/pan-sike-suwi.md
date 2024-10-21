@@ -1,15 +1,13 @@
 ---
 title: pan sike suwi
 authors:
-  - jan Nijo
+- jan Nijo
 date: '2021-02-04'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-02-04-pansikesuwi.md
-  - https://lipukule.org/post/2021/02/04/pan-sike-suwi/
-  - https://github.com/lipukule/site/tree/main/static/images/pansikesuwi
+- https://github.com/lipukule/site/blob/main/content/post/2021-02-04-pansikesuwi.md
+- https://lipukule.org/post/2021/02/04/pan-sike-suwi/
+- https://github.com/lipukule/site/tree/main/static/images/pansikesuwi
 ---
 
 nasin pali pi pan sike suwi

@@ -1,16 +1,13 @@
 ---
 title: mi ken
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-10-31'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0009moli.pdf
-  - https://liputenpo.org/lipu/nanpa-moli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_mi_ken.png
+- https://liputenpo.org/pdfs/0009moli.pdf
+- https://liputenpo.org/lipu/nanpa-moli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_mi_ken.png
 ---
 
 ![mi ken](https://upload.wikimedia.org/wikipedia/commons/3/3f/Lipu_tenpo_nanpa_moli_-_mi_ken.png)

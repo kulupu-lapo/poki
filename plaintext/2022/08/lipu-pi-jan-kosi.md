@@ -1,20 +1,19 @@
 ---
 title: lipu pi jan Kosi
-description: jan sin li kama lon kulupu pi toki pona. o lukin e lipu tenpo ona kepeken sitelen pona!
+description: jan sin li kama lon kulupu pi toki pona. o lukin e lipu tenpo ona kepeken
+  sitelen pona!
 authors:
-  - jan Temili
+- jan Temili
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - jan li weka e sona mute
-  - moku li lon
-license:
+- jan li weka e sona mute
+- moku li lon
+license: null
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/lipu-pi-jan-kosi.md
-  - http://utala.pona.la/lipu-lili/lipu-pi-jan-kosi.html
-preprocessing: "Originally available in sitelen pona and sitelen Lasina. Best viewed in sitelen pona. Only sitelen Lasina provided below."
+- https://github.com/raacz/utala/blob/main/lipu-lili/lipu-pi-jan-kosi.md
+- http://utala.pona.la/lipu-lili/lipu-pi-jan-kosi.html
+preprocessing: Originally available in sitelen pona and sitelen Lasina. Best viewed
+  in sitelen pona. Only sitelen Lasina provided below.
 ---
 
 toki  

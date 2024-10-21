@@ -1,16 +1,13 @@
 ---
 title: sina wile jo ala jo e soweli tomo?
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-05-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kasi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0004kasi.pdf
-  - https://liputenpo.org/lipu/nanpa-kasi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_soweli_tomo.png
+- https://liputenpo.org/pdfs/0004kasi.pdf
+- https://liputenpo.org/lipu/nanpa-kasi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_soweli_tomo.png
 ---
 
 jan mute li wile jo e soweli tomo. taso, ni li pali mute! sina ken jo e soweli ko, e soweli alasa, e akesi, e kala, e pipi, e waso. soweli pi mute lili la, pali mute ala li lon. taso, soweli mute la, pali mute li lon!

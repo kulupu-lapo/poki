@@ -1,36 +1,33 @@
 ---
 title: pali len pi sitelen sitelen pi nimi ku suli
 authors:
-  - lon Jawin
+- lon Jawin
 date: '2021-10-06'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa toki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0008toki.pdf
-  - https://liputenpo.org/lipu/nanpa-toki/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_sitelen_sin_ale.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22monsuta%22_pi_sin_ala.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22misikeke%22_pi_sin_ala_2.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22misikeke%22_pi_sin_ala_1.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22jasima%22_pi_sin_ala.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22meso%22_pi_sin_ala_1.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22uta%22.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22meso%22_pi_sin_ala_2.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_1.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_2.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_3.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kokosila%22_pi_sin_ala.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_1.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22CH%27AM%22.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kemutenemk%22.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_2.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_3.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_4.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_1.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_2.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_3.png
+- https://liputenpo.org/pdfs/0008toki.pdf
+- https://liputenpo.org/lipu/nanpa-toki/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_sitelen_sin_ale.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22monsuta%22_pi_sin_ala.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22misikeke%22_pi_sin_ala_2.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22misikeke%22_pi_sin_ala_1.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22jasima%22_pi_sin_ala.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22meso%22_pi_sin_ala_1.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22uta%22.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22meso%22_pi_sin_ala_2.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_1.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_2.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_3.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kokosila%22_pi_sin_ala.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_1.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22CH%27AM%22.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kemutenemk%22.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_2.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_3.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_4.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_1.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_2.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_3.png
 ---
 
 sitelen sitelen anu sitelen suwi li sitelen pi toki pona. ona li sama lukin e sitelen Majan; mama pi sitelen sitelen li wile e ni. tenpo pini la sitelen sitelen li jo e nimi pu taso… taso tenpo ni la ona li jo e mute. tenpo pini lili la mama pi toki pona li pana e lipu ku. lipu ku li jo e nimi sin. tan ni la mi en kulupu pi sitelen sitelen taso li lon ilo Telekan (Telegram) li alasa pali e sitelen pi nimi ku suli. mi en ona li pali mute la mi pini. sitelen ni li lon ni:

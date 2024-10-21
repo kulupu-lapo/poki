@@ -1,16 +1,13 @@
 ---
 title: tenpo sike tu
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2023-02-06'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa tu
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0018tu.pdf
-  - https://liputenpo.org/lipu/nanpa-tu/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu.png
+- https://liputenpo.org/pdfs/0018tu.pdf
+- https://liputenpo.org/lipu/nanpa-tu/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu.png
 ---
 
 ![lipu](https://upload.wikimedia.org/wikipedia/commons/f/f9/Lipu_tenpo_nanpa_akesi_-_lipu.png)

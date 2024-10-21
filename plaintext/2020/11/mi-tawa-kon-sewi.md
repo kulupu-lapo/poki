@@ -1,14 +1,11 @@
 ---
 title: mi tawa kon sewi
 authors:
-  - jan Pawato
+- jan Pawato
 date: '2020-11-11'
-collections:
-  - utala.pona.la
-  - utala pi toki musi (2020)
-license:
+license: null
 sources:
-  - https://utala.pona.la/toki-musi-lili/
+- https://utala.pona.la/toki-musi-lili/
 ---
 
 ni li kasi. ona lukin sewi e mun. mun sewi li tenpo pimeja.  

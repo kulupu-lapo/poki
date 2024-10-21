@@ -1,15 +1,16 @@
 ---
 title: ilo sona anu jan
-description: 'ilo Peni li sona e ni: ona li ilo. mama Pijeto sona e ni: ni li lon ala.'
+description: 'ilo Peni li sona e ni: ona li ilo. mama Pijeto sona e ni: ni li lon
+  ala.'
 authors:
-  - dragon_chris
+- dragon_chris
 date: '2022-10-07'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/42217296
+- https://archiveofourown.org/works/42217296
 archives:
-  - https://archive.ph/77tyG
+- https://archive.ph/77tyG
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---

@@ -1,23 +1,21 @@
 ---
 title: jan usawi
-description: jan Kasona li wile kama sona e ijo wawa nasa sin li wile weka tan ma mama ona. seme li kama?
+description: jan Kasona li wile kama sona e ijo wawa nasa sin li wile weka tan ma
+  mama ona. seme li kama?
 authors:
-  - jan Kepe
+- jan Kepe
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - pakala sijelo
-  - moli
-  - pali jan li ike
-  - nimi sin mute li lon
-license:
+- pakala sijelo
+- moli
+- pali jan li ike
+- nimi sin mute li lon
+license: null
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/jan-usawi.md
-  - http://utala.pona.la/lipu-lili/jan-usawi.html
+- https://github.com/raacz/utala/blob/main/lipu-lili/jan-usawi.md
+- http://utala.pona.la/lipu-lili/jan-usawi.html
 ---
- 
+
 tenpo pi lon ala la, kulupu jan li lon ma lili Akepa. kulupu ni li kulupu lili, li ken ala pali e <abbr title="ijo wawa kepeken nasin pi nasa mute, sama ni: mi tawa ma pi weka mute kepeken tenpo ala">usawi</abbr>.
  
 tenpo la, jan Kasona pi kulupu ni li <abbr title="toki lon insa lawa">isipin</abbr> lon lawa ona, li isipin e ni: jan usawi li pali e ijo nasa kepeken seme? jan ale li ken ala ken sona e usawi ni? mi ken ala ken sona e usawi ni? la jan Kasona li tawa jan Upasi. ona li jan usawi suli pi kulupu ante.
@@ -93,4 +91,4 @@ jan Kasona li pali e toki sewi ona, taso nanpa luka tu tu la, ona li toki e ni: 
  
 jan Upasi li pilin musi. ona li lukin e lipu ona, li lukin e ni: "sina wile moli e jan la: o pana sona e usawi tawa ona." ona li sitelen e nimi "pona" lon poka pi sitelen ni. ona li toki e ni: "ni li usawi. ni li usawi."  
  
-jan Upasi li lanpan e sijelo moli pi jan Kasona, li pali e ijo tawa ona, taso mi ken ala lukin tan sijelo pi jan Upasi. tenpo ni la, jan Upasi li lili lukin, li majuna ala.  
+jan Upasi li lanpan e sijelo moli pi jan Kasona, li pali e ijo tawa ona, taso mi ken ala lukin tan sijelo pi jan Upasi. tenpo ni la, jan Upasi li lili lukin, li majuna ala.

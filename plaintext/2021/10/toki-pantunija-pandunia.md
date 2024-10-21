@@ -1,16 +1,13 @@
 ---
 title: toki Pantunija (Pandunia)
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-10-31'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0009moli.pdf
-  - https://liputenpo.org/lipu/nanpa-moli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_len_pi_toki_Pantunija.png
+- https://liputenpo.org/pdfs/0009moli.pdf
+- https://liputenpo.org/lipu/nanpa-moli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_len_pi_toki_Pantunija.png
 ---
 
 toki Pantunija li toki pi ma ale. jan li pali e toki Pantunija sama toki pona. toki pona la, toki Pantunija li jo e ijo mute sama.

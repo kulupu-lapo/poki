@@ -2,14 +2,14 @@
 title: lipu lili ike pi olin Sonsilesi
 description: neuvillette is lost so zhongli helps him out
 authors:
-  - CAYTION_RAYMEN
+- CAYTION_RAYMEN
 date: '2024-01-10'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/52937524
+- https://archiveofourown.org/works/52937524
 archives:
-  - https://web.archive.org/web/20240930134533/https://archiveofourown.org/works/52937524
+- https://web.archive.org/web/20240930134533/https://archiveofourown.org/works/52937524
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

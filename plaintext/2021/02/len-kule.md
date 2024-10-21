@@ -1,14 +1,12 @@
 ---
 title: len kule
 authors:
-  - jan Nijo
+- jan Nijo
 date: '2021-02-11'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-02-11-lenkule.md
-  - https://lipukule.org/post/2021/02/11/len-kule/
+- https://github.com/lipukule/site/blob/main/content/post/2021-02-11-lenkule.md
+- https://lipukule.org/post/2021/02/11/len-kule/
 ---
 
 ni li len lipu pi jan kule. ona o pona!

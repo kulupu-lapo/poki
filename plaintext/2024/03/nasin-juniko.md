@@ -1,14 +1,12 @@
 ---
-title: 'nasin Juniko pi sitelen pona'
+title: nasin Juniko pi sitelen pona
 authors:
-  - jan Jan
+- jan Jan
 date: '2024-03-16'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2024-03-16-nasin-juniko.md
-  - https://lipukule.org/post/2024/03/16/nasin-juniko-pi-sitelen-pona/
+- https://github.com/lipukule/site/blob/main/content/post/2024-03-16-nasin-juniko.md
+- https://lipukule.org/post/2024/03/16/nasin-juniko-pi-sitelen-pona/
 ---
 
 ## tenpo ni

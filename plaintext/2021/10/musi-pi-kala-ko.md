@@ -1,18 +1,17 @@
 ---
 title: musi pi kala ko
-description: 
+description: null
 authors:
-  - jan Itan
-  - jan Tepo
+- jan Itan
+- jan Tepo
 date: '2021-10-18'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vQPqFsD5V-459Tb9tfvtfgAMP-VMUS_d-ISL3mxjHrjWmxCD08st1a6s12i83u9A4yZ1Q0JfRAaZwe7/pub
-  - https://wikisource.org/wiki/Kalama_sin/4
+- https://docs.google.com/document/d/e/2PACX-1vQPqFsD5V-459Tb9tfvtfgAMP-VMUS_d-ISL3mxjHrjWmxCD08st1a6s12i83u9A4yZ1Q0JfRAaZwe7/pub
+- https://wikisource.org/wiki/Kalama_sin/4
 preprocessing: replaced unusual "j." abbreviation with the full names
-notes: the google doc has some italics that wikisource doesn't. look into adding it here
+notes: the google doc has some italics that wikisource doesn't. look into adding it
+  here
 ---
 
 ## **musi pi kala ko** tan jan Itan

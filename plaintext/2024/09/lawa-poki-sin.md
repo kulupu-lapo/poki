@@ -1,18 +1,15 @@
 ---
 title: lawa poki sin
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2024-09-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lawa
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0028lawa.pdf
-  - https://liputenpo.org/lipu/nanpa-lawa/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_poki_telo.png
+- https://liputenpo.org/pdfs/0028lawa.pdf
+- https://liputenpo.org/lipu/nanpa-lawa/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_poki_telo.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 sina lon ma Elopa la sina sona e lawa poki sin. sina wile moku e telo tan poki li open e ona, ike a! lawa poki li weka ala li awen lon ona. ni li tan seme?

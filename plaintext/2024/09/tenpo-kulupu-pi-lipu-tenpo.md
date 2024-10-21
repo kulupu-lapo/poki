@@ -1,16 +1,13 @@
 ---
 title: tenpo kulupu pi lipu tenpo
 authors:
-  - jan Sonatan
-  - jan Alonola
+- jan Sonatan
+- jan Alonola
 date: '2024-09-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lawa
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0028lawa.pdf
-  - https://liputenpo.org/lipu/nanpa-lawa/
+- https://liputenpo.org/pdfs/0028lawa.pdf
+- https://liputenpo.org/lipu/nanpa-lawa/
 ---
 
 tenpo pini lili la jan mute pi toki pona li kulupu tan ni: jan Ke Tami li open e tenpo kulupu pi toki pona pi ma Elopa. tenpo sike tu pini la tenpo kulupu li lon ma tomo Win lon ma Eselasi li lon ma tomo Mase lon ma Netelan. tenpo sike ni la ona li lon ma tomo Pelin lon ma Tosi.

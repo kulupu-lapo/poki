@@ -1,16 +1,13 @@
 ---
 title: luka waso pi nena taso
-description: 
+description: null
 authors:
-  - jan Lakuse
+- jan Lakuse
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
-  - http://utala.pona.la/toki-en-lipu/toki-lili.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
+- http://utala.pona.la/toki-en-lipu/toki-lili.html
 ---
 
 mi lukin e waso pona tu  
@@ -73,4 +70,4 @@ o lukin alasa e mi
 o lukin anpa a e ijo   
 pi suli mute la ken la   
 sewi li lukin li pilin pona  
-sina ken sama waso ante ale   
+sina ken sama waso ante ale

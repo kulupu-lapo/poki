@@ -1,17 +1,14 @@
 ---
 title: telo pi pona sijelo
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2021-12-08'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lete
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0010lete.pdf
-  - https://liputenpo.org/lipu/nanpa-lete/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kule_-_jan_sona.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_ilo_telo.png
+- https://liputenpo.org/pdfs/0010lete.pdf
+- https://liputenpo.org/lipu/nanpa-lete/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kule_-_jan_sona.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_ilo_telo.png
 ---
 
 tenpo sike ni en tenpo sike pini wan la, ike li lon. sijelo pi jan mute li kama jaki. jan mute li moli. jan li wile ala e ni la ona li len e sinpin ona, li tawa ala kulupu, li telo e luka ona lon tenpo mute, li lon ala poka pi jan ante. ike ni li tan ijo pi lili mute mute a. ijo ni li ijo Kolona.

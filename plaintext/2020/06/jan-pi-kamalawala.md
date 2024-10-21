@@ -1,15 +1,15 @@
 ---
 title: jan pi kamalawala
 authors:
-  - jan Sojapoja
+- jan Sojapoja
 tags:
-  - poetry
+- poetry
 date: 2020-06-13
 license: All Rights Reserved
 sources:
-  -
+- null
 archives:
-  - https://archive.org/details/jan_pi_kamalawa/mode/2up
+- https://archive.org/details/jan_pi_kamalawa/mode/2up
 ---
 
 tenpo ni li tenpo pimeja nanpa tu.  \
@@ -135,4 +135,4 @@ o toki e ken tawa mi--
 utala pi pilin nasa li open.  \
 moku mi li kama. 
 
-o lukin pi poka mi anu seme? 
+o lukin pi poka mi anu seme?

@@ -1,16 +1,13 @@
 ---
 title: mani Pikon li seme?
 authors:
-  - jan Tomisu
+- jan Tomisu
 date: '2021-03-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mun
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0002mun.pdf
-  - https://liputenpo.org/lipu/nanpa-mun/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_mani_Pikon.png
+- https://liputenpo.org/pdfs/0002mun.pdf
+- https://liputenpo.org/lipu/nanpa-mun/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_mani_Pikon.png
 ---
 
 tenpo ni la, jan mute li toki e nimi ni: Pikon (Bitcoin). taso jan pi mute lili li sona e kon ona. lipu ni li pana e sona ni: ijo Pikon li seme li pona tan seme li pali e seme?

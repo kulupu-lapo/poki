@@ -1,14 +1,12 @@
 ---
 title: nimi 'tonsi' li pona a!
 authors:
-  - jan Olipija
+- jan Olipija
 date: '2021-03-08'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-03-08-tonsi.md
-  - https://lipukule.org/post/2021/03/08/nimi-tonsi-li-pona-a/
+- https://github.com/lipukule/site/blob/main/content/post/2021-03-08-tonsi.md
+- https://lipukule.org/post/2021/03/08/nimi-tonsi-li-pona-a/
 ---
 
 tonsi li seme? nimi ‘tonsi’ la, kepeken tu wan li lon. kepeken nanpa wan la, tonsi li mije ala li meli ala. kepeken nanpa tu la, kon pi nimi tonsi li ni: jan li mije tawa meli, anu jan li meli tawa mije, anu jan li meli anu mije tawa tonsi. kepeken nanpa tu wan la, kon pi nimi tonsi li ni; jan anu ijo li lukin meli ala li lukin mije ala.

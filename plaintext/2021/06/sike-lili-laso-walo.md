@@ -1,16 +1,14 @@
 ---
 title: sike lili laso walo
 authors:
-  - jan Emalan
+- jan Emalan
 date: '2021-06-13'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-06-13-sike_lili_laso_walo.md
-  - https://lipukule.org/post/2021/06/13/sike-lili-laso-walo/
-  - https://github.com/lipukule/site/blob/main/static/images/sikelililasowalo.png
-preprocessing: "Replaced HTML with MD quotes"
+- https://github.com/lipukule/site/blob/main/content/post/2021-06-13-sike_lili_laso_walo.md
+- https://lipukule.org/post/2021/06/13/sike-lili-laso-walo/
+- https://github.com/lipukule/site/blob/main/static/images/sikelililasowalo.png
+preprocessing: Replaced HTML with MD quotes
 ---
 
 tenpo sike 1990 la ilo Ojase nanpa wan (Voyager 1) li pali e sitelen ni tan wile pi jan Ka

@@ -1,16 +1,13 @@
 ---
 title: akesi seli ike
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa akesi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0001akesi.pdf
-  - https://liputenpo.org/lipu/nanpa-akesi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_akesi_seli_ike.png
+- https://liputenpo.org/pdfs/0001akesi.pdf
+- https://liputenpo.org/lipu/nanpa-akesi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_akesi_seli_ike.png
 ---
 
 tenpo pini la, akesi seli li lon insa pi nena suli. ona li pana e seli ike. ona li utala e ma tomo. nimi pi ma tomo li “ma tomo pi waso pimeja”. jan utala pi tawa soweli li utala e akesi seli. taso tenpo ale la, akesi seli li pini pona. jan ale pi ma tomo ni li pilin monsuta[^1]. jan ale li sona ala e ni: jan li wile pali e seme? jan lawa sewi kin li sona ala e ni. jan lili li lon. ona li pali e len. ona li jo e sitelen lawa nasa. ona li toki tawa jan lawa sewi e ni:

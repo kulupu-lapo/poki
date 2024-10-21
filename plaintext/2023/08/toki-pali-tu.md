@@ -1,15 +1,12 @@
 ---
 title: toki pali tu
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2023-08-24'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa ma
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0021ma.pdf
-  - https://liputenpo.org/lipu/nanpa-ma/
+- https://liputenpo.org/pdfs/0021ma.pdf
+- https://liputenpo.org/lipu/nanpa-ma/
 ---
 
 **o lukin. ni li toki tu. taso nimi li sama.**

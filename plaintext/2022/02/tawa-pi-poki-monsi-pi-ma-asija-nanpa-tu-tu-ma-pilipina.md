@@ -1,16 +1,13 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa tu tu - ma Pilipina
 authors:
-  - jan Polo
+- jan Polo
 date: '2022-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa walo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0011walo.pdf
-  - https://liputenpo.org/lipu/nanpa-walo/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_ma_Pilipina.png
+- https://liputenpo.org/pdfs/0011walo.pdf
+- https://liputenpo.org/lipu/nanpa-walo/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_ma_Pilipina.png
 ---
 
 ma Pilipina li ma suli ante pi ma Asija pi nasin seli pi kama suno. sama ma Intonesija la ma Pillipina kin li jo e ma mute mute pi insa telo suli. ona li jo e laso kasi mute e ma poka telo pona mute. sama ala pi ma ante pi ma Asija la (ma Koleja kin li sama ala) nasin sewi nanpa wan pi ma ni li nasin sewi Kolisu. taso kulupu lili pi nasin sewi Silami kin li lon nasin seli pi ma ni. nasin sewi Kolisu li kama tan ma Epanja tan ni: tenpo pini mute la ma Epanja li jo e ma Pilipina. kama la jan pi ma Mewika li kama. tan ni la tenpo ni la jan pi ma Pilipina li toki pona e toki Inli (taso tenpo ni la jan pi mute lili li ken toki e toki Epanija).

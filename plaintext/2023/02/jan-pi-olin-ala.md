@@ -1,15 +1,15 @@
 ---
 title: jan pi olin ala
-description: 'jan Sasali li olin ala e jan Semila'
+description: jan Sasali li olin ala e jan Semila
 authors:
-  - dragon_chris
+- dragon_chris
 date: '2023-02-10'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/44930653
+- https://archiveofourown.org/works/44930653
 archives:
-  - https://archive.ph/ITV54
+- https://archive.ph/ITV54
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

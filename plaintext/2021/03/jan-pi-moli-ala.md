@@ -1,15 +1,13 @@
 ---
 title: jan pi moli ala
 authors:
-  - jan Api
+- jan Api
 date: '2021-03-11'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-03-11-jan%20pi%20moli%20ala.md
-  - https://lipukule.org/post/2021/03/11/jan-pi-moli-ala/
-  - https://github.com/lipukule/site/blob/main/static/images/janpimoliala.png
+- https://github.com/lipukule/site/blob/main/content/post/2021-03-11-jan%20pi%20moli%20ala.md
+- https://lipukule.org/post/2021/03/11/jan-pi-moli-ala/
+- https://github.com/lipukule/site/blob/main/static/images/janpimoliala.png
 ---
 
 tenpo kama la, mi wile ala moli. mi wile awen lon tenpo ale.

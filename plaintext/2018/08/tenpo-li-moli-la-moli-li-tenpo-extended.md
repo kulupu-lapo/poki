@@ -1,14 +1,14 @@
 ---
-title: tenpo li moli la moli li tenpo EXTENDED 
+title: tenpo li moli la moli li tenpo EXTENDED
 authors:
-  - jan Sotan
+- jan Sotan
 date: 2018-08-03
 tags:
-  - music
-  - tok' apona
+- music
+- tok' apona
 license: All Rights Reserved
 sources:
-  - https://www.youtube.com/watch?v=INm3vnNbapM
+- https://www.youtube.com/watch?v=INm3vnNbapM
 ---
 
 [sike]

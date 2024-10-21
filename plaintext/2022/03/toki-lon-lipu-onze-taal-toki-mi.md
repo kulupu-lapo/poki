@@ -1,15 +1,12 @@
 ---
 title: toki lon lipu “Onze Taal” (toki mi)
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-03-10'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nimi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0012nimi.pdf
-  - https://liputenpo.org/lipu/nanpa-nimi/
+- https://liputenpo.org/pdfs/0012nimi.pdf
+- https://liputenpo.org/lipu/nanpa-nimi/
 ---
 
 tenpo mun nanpa tu pi tenpo sike ni la, jan Ma Pan Otento (Marc van Oostendorp) li sitelen e toki ni lon lipu “Onze Taal” (toki mi): “Een taal met 137 woorden. De vrolijke kunsttaal Toki Pona.” - “toki kepeken nimi pi mute lili. toki pona li toki musi pona.”

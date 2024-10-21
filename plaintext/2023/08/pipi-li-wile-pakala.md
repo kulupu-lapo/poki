@@ -1,16 +1,13 @@
 ---
 title: pipi li wile pakala
-description: 
+description: null
 authors:
-  - jan Keri
+- jan Keri
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
-  - http://utala.pona.la/toki-en-lipu/toki-lili.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
+- http://utala.pona.la/toki-en-lipu/toki-lili.html
 ---
 
 toki! mi pipi. jan mute li pakala e mi kepeken palisa pi utala pipi. ona li sona ala e ni: mi wile e ni! ni li pona mute tawa mi! jan li pona mute tawa mi. pipi ante li wile ala e ni. ona li pilin e ni: jan mute li ike mute tawa pipi ante. pipi ante li pilin monsuta tan jan. pipi ante li tawa kepeken luka waso ona la ona li lukin e jan. mi awen li wile pakala la mi lukin e jan. mi tawa kon lon poka sinpin lawa jan. mi pali e ni la jan li pilin utala mute. jan jo e palisa pi utala pipi. jan li wile pakala e mi. ona li moli e mi. mi wile pilin e pakala. mi wile ala moli. tenpo sin la mi tawa kon lon jan kepeken luka waso mi. pipi ante li lukin e mi. 

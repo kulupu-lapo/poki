@@ -3,19 +3,17 @@ title: o kama ala e sona weka
 original-title: Don't Forget
 description: mi lon la, sina taso ala. Don't Forget - toki pona translation
 authors:
-  - Toby Fox
-  - Laura Shigihara
+- Toby Fox
+- Laura Shigihara
 translators:
-  - RiemannHyperthesis
+- RiemannHyperthesis
 date: '2024-07-07'
 tags:
-  - 'ao3'
-collections:
-  - Deltarune toki pona translations by RiemannHyperthesis
+- ao3
 sources:
-  - https://archiveofourown.org/works/57201715
+- https://archiveofourown.org/works/57201715
 archives:
-  - https://web.archive.org/web/20240927145307/https://archiveofourown.org/works/57201715
+- https://web.archive.org/web/20240927145307/https://archiveofourown.org/works/57201715
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---

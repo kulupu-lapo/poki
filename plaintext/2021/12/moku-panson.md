@@ -1,15 +1,12 @@
 ---
 title: moku Panson
 authors:
-  - jan Melon
+- jan Melon
 date: '2021-12-08'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lete
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0010lete.pdf
-  - https://liputenpo.org/lipu/nanpa-lete/
+- https://liputenpo.org/pdfs/0010lete.pdf
+- https://liputenpo.org/lipu/nanpa-lete/
 ---
 
 moku Panson (kue pancong [kuʷe pant͡ʃoŋ] lon toki Intonesija) li moku lili tan kulupu jan Petawi lon ma tomo Sakata. lukin la ona li sama ni: jan li kipisi[^1] e sike. pilin uta la ona li suwi li namako. sina ken pali e moku ni kepeken nasin ni.

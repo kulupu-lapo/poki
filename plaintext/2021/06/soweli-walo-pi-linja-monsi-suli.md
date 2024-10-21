@@ -1,16 +1,13 @@
 ---
 title: soweli walo pi linja monsi suli
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-06-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pan
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0005pan.pdf
-  - https://liputenpo.org/lipu/nanpa-pan/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_soweli_walo.png
+- https://liputenpo.org/pdfs/0005pan.pdf
+- https://liputenpo.org/lipu/nanpa-pan/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_soweli_walo.png
 ---
 
 soweli pi linja monsi suli li soweli Pulepe (Vulpe). ona li lon kulupu soweli Kanine (Caninae). soweli ante mute li lon kulupu soweli ni. jan mute li sona e soweli loje. taso, mi lukin e soweli walo. nimi ale ona lon toki Lasina li Pulepe Lakopu (Vulpe Lagopus).

@@ -1,14 +1,11 @@
 ---
 title: ike Kolona
 authors:
-  - jan Awi
+- jan Awi
 date: '2020-11-11'
-collections:
-  - utala.pona.la
-  - utala pi toki musi (2020)
-license:
+license: null
 sources:
-  - https://utala.pona.la/toki-musi-lili/
+- https://utala.pona.la/toki-musi-lili/
 ---
 
 ike Kolona li pona ala.  

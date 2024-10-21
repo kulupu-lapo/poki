@@ -1,16 +1,13 @@
 ---
 title: moku suwi Pa tan ma Petame
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2021-09-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kule
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0007kule.pdf
-  - https://liputenpo.org/lipu/nanpa-kule/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kule_-_moku_suwi_Pa.png
+- https://liputenpo.org/pdfs/0007kule.pdf
+- https://liputenpo.org/lipu/nanpa-kule/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kule_-_moku_suwi_Pa.png
 ---
 
 suwi Pa li moku suwi tan ma Petane (Bretagne) lon ma Kanse. mama mi li pali e ni tawa mi. mama ona li pali e ni tawa ona. suwi ni li pona mute tawa mi. ona li pini la, ona li sama pan suwi, li sama ko, li jo e kili lon insa.

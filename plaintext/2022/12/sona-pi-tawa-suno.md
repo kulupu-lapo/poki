@@ -1,16 +1,13 @@
 ---
 title: sona pi tawa suno
 authors:
-  - jan Kekan San
+- jan Kekan San
 date: '2022-12-09'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa musi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0017musi.pdf
-  - https://liputenpo.org/lipu/nanpa-musi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_suno.png
+- https://liputenpo.org/pdfs/0017musi.pdf
+- https://liputenpo.org/lipu/nanpa-musi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_suno.png
 ---
 
 ![suno](https://upload.wikimedia.org/wikipedia/commons/f/ff/Lipu_tenpo_nanpa_soweli_-_suno.png)

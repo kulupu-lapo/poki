@@ -1,18 +1,15 @@
 ---
 title: sitelen pona pi nimi “nalanja”[^1]
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2023-12-25'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sewi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0023sewi.pdf
-  - https://liputenpo.org/lipu/nanpa-sewi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_sitelen_pona_pi_nimi_nalanja.svg
+- https://liputenpo.org/pdfs/0023sewi.pdf
+- https://liputenpo.org/lipu/nanpa-sewi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_sitelen_pona_pi_nimi_nalanja.svg
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 kule li pona. kule mute li pona. pona ni la, mi wile toki e kule kepeken nimi. mi ken wan e nimi mute, sama ni: “loje laso”. anu, mi ken kepeken nimi namako, sama ni: “unu”[^2]. ni li nimi kule pi pu ala. mi pilin e ni: ona li pona tawa nasin toki pona. tenpo pini la, mi pana e sona sama ni tawa lipu tenpo. nimi pi toki ni li “nimi kule pi pu ala”. taso, tenpo ni la, mi wile toki e sitelen pi nimi kule.

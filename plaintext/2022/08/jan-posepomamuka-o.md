@@ -1,22 +1,20 @@
 ---
 title: jan Posepomamuka#52208 o,
-description: jan sona nasa li sitelen e lipu toki tawa jan ante pi kulupu sama. jan sona nasa li wile e seme?
+description: jan sona nasa li sitelen e lipu toki tawa jan ante pi kulupu sama. jan
+  sona nasa li wile e seme?
 authors:
-  - jan Lakuse
+- jan Lakuse
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - pipi li ike tawa sijelo
-  - insa sijelo
-  - lawa kulupu li anpa e jan
-  - nimi unpa lili
-license:
+- pipi li ike tawa sijelo
+- insa sijelo
+- lawa kulupu li anpa e jan
+- nimi unpa lili
+license: null
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/jan-posepomamuka-o.md
-  - http://utala.pona.la/lipu-lili/jan-posepomamuka-o.html
-preprocessing: "Removed text alignment and text colour"
+- https://github.com/raacz/utala/blob/main/lipu-lili/jan-posepomamuka-o.md
+- http://utala.pona.la/lipu-lili/jan-posepomamuka-o.html
+preprocessing: Removed text alignment and text colour
 ---
 
 LIPU NI LI SONA LEN PI KULUPU_NASIN.   

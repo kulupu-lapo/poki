@@ -1,20 +1,18 @@
 ---
 title: jan mun
-description: 
+description: null
 authors:
-  - mun Kekan San
+- mun Kekan San
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - moli
-  - sona wawa pi nasin mun
+- moli
+- sona wawa pi nasin mun
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/jan-mun.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/jan-mun.html
-preprocessing: this was taken from an html tag. i've replaced html tags with markdown. lupa ascii art was put in codeblock
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/jan-mun.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/jan-mun.html
+preprocessing: this was taken from an html tag. i've replaced html tags with markdown.
+  lupa ascii art was put in codeblock
 notes: originally in ucsur sitelen pona, but saved in plaintext for Lapo
 ---
 

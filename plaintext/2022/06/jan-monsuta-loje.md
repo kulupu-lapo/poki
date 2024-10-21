@@ -1,16 +1,14 @@
 ---
 title: jan monsuta loje
-description: 
+description: null
 authors:
-  - jan Kekan San
-  - jan Pensa
+- jan Kekan San
+- jan Pensa
 date: '2022-06-10'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vTw-gBsqRl7xCw05yp-MZjofElLWXE742WWW-3ocL9JvfWA-19ZXBo2NM2ohMbclvoJTGcXmO78th4f/pub
-  - https://wikisource.org/wiki/Kalama_sin/23
+- https://docs.google.com/document/d/e/2PACX-1vTw-gBsqRl7xCw05yp-MZjofElLWXE742WWW-3ocL9JvfWA-19ZXBo2NM2ohMbclvoJTGcXmO78th4f/pub
+- https://wikisource.org/wiki/Kalama_sin/23
 notes: jan Kekan San li kalama. jan Pensa li ante toki.
 ---
 

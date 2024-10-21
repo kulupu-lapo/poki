@@ -1,16 +1,16 @@
 ---
 title: In Memoriam
 authors:
-  - jan Sotan
+- jan Sotan
 date: 2022-09-11
 tags:
-  - poetry
-  - read-aloud poetry
+- poetry
+- read-aloud poetry
 license: CC BY 4.0
 sources:
-  - https://zotn.hu/toki-pona/rap-musi-lon
-  - https://www.youtube.com/watch?v=rqkcj3IpnKc
-  - https://soundcloud.com/dschorsaanjo/musi-lon
+- https://zotn.hu/toki-pona/rap-musi-lon
+- https://www.youtube.com/watch?v=rqkcj3IpnKc
+- https://soundcloud.com/dschorsaanjo/musi-lon
 preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.
 ---
 

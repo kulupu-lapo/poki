@@ -1,18 +1,15 @@
 ---
 title: kili
-description: 
+description: null
 authors:
-  - jan Simiman
+- jan Simiman
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - nimi ku li lon
+- nimi ku li lon
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/kili.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/kili.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/kili.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/kili.html
 preprocessing: includes HTML
 notes: awkward markdown. reformat maybe?
 ---

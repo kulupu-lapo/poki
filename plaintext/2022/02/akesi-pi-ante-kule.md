@@ -1,14 +1,12 @@
 ---
 title: akesi pi ante kule
 authors:
-  - jan Sonja
-date: 2022-02-03T02:40:23.912Z
-collections:
-  - lipu kule
+- jan Sonja
+date: 2022-02-03 02:40:23.912000
 license: CC0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2022-02-03-akesi-pi-ante-kule.md
-  - https://lipukule.org/post/2022/02/03/akesi-pi-ante-kule/
+- https://github.com/lipukule/site/blob/main/content/post/2022-02-03-akesi-pi-ante-kule.md
+- https://lipukule.org/post/2022/02/03/akesi-pi-ante-kule/
 ---
 
 (mi jan sona akesi ala. mi sitelen musi taso.)

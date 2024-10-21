@@ -1,16 +1,13 @@
 ---
 title: sina pi toki pona o kama kulupu
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2022-10-17'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kulupu
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0016kulupu.pdf
-  - https://liputenpo.org/lipu/nanpa-kulupu/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu.png
+- https://liputenpo.org/pdfs/0016kulupu.pdf
+- https://liputenpo.org/lipu/nanpa-kulupu/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu.png
 ---
 
 tenpo pini la ike li kama. ma ale la ike Kolona li ken jaki e sijelo pi mi ale. ni la mi awen lon tomo. mi tawa ala kulupu suli. mi kama ala lon poka pi jan mute. tenpo tomo la mi lukin e musi mute. mi toki tawa kulupu kepeken ilo. kin la mi kama sona toki pona. ijo musi mute li pona e tenpo mi. toki pona li pona mute e tenpo mi. toki pona en kulupu pi toki pona li awen pona tawa mi.

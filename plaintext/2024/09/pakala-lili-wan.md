@@ -1,18 +1,19 @@
 ---
-title: 'pakala lili wan'
-original-title: 'One Little Accident'
-description: 'misa Kimi en misa Emi li musi lon poka pi tomo ona. ona li lukin li kute mute. taso, pakala lili wan li lon. ni li lon ala tan tawa kepeken tenpo lili.'
+title: pakala lili wan
+original-title: One Little Accident
+description: misa Kimi en misa Emi li musi lon poka pi tomo ona. ona li lukin li kute
+  mute. taso, pakala lili wan li lon. ni li lon ala tan tawa kepeken tenpo lili.
 authors:
-  - 'secretfirefox'
+- secretfirefox
 translators:
-  - 'Hopeful_Student'
+- Hopeful_Student
 date: '2024-09-10'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/58839649
+- https://archiveofourown.org/works/58839649
 archives:
-  - https://web.archive.org/web/20240927133427/https://archiveofourown.org/works/58839649
+- https://web.archive.org/web/20240927133427/https://archiveofourown.org/works/58839649
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---

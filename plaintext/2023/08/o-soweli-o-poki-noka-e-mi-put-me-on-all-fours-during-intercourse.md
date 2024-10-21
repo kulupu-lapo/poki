@@ -1,17 +1,18 @@
 ---
 title: o soweli o poki noka e mi (put me on all fours during intercourse)
-description: seli pi jan Kasuki li kama. ona li wile e alupa ona. ona tu li unpa. I wrote this as a joke but then I started caring about it and now here it is.
+description: seli pi jan Kasuki li kama. ona li wile e alupa ona. ona tu li unpa.
+  I wrote this as a joke but then I started caring about it and now here it is.
 authors:
-  - not_quite_a_furry
+- not_quite_a_furry
 date: '2023-08-22'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/49551514
+- https://archiveofourown.org/works/49551514
 archives:
-  - https://web.archive.org/web/20240930140713/https://archiveofourown.org/works/49551514
+- https://web.archive.org/web/20240930140713/https://archiveofourown.org/works/49551514
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML · mi nasa ala e toki Epelanto
-accessibility-notes:
+accessibility-notes: null
 notes: toki Inli li lon toki poka · toki Epelanto li lon toki
 ---
 

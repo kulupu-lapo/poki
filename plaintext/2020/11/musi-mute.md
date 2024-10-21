@@ -1,14 +1,11 @@
 ---
 title: musi mute
 authors:
-  - jan Seki
+- jan Seki
 date: '2020-11-11'
-collections:
-  - utala.pona.la
-  - utala pi toki musi (2020)
-license:
+license: null
 sources:
-  - https://utala.pona.la/toki-musi-lili/
+- https://utala.pona.la/toki-musi-lili/
 ---
 
 mi musi, musi li pona  

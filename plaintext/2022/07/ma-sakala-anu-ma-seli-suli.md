@@ -1,16 +1,13 @@
 ---
 title: ma Sakala (anu ma seli suli)
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-07-04'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa seli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0014seli.pdf
-  - https://liputenpo.org/lipu/nanpa-seli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_ma_seli_suli.png
+- https://liputenpo.org/pdfs/0014seli.pdf
+- https://liputenpo.org/lipu/nanpa-seli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_ma_seli_suli.png
 ---
 
 ![ma seli suli](https://upload.wikimedia.org/wikipedia/commons/3/36/Lipu_tenpo_nanpa_seli_-_ma_seli_suli.png)

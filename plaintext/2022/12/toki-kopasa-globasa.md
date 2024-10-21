@@ -1,18 +1,15 @@
 ---
 title: toki Kopasa (Globasa)
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-12-09'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa musi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0017musi.pdf
-  - https://liputenpo.org/lipu/nanpa-musi/
-  - https://commons.wikimedia.org/wiki/File:Flag_of_Globasa.svg
+- https://liputenpo.org/pdfs/0017musi.pdf
+- https://liputenpo.org/lipu/nanpa-musi/
+- https://commons.wikimedia.org/wiki/File:Flag_of_Globasa.svg
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 toki Kopasa li toki pi ma ale. jan li pali e toki Kopasa sama toki pona. toki pona la, toki Kopasa li jo e ijo mute sama.

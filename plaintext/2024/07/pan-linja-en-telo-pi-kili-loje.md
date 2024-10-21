@@ -1,14 +1,12 @@
 ---
-title: 'pan linja en telo pi kili loje'
+title: pan linja en telo pi kili loje
 authors:
-  - jan Asukata
+- jan Asukata
 date: '2024-07-16'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2024-07-16-pan-linja-en-telo-pi-kili-loje.md
-  - https://lipukule.org/post/2024/07/16/pan-linja-en-telo-pi-kili-loje/
+- https://github.com/lipukule/site/blob/main/content/post/2024-07-16-pan-linja-en-telo-pi-kili-loje.md
+- https://lipukule.org/post/2024/07/16/pan-linja-en-telo-pi-kili-loje/
 ---
 
 nasin ni li pali e pan linja nanpa wan tawa mi  
@@ -73,4 +71,4 @@ o moku a e moku ni
 
 pan palisa li ken ala lon poki supa la o tu e ona  
 nasin ni li kule pona tan kili loje pona  
-nasin ni li kule pona tan pan palisa pi mani lili. pan ni li pona tan nena ala lon selo ona  
+nasin ni li kule pona tan pan palisa pi mani lili. pan ni li pona tan nena ala lon selo ona

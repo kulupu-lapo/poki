@@ -1,14 +1,12 @@
 ---
 title: 'lipu ku: lipu sin pi toki pona'
 authors:
-  - jan Epen
+- jan Epen
 date: '2021-08-07'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-08-07-lipu_ku.md
-  - https://lipukule.org/post/2021/08/07/lipu-ku-lipu-sin-pi-toki-pona/
+- https://github.com/lipukule/site/blob/main/content/post/2021-08-07-lipu_ku.md
+- https://lipukule.org/post/2021/08/07/lipu-ku-lipu-sin-pi-toki-pona/
 ---
 
 ## lipu ku li seme?

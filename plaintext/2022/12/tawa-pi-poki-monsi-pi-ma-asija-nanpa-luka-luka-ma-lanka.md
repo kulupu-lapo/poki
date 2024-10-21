@@ -1,16 +1,13 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa luka luka - ma Lanka
 authors:
-  - jan Polo
+- jan Polo
 date: '2022-12-09'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa musi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0017musi.pdf
-  - https://liputenpo.org/lipu/nanpa-musi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_musi_-_ma_Lanka.png
+- https://liputenpo.org/pdfs/0017musi.pdf
+- https://liputenpo.org/lipu/nanpa-musi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_musi_-_ma_Lanka.png
 ---
 
 ![ma Lanka](https://upload.wikimedia.org/wikipedia/commons/7/7c/Lipu_tenpo_nanpa_musi_-_ma_Lanka.png)

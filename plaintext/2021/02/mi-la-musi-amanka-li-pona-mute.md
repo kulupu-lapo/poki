@@ -1,16 +1,13 @@
 ---
 title: mi la, musi Amanka li pona mute
 authors:
-  - jan Olipija
+- jan Olipija
 date: '2021-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa akesi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0001akesi.pdf
-  - https://liputenpo.org/lipu/nanpa-akesi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_musi_Amanka.svg
+- https://liputenpo.org/pdfs/0001akesi.pdf
+- https://liputenpo.org/lipu/nanpa-akesi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_musi_Amanka.svg
 ---
 
 musi Amanka li seme? musi Amanka anu musi pi jan ike lon kulupu li ni: ku- lupu pi jan pona li lon, taso jan wan anu jan tu li jan ike. jan ike o moli e jan pona ale. jan pona o pali e pali ale ona anu o kama sona e ni: jan seme li jan ike? ni la, ona o weka e ona.

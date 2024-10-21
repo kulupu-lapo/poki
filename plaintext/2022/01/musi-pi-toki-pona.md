@@ -1,15 +1,13 @@
 ---
 title: musi pi toki pona
-description: 
+description: null
 authors:
-  - jan Sema
+- jan Sema
 date: '2022-01-09'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vRGVMKDyMgI18rdv5gCHwu9b7pwDuy8Jth4fdzE30CQg-a-iQX3bp4vkfCPFH3LW9pS4-hh3uI5kf9-/pub
-  - https://wikisource.org/wiki/Kalama_sin/15
+- https://docs.google.com/document/d/e/2PACX-1vRGVMKDyMgI18rdv5gCHwu9b7pwDuy8Jth4fdzE30CQg-a-iQX3bp4vkfCPFH3LW9pS4-hh3uI5kf9-/pub
+- https://wikisource.org/wiki/Kalama_sin/15
 ---
 
 ## toki a! nimi sina li seme? pali sina li seme?

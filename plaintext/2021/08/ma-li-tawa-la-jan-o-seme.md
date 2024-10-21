@@ -1,16 +1,13 @@
 ---
 title: ma li tawa la jan o seme
 authors:
-  - kili Melon
+- kili Melon
 date: '2021-08-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa suno
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0006suno.pdf
-  - https://liputenpo.org/lipu/nanpa-suno/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_lipu_awen.png
+- https://liputenpo.org/pdfs/0006suno.pdf
+- https://liputenpo.org/lipu/nanpa-suno/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_lipu_awen.png
 ---
 
 ma li awen ala. tenpo ali la ma suli Palata li tawa weka tan ma suli Apika li tawa ma suli Elasija (ma suli Elopa en ma suli Asija li wan). ni li tan seme? ma li jo e selo mute. selo ma sewi li selo ma kiwen. jan li ken awen lon ona. ni la ma suli en telo suli li lon. lon anpa ona la selo ma ko li lon li ken tawa sama telo. lon anpa ona la selo ma insa en insa ma telo en insa ma kiwen li lon.

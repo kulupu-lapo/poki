@@ -1,16 +1,13 @@
 ---
 title: ona li monsuta e jan
 authors:
-  - kule epiku Atawan
-  - kala pona Tonyu
+- kule epiku Atawan
+- kala pona Tonyu
 date: '2020-11-11'
-collections:
-  - utala.pona.la
-  - utala pi toki musi (2020)
-license:
+license: null
 sources:
-  - https://utala.pona.la/toki-musi-lili/
-accessibility-notes: "Requires a two-column layout"
+- https://utala.pona.la/toki-musi-lili/
+accessibility-notes: Requires a two-column layout
 ---
 
 ```

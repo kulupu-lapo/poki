@@ -1,16 +1,13 @@
 ---
 title: kalama ma li kama ala kama e ma?
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2021-10-06'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa toki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0008toki.pdf
-  - https://liputenpo.org/lipu/nanpa-toki/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_kalama_ma.png
+- https://liputenpo.org/pdfs/0008toki.pdf
+- https://liputenpo.org/lipu/nanpa-toki/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_kalama_ma.png
 ---
 
 sina lukin e toki mi ni la, sina ken pilin e ni: ma li lon. ona li ante ala, li lon tenpo ni, li lon tenpo pini, li lon tenpo kama. ona li weka ala tan noka mi. taso ma li ante, li ante mute lon tenpo.

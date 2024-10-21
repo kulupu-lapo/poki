@@ -1,16 +1,13 @@
 ---
 title: soweli lili en waso suli
 authors:
-  - jan Anan
+- jan Anan
 date: '2021-10-06'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa toki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0008toki.pdf
-  - https://liputenpo.org/lipu/nanpa-toki/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_soweli_lili.png
+- https://liputenpo.org/pdfs/0008toki.pdf
+- https://liputenpo.org/lipu/nanpa-toki/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_soweli_lili.png
 ---
 
 tenpo pini wan la kasi palisa suli li lon ma kasi.

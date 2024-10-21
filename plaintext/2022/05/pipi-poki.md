@@ -1,16 +1,13 @@
 ---
 title: pipi poki
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-05-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pipi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0013pipi.pdf
-  - https://liputenpo.org/lipu/nanpa-pipi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_poki.png
+- https://liputenpo.org/pdfs/0013pipi.pdf
+- https://liputenpo.org/lipu/nanpa-pipi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_poki.png
 ---
 
 toki sona la, pipi poki li pipi Kalopota (Gastropoda). nimi ni li kama tan toki Elena. toki Elena la, nimi Kalopota li jo e kon ni: “pipi pi noka wan sinpin”. pipi poki li pipi ko. pipi ko ante mute li lon. taso, pipi kulupu en pipi kule en pipi ante mute li pipi ko ala.

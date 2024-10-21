@@ -1,16 +1,13 @@
 ---
 title: mi lukin e nimi mute pi kon wan
 authors:
-  - jan Olipija
+- jan Olipija
 date: '2021-05-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kasi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0004kasi.pdf
-  - https://liputenpo.org/lipu/nanpa-kasi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_mama.png
+- https://liputenpo.org/pdfs/0004kasi.pdf
+- https://liputenpo.org/lipu/nanpa-kasi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_mama.png
 ---
 
 nimi ‘pali’ en nimi ‘mama’ en nimi ‘lon’ en nimi ‘kama’ li ken jo e kon sama.

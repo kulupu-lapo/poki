@@ -1,15 +1,15 @@
 ---
 title: o moku sama soweli
-description: 'pali suli li wile e moku suli.'
+description: pali suli li wile e moku suli.
 authors:
-  - asona
+- asona
 date: '2024-09-13'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/58920403
+- https://archiveofourown.org/works/58920403
 archives:
-  - https://web.archive.org/web/20240927131103/https://archiveofourown.org/works/58920403
+- https://web.archive.org/web/20240927131103/https://archiveofourown.org/works/58920403
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---

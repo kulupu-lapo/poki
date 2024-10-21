@@ -1,12 +1,12 @@
 ---
 title: jaki pona
 authors:
-  - jan Osi
+- jan Osi
 date: 2022-06-23
 license: All Rights Reserved
 sources:
-  - https://toki.pona.billsmugs.com/lipu-tenpo/2022-06-23-jaki-pona/
-  - https://toki.pona.billsmugs.com/lipu-tenpo/2022-06-23-jaki-pona/jaki-pona.pdf
+- https://toki.pona.billsmugs.com/lipu-tenpo/2022-06-23-jaki-pona/
+- https://toki.pona.billsmugs.com/lipu-tenpo/2022-06-23-jaki-pona/jaki-pona.pdf
 ---
 
 󱥁󱤧󱤬󱦝󱤐󱤧󱥔󱤂󱦜󱥆󱤧󱤍󱦜󱤌

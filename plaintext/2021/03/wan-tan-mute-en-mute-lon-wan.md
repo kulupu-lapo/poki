@@ -1,16 +1,13 @@
 ---
 title: wan tan mute en mute lon wan
 authors:
-  - kulupu Alesanwa
+- kulupu Alesanwa
 date: '2021-03-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mun
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0002mun.pdf
-  - https://liputenpo.org/lipu/nanpa-mun/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_kulupu.png
+- https://liputenpo.org/pdfs/0002mun.pdf
+- https://liputenpo.org/lipu/nanpa-mun/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_kulupu.png
 ---
 
 mi mute. jan mute li lon li jo sama e sijelo ni. ken la sina jan wan lon insa sijelo wan. taso mi mute li pilin pona tan ni: mi mute li kulupu. jan mute li sona ala e ni: kulupu lon sijelo wan li seme? jan mute li pilin e ijo tu ni: mi mute li ken pakala e jan ante. pilin pi mi mute li nasa. taso mi mute li jan pona. ken la sina sona kin e kulupu mute. ken la kulupu li sona ala e ni: ona li kulupu.

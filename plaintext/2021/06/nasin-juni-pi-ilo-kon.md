@@ -1,16 +1,13 @@
 ---
 title: nasin Juni pi ilo kon
 authors:
-  - jan Lentan
+- jan Lentan
 date: '2021-06-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pan
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0005pan.pdf
-  - https://liputenpo.org/lipu/nanpa-pan/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_ilo_kon.png
+- https://liputenpo.org/pdfs/0005pan.pdf
+- https://liputenpo.org/lipu/nanpa-pan/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_ilo_kon.png
 ---
 
 tenpo pini mute la, jan Ken Tansan (Ken Thompson) en jan Teni Wisi (Dennis Ritchie) en jan ante mute li pali e ilo kon lawa Juni (Unix) tawa ilo sona. ona li pali e ilo sin tan ni: ilo kon lawa ante li suli, li jo e ijo ike, li pali ike lon ilo sona pi wawa lili. ona li wile e ni: jan li ken pali e ilo kon sin tawa ona kepeken pali lili.

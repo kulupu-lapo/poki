@@ -1,15 +1,12 @@
 ---
 title: toki Inota
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2021-09-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kule
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0007kule.pdf
-  - https://liputenpo.org/lipu/nanpa-kule/
+- https://liputenpo.org/pdfs/0007kule.pdf
+- https://liputenpo.org/lipu/nanpa-kule/
 ---
 
 tenpo pini mute la, jan Iteka (Hildegard) tan ma tomo Pinen (Bingen) li open e tomo pi meli sewi. jan Iteka li meli pi nasin sewi, li jan pi sona mute a. ona li lon tenpo pini pi tomo kiwen wawa awen.

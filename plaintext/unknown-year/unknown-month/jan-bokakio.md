@@ -2,20 +2,18 @@
 title: toki tan toki pi jan Bokakio
 original-title: Selections from Ecclesiastes
 authors:
-  - Giovanni Boccaccio
+- Giovanni Boccaccio
 translators:
-  - Michael F.
+- Michael F.
 date: Unknown
-collections:
-  - Fail Blue Dot
 tags:
-  - translation
-  - prose
+- translation
+- prose
 license: CC BY-NC 3.0
 sources:
-  - http://failbluedot.com/toki_pona/decameron
+- http://failbluedot.com/toki_pona/decameron
 archives:
-  - https://web.archive.org/web/20140305064450/http://failbluedot.com/toki_pona/decameron
+- https://web.archive.org/web/20140305064450/http://failbluedot.com/toki_pona/decameron
 ---
 
 ## toki tan toki pi jan Bokakio

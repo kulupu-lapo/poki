@@ -1,16 +1,13 @@
 ---
 title: pan suwi pi kasi kule
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-09-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moku
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0015moku.pdf
-  - https://liputenpo.org/lipu/nanpa-moku/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_sinpin.svg
+- https://liputenpo.org/pdfs/0015moku.pdf
+- https://liputenpo.org/lipu/nanpa-moku/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_sinpin.svg
 ---
 
 pan suwi pi kasi kule li jo e kili lili pi kasi kule. kili lili ni li moku pona. tenpo pini la, tenpo mute la, mama mama mi li pali e pan suwi ni. o pali e ona lon poka mi!

@@ -1,20 +1,18 @@
 ---
 title: olin kijetesantakalu
-description: kijetesantakalu li kama sona e kijetesantakalu sin. pilin sin ni li olin, anu seme?
+description: kijetesantakalu li kama sona e kijetesantakalu sin. pilin sin ni li olin,
+  anu seme?
 authors:
-  - jan Kiwisin
-  - jan Telupiso
+- jan Kiwisin
+- jan Telupiso
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - moku mute li lon
-  - pakala lili sijelo
-license:
+- moku mute li lon
+- pakala lili sijelo
+license: null
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/olin-kijetesantakalu.md
-  - http://utala.pona.la/lipu-lili/olin-kijetesantakalu.html
+- https://github.com/raacz/utala/blob/main/lipu-lili/olin-kijetesantakalu.md
+- http://utala.pona.la/lipu-lili/olin-kijetesantakalu.html
 ---
 
 ## lipu open:

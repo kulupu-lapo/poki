@@ -1,18 +1,19 @@
 ---
 title: My Immortal in toki pona
 original-title: My Immortal
-description: exactly what it says on the tin. a fan translation of my immortal, but with (hopefully) correct toki pona grammar and spelling.
+description: exactly what it says on the tin. a fan translation of my immortal, but
+  with (hopefully) correct toki pona grammar and spelling.
 authors:
-  - Tara Gilesbie
+- Tara Gilesbie
 translators:
-  - dragon_chris
+- dragon_chris
 date: '2022-09-29'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/42023853
+- https://archiveofourown.org/works/42023853
 archives:
-  - https://archive.ph/fyAra
+- https://archive.ph/fyAra
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---

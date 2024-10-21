@@ -1,16 +1,13 @@
 ---
 title: seme li mi?
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2023-05-12'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0019mama.pdf
-  - https://liputenpo.org/lipu/nanpa-mama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_sitelen_sitelen.png
+- https://liputenpo.org/pdfs/0019mama.pdf
+- https://liputenpo.org/lipu/nanpa-mama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_sitelen_sitelen.png
 ---
 
 mi pali e sina  

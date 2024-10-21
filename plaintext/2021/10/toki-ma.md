@@ -1,16 +1,13 @@
 ---
 title: toki ma
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-10-06'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa toki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0008toki.pdf
-  - https://liputenpo.org/lipu/nanpa-toki/
-  - https://commons.wikimedia.org/wiki/File:Symbol_of_toki_ma.png
+- https://liputenpo.org/pdfs/0008toki.pdf
+- https://liputenpo.org/lipu/nanpa-toki/
+- https://commons.wikimedia.org/wiki/File:Symbol_of_toki_ma.png
 ---
 
 toki ma li toki. jan mute li toki e ni: toki pona li mama pi toki ma. ni la, toki ma li toki lili pi toki pona. toki Inli en toki Epelanto la, jan li pana e nimi ni tawa toki lili pi toki pona: “tokiponido” (o toki: toki Tokiponito)

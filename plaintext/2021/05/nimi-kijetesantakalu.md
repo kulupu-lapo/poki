@@ -1,22 +1,19 @@
 ---
 title: nimi kijetesantakalu
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2021-05-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kasi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0004kasi.pdf
-  - https://liputenpo.org/lipu/nanpa-kasi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_kijetesantakalu.png
-  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_-_linja_pona.svg
-  - https://sona.pona.la/wiki/File:kijetesantakalu_spp.png
-  - https://sona.pona.la/wiki/File:kijetesantakalu_elemenopi.png
+- https://liputenpo.org/pdfs/0004kasi.pdf
+- https://liputenpo.org/lipu/nanpa-kasi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_kijetesantakalu.png
+- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_-_linja_pona.svg
+- https://sona.pona.la/wiki/File:kijetesantakalu_spp.png
+- https://sona.pona.la/wiki/File:kijetesantakalu_elemenopi.png
 archives:
-  - http://web.archive.org/web/*/https://sona.pona.la/wiki/File:kijetesantakalu_spp.png
-  - http://web.archive.org/web/*/https://sona.pona.la/wiki/File:kijetesantakalu_elemenopi.png
+- http://web.archive.org/web/*/https://sona.pona.la/wiki/File:kijetesantakalu_spp.png
+- http://web.archive.org/web/*/https://sona.pona.la/wiki/File:kijetesantakalu_elemenopi.png
 ---
 
 # soweli

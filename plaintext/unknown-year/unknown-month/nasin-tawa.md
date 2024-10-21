@@ -1,18 +1,16 @@
 ---
 title: nasin tawa pi jan Nuton
 authors:
-  - Michael F.
+- Michael F.
 date: Unknown
-collections:
-  - Fail Blue Dot
 tags:
-  - translation
-  - prose
+- translation
+- prose
 license: CC BY-NC 3.0
 sources:
-  - http://failbluedot.com/toki_pona/nasin_tawa
+- http://failbluedot.com/toki_pona/nasin_tawa
 archives:
-  - https://web.archive.org/web/20140305061738/http://failbluedot.com/toki_pona/nasin_tawa
+- https://web.archive.org/web/20140305061738/http://failbluedot.com/toki_pona/nasin_tawa
 ---
 
 ## nasin tawa pi jan Nuton

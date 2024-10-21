@@ -1,15 +1,12 @@
 ---
 title: kulupu soko pi noka kasi
 authors:
-  - jan San
+- jan San
 date: '2021-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa akesi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0001akesi.pdf
-  - https://liputenpo.org/lipu/nanpa-akesi/
+- https://liputenpo.org/pdfs/0001akesi.pdf
+- https://liputenpo.org/lipu/nanpa-akesi/
 ---
 
 sina lon poka pi kasi suli la sina toki lawa e seme? sijelo kasi li pona. taso, anpa ma la nasin suli li lon.

@@ -1,14 +1,12 @@
 ---
 title: lipu Wikipesija sin
 authors:
-  - jan Jan
+- jan Jan
 date: '2021-05-02'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-05-02-lipu_wikipesija_sin.md
-  - https://lipukule.org/post/2021/05/02/lipu-wikipesija-sin/
+- https://github.com/lipukule/site/blob/main/content/post/2021-05-02-lipu_wikipesija_sin.md
+- https://lipukule.org/post/2021/05/02/lipu-wikipesija-sin/
 ---
 
 jan li pali e lipu Wikipesija sin. jan Tepo li kama jo e ilo tawa lipu. jan Sasi li pana e sitelen tawa ona. jan Mimoku li lanpan e sitelen majuna tan tokipona.wikipedia.org (lipu moli).

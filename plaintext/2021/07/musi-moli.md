@@ -1,15 +1,13 @@
 ---
 title: musi moli
 authors:
-  - jan Juli
+- jan Juli
 date: '2021-07-10'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-07-10-musi_moli.md
-  - https://lipukule.org/post/2021/07/10/musi-moli/
-preprocessing: "Removed HTML linebreaks, replaced HTML hr with MD"
+- https://github.com/lipukule/site/blob/main/content/post/2021-07-10-musi_moli.md
+- https://lipukule.org/post/2021/07/10/musi-moli/
+preprocessing: Removed HTML linebreaks, replaced HTML hr with MD
 ---
 
 mi ante toki e toki "Todesfuge" tan jan Paul Celan.  

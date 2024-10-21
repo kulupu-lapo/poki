@@ -1,15 +1,12 @@
 ---
 title: sitelen Anku
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2023-08-24'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa ma
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0021ma.pdf
-  - https://liputenpo.org/lipu/nanpa-ma/
+- https://liputenpo.org/pdfs/0021ma.pdf
+- https://liputenpo.org/lipu/nanpa-ma/
 ---
 
 ma Anku[^1] la, jan li toki e toki Anku, li sitelen e ona kepeken sitelen Anku. sitelen Anku li nasin sitelen. kin la, toki Sesu (제줏말) li kepeken e sitelen Anku. sin la, toki Sijasija (Bahasa Ciacia, 바하 사 찌아찌아) li wile kepeken e sitelen Anku. sitelen ale la, sitelen Anku li sin a.

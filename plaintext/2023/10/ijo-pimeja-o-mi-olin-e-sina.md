@@ -1,14 +1,14 @@
 ---
 title: ijo Pimeja o, mi olin e sina.
 authors:
-  - thegreatsoupster
+- thegreatsoupster
 date: '2023-10-11'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/50758468
+- https://archiveofourown.org/works/50758468
 archives:
-  - https://web.archive.org/web/20240930135420/https://archiveofourown.org/works/50758468
+- https://web.archive.org/web/20240930135420/https://archiveofourown.org/works/50758468
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---

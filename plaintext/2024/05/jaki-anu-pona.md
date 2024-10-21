@@ -1,18 +1,15 @@
 ---
 title: jaki anu pona
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2024-05-14'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa jaki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0026jaki.pdf
-  - https://liputenpo.org/lipu/nanpa-jaki/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_len_noka.png
+- https://liputenpo.org/pdfs/0026jaki.pdf
+- https://liputenpo.org/lipu/nanpa-jaki/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_len_noka.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![len pona](https://upload.wikimedia.org/wikipedia/commons/d/d0/Lipu_tenpo_nanpa_jaki_-_len_noka.png)

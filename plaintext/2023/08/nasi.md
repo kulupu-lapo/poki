@@ -1,31 +1,31 @@
 ---
 title: Nasi
-description: 
+description: null
 authors:
-  - jan Kepe
+- jan Kepe
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - moku misikeke li nasa e lawa jan
-  - moli mute
-  - utala suli pi kulupu ma tu
-  - sitelen nimi li kule suno li tawa wawa
-  - nanpa mute
-  - jan li moku li toki e pona moku
-  - kulupu lawa ike
-  - pali ike li kepeken ilo nanpa
-  - toki Inli
-  - nimi ku mute
-  - poki li ken ala e tawa jan
+- moku misikeke li nasa e lawa jan
+- moli mute
+- utala suli pi kulupu ma tu
+- sitelen nimi li kule suno li tawa wawa
+- nanpa mute
+- jan li moku li toki e pona moku
+- kulupu lawa ike
+- pali ike li kepeken ilo nanpa
+- toki Inli
+- nimi ku mute
+- poki li ken ala e tawa jan
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/nasi.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/nasi.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/nasi.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/nasi.html
 preprocessing: a lot is required
-notes: Nasi is heavily reliant on fancy HTML. It has been uploaded unedited, except for removing the utala.pona.la header. Realistically this won't show up correctly on your device, so use source links.
+notes: Nasi is heavily reliant on fancy HTML. It has been uploaded unedited, except
+  for removing the utala.pona.la header. Realistically this won't show up correctly
+  on your device, so use source links.
 ---
+
 <body>
 	<main><div class="ale w-40">
 		<hr>

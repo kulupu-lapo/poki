@@ -1,14 +1,12 @@
 ---
 title: tomo kasi nanpa tu
 authors:
-  - kule epiku Atawan
+- kule epiku Atawan
 date: '2021-02-07'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-02-07-tomokasi.md
-  - https://lipukule.org/post/2021/02/07/tomo-kasi-nanpa-tu/
+- https://github.com/lipukule/site/blob/main/content/post/2021-02-07-tomokasi.md
+- https://lipukule.org/post/2021/02/07/tomo-kasi-nanpa-tu/
 ---
 
 lon ma Olako (Oracle) pi ma Alisona (Arizona, U.S.) la, ma pi telo ala en weka pi ijo ante ale la, tomo suli li lon. ona li tomo walo pi kiwen lukin mute. taso, ante tawa ni la insa ona li jo e ijo mute. insa ona, la kasi li lon! kasi mute en ma ante li lon insa pi tomo walo ni. jan li sona e tomo walo ni: ona li tomo kasi nanpa tu.

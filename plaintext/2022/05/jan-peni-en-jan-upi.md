@@ -2,17 +2,17 @@
 title: jan Peni en jan Upi
 description: jan Peni li ma nasa li kama e jan pona sin.
 authors:
-  - dragon_chris
+- dragon_chris
 date: '2022-05-24'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/39206715
+- https://archiveofourown.org/works/39206715
 archives:
-  - https://archive.ph/1ki7x
+- https://archive.ph/1ki7x
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-accessibility-notes:
-notes:
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

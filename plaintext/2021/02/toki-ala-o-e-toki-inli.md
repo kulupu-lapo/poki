@@ -1,15 +1,12 @@
 ---
 title: toki ala o e toki inli
 authors:
-  - kulupu kama
+- kulupu kama
 date: '2021-02-08'
-collections:
-  - utala.pona.la
-  - utala pi lipu kalama tawa (2021)
-license:
+license: null
 sources:
-  - https://utala.pona.la/lipu-kalama-tawa/
-  - https://docs.google.com/document/d/1W21rSjx2eyYLjcipFGcmLEa-nQenge7wzLk87Tq-CuE/edit
+- https://utala.pona.la/lipu-kalama-tawa/
+- https://docs.google.com/document/d/1W21rSjx2eyYLjcipFGcmLEa-nQenge7wzLk87Tq-CuE/edit
 ---
 
 jan pi musi ni (nanpa pi tenpo lon nanpa wan):

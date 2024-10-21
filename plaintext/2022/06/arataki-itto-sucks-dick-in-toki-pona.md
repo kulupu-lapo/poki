@@ -1,15 +1,16 @@
 ---
 title: Arataki itto sucks dick in toki pona
-description: hey ao3 user, do you ever want to read genshin porn in a Constructed language that the author butchered? well here you go
+description: hey ao3 user, do you ever want to read genshin porn in a Constructed
+  language that the author butchered? well here you go
 authors:
-  - 4d6_Psychic_Damage
+- 4d6_Psychic_Damage
 date: '2022-06-14'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/39630540
+- https://archiveofourown.org/works/39630540
 archives:
-  - https://archive.ph/VK5Bn
+- https://archive.ph/VK5Bn
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli lili li lon
 ---

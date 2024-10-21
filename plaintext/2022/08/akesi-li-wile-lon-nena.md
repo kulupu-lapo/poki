@@ -1,19 +1,18 @@
 ---
 title: akesi li wile lon nena
-description: "lipu ni li kepeken nasin suwi: kulupu nimi ale la nimi luka taso li lon. o kama sona e ni: akesi pona li ken lon nena kepeken nasin seme?"
+description: 'lipu ni li kepeken nasin suwi: kulupu nimi ale la nimi luka taso li
+  lon. o kama sona e ni: akesi pona li ken lon nena kepeken nasin seme?'
 authors:
-  - jan Kita
+- jan Kita
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - moku li lon
+- moku li lon
 license: CC0-1.0
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/akesi-li-wile-lon-nena.md
-  - http://utala.pona.la/lipu-lili/akesi-li-wile-lon-nena.html
-preprocessing: "Originally available in sitelen pona and sitelen Lasina. Best viewed in sitelen pona. Only sitelen Lasina provided below."
+- https://github.com/raacz/utala/blob/main/lipu-lili/akesi-li-wile-lon-nena.md
+- http://utala.pona.la/lipu-lili/akesi-li-wile-lon-nena.html
+preprocessing: Originally available in sitelen pona and sitelen Lasina. Best viewed
+  in sitelen pona. Only sitelen Lasina provided below.
 ---
 
 akesi li wile lon nena  
@@ -135,4 +134,4 @@ mi moku lili e ona"
 sina pana e kasi mute  
 awen la sina soweli pona"  
 akesi li moku e kasi  
-ona tu li pilin pona  
+ona tu li pilin pona

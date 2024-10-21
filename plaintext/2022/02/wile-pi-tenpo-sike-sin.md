@@ -1,18 +1,15 @@
 ---
 title: wile pi tenpo sike sin
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2022-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa walo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0011walo.pdf
-  - https://liputenpo.org/lipu/nanpa-walo/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_wile_sona_01.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_wile_sona_02.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_wile_sona_03.png
+- https://liputenpo.org/pdfs/0011walo.pdf
+- https://liputenpo.org/lipu/nanpa-walo/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_wile_sona_01.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_wile_sona_02.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_wile_sona_03.png
 ---
 
 tenpo sike sin li lon. jan mute la, tenpo sike pini li ken ike, li ken jo e jaki mute e toki ike mute e pilin ike mute. taso tenpo sike sin li kama la, ike ale li ken awen lon tenpo pini. sama la, pona li ken kama lon tenpo sin.

@@ -1,17 +1,15 @@
 ---
 title: jan mun en nasin waso
-description: 
+description: null
 authors:
-  - jan Itan
-  - jan Lakuse
-  - jan Tepo
+- jan Itan
+- jan Lakuse
+- jan Tepo
 date: '2022-02-11'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vS0Cnpa-8BG3jZGOj52CCHYfZZbSVMUnq9-FfA_g_guCZQWZ2yNZPJ4H7I7FxPI8yNC7N0VEQI5qOj8/pub
-  - https://wikisource.org/wiki/Kalama_sin/18
+- https://docs.google.com/document/d/e/2PACX-1vS0Cnpa-8BG3jZGOj52CCHYfZZbSVMUnq9-FfA_g_guCZQWZ2yNZPJ4H7I7FxPI8yNC7N0VEQI5qOj8/pub
+- https://wikisource.org/wiki/Kalama_sin/18
 preprocessing: replaced unusual "jan " abbreviation with the full names
 ---
 

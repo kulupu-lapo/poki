@@ -1,16 +1,13 @@
 ---
 title: toki lawa pi lipu tenpo
 authors:
-  - jan Kasape
+- jan Kasape
 date: '2024-09-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lawa
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0028lawa.pdf
-  - https://liputenpo.org/lipu/nanpa-lawa/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_toki_lawa.png
+- https://liputenpo.org/pdfs/0028lawa.pdf
+- https://liputenpo.org/lipu/nanpa-lawa/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_toki_lawa.png
 ---
 
 ![toki lawa](https://upload.wikimedia.org/wikipedia/commons/2/2e/Lipu_tenpo_nanpa_lawa_-_toki_lawa.png)

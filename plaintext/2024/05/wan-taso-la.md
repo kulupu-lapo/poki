@@ -2,17 +2,14 @@
 title: wan taso la
 original-title: Solo e pensoso
 authors:
-  - jan Petaka
+- jan Petaka
 translators:
-  - jan Lapate
+- jan Lapate
 date: '2024-05-14'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa jaki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0026jaki.pdf
-  - https://liputenpo.org/lipu/nanpa-jaki/
+- https://liputenpo.org/pdfs/0026jaki.pdf
+- https://liputenpo.org/lipu/nanpa-jaki/
 ---
 
 wan taso la, mi toki insa  

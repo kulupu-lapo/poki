@@ -1,14 +1,14 @@
 ---
 title: apeja
 authors:
-  - jan Sotan
+- jan Sotan
 date: 2016-08-14
 tags:
-  - poetry
-  - read-aloud poetry
+- poetry
+- read-aloud poetry
 license: All Rights Reserved
 sources:
-  - https://www.youtube.com/watch?v=sO6YEBXLpsk
+- https://www.youtube.com/watch?v=sO6YEBXLpsk
 ---
 
 apeja

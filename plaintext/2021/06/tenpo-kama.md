@@ -1,16 +1,13 @@
 ---
 title: tenpo kama
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-06-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pan
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0005pan.pdf
-  - https://liputenpo.org/lipu/nanpa-pan/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_tenpo_kama.png
+- https://liputenpo.org/pdfs/0005pan.pdf
+- https://liputenpo.org/lipu/nanpa-pan/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_tenpo_kama.png
 ---
 
 tenpo kama? seme li lon tenpo kama? a! mi pana e sona:

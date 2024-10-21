@@ -1,14 +1,14 @@
 ---
 title: ale ala sin li pona tawa mi
 authors:
-  - jan Sotan
+- jan Sotan
 date: 2024-04-18
 tags:
-  - music
+- music
 license: CC BY 4.0
 sources:
-  - https://zotn.hu/toki-pona/rap-ale-ala-sin-li-pona-tawa-mi
-  - https://www.youtube.com/watch?v=tMpowCvGUF0
+- https://zotn.hu/toki-pona/rap-ale-ala-sin-li-pona-tawa-mi
+- https://www.youtube.com/watch?v=tMpowCvGUF0
 ---
 
 toki! mi jan Sotan.

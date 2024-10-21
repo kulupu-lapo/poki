@@ -1,16 +1,13 @@
 ---
 title: suno pi toki pona
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2021-09-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kule
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0007kule.pdf
-  - https://liputenpo.org/lipu/nanpa-kule/
-  - https://commons.wikimedia.org/wiki/File:Icon_for_suno_pi_toki_pona.svg
+- https://liputenpo.org/pdfs/0007kule.pdf
+- https://liputenpo.org/lipu/nanpa-kule/
+- https://commons.wikimedia.org/wiki/File:Icon_for_suno_pi_toki_pona.svg
 ---
 
 lipu tenpo nanpa suno la, tenpo musi li kama. nimi pi tenpo musi ni li suno pi toki pona. ona li tan ni: toki pona li lon tenpo sike luka luka luka luka. jan mute li kama, li musi lon ma pona pi toki pona lon ilo Siko (Discord), li lukin lon ilo Jutu (Youtube), li lukin lon ilo Tuwisi (Twitch). mi lon kin. mi wile lukin e mute la, mi lape lili taso.

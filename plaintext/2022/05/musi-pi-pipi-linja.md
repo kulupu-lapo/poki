@@ -1,21 +1,18 @@
 ---
 title: musi pi pipi linja
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2022-05-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pipi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0013pipi.pdf
-  - https://liputenpo.org/lipu/nanpa-pipi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_01.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_02.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_03.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_04.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_05.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_06.png
+- https://liputenpo.org/pdfs/0013pipi.pdf
+- https://liputenpo.org/lipu/nanpa-pipi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_01.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_02.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_03.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_04.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_05.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_06.png
 ---
 
 mi wile pana e musi sin · jan wan anu jan mute li ken lon musi ni · open la o kepeken lipu walo wan · o sitelen e sike lili pimeja mute lon lipu · sike lili ni li moku pona a ·

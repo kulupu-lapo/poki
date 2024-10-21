@@ -1,15 +1,12 @@
 ---
 title: pilin musi pi lawa toki
 author:
-  - (anonymous)
+- (anonymous)
 date: '2022-12-09'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa musi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0017musi.pdf
-  - https://liputenpo.org/lipu/nanpa-musi/
+- https://liputenpo.org/pdfs/0017musi.pdf
+- https://liputenpo.org/lipu/nanpa-musi/
 ---
 
 a sina toki e ni a:  

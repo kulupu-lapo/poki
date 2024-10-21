@@ -1,18 +1,15 @@
 ---
 title: toki loje tu
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2023-07-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nasin
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0020nasin.pdf
-  - https://liputenpo.org/lipu/nanpa-nasin/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nasin_-_tomo_tu.png
+- https://liputenpo.org/pdfs/0020nasin.pdf
+- https://liputenpo.org/lipu/nanpa-nasin/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nasin_-_tomo_tu.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![tomo jelo pi kili loje en tomo loje pi kili jelo](https://upload.wikimedia.org/wikipedia/commons/1/17/Lipu_tenpo_nanpa_nasin_-_tomo_tu.png)

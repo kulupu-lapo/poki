@@ -1,15 +1,12 @@
 ---
 title: seme li mi?
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-09-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moku
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0015moku.pdf
-  - https://liputenpo.org/lipu/nanpa-moku/
+- https://liputenpo.org/pdfs/0015moku.pdf
+- https://liputenpo.org/lipu/nanpa-moku/
 ---
 
 mi olin e telo a,  

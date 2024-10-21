@@ -1,14 +1,11 @@
 ---
 title: tenpo weka
 authors:
-  - akesi kon Nalasuni
+- akesi kon Nalasuni
 date: '2020-11-11'
-collections:
-  - utala.pona.la
-  - utala pi toki musi (2020)
-license:
+license: null
 sources:
-  - https://utala.pona.la/toki-musi-lili/
+- https://utala.pona.la/toki-musi-lili/
 ---
 
 kon ma li ike tan jan pi kon ike.  

@@ -2,19 +2,19 @@
 title: jan Sitata
 original-title: Siddhartha
 authors:
-  - Hermann Hesse
+- Hermann Hesse
 translators:
-  - jan Kala
+- jan Kala
 proofreaders:
-  - jan Apikela
-  - jan Sonja
+- jan Apikela
+- jan Sonja
 date: 2022-06-29
 license: CC0
 sources:
-  - https://tokipona.org/sitata/
-  - https://wikisource.org/wiki/Jan_Sitata
+- https://tokipona.org/sitata/
+- https://wikisource.org/wiki/Jan_Sitata
 archives:
-  - https://archive.ph/v1Kzh
+- https://archive.ph/v1Kzh
 ---
 
 # jan Sitata
@@ -450,4 +450,4 @@ taso ante la jan Puta li pana e sona seme? suli la jan Puta li toki e ni :
 
 ni ale li sama pali · ｢ni li lon la ni li lon · ni li lon ala la ni li lon ala｣ · nasin Puta la kama li suli · ijo li kama la tan li lon · tan li lon la kama li lon · kama li lon ala la tan li lon ala · tan li lon ala la kama li lon ala ·
 
-nasin misikeke la seme li lon? nasin li ni : sona pona, wile pona, toki pona, pali pona, mani pona, wawa pona, lukin pona, awen pona · lipu lili ni la mi toki ala e nasin suli ni · jan li wile sona la ona o alasa a! 
+nasin misikeke la seme li lon? nasin li ni : sona pona, wile pona, toki pona, pali pona, mani pona, wawa pona, lukin pona, awen pona · lipu lili ni la mi toki ala e nasin suli ni · jan li wile sona la ona o alasa a!

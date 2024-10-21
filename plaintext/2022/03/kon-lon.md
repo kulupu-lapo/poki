@@ -1,15 +1,12 @@
 ---
 title: kon lon
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2022-03-10'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nimi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0012nimi.pdf
-  - https://liputenpo.org/lipu/nanpa-nimi/
+- https://liputenpo.org/pdfs/0012nimi.pdf
+- https://liputenpo.org/lipu/nanpa-nimi/
 ---
 
 kin la jaki ali o lon.  

@@ -1,16 +1,13 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa luka luka tu tu. ma Tawan en ma Anku
 authors:
-  - jan Polo
+- jan Polo
 date: '2023-08-24'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa ma
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0021ma.pdf
-  - https://liputenpo.org/lipu/nanpa-ma/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_ma_Anku_en_ma_Tawan.png
+- https://liputenpo.org/pdfs/0021ma.pdf
+- https://liputenpo.org/lipu/nanpa-ma/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_ma_Anku_en_ma_Tawan.png
 ---
 
 ![ma Anku en ma Tawan](https://upload.wikimedia.org/wikipedia/commons/9/96/Lipu_tenpo_nanpa_ma_-_ma_Anku_en_ma_Tawan.png)

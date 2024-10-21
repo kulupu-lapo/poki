@@ -1,16 +1,13 @@
 ---
 title: soweli Kapipala
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-09-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moku
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0015moku.pdf
-  - https://liputenpo.org/lipu/nanpa-moku/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_soweli_Kapipala.png
+- https://liputenpo.org/pdfs/0015moku.pdf
+- https://liputenpo.org/lipu/nanpa-moku/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_soweli_Kapipala.png
 ---
 
 kulupu pi ilo sona la, jan ale li toki e ni: soweli Kapipala li suwi a. sitelen musi en sitelen tawa musi mute li lon. tan seme? o lukin e soweli Kapipala lon poka mi!

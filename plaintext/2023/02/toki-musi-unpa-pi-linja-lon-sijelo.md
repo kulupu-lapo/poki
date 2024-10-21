@@ -1,17 +1,17 @@
 ---
 title: toki musi unpa pi linja lon sijelo
-description: In which I continue to learn toki pona by using it as an outlet for my kinks, for some reason. This one fell victim to my love of ending a story with the characters falling asleep.
+description: In which I continue to learn toki pona by using it as an outlet for my
+  kinks, for some reason. This one fell victim to my love of ending a story with the
+  characters falling asleep.
 authors:
-  - janseme
+- janseme
 date: '2023-02-06'
-collections:
-  - jan Eka and jan Pani get up to stuff by janseme
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/44841781?view_adult=true
+- https://archiveofourown.org/works/44841781?view_adult=true
 archives:
-  - https://archive.ph/eLs6u
+- https://archive.ph/eLs6u
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

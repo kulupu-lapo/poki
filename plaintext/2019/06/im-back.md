@@ -1,13 +1,13 @@
 ---
 title: I'm Back
 authors:
-  - jan Sotan
+- jan Sotan
 date: 2019-06-07
 tags:
-  - music
+- music
 license: All Rights Reserved
 sources:
-  - https://www.youtube.com/watch?v=nuLy1yOCdUg
+- https://www.youtube.com/watch?v=nuLy1yOCdUg
 ---
 
 [Intro]

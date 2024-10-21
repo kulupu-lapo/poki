@@ -1,16 +1,16 @@
 ---
 title: 'linja insa: nasin sitelen sin pi lipu kule'
-description: "nasin sitelen pona mute li lon. taso ala li jo e kon sama linja Inter. ni la, akesi Jan li open pali e nasin linja sin. ona en linja Inter li pona lon poka a!"
+description: nasin sitelen pona mute li lon. taso ala li jo e kon sama linja Inter.
+  ni la, akesi Jan li open pali e nasin linja sin. ona en linja Inter li pona lon
+  poka a!
 authors:
-  - jan pali pi lipu kule
+- jan pali pi lipu kule
 date: '2024-03-11'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2024-03-11-linja-insa.md
-  - https://lipukule.org/post/2024/03/11/linja-insa-nasin-sitelen-sin-pi-lipu-kule/
-accessibility-notes: "UCSUR characters, HTML"
+- https://github.com/lipukule/site/blob/main/content/post/2024-03-11-linja-insa.md
+- https://lipukule.org/post/2024/03/11/linja-insa-nasin-sitelen-sin-pi-lipu-kule/
+accessibility-notes: UCSUR characters, HTML
 ---
 
 nasin sitelen pona mute li lon. taso ala li jo e kon sama linja Inter.

@@ -1,18 +1,15 @@
 ---
 title: toki kalama tu
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2024-03-20'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kalama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0025kalama.pdf
-  - https://liputenpo.org/lipu/nanpa-kalama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_tenpo_kalama.png
+- https://liputenpo.org/pdfs/0025kalama.pdf
+- https://liputenpo.org/lipu/nanpa-kalama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_tenpo_kalama.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![ilo li pini e lape jan kepeken kalama](https://upload.wikimedia.org/wikipedia/commons/7/76/Lipu_tenpo_nanpa_kalama_-_ilo_tenpo_kalama.png)

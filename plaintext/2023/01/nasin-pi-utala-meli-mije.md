@@ -1,14 +1,12 @@
 ---
 title: nasin pi utala meli mije
 authors:
-  - jan Olipija
+- jan Olipija
 date: 2023-01-03
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2023-01-03-nasin-pi-utala-meli-mije.md
-  - https://lipukule.org/post/2023/01/03/nasin-pi-utala-meli-mije/
+- https://github.com/lipukule/site/blob/main/content/post/2023-01-03-nasin-pi-utala-meli-mije.md
+- https://lipukule.org/post/2023/01/03/nasin-pi-utala-meli-mije/
 ---
 
 > o sona e ni: mi toki e ike tawa meli, tawa mije, tawa tonsi, tawa jan kule.

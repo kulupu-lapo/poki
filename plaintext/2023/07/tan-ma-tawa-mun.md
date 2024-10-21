@@ -1,16 +1,13 @@
 ---
 title: tan ma tawa mun
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2023-07-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nasin
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0020nasin.pdf
-  - https://liputenpo.org/lipu/nanpa-nasin/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nasin_-_mun.png
+- https://liputenpo.org/pdfs/0020nasin.pdf
+- https://liputenpo.org/lipu/nanpa-nasin/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nasin_-_mun.png
 ---
 
 ![mun](https://upload.wikimedia.org/wikipedia/commons/7/72/Lipu_tenpo_nanpa_nasin_-_mun.png)

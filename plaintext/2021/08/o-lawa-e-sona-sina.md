@@ -1,15 +1,12 @@
 ---
 title: o lawa e sona sina!
 authors:
-  - jan Lentan
+- jan Lentan
 date: '2021-08-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa suno
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0006suno.pdf
-  - https://liputenpo.org/lipu/nanpa-suno/
+- https://liputenpo.org/pdfs/0006suno.pdf
+- https://liputenpo.org/lipu/nanpa-suno/
 ---
 
 tenpo ni la, jan mute li kepeken e linluwi[^1] tawa ni: ona li pali, li toki, li musi, li esun, li pali e ijo ante. wawa pona linluwi li suli mute. taso, tenpo sike mute pini la, kulupu esun pi mute lili li kama wawa mute. pilin mi la, ni li ike tawa jan ale.

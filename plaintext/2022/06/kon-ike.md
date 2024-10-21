@@ -3,11 +3,11 @@ title: kon ike
 description: jan Kije li pilin ike. kon la, jan Kije li pilin ike mute.
 date: '2022-06-03'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/39410088
+- https://archiveofourown.org/works/39410088
 archives:
-  - https://archive.ph/yK0pV
+- https://archive.ph/yK0pV
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

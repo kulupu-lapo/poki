@@ -1,16 +1,13 @@
 ---
 title: toki nasa
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa walo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0011walo.pdf
-  - https://liputenpo.org/lipu/nanpa-walo/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_sitelen_sitelen.png
+- https://liputenpo.org/pdfs/0011walo.pdf
+- https://liputenpo.org/lipu/nanpa-walo/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_sitelen_sitelen.png
 ---
 
 nanpa wan la, mi kama suli.  

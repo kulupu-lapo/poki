@@ -1,14 +1,11 @@
 ---
 title: mu
 authors:
-  - soweli nata
+- soweli nata
 date: '2020-11-11'
-collections:
-  - utala.pona.la
-  - utala pi toki musi (2020)
-license:
+license: null
 sources:
-  - https://utala.pona.la/toki-musi-lili/
+- https://utala.pona.la/toki-musi-lili/
 ---
 
 kon li mu li kama e lete  

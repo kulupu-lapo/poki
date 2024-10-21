@@ -1,15 +1,12 @@
 ---
 title: kasi kule jelo
 authors:
-  - jan Kuleku Nena
+- jan Kuleku Nena
 date: '2021-09-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kule
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0007kule.pdf
-  - https://liputenpo.org/lipu/nanpa-kule/
+- https://liputenpo.org/pdfs/0007kule.pdf
+- https://liputenpo.org/lipu/nanpa-kule/
 ---
 
 [kepeken “I Wandered Lonely as a Cloud” tan jan William Wordsworth]

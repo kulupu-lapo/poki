@@ -1,19 +1,16 @@
 ---
 title: moku pi telo loje
-description: 
+description: null
 authors:
-  - jan Wilo
+- jan Wilo
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - monsuta
-  - moku pi telo loje sijelo
+- monsuta
+- moku pi telo loje sijelo
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/moku-pi-telo-loje.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/moku-pi-telo-loje.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/moku-pi-telo-loje.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/moku-pi-telo-loje.html
 ---
 
 ***

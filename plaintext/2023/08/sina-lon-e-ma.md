@@ -1,16 +1,13 @@
 ---
 title: sina lon e ma
-description: 
+description: null
 authors:
-  - kala suno/waso laso Alisanosaka, pi kulupu telo mun (kutemu)
+- kala suno/waso laso Alisanosaka, pi kulupu telo mun (kutemu)
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
-  - http://utala.pona.la/toki-en-lipu/toki-lili.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
+- http://utala.pona.la/toki-en-lipu/toki-lili.html
 ---
 
 ijo lili, o lukin e sina  

@@ -1,16 +1,13 @@
 ---
 title: lipu sin tan jan Sonja
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2024-03-20'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kalama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0025kalama.pdf
-  - https://liputenpo.org/lipu/nanpa-kalama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_su.svg
+- https://liputenpo.org/pdfs/0025kalama.pdf
+- https://liputenpo.org/lipu/nanpa-kalama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_su.svg
 ---
 
 ![lipu sin tan jan Sonja](https://upload.wikimedia.org/wikipedia/commons/0/0b/Lipu_tenpo_nanpa_kalama_-_su.svg)

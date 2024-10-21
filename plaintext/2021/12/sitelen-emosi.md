@@ -1,15 +1,12 @@
 ---
 title: sitelen Emosi
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2021-12-08'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lete
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0010lete.pdf
-  - https://liputenpo.org/lipu/nanpa-lete/
+- https://liputenpo.org/pdfs/0010lete.pdf
+- https://liputenpo.org/lipu/nanpa-lete/
 ---
 
 nasin sitelen mute pi toki pona li lon. mi pilin e ni: jan pi toki pona li olin pali e nasin sitelen. taso, nasin sitelen pi nanpa lili li ken lon ilo toki. ante la, jan li ken taso kepeken ona lon lipu. sitelen Lasina li ken lon ilo toki, taso jan li wile e nasin sitelen musi sin. tan ni la, ona li pali e sitelen kepeken Emosi. Emosi li kama tan kulupu Uniko. jan ali li ken toki kepeken sitelen ni. sitelen wan li sama nimi wan pi toki pona.

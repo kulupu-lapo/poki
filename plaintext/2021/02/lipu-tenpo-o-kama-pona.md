@@ -1,16 +1,13 @@
 ---
 title: lipu tenpo o kama pona!
 authors:
-  - jan Telakoman
+- jan Telakoman
 date: '2021-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa akesi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0001akesi.pdf
-  - https://liputenpo.org/lipu/nanpa-akesi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu.png
+- https://liputenpo.org/pdfs/0001akesi.pdf
+- https://liputenpo.org/lipu/nanpa-akesi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu.png
 ---
 
 toki pona li seme? toki pona li nasin toki suli anu toki lili suwi taso? mi mute li sona e ni: toki pona li ijo suli li nasin pona. taso jan mute li sona ala e ni.

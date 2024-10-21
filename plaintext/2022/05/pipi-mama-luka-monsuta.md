@@ -1,15 +1,12 @@
 ---
 title: pipi mama - luka monsuta
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2022-05-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pipi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0013pipi.pdf
-  - https://liputenpo.org/lipu/nanpa-pipi/
+- https://liputenpo.org/pdfs/0013pipi.pdf
+- https://liputenpo.org/lipu/nanpa-pipi/
 ---
 
 mi pipi mama li  

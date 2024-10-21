@@ -1,16 +1,13 @@
 ---
 title: tomo lawa pi ma Tosi
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2024-09-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lawa
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0028lawa.pdf
-  - https://liputenpo.org/lipu/nanpa-lawa/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_tomo_lawa_pi_ma_Tosi.png
+- https://liputenpo.org/pdfs/0028lawa.pdf
+- https://liputenpo.org/lipu/nanpa-lawa/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_tomo_lawa_pi_ma_Tosi.png
 ---
 
 ![tomo lawa pi ma Tosi](https://upload.wikimedia.org/wikipedia/commons/5/53/Lipu_tenpo_nanpa_lawa_-_tomo_lawa_pi_ma_Tosi.png)

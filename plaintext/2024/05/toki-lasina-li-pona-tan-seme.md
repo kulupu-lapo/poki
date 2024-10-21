@@ -1,16 +1,13 @@
 ---
 title: toki Lasina li pona tan seme?
 authors:
-  - jan Imi
+- jan Imi
 date: '2024-05-14'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa jaki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0026jaki.pdf
-  - https://liputenpo.org/lipu/nanpa-jaki/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_kijetesantakalu_Lasina.png
+- https://liputenpo.org/pdfs/0026jaki.pdf
+- https://liputenpo.org/lipu/nanpa-jaki/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_kijetesantakalu_Lasina.png
 ---
 
 ![kijetesantakalu Lasina](https://upload.wikimedia.org/wikipedia/commons/7/78/Lipu_tenpo_nanpa_jaki_-_kijetesantakalu_Lasina.png)

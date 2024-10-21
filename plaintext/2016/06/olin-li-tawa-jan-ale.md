@@ -1,13 +1,13 @@
 ---
 title: olin li tawa jan ale
 authors:
-  - jan Sotan
+- jan Sotan
 date: 2016-06-08
 tags:
-  - music
+- music
 license: All Rights Reserved
 sources:
-  - https://www.youtube.com/watch?v=tAepWWMxr2k
+- https://www.youtube.com/watch?v=tAepWWMxr2k
 preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.
 ---
 

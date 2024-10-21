@@ -1,15 +1,12 @@
 ---
 title: kalama musi pi kulupu "PVRIS"
 authors:
-  - lon Jawin
+- lon Jawin
 date: '2022-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa walo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0011walo.pdf
-  - https://liputenpo.org/lipu/nanpa-walo/
+- https://liputenpo.org/pdfs/0011walo.pdf
+- https://liputenpo.org/lipu/nanpa-walo/
 ---
 
 kulupu Palisa (PVRIS) li kulupu seme? kulupu Palisa li kulupu pi kalama musi. tenpo sike luka luka li tawa la ona li kama lon. tenpo ni la kulupu li jo e jan Lin Kun (Lynn Gunn) e jan Pajan Matona (Brian Macdonald), tenpo pini la ona li jo e jan mute. jan Lin Kun li jan pi kalama musi uta, ona li pali mute tan kulupu Palisa. ona li pana e kulupu suli tu wan pi kalama musi e kulupu lili wan pi kalama musi. mi toki e kulupu Palisa e kulupu ona pi kalama musi.

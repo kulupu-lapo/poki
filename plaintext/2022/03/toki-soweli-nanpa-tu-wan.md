@@ -1,15 +1,12 @@
 ---
 title: toki soweli - nanpa tu wan
 authors:
-  - jan Eweni Wako
+- jan Eweni Wako
 date: '2022-03-10'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nimi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0012nimi.pdf
-  - https://liputenpo.org/lipu/nanpa-nimi/
+- https://liputenpo.org/pdfs/0012nimi.pdf
+- https://liputenpo.org/lipu/nanpa-nimi/
 ---
 
 soweli tawa li pilin ike mute lon pona tawa soweli pona pi palisa lawa tan ni: toki la, wawa tawa li suli lon soweli palisa. soweli tawa li ken ala anpa e ona. tan ni la ona li wile moli e soweli palisa, li toki tawa jan:

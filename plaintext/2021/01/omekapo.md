@@ -1,14 +1,12 @@
 ---
 title: omekapo
 authors:
-  - kala pona Tonyu
+- kala pona Tonyu
 date: '2021-01-23'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-01-23-omekapo.md
-  - https://lipukule.org/post/2021/01/23/omekapo/
+- https://github.com/lipukule/site/blob/main/content/post/2021-01-23-omekapo.md
+- https://lipukule.org/post/2021/01/23/omekapo/
 ---
 
 ken la, sina lon kulupu 'ma pona pi toki pona' la, sina kute mute e ni lon toki uta: 'omekapo!' taso sina sona ala sona e kon pi nimi ni? sina sona la, sina sona ala sona e tan, e kama lon pi nimi ni?

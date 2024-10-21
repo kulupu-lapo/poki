@@ -1,16 +1,13 @@
 ---
 title: tenpo musi lon ma mute
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-12-09'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa musi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0017musi.pdf
-  - https://liputenpo.org/lipu/nanpa-musi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_jan_Santa.png
+- https://liputenpo.org/pdfs/0017musi.pdf
+- https://liputenpo.org/lipu/nanpa-musi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_jan_Santa.png
 ---
 
 ![jan Santa](https://upload.wikimedia.org/wikipedia/commons/7/7e/Lipu_tenpo_nanpa_walo_-_jan_Santa.png)

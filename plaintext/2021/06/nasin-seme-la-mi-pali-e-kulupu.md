@@ -1,19 +1,16 @@
 ---
 title: nasin seme la mi pali e kulupu
 authors:
-  - jan Kasimun
+- jan Kasimun
 date: '2021-06-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pan
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0005pan.pdf
-  - https://liputenpo.org/lipu/nanpa-pan/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_1.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_2.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_3.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_4.png
+- https://liputenpo.org/pdfs/0005pan.pdf
+- https://liputenpo.org/lipu/nanpa-pan/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_1.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_2.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_3.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_4.png
 ---
 
 ![sitelen musi 1](https://upload.wikimedia.org/wikipedia/commons/0/06/Lipu_tenpo_nanpa_pan_-_sitelen_musi_1.png)

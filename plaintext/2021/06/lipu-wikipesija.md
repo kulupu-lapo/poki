@@ -1,16 +1,13 @@
 ---
 title: lipu Wikipesija
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-06-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pan
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0005pan.pdf
-  - https://liputenpo.org/lipu/nanpa-pan/
-  - https://commons.wikimedia.org/wiki/File:Icon_for_Wikipesija.svg
+- https://liputenpo.org/pdfs/0005pan.pdf
+- https://liputenpo.org/lipu/nanpa-pan/
+- https://commons.wikimedia.org/wiki/File:Icon_for_Wikipesija.svg
 ---
 
 lipu Wikipesija sin pi toki pona li lon. ona li lon lipu linluwi[^1] “Wikipesija.org”. open la, mi lukin e tenpo pini pi lipu Wikipesija:

@@ -1,16 +1,13 @@
 ---
 title: tenpo suno pali
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-05-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pipi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0013pipi.pdf
-  - https://liputenpo.org/lipu/nanpa-pipi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_tenpo_suli_pali.png
+- https://liputenpo.org/pdfs/0013pipi.pdf
+- https://liputenpo.org/lipu/nanpa-pipi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_tenpo_suli_pali.png
 ---
 
 tenpo suno pali li lon tenpo suno nanpa wan pi tenpo mun nanpa luka. ona li lon ma mute. tenpo suno ni la, jan li tawa utala li wile e lawa pali pona sin.

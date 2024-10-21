@@ -1,15 +1,12 @@
 ---
 title: mi ale
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2023-02-06'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa tu
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0018tu.pdf
-  - https://liputenpo.org/lipu/nanpa-tu/
+- https://liputenpo.org/pdfs/0018tu.pdf
+- https://liputenpo.org/lipu/nanpa-tu/
 ---
 
 mi ale li sike e suno,  

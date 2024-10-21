@@ -1,14 +1,12 @@
 ---
 title: tan suli lipu li seme?
 authors:
-  - jan pali pi lipu kule
+- jan pali pi lipu kule
 date: '2021-01-24'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-01-24-tansuli.md
-  - https://lipukule.org/post/2021/01/24/tan-suli-lipu-li-seme/
+- https://github.com/lipukule/site/blob/main/content/post/2021-01-24-tansuli.md
+- https://lipukule.org/post/2021/01/24/tan-suli-lipu-li-seme/
 ---
 
 lipu kule li tan wile pi jan mute. lipu kule li tan pali pi jan mute. jan mute li lon nasin mute. taso jan pali ali li wile e ni: lipu ni o nasin pona.

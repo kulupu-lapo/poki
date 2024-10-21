@@ -1,20 +1,19 @@
 ---
 title: '[PAKALA]'
 original-title: Deltarune - THE DEATH
-description: DELTARUNE death screens translated into toki pona. sina moli la, sina ken lukin e toki ni.
+description: DELTARUNE death screens translated into toki pona. sina moli la, sina
+  ken lukin e toki ni.
 authors:
-  - Toby Fox
+- Toby Fox
 translators:
-  - RiemannHyperthesis
+- RiemannHyperthesis
 date: '2024-07-16'
-collections:
-  - Deltarune toki pona translations by RiemannHyperthesis
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/57437932/chapters/146128024
+- https://archiveofourown.org/works/57437932/chapters/146128024
 archives:
-  - https://web.archive.org/web/20240927143145/https://archiveofourown.org/works/57437932/chapters/146128024
+- https://web.archive.org/web/20240927143145/https://archiveofourown.org/works/57437932/chapters/146128024
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: lipu open la toki li kepeken sitelen lili · nasin Markdown la ni li ken ala
 ---

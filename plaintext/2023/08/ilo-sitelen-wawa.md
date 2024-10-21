@@ -1,20 +1,17 @@
 ---
 title: ilo sitelen wawa
-description: 
+description: null
 authors:
-  - nasa utala
+- nasa utala
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - pilin pi wan taso
-  - utala sijelo ike
-  - ilo nasa li ante e sijelo jan
+- pilin pi wan taso
+- utala sijelo ike
+- ilo nasa li ante e sijelo jan
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-sitelen-wawa.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-sitelen-wawa.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-sitelen-wawa.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-sitelen-wawa.html
 ---
 
 ***

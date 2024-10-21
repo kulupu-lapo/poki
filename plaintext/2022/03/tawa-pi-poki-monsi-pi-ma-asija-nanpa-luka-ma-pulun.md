@@ -1,16 +1,13 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa luka. ma Pulun
 authors:
-  - jan Polo
+- jan Polo
 date: '2022-03-10'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nimi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0012nimi.pdf
-  - https://liputenpo.org/lipu/nanpa-nimi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_ma_Pulune.png
+- https://liputenpo.org/pdfs/0012nimi.pdf
+- https://liputenpo.org/lipu/nanpa-nimi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_ma_Pulune.png
 ---
 
 ma Pulune li ma lili mute li lon ma pi insa telo suli Ponejo (Borneo) pi nasin lete. ona li selo e ma Sapa (Sabah) e ma Salawa (Sarawak) pi ma Malasija. sinpin ona la telo suli Sonko pi nasin seli li lon. jan lawa pi ma Pulune li jan lawa pi nasin sewi Isilan. ona li jo e mani mute mute tan ni: ma Pulune li jo e ko seli mute. ma Pulune la jan mute li jan Male pi nasin sewi Isilan. taso jan mute pi ma kasi en jan Sonko pi nanpa lili kin li lon. ona li kepeken nasin sewi mute. jan pi nasin sewi Isilan en jan pi nasin sewi Kolisu en jan pi nasin sewi pi kon ma li lon. jan Sonko li kepeken nasin sewi Puta anu nasin sewi Nasin Pona (Taoism). nasin sewi mute li lon, taso tenpo ni la nasin lawa pi ma Pulune li nasin lawa pi nasin sewi Isilan.

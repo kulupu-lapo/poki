@@ -1,15 +1,12 @@
 ---
 title: musi pi alasa sona
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2021-10-06'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa toki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0008toki.pdf
-  - https://liputenpo.org/lipu/nanpa-toki/
+- https://liputenpo.org/pdfs/0008toki.pdf
+- https://liputenpo.org/lipu/nanpa-toki/
 ---
 
 musi sin li lon. nimi ona li “Blanks Detective”. jan li ken musi e ona kepeken toki Inli anu toki Nijon anu toki Kanse anu toki Epanja... anu toki pona kin a! sina musi e ona la, sina jan pi wile sona. sina alasa e sona ni: jan seme li jo e ijo seme, e moku seme, e soweli seme, e pilin seme, e ante mute. taso sona ni li weka a. toki taso li lon. ken la sina ken kama sona e sona pi wile sina tan toki ni. sina sona e ijo wan pi jan wan tan toki ni la, sina ken kama sona e ijo ante pi jan ni. sina ken kama sona e sona ale pi wile sina kepeken nasin ni.

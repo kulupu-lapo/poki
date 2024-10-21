@@ -1,16 +1,13 @@
 ---
 title: ma pi nimi pona
 authors:
-  - jan Telakoman
+- jan Telakoman
 date: '2021-05-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kasi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0004kasi.pdf
-  - https://liputenpo.org/lipu/nanpa-kasi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_ma_pi_nimi_pona.png
+- https://liputenpo.org/pdfs/0004kasi.pdf
+- https://liputenpo.org/lipu/nanpa-kasi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_ma_pi_nimi_pona.png
 ---
 
 pimeja li pini, suno sin li kama. jan pona mi o moku pona! suno ni la mi en sina li tawa nena weka.

@@ -1,14 +1,11 @@
 ---
 title: toki ala
 authors:
-  - apeja Akesi
+- apeja Akesi
 date: '2020-11-11'
-collections:
-  - utala.pona.la
-  - utala pi toki musi (2020)
-license:
+license: null
 sources:
-  - https://utala.pona.la/toki-musi-lili/
+- https://utala.pona.la/toki-musi-lili/
 ---
 
 ali li powe a! ali li nasa li lon ma apeja a! ali li ike mute. kin, kon sewi en kon anpa li ike kin a!

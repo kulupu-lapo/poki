@@ -1,18 +1,15 @@
 ---
 title: pilin pipi
-description: 
+description: null
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - nasa pi nasin sitelen selo
+- nasa pi nasin sitelen selo
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/pilin-pipi.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/pilin-pipi.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/pilin-pipi.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/pilin-pipi.html
 preprocessing: includes HTML
 ---
 

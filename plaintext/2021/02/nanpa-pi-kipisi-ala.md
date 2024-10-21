@@ -1,16 +1,13 @@
 ---
 title: nanpa pi kipisi ala
 authors:
-  - jan
+- jan
 date: '2021-02-08'
-collections:
-  - utala.pona.la
-  - utala pi lipu kalama tawa (2021)
-license:
+license: null
 sources:
-  - https://utala.pona.la/lipu-kalama-tawa/
-  - https://docs.google.com/document/d/1DXcXoUm8vSAGsAtXuhhiMG36jAGgbLGXG6h4b9QrcrY/edit
-  - https://drive.google.com/file/d/1k1HGjSRfjNt2CX2G3-TgRBw-bzEuD5dG/view?usp=sharing
+- https://utala.pona.la/lipu-kalama-tawa/
+- https://docs.google.com/document/d/1DXcXoUm8vSAGsAtXuhhiMG36jAGgbLGXG6h4b9QrcrY/edit
+- https://drive.google.com/file/d/1k1HGjSRfjNt2CX2G3-TgRBw-bzEuD5dG/view?usp=sharing
 ---
 
 *lon sinpin sinpin*

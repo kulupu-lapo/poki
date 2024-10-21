@@ -1,13 +1,13 @@
 ---
 title: musi Poke
 authors:
-  - jan Sotan
+- jan Sotan
 date: 2016-02-19
 tags:
-  - music
+- music
 license: All Rights Reserved
 sources:
-  - https://www.youtube.com/watch?v=d2wlHMWuWnQ
+- https://www.youtube.com/watch?v=d2wlHMWuWnQ
 preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.
 ---
 

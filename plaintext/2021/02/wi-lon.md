@@ -1,15 +1,12 @@
 ---
 title: wi lon
 authors:
-  - jan Sitowapu
+- jan Sitowapu
 date: '2021-02-08'
-collections:
-  - utala.pona.la
-  - utala pi lipu kalama tawa (2021)
-license:
+license: null
 sources:
-  - https://utala.pona.la/lipu-kalama-tawa/
-  - https://docs.google.com/document/d/1xl5osTAdUfP96ILzYaHpEnSDcxdDVKZ4t01Y8j9ul7w/edit
+- https://utala.pona.la/lipu-kalama-tawa/
+- https://docs.google.com/document/d/1xl5osTAdUfP96ILzYaHpEnSDcxdDVKZ4t01Y8j9ul7w/edit
 ---
 
 *(o walo.)*

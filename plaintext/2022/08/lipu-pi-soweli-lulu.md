@@ -1,18 +1,16 @@
 ---
 title: lipu pi soweli Lulu
-description: soweli Lulu li soweli pona li olin mute. taso soweli ale li olin ala olin e ona?
+description: soweli Lulu li soweli pona li olin mute. taso soweli ale li olin ala
+  olin e ona?
 authors:
-  - jan Non
+- jan Non
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - moku li lon
-license:
+- moku li lon
+license: null
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/lipu-pi-soweli-lulu.md
-  - http://utala.pona.la/lipu-lili/lipu-pi-soweli-lulu.html
+- https://github.com/raacz/utala/blob/main/lipu-lili/lipu-pi-soweli-lulu.md
+- http://utala.pona.la/lipu-lili/lipu-pi-soweli-lulu.html
 ---
 
 tenpo pini la soweli lili Lulu li lon.  
@@ -82,4 +80,4 @@ soweli Lulu li kama sona e ni. ona tu li moku e kili li pilin pona.
 
 jan pi toki mute ala li lon.  
 ken la ona li ken ala toki pona.  
-ona li ike ala. sina ike ala tawa ona.  
+ona li ike ala. sina ike ala tawa ona.

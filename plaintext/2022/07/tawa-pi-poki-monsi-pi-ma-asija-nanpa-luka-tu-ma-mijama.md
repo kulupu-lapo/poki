@@ -1,16 +1,13 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa luka tu - ma Mijama
 authors:
-  - jan Polo
+- jan Polo
 date: '2022-07-04'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa seli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0014seli.pdf
-  - https://liputenpo.org/lipu/nanpa-seli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_ma_Mijama.png
+- https://liputenpo.org/pdfs/0014seli.pdf
+- https://liputenpo.org/lipu/nanpa-seli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_ma_Mijama.png
 ---
 
 ![ma Mijama](https://upload.wikimedia.org/wikipedia/commons/3/3d/Lipu_tenpo_nanpa_seli_-_ma_Mijama.png)

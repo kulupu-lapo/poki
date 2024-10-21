@@ -1,16 +1,13 @@
 ---
 title: tenpo pi kalama musi
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2022-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa walo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0011walo.pdf
-  - https://liputenpo.org/lipu/nanpa-walo/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_soweli_pi_ma_tomo_Jele.png
+- https://liputenpo.org/pdfs/0011walo.pdf
+- https://liputenpo.org/lipu/nanpa-walo/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_soweli_pi_ma_tomo_Jele.png
 ---
 
 tenpo mun pini la, tenpo suno suli li kama. jan mute la, ni li tenpo suno sewi, li tenpo suno pi jan Jesu. jan mute la, ni li tenpo suno pana, li tenpo suno olin, li tenpo suno pi kalama mama. jan ante la, tenpo suno ni li suli ala. taso ma mute la, tenpo suno ni li suli tawa jan, li tenpo suno pi pali ala, li kama e nasin tan kulupu jan. nasin pi tenpo suno ni li ken ante mute lon ma mute. ma lete mute lon ma suli Elopa la, nasin wan li ni: jan li wan e kasi lili mute li pali e soweli kepeken ni. soweli ni la, palisa sike suli li lon lawa.

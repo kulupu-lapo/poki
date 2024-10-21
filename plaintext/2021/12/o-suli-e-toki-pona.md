@@ -1,16 +1,13 @@
 ---
 title: o suli e toki pona
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-12-08'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lete
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0010lete.pdf
-  - https://liputenpo.org/lipu/nanpa-lete/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu.png
+- https://liputenpo.org/pdfs/0010lete.pdf
+- https://liputenpo.org/lipu/nanpa-lete/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu.png
 ---
 
 mi wile suli e toki pona tan seme? toki pona li toki \*pona\*. toki pona li pona e lawa mi, li pona e lawa ante e pilin pi jan mute. pilin li ante, taso mi la, toki pona li pona tawa jan ale. ni la, mi wile e ni: toki pona o suli!

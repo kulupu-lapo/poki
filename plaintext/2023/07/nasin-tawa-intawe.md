@@ -1,16 +1,13 @@
 ---
 title: nasin tawa Intawe
 authors:
-  - jan Alipi
+- jan Alipi
 date: '2023-07-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nasin
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0020nasin.pdf
-  - https://liputenpo.org/lipu/nanpa-nasin/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_tomo_tawa_linja.svg
+- https://liputenpo.org/pdfs/0020nasin.pdf
+- https://liputenpo.org/lipu/nanpa-nasin/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_tomo_tawa_linja.svg
 ---
 
 ![tomo tawa linja](https://upload.wikimedia.org/wikipedia/commons/7/7f/Lipu_tenpo_nanpa_soweli_-_tomo_tawa_linja.svg)

@@ -1,16 +1,13 @@
 ---
 title: ilo tawa li tawa mun loje
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2021-03-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mun
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0002mun.pdf
-  - https://liputenpo.org/lipu/nanpa-mun/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ilo_mun.png
+- https://liputenpo.org/pdfs/0002mun.pdf
+- https://liputenpo.org/lipu/nanpa-mun/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ilo_mun.png
 ---
 
 mun mute li lon pimeja pi ma ala. suno mi la, mun nanpa wan li mun Mekuliju (Mercury), li sike e suno kepeken tawa wawa. kule ona li pimeja walo. mun nanpa tu li mun Wenu (Venus), li jelo. mun nanpa tu wan li ma jan, li ma mi, li laso. ma jan la, mun lili wan li lon, li suli tawa jan pi ma jan, li sike e ma jan. mun nanpa tu tu li mun Masi (Mars), li mun loje.

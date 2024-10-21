@@ -1,21 +1,19 @@
 ---
 title: AAA-mute
-description: jan sona li poki e ijo pi nasa mute li alasa e sona tan ona. ijo nasa ni li wawa seme li tan seme?
+description: jan sona li poki e ijo pi nasa mute li alasa e sona tan ona. ijo nasa
+  ni li wawa seme li tan seme?
 authors:
-  - jan Alesa
+- jan Alesa
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - ijo li ken ala weka tan poki
-  - ijo monsuta
-  - ijo li lawa e lawa jan
-  - misikeke nasa en ike sijelo
-license:
+- ijo li ken ala weka tan poki
+- ijo monsuta
+- ijo li lawa e lawa jan
+- misikeke nasa en ike sijelo
+license: null
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/AAAmute.md
-  - http://utala.pona.la/lipu-lili/AAAmute.html
+- https://github.com/raacz/utala/blob/main/lipu-lili/AAAmute.md
+- http://utala.pona.la/lipu-lili/AAAmute.html
 ---
 
 ## ni li lipu "AAA-mute" tan kulupu "awen, awen, awen".
@@ -76,4 +74,4 @@ jan sona Ulu li toki pona taso tan ala wawa nasa, tan ni taso: jan ante li weka 
 tenpo ni la jan ante li kama anpa li lape tan telo ala tan moku ala.
 
 ***
-*lipu li kepeken nasin musi tan [lipu ni pi toki Inli](https://scp-wiki.wikidot.com/) (o sona e ken ike: monsuta, moli, jaki). sina wile sona wawa e toki ni la sina ken lukin e lipu pi toki Inli kin. 
+*lipu li kepeken nasin musi tan [lipu ni pi toki Inli](https://scp-wiki.wikidot.com/) (o sona e ken ike: monsuta, moli, jaki). sina wile sona wawa e toki ni la sina ken lukin e lipu pi toki Inli kin.

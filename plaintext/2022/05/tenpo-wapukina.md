@@ -1,17 +1,14 @@
 ---
 title: tenpo Wapukina
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-05-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pipi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0013pipi.pdf
-  - https://liputenpo.org/lipu/nanpa-pipi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_seli.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_kasi_olin.png
+- https://liputenpo.org/pdfs/0013pipi.pdf
+- https://liputenpo.org/lipu/nanpa-pipi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_seli.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_kasi_olin.png
 ---
 
 tenpo Wapukina li tenpo pi jan sewi Wapuka (Walburga). ona li jan sewi tan nasin sewi Kolisu. nasin sewi Kolisu la, jan sewi Wapuka li utala e jaki, e ike, e monsuta[^1]. kin la, ona li utala e meli pi wawa nasa. ni la, tenpo Wapukina la, mi mute li utala e monsuta, e wawa nasa ike.

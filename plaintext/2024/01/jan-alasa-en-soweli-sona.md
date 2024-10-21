@@ -1,18 +1,20 @@
 ---
 title: jan alasa en soweli sona
-description: 'jan alasa li wile moku. taso: jan ona li ken ala alasa tan ken tawa lili ona. soweli sona li pilin musi mute tawa ona. tu li esun. [ A short toki pona fable about a fox and a hunter. ]'
+description: 'jan alasa li wile moku. taso: jan ona li ken ala alasa tan ken tawa
+  lili ona. soweli sona li pilin musi mute tawa ona. tu li esun. [ A short toki pona
+  fable about a fox and a hunter. ]'
 authors:
-  - Palian
+- Palian
 date: '2024-01-02'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/52757521
+- https://archiveofourown.org/works/52757521
 archives:
-  - https://web.archive.org/web/20240930134634/https://archiveofourown.org/works/52757521
+- https://web.archive.org/web/20240930134634/https://archiveofourown.org/works/52757521
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-accessibility-notes:
-notes:
+accessibility-notes: null
+notes: null
 ---
 
 jan alasa en soweli sona li utala kin!

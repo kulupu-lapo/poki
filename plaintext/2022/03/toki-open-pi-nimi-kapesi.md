@@ -1,16 +1,13 @@
 ---
 title: toki open pi nimi "kapesi"
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2022-03-10'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nimi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0012nimi.pdf
-  - https://liputenpo.org/lipu/nanpa-nimi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_nimi_kapesi.png
+- https://liputenpo.org/pdfs/0012nimi.pdf
+- https://liputenpo.org/lipu/nanpa-nimi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_nimi_kapesi.png
 ---
 
 ![nimi kapesi](https://upload.wikimedia.org/wikipedia/commons/1/1c/Lipu_tenpo_nanpa_nimi_-_nimi_kapesi.png)

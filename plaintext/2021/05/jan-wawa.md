@@ -1,17 +1,14 @@
 ---
 title: jan wawa!
 authors:
-  - jan Owekano
-  - jan Ke Tami
+- jan Owekano
+- jan Ke Tami
 date: '2021-05-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kasi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0004kasi.pdf
-  - https://liputenpo.org/lipu/nanpa-kasi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_jan_wawa.png
+- https://liputenpo.org/pdfs/0004kasi.pdf
+- https://liputenpo.org/lipu/nanpa-kasi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_jan_wawa.png
 ---
 
 ![jan wawa](https://upload.wikimedia.org/wikipedia/commons/6/61/Lipu_tenpo_nanpa_kasi_-_jan_wawa.png)

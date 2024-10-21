@@ -1,16 +1,13 @@
 ---
 title: kulupu Kanse la jan meli li kama ken
 authors:
-  - jan Kasape
+- jan Kasape
 date: '2024-05-14'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa jaki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0026jaki.pdf
-  - https://liputenpo.org/lipu/nanpa-jaki/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_jan_lili_li_kama_suli.png
+- https://liputenpo.org/pdfs/0026jaki.pdf
+- https://liputenpo.org/lipu/nanpa-jaki/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_jan_lili_li_kama_suli.png
 ---
 
 ![jan lili li kama suli](https://upload.wikimedia.org/wikipedia/commons/2/29/Lipu_tenpo_nanpa_jaki_-_jan_lili_li_kama_suli.png)

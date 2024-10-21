@@ -1,16 +1,13 @@
 ---
 title: lawa jan li kama sona e nasin toki kepeken nasin seme?
 authors:
-  - jan Telakoman
+- jan Telakoman
 date: '2021-08-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa suno
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0006suno.pdf
-  - https://liputenpo.org/lipu/nanpa-suno/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_len_sona.png
+- https://liputenpo.org/pdfs/0006suno.pdf
+- https://liputenpo.org/lipu/nanpa-suno/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_len_sona.png
 ---
 
 jan mute li wile kama sona e nasin toki ante. ni li tan seme? ni li ken tan ijo mute.

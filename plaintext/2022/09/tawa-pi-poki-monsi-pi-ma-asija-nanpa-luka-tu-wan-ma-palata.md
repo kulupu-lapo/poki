@@ -1,16 +1,13 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa luka tu wan - ma Palata
 authors:
-  - jan Polo
+- jan Polo
 date: '2022-09-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moku
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0015moku.pdf
-  - https://liputenpo.org/lipu/nanpa-moku/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_ma_Palata.png
+- https://liputenpo.org/pdfs/0015moku.pdf
+- https://liputenpo.org/lipu/nanpa-moku/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_ma_Palata.png
 ---
 
 ma Palata li ma pi musi mute li ma pi ante mute. ona la jan pi mani mute li lon. jan mute pi mani ala kin li lon. ona li jo e tomo epiku[^1] pi tenpo pini, taso ona li jo e ma tomo mute pi jan mute mute.

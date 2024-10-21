@@ -1,16 +1,13 @@
 ---
 title: musi Soweli Mu
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2022-03-10'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nimi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0012nimi.pdf
-  - https://liputenpo.org/lipu/nanpa-nimi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_soweli_mu.png
+- https://liputenpo.org/pdfs/0012nimi.pdf
+- https://liputenpo.org/lipu/nanpa-nimi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_soweli_mu.png
 ---
 
 musi sin li lon tan jan Talu (keepuru): "sina soweli la sina wile e ni: sina moku; sina lape; kin la, ijo suli nanpa wan li ni: sina wile muuuuuuu!”

@@ -1,15 +1,12 @@
 ---
 title: nasin nanpa pona
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2023-05-12'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0019mama.pdf
-  - https://liputenpo.org/lipu/nanpa-mama/
+- https://liputenpo.org/pdfs/0019mama.pdf
+- https://liputenpo.org/lipu/nanpa-mama/
 ---
 
 toki pi kulupu ni li wile pona. ni la nanpa li ken nasa e pona toki e sona kute e wile insa. ni la mi pi toki pona li wile ala toki e nanpa suli. mi wile toki e mute suli taso. ante li seme? nanpa li pana e suli sama tawa sona pi mi ale. taso mute li pana e suli tan pilin mi.

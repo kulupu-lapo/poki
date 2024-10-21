@@ -1,16 +1,13 @@
 ---
 title: akesi poki pi noka jelo
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-04-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa soweli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0003soweli.pdf
-  - https://liputenpo.org/lipu/nanpa-soweli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_akesi_poki.png
+- https://liputenpo.org/pdfs/0003soweli.pdf
+- https://liputenpo.org/lipu/nanpa-soweli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_akesi_poki.png
 ---
 
 akesi poki Kelonowisi Tensikulatu (Chelonoidis denticulatus) li akesi poki pi noka jelo. akesi ni li jo e suli sama jan lili. selo poki li pimeja jelo anu pimeja loje. taso akesi ni li jo ala e selo poki pimeja. akesi poki pi noka jelo li jo e noka jelo e lawa jelo.

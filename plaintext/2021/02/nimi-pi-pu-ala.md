@@ -1,15 +1,12 @@
 ---
 title: nimi pi pu ala
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2021-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa akesi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0001akesi.pdf
-  - https://liputenpo.org/lipu/nanpa-akesi/
+- https://liputenpo.org/pdfs/0001akesi.pdf
+- https://liputenpo.org/lipu/nanpa-akesi/
 ---
 
 toki pona li jo e nimi pu taso anu seme? jan pi pu taso la, ona li ken taso kepeken nimi pu. taso, jan mute li kepeken nimi pi pu ala. sina ken lukin e nimi mute pi pu ala. tenpo mute la, jan mute li kepeken nimi ni.

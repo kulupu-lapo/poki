@@ -1,14 +1,12 @@
 ---
 title: kulupu pali pona
 authors:
-  - jan Jan
+- jan Jan
 date: '2021-01-25'
-collections:
-  - lipu kule
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2021-01-25-kulupupalipona.md
-  - https://lipukule.org/post/2021/01/25/kulupu-pali-pona/
+- https://github.com/lipukule/site/blob/main/content/post/2021-01-25-kulupupalipona.md
+- https://lipukule.org/post/2021/01/25/kulupu-pali-pona/
 ---
 
 tenpo pini la jan mute li jo ala e ilo pi toki pona. taso tenpo ni la ilo pi toki pona li lon. tan seme a? kulupu pali pona li kama lon. kulupu pali pona li pali e ilo pi toki pona. tenpo ni la ona li kama lon e ilo tu wan pi toki pona. mi pana e lukin pi ilo ni tawa sina.

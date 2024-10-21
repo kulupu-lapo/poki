@@ -1,14 +1,11 @@
 ---
 title: o lukin e insa pi lawa mi
 authors:
-  - jan Sijo
+- jan Sijo
 date: '2020-11-11'
-collections:
-  - utala.pona.la
-  - utala pi toki musi (2020)
-license:
+license: null
 sources:
-  - https://utala.pona.la/toki-musi-lili/
+- https://utala.pona.la/toki-musi-lili/
 ---
 
 o lukin e insa pi lawa mi  

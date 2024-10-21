@@ -1,17 +1,17 @@
 ---
 title: toki musi unpa pi telo jelo
-description: Did not expect there to be a day in my life where I write pissfic in toki pona. And yet here we are. jan Eka and jan Pani are entirely made up names I just smashed together some syllables and boom done.
+description: Did not expect there to be a day in my life where I write pissfic in
+  toki pona. And yet here we are. jan Eka and jan Pani are entirely made up names
+  I just smashed together some syllables and boom done.
 authors:
-  - janseme
+- janseme
 date: '2023-01-09'
-collections:
-  - jan Eka and jan Pani get up to stuff by janseme
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/44143593
+- https://archiveofourown.org/works/44143593
 archives:
-  - https://archive.ph/0LE5u
+- https://archive.ph/0LE5u
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

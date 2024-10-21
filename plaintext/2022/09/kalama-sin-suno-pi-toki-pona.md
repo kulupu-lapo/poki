@@ -1,18 +1,16 @@
 ---
 title: suno pi toki pona
-description: 
+description: null
 authors:
-  - jan Kepe
-  - jan Lakuse
-  - soweli nata
-  - jan Tepo
+- jan Kepe
+- jan Lakuse
+- soweli nata
+- jan Tepo
 date: '2022-09-29'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vT5TjC0KHzqi5vz7UI8xnHAVbypdSHlMCyfa6tmSb3rmfVT6oyUI5yGFU3Z3BpY2MBPFeYBG6alQ9Yf/pub
-  - https://wikisource.org/wiki/Kalama_sin/25
+- https://docs.google.com/document/d/e/2PACX-1vT5TjC0KHzqi5vz7UI8xnHAVbypdSHlMCyfa6tmSb3rmfVT6oyUI5yGFU3Z3BpY2MBPFeYBG6alQ9Yf/pub
+- https://wikisource.org/wiki/Kalama_sin/25
 preprocessing: replaced unusual abbreviations with the full names
 ---
 

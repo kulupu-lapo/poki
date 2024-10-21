@@ -1,16 +1,13 @@
 ---
 title: seme li mi?
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2023-08-24'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa ma
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0021ma.pdf
-  - https://liputenpo.org/lipu/nanpa-ma/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_sitelen.png
+- https://liputenpo.org/pdfs/0021ma.pdf
+- https://liputenpo.org/lipu/nanpa-ma/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_sitelen.png
 ---
 
 lete li pona tawa mi  

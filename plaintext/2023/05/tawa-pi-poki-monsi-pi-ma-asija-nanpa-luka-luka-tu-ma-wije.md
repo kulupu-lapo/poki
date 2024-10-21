@@ -1,16 +1,13 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa luka luka tu - ma Wije
 authors:
-  - jan Polo
+- jan Polo
 date: '2023-05-12'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0019mama.pdf
-  - https://liputenpo.org/lipu/nanpa-mama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_ma_Wije.png
+- https://liputenpo.org/pdfs/0019mama.pdf
+- https://liputenpo.org/lipu/nanpa-mama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_ma_Wije.png
 ---
 
 ![ma Wije](https://upload.wikimedia.org/wikipedia/commons/7/75/Lipu_tenpo_nanpa_mama_-_ma_Wije.png)

@@ -1,21 +1,18 @@
 ---
 title: nimi pi ilo kalama
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2024-03-20'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kalama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0025kalama.pdf
-  - https://liputenpo.org/lipu/nanpa-kalama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_kon.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_kiwen.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_linja.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_kulupu_pi_kalama_musi.png
+- https://liputenpo.org/pdfs/0025kalama.pdf
+- https://liputenpo.org/lipu/nanpa-kalama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_kon.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_kiwen.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_linja.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_kulupu_pi_kalama_musi.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 mi musi lon kulupu pi kalama musi. kulupu ni la, jan mute li kalama kepeken ilo ante mute. mute la, mi pilin e ni: nimi pi ilo ni li seme? ni la, mi wile alasa e nimi ona. nanpa wan la, ilo kalama li ante tan ni: ona li kalama kepeken nasin ante. suli la, nasin tu tu ni li lon:

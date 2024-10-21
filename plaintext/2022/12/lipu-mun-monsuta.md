@@ -1,16 +1,13 @@
 ---
 title: lipu “mun monsuta[^1]”
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2022-12-09'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa musi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0017musi.pdf
-  - https://liputenpo.org/lipu/nanpa-musi/
-  - https://commons.wikimedia.org/wiki/File:Mun_monsuta_-_sinpin.png
+- https://liputenpo.org/pdfs/0017musi.pdf
+- https://liputenpo.org/lipu/nanpa-musi/
+- https://commons.wikimedia.org/wiki/File:Mun_monsuta_-_sinpin.png
 ---
 
 ![lipu "mun monsuta"](https://upload.wikimedia.org/wikipedia/commons/1/13/Mun_monsuta_-_sinpin.png)

@@ -1,18 +1,16 @@
 ---
 title: kasi lili li suli
-description: kasi li kama tan ma, li sin. kasi li suli mute lon poka ona la, ona li wile sama. tenpo li pana e ante.
+description: kasi li kama tan ma, li sin. kasi li suli mute lon poka ona la, ona li
+  wile sama. tenpo li pana e ante.
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - kasi li pilin ike tawa ona sama
+- kasi li pilin ike tawa ona sama
 license: CC-BY-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/kasi-lili-li-suli.md
-  - http://utala.pona.la/lipu-lili/kasi-lili-li-suli.html
+- https://github.com/raacz/utala/blob/main/lipu-lili/kasi-lili-li-suli.md
+- http://utala.pona.la/lipu-lili/kasi-lili-li-suli.html
 ---
 
 kasi mute a li lon ma kasi. kasi li ken kule mute, li ken kule lili. kasi li ken suli, li ken suli mute, li ken lili kin. kasi li ken kasi pi tenpo suli, li ken kasi pi tenpo lili, li ken kasi pi suli tenpo, li ken kasi pi lili tenpo. tenpo wan la, kasi sin li kama tan ma. tenpo ni la, ona li lili mute, li wan taso. kasi lili li kama sona e poka ona, li kama sona e kasi ante lon ma ni. kasi ante li suli, li tawa sewi, li kiwen lon selo, li jo e lipu laso mute lon sewi. ni li wawa a tawa kasi sin. ona li pilin e ni: "kasi poka ale li suli mute. mi o kama suli sama kasi ni ale."

@@ -1,16 +1,13 @@
 ---
 title: ma pi nimi pona
 authors:
-  - jan Telakoman
+- jan Telakoman
 date: '2021-04-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa soweli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0003soweli.pdf
-  - https://liputenpo.org/lipu/nanpa-soweli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_ma_pi_nimi_pona.png
+- https://liputenpo.org/pdfs/0003soweli.pdf
+- https://liputenpo.org/lipu/nanpa-soweli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_ma_pi_nimi_pona.png
 ---
 
 suno pona tawa sina! sina lape pona anu seme? suno pini la mi en sina li lukin e nimi mute. suno ni la mi en sina o alasa e nimi sin lon ma pi nimi pona. o lukin! suno pini la nimi Kili li lon ni, taso mi ken ala lukin e ona. nimi Soweli li moku e ona. nimi Soweli li sama ala nimi Kili anu nimi Kasi. ona li jo e sijelo sama mi sama sina. ona li pilin li musi li moku li lape li moli sama jan. taso ona li toki ala. ni la mi sona ala e pilin ona. ona li nasa lili tawa mi.

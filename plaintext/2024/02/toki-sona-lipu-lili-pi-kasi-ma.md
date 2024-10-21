@@ -1,16 +1,13 @@
 ---
-title: "toki sona: lipu lili pi kasi ma"
+title: 'toki sona: lipu lili pi kasi ma'
 authors:
-  - jan Lapate
+- jan Lapate
 date: '2024-02-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa tenpo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0024tenpo.pdf
-  - https://liputenpo.org/lipu/nanpa-tenpo/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_jan_Wata_Wiman.png
+- https://liputenpo.org/pdfs/0024tenpo.pdf
+- https://liputenpo.org/lipu/nanpa-tenpo/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_jan_Wata_Wiman.png
 ---
 
 ![jan Wata Wiman](https://upload.wikimedia.org/wikipedia/commons/f/f4/Lipu_tenpo_nanpa_tenpo_-_jan_Wata_Wiman.png)

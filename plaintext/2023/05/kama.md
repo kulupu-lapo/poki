@@ -1,18 +1,15 @@
 ---
 title: kama
 authors:
-  - jan Penta
+- jan Penta
 date: '2023-05-12'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0019mama.pdf
-  - https://liputenpo.org/lipu/nanpa-mama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_kama.png
+- https://liputenpo.org/pdfs/0019mama.pdf
+- https://liputenpo.org/lipu/nanpa-mama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_kama.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![lipu sitelen](https://upload.wikimedia.org/wikipedia/commons/1/15/Lipu_tenpo_nanpa_mama_-_kama.png)

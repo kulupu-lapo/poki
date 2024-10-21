@@ -1,15 +1,12 @@
 ---
 title: lupa ali
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2022-03-10'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nimi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0012nimi.pdf
-  - https://liputenpo.org/lipu/nanpa-nimi/
+- https://liputenpo.org/pdfs/0012nimi.pdf
+- https://liputenpo.org/lipu/nanpa-nimi/
 ---
 
 meli li wile moku. a, soweli li lon ala ma ni. kasi en kili kin li weka. sijelo meli li kule walo. sinpin ona li sama ko jaki. telo li kama ala tan oko ona. akesi wan taso li tawa meli kepeken noka anpa. meli li lukin li wile wawa e akesi. meli li selo e akesi kepeken namako mute. ni la, meli li tawa e akesi tawa uta.

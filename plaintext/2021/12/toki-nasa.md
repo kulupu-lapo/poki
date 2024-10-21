@@ -1,16 +1,13 @@
 ---
 title: toki nasa
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-12-08'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lete
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0010lete.pdf
-  - https://liputenpo.org/lipu/nanpa-lete/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_sitelen_sitelen.png
+- https://liputenpo.org/pdfs/0010lete.pdf
+- https://liputenpo.org/lipu/nanpa-lete/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_sitelen_sitelen.png
 ---
 
 ijo ale li jo e mi.  

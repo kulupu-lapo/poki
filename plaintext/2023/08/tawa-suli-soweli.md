@@ -1,19 +1,16 @@
 ---
 title: tawa suli soweli
-description: 
+description: null
 authors:
-  - jan pi nimi ala
+- jan pi nimi ala
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - jan pali en ilo ChatGPT li sitelen e lipu ni
-  - nimi sin mute pi ku ala
+- jan pali en ilo ChatGPT li sitelen e lipu ni
+- nimi sin mute pi ku ala
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/tawa-suli-soweli.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/tawa-suli-soweli.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/tawa-suli-soweli.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/tawa-suli-soweli.html
 ---
 
 ***

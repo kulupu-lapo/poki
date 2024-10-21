@@ -1,15 +1,13 @@
 ---
 title: ma pi lipu Tun
-description: 
+description: null
 authors:
-  - jan Tepo
+- jan Tepo
 date: '2021-11-08'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vShYto392jps6POf-s8mztAlGCGlBk23L61FS4D-p4yGCBQmGgVI1_r5P1gZEbv5Pvyt7vEiH5mxGYa/pub
-  - https://wikisource.org/wiki/Kalama_sin/7
+- https://docs.google.com/document/d/e/2PACX-1vShYto392jps6POf-s8mztAlGCGlBk23L61FS4D-p4yGCBQmGgVI1_r5P1gZEbv5Pvyt7vEiH5mxGYa/pub
+- https://wikisource.org/wiki/Kalama_sin/7
 ---
 
 o kama pona tawa kalama sin. mi jan Tepo. tenpo kalama ni la mi kama wile e ijo tan lipu Tun. jan Pan Epe li pali e lipu ni lon tenpo sike pini mute. ona li pali e lipu la lon la ona li pali e ma, e mun, li toki e ken pi tenpo kama. tenpo kama suli la seme li lon? ken la jan li tawa mun ante kepeken tomo tawa mun lon tenpo kama suli. ni la ma seme li lon lipu ni? kulupu jan seme li lon ma lon tenpo? lipu li toki mute e ma. jan kin li lon ma, tenpo la lipu li toki e pali pi jan ni. taso ni li musi mute ala tawa mi. musi pi lipu ni li ni: ma li seme li nasa seme li pona seme li wawa seme li musi seme? seme li lon ma? ni la kalama ni la mi wile toki e ma Tun, e ma pi lipu Tun.

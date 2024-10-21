@@ -1,16 +1,13 @@
 ---
 title: tomo pi kiwen suli
 authors:
-  - jan Simiman
+- jan Simiman
 date: '2023-11-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sin
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0022sin.pdf
-  - https://liputenpo.org/lipu/nanpa-sin/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sin_-_tomo_pi_kiwen_suli.png
+- https://liputenpo.org/pdfs/0022sin.pdf
+- https://liputenpo.org/lipu/nanpa-sin/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sin_-_tomo_pi_kiwen_suli.png
 ---
 
 ![tomo pi kiwen suli](https://upload.wikimedia.org/wikipedia/commons/1/14/Lipu_tenpo_nanpa_sin_-_tomo_pi_kiwen_suli.png)

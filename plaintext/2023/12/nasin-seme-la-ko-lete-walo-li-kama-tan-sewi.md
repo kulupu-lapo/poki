@@ -1,16 +1,13 @@
 ---
 title: nasin seme la, ko lete walo li kama tan sewi?
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2023-12-25'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sewi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0023sewi.pdf
-  - https://liputenpo.org/lipu/nanpa-sewi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_ko_lete_walo.png
+- https://liputenpo.org/pdfs/0023sewi.pdf
+- https://liputenpo.org/lipu/nanpa-sewi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_ko_lete_walo.png
 ---
 
 mi kama lon tenpo lete. ma sina li weka a tan ma mi la, seli li ken lon ma sina. taso sina lon ma mi, anu ma poka, anu ma pi kon sama la, tenpo lete li kama open.

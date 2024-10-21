@@ -1,14 +1,11 @@
 ---
 title: o toki pona
 authors:
-  - jan Piwan
+- jan Piwan
 date: '2020-11-11'
-collections:
-  - utala.pona.la
-  - utala pi toki musi (2020)
-license:
+license: null
 sources:
-  - https://utala.pona.la/toki-musi-lili/
+- https://utala.pona.la/toki-musi-lili/
 ---
 
 jan pona mi o  

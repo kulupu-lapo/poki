@@ -1,18 +1,15 @@
 ---
 title: toki mun tu
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2023-12-25'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sewi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0023sewi.pdf
-  - https://liputenpo.org/lipu/nanpa-sewi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_toki_mun_tu.png
+- https://liputenpo.org/pdfs/0023sewi.pdf
+- https://liputenpo.org/lipu/nanpa-sewi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_toki_mun_tu.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![jan tu li lon mun](https://upload.wikimedia.org/wikipedia/commons/c/c6/Lipu_tenpo_nanpa_sewi_-_toki_mun_tu.png)

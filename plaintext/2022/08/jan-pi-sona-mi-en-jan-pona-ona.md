@@ -1,19 +1,17 @@
 ---
 title: jan pi sona mi en jan pona ona
-description: mi sona e jan. jan ni taso li lape lon tomo ona, taso jan pona ona wan li moku lon poka lon tenpo suno ale.
+description: mi sona e jan. jan ni taso li lape lon tomo ona, taso jan pona ona wan
+  li moku lon poka lon tenpo suno ale.
 authors:
-  - jan Ontoli
+- jan Ontoli
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - moku
-  - jan li weka e jan pona ona
-license:
+- moku
+- jan li weka e jan pona ona
+license: null
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/jan-pi-sona-mi-en-jan-pona-ona.md
-  - http://utala.pona.la/lipu-lili/jan-pi-sona-mi-en-jan-pona-ona.html
+- https://github.com/raacz/utala/blob/main/lipu-lili/jan-pi-sona-mi-en-jan-pona-ona.md
+- http://utala.pona.la/lipu-lili/jan-pi-sona-mi-en-jan-pona-ona.html
 ---
 
 mi sona e jan. tomo ona la, jan ni taso li lape, li musi, li pali. jan ante ala li lon tomo ona. taso la, tenpo suno ale la, ona li pana moku tawa jan tu. tenpo suno ale la, jan pona li kama tawa tomo jan, li moku. jan pona li pona e jan. kin la, jan sona mi li pona tawa jan pona.
@@ -36,4 +34,4 @@ tenpo wan la, jan pona li kama ala lon tenpo mute mute. jan sona mi li sona ala 
 
 ona li open toki e ni: “seme la jan pona li lon ala? ken la mi pini musi e ona. ona li wile ala lon poka mi. ken la ona li moli. mi ken ala lon poki sina lon tenpo kama ale. ken la ona li lon ala, li powe. tenpo pini la, mi wile wawa e jan pona. ken la, ni la lawa mi pali e ona tawa mi.”
 
-jan sona mi li toki e ni la, jan pona li lukin, li kute, li pilin pakala. ona li lukin li wile e ni: jan sona mi li pali moku tawa jan tu. taso jan li pali ala e ni. jan pona li awen wile moku li awen wile li awen wile lon paki pi jan sona mi.  
+jan sona mi li toki e ni la, jan pona li lukin, li kute, li pilin pakala. ona li lukin li wile e ni: jan sona mi li pali moku tawa jan tu. taso jan li pali ala e ni. jan pona li awen wile moku li awen wile li awen wile lon paki pi jan sona mi.

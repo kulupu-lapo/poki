@@ -1,15 +1,12 @@
 ---
 title: pilin jan
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2022-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa walo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0011walo.pdf
-  - https://liputenpo.org/lipu/nanpa-walo/
+- https://liputenpo.org/pdfs/0011walo.pdf
+- https://liputenpo.org/lipu/nanpa-walo/
 ---
 
 lete mute li ken ala kute.  

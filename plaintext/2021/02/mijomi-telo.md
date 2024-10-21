@@ -1,17 +1,14 @@
 ---
 title: mijomi telo
 authors:
-  - jan Sami
-  - jan Kawa
-  - jan inwin
+- jan Sami
+- jan Kawa
+- jan inwin
 date: '2021-02-08'
-collections:
-  - utala.pona.la
-  - utala pi lipu kalama tawa (2021)
-license:
+license: null
 sources:
-  - https://utala.pona.la/lipu-kalama-tawa/
-  - https://utala.pona.la/lipu-kalama-tawa/mijomi-telo.pdf
+- https://utala.pona.la/lipu-kalama-tawa/
+- https://utala.pona.la/lipu-kalama-tawa/mijomi-telo.pdf
 ---
 
 ## ma

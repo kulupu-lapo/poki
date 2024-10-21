@@ -1,18 +1,15 @@
 ---
 title: mun lili
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2024-07-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa linja
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0027linja.pdf
-  - https://liputenpo.org/lipu/nanpa-linja/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_lukin_mun.png
+- https://liputenpo.org/pdfs/0027linja.pdf
+- https://liputenpo.org/lipu/nanpa-linja/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_lukin_mun.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![soweli lili li lukin e mun mute suwi kepeken ilo lukin li sitelen e mun tawa lipu](https://upload.wikimedia.org/wikipedia/commons/a/ad/Lipu_tenpo_nanpa_linja_-_lukin_mun.png)

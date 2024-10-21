@@ -1,16 +1,13 @@
 ---
 title: tenpo pi kalama musi
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2021-12-08'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lete
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0010lete.pdf
-  - https://liputenpo.org/lipu/nanpa-lete/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_kapesi_Pake.png
+- https://liputenpo.org/pdfs/0010lete.pdf
+- https://liputenpo.org/lipu/nanpa-lete/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_kapesi_Pake.png
 ---
 
 jan li ken toki e toki pona. jan li ken lukin e toki pona. taso, jan li kute ala kute e toki pona? ona li ken! ni la, ona li ken kepeken kalama musi pi toki pona. kalama musi pi nanpa lili li ante toki. kalama musi kin li kalama sin. ali li pona tawa kute.

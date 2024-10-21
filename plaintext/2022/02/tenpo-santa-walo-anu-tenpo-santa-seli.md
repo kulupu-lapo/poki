@@ -1,16 +1,13 @@
 ---
 title: tenpo Santa walo anu tenpo Santa seli?
 authors:
-  - jan Polo
+- jan Polo
 date: '2022-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa walo
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0011walo.pdf
-  - https://liputenpo.org/lipu/nanpa-walo/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_jan_Santa.png
+- https://liputenpo.org/pdfs/0011walo.pdf
+- https://liputenpo.org/lipu/nanpa-walo/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_jan_Santa.png
 ---
 
 ma Elopa en ma Mewika pi nasin lete la mi mute li pilin e ni: tenpo Santa o walo. ona li jo e ko lete mute, la ona li pona. pilin pi tenpo Santa seli li nasa li ike. taso ma mute la tenpo Santa seli li nasa ala li ike ala. pana lukin la ma Malasija la tenpo Santa li seli mute a! taso ken la jan mute li toki e ni: ma Malasija li ma pi nasin sewi Isilan anu seme? tenpo suno Santa li lon ala lon? ona li lon a. ona li tenpo lawa pi pali ala!

@@ -1,15 +1,12 @@
 ---
 title: o kama jo e nimi Iso
 authors:
-  - jan Nowa
+- jan Nowa
 date: '2022-03-10'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa nimi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0012nimi.pdf
-  - https://liputenpo.org/lipu/nanpa-nimi/
+- https://liputenpo.org/pdfs/0012nimi.pdf
+- https://liputenpo.org/lipu/nanpa-nimi/
 ---
 
 tenpo poka la, kulupu pi toki pona li pali e ijo pi pona wawa: ona li toki tawa kulupu Iso. kulupu Iso li pali e ijo mute. ijo wan ni li ni: ona li pana e nimi lili tawa nasin toki ale. lipu linluwi[^1] en ilo linluwi li ken kepeken ni tawa pali pi toki ante. toki mute li jo e nimi Iso: toki Inli en toki Sonko en toki Epelanto en toki ante mute. taso tenpo pini la, toki pona li jo ala e nimi ni.

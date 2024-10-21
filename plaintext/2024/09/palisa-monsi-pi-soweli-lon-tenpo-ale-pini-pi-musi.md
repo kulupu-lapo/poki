@@ -1,18 +1,19 @@
 ---
 title: 'palisa monsi pi soweli lon tenpo ale: pini pi musi'
 original-title: 'Eternal Tails: Game Over'
-description: 'utala ale li wile pini. jan pona ale li wile tawa anpa. jan ale li wile toki e ni lon tenpo kama: "mi tawa." soweli Mile Powe (Miles Prower) li ante ala.'
+description: 'utala ale li wile pini. jan pona ale li wile tawa anpa. jan ale li wile
+  toki e ni lon tenpo kama: "mi tawa." soweli Mile Powe (Miles Prower) li ante ala.'
 authors:
-  - 'Pantalion'
+- Pantalion
 translators:
-  - 'Hopeful_Student'
+- Hopeful_Student
 date: '2024-09-10'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/58840579
+- https://archiveofourown.org/works/58840579
 archives:
-  - https://web.archive.org/web/20240927132033/https://archiveofourown.org/works/58840579
+- https://web.archive.org/web/20240927132033/https://archiveofourown.org/works/58840579
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---

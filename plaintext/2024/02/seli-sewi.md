@@ -1,18 +1,19 @@
 ---
 title: seli sewi
 original-title: holy fire
-description: 'seli sewi li kipisi e sina. seli sewi li lon oko ona. ante: jan Makalole li kama sona e jan sewi.'
+description: 'seli sewi li kipisi e sina. seli sewi li lon oko ona. ante: jan Makalole
+  li kama sona e jan sewi.'
 authors:
-  - Wholesome_Soup
+- Wholesome_Soup
 translators:
-  - mokutelo_pona (Wholesome_Soup)
+- mokutelo_pona (Wholesome_Soup)
 date: '2024-02-27'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/54104698
+- https://archiveofourown.org/works/54104698
 archives:
-  - https://web.archive.org/web/20240927154926/https://archiveofourown.org/works/54104698
+- https://web.archive.org/web/20240927154926/https://archiveofourown.org/works/54104698
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

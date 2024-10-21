@@ -1,16 +1,13 @@
 ---
 title: toki Olapi li seme?
 authors:
-  - jan Imi
+- jan Imi
 date: '2023-11-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sin
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0022sin.pdf
-  - https://liputenpo.org/lipu/nanpa-sin/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sin_-_toki_Olapi.svg
+- https://liputenpo.org/pdfs/0022sin.pdf
+- https://liputenpo.org/lipu/nanpa-sin/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sin_-_toki_Olapi.svg
 ---
 
 ![toki Olapi](https://upload.wikimedia.org/wikipedia/commons/1/17/Lipu_tenpo_nanpa_sin_-_toki_Olapi.svg)

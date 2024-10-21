@@ -1,16 +1,13 @@
 ---
 title: seme li mi
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2024-03-20'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kalama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0025kalama.pdf
-  - https://liputenpo.org/lipu/nanpa-kalama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_sitelen_sitelen.png
+- https://liputenpo.org/pdfs/0025kalama.pdf
+- https://liputenpo.org/lipu/nanpa-kalama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_sitelen_sitelen.png
 ---
 
 mi walo mi jelo mi loje mi laso  

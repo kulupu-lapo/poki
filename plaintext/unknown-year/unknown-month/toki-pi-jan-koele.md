@@ -2,20 +2,18 @@
 title: toki pi jan Koele
 original-title: Ecclesiastes
 authors:
-  - Authors of the Bible
+- Authors of the Bible
 translators:
-  - Michael F.
+- Michael F.
 date: Unknown
-collections:
-  - Fail Blue Dot
 tags:
-  - translation
-  - prose
+- translation
+- prose
 license: CC BY-NC 3.0
 sources:
-  - http://failbluedot.com/toki_pona/ecclesiastes
+- http://failbluedot.com/toki_pona/ecclesiastes
 archives:
-  - https://web.archive.org/web/20140305061214/http://failbluedot.com/toki_pona/ecclesiastes
+- https://web.archive.org/web/20140305061214/http://failbluedot.com/toki_pona/ecclesiastes
 ---
 
 # toki pi jan Koele

@@ -1,19 +1,16 @@
 ---
 title: pipi linja pi noka ala
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2024-07-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa linja
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0027linja.pdf
-  - https://liputenpo.org/lipu/nanpa-linja/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_pipi_linja.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_kala_linja.png
+- https://liputenpo.org/pdfs/0027linja.pdf
+- https://liputenpo.org/lipu/nanpa-linja/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_pipi_linja.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_kala_linja.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 pipi linja mute li lon, taso pipi linja ale li linja li sike li lili. tenpo pini mute la jan li pilin e ni: pipi lili li akesi. nasa a! taso tenpo ni kin la pipi linja li ken nimi pi pipi mute ante.

@@ -1,15 +1,12 @@
 ---
 title: taki
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2023-11-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sin
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0022sin.pdf
-  - https://liputenpo.org/lipu/nanpa-sin/
+- https://liputenpo.org/pdfs/0022sin.pdf
+- https://liputenpo.org/lipu/nanpa-sin/
 ---
 
 tenpo pini lili la, sina lon,  

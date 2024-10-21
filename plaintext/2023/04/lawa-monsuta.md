@@ -1,14 +1,12 @@
 ---
 title: lawa monsuta
 authors:
-  - jan Juli
-date:
-collections:
-  - lipu kule
+- jan Juli
+date: null
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2023-04-14-lawa-monsuta.md
-  - https://lipukule.org/post/2023/04/10/lawa-monsuta/
+- https://github.com/lipukule/site/blob/main/content/post/2023-04-14-lawa-monsuta.md
+- https://lipukule.org/post/2023/04/10/lawa-monsuta/
 ---
 
 o sona a: moli en pilin ike li lon toki musi ni

@@ -1,15 +1,12 @@
 ---
 title: jan Makupetu - kipisi suli nanpa wan - kipisi lili nanpa wan
 authors:
-  - jan Imi
+- jan Imi
 date: '2023-12-25'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sewi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0023sewi.pdf
-  - https://liputenpo.org/lipu/nanpa-sewi/
+- https://liputenpo.org/pdfs/0023sewi.pdf
+- https://liputenpo.org/lipu/nanpa-sewi/
 ---
 
 (ma pi jan ala)

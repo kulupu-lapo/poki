@@ -1,17 +1,15 @@
 ---
 title: poki nasa
-description: 
+description: null
 authors:
-  - jan Lakuse
-  - kala Salan
-  - jan Tepo
+- jan Lakuse
+- kala Salan
+- jan Tepo
 date: '2022-06-12'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vTq5b0nc7MNlG7AFCm-NqYhlc2vS0uRqvdcojDMrrIgF8mNmYyyvQrw9ZYbWm3L4sq8pxmItTmdQwd9/pub
-  - https://wikisource.org/wiki/Kalama_sin/22
+- https://docs.google.com/document/d/e/2PACX-1vTq5b0nc7MNlG7AFCm-NqYhlc2vS0uRqvdcojDMrrIgF8mNmYyyvQrw9ZYbWm3L4sq8pxmItTmdQwd9/pub
+- https://wikisource.org/wiki/Kalama_sin/22
 preprocessing: replaced unusual "j., k." abbreviations with the full names
 ---
 

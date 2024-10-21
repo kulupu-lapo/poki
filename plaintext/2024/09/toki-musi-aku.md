@@ -1,18 +1,15 @@
 ---
 title: toki musi aku
 authors:
-  - soweli Eli
+- soweli Eli
 date: '2024-09-07'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lawa
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0028lawa.pdf
-  - https://liputenpo.org/lipu/nanpa-lawa/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_akesi_en_telo.png
+- https://liputenpo.org/pdfs/0028lawa.pdf
+- https://liputenpo.org/lipu/nanpa-lawa/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_akesi_en_telo.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![akesi li lon telo](https://upload.wikimedia.org/wikipedia/commons/8/83/Lipu_tenpo_nanpa_lawa_-_akesi_en_telo.png)

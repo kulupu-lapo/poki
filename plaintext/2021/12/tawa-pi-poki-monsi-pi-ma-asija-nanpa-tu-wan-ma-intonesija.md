@@ -1,16 +1,13 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa tu wan - ma Intonesija
 authors:
-  - jan Polo
+- jan Polo
 date: '2021-12-08'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa lete
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0010lete.pdf
-  - https://liputenpo.org/lipu/nanpa-lete/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_ma_Intonesija.png
+- https://liputenpo.org/pdfs/0010lete.pdf
+- https://liputenpo.org/lipu/nanpa-lete/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_ma_Intonesija.png
 ---
 
 ma Intonesija li ma suli mute li jo e ma mute mute pi insa telo suli e nena suli seli mute mute. sama pi ma Malasija la ma Intonesija li ma seli li jo e tenpo tu taso pi tenpo sike. linja pi meso[^1] ma li tawa lon insa pi ma ni. jan pi ma ni la ku lupu suli nanpa wan li jan pi nasin sewi Silami, taso jan pi nasin sewi Kolisu en jan pi nasin sewi Palata mute kin li lon. ma ni la jan mute pi mani lili li lon, taso jan li pona mute. jan li ken ike ala. jan pi mute lili li ken toki e toki Inli. tan ni la mi tawa la mi toki e toki Male. toki Male li poka mute pi toki Intonesija. jan pi ma Intonesija li sona pona e toki mi. mi awen li pali lon ma Pulune la, mi kama sona e toki Male.

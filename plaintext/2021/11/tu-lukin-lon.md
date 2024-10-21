@@ -1,15 +1,13 @@
 ---
 title: tu lukin lon
-description: 
+description: null
 authors:
-  - jan Lakuse
+- jan Lakuse
 date: '2021-11-29'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vSOEdt92WI-5IMBBT-HopLtu_zg_seU5VBhA7klqKz1g9NVHsgPvTvzdgq-4Mm9X8paRX9g-ubkpZdq/pub
-  - https://wikisource.org/wiki/Kalama_sin/10
+- https://docs.google.com/document/d/e/2PACX-1vSOEdt92WI-5IMBBT-HopLtu_zg_seU5VBhA7klqKz1g9NVHsgPvTvzdgq-4Mm9X8paRX9g-ubkpZdq/pub
+- https://wikisource.org/wiki/Kalama_sin/10
 ---
 
 jan ale o, toki! mi jan Lakuse. mi jan pi toki pona. mi lon kulupu lon ilo Siko.

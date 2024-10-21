@@ -1,15 +1,12 @@
 ---
 title: ma pi nimi pona
 authors:
-  - jan Telakoman
+- jan Telakoman
 date: '2021-08-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa suno
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0006suno.pdf
-  - https://liputenpo.org/lipu/nanpa-suno/
+- https://liputenpo.org/pdfs/0006suno.pdf
+- https://liputenpo.org/lipu/nanpa-suno/
 ---
 
 jan pona mi o! tenpo suno ni li tenpo suno ike lon ma pi nimi pona. ale li ike tan ni: nimi Sona en nimi Pilin li utala li toki ike kepeken kalama suli. nimi Sona li tawa tomo ona, nimi Pilin li tawa tomo ona. nimi ale li pilin ike.

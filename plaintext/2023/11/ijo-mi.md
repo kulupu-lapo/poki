@@ -1,15 +1,12 @@
 ---
 title: ijo mi
 authors:
-  - jan Penta
+- jan Penta
 date: '2023-11-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sin
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0022sin.pdf
-  - https://liputenpo.org/lipu/nanpa-sin/
+- https://liputenpo.org/pdfs/0022sin.pdf
+- https://liputenpo.org/lipu/nanpa-sin/
 ---
 
 ijo li ale li ken lon ike · ijo li musi li jaki ale · ijo mi li lili li ken suli kin · suli la mi wile kama ijo ni · mi pini open sitelen e sitelen sina tawa sina · mi sitelen lon tomo sina tawa · mi sitelen kepeken ilo mi tawa ni · mi sitelen telo · mi telo e lipu kepeken sitelen nimi · nimi li mi · nimi li tan mi · nimi mi li lon · mi lon... anu seme?

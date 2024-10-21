@@ -1,16 +1,13 @@
 ---
 title: kalama insa pi toki ike li tan seme?
 authors:
-  - jan Telakoman
+- jan Telakoman
 date: '2021-04-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa soweli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0003soweli.pdf
-  - https://liputenpo.org/lipu/nanpa-soweli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_kalama_insa_ike.svg
+- https://liputenpo.org/pdfs/0003soweli.pdf
+- https://liputenpo.org/lipu/nanpa-soweli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_kalama_insa_ike.svg
 ---
 
 jan ale li ken pilin ike. jan li pali e ike tawa jan ante la open la ona li pilin e ni: “mi jan ike.” taso jan mute li awen ala lon pilin ni. ona li pona e pali ike ona li pona e pilin pi jan ante la ona li pilin pona.

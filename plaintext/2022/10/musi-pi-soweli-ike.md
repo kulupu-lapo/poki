@@ -1,16 +1,13 @@
 ---
 title: musi pi soweli ike
 authors:
-  - jan Jakopo
+- jan Jakopo
 date: '2022-10-17'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kulupu
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0016kulupu.pdf
-  - https://liputenpo.org/lipu/nanpa-kulupu/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_soweli_ike.png
+- https://liputenpo.org/pdfs/0016kulupu.pdf
+- https://liputenpo.org/lipu/nanpa-kulupu/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_soweli_ike.png
 ---
 
 ![soweli ike](https://upload.wikimedia.org/wikipedia/commons/e/e2/Lipu_tenpo_nanpa_kulupu_-_soweli_ike.png)

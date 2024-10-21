@@ -1,14 +1,11 @@
 ---
 title: lon linja telo
 authors:
-  - jan Sitowapu
+- jan Sitowapu
 date: '2020-11-11'
-collections:
-  - utala.pona.la
-  - utala pi toki musi (2020)
-license:
+license: null
 sources:
-  - https://utala.pona.la/toki-musi-lili/
+- https://utala.pona.la/toki-musi-lili/
 ---
 
 ale li kama pona.  

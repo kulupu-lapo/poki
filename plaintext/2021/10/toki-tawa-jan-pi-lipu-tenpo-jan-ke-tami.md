@@ -1,15 +1,12 @@
 ---
 title: toki tawa jan pi lipu tenpo - jan Ke Tami
 authors:
-  - jan Sonatan
+- jan Sonatan
 date: '2021-10-06'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa toki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0008toki.pdf
-  - https://liputenpo.org/lipu/nanpa-toki/
+- https://liputenpo.org/pdfs/0008toki.pdf
+- https://liputenpo.org/lipu/nanpa-toki/
 ---
 
 jan Ke Tami o toki! sina pali e seme tawa lipu tenpo?

@@ -1,14 +1,12 @@
 ---
 title: nasin tenpo pi kamalawala Kanse
 authors:
-  - jan Peton
-date: 2022-06-14T16:47:45.607Z
-collections:
-  - lipu kule
+- jan Peton
+date: 2022-06-14 16:47:45.607000
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2022-06-14-nasin-tenpo-pi-kamalawala-kanse.md
-  - https://lipukule.org/post/2022/06/14/nasin-tenpo-pi-kamalawala-kanse/
+- https://github.com/lipukule/site/blob/main/content/post/2022-06-14-nasin-tenpo-pi-kamalawala-kanse.md
+- https://lipukule.org/post/2022/06/14/nasin-tenpo-pi-kamalawala-kanse/
 ---
 
 sina sona ala sona e ni: jan mute li kepeken nasin tenpo mute? ma Juwese la mi kepeken nasin tenpo pi jan Kekoli, taso ma en jan ale li kepeken ala nasin ni.

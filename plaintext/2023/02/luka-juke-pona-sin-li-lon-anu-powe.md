@@ -1,17 +1,14 @@
 ---
 title: luka Juke - pona sin li lon anu powe[^1]?
 authors:
-  - jan Olipija
+- jan Olipija
 date: '2023-02-06'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa tu
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0018tu.pdf
-  - https://liputenpo.org/lipu/nanpa-tu/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tu_-_luka_Juke.png
-  - 
+- https://liputenpo.org/pdfs/0018tu.pdf
+- https://liputenpo.org/lipu/nanpa-tu/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tu_-_luka_Juke.png
+- null
 ---
 
 ![luka Juke](https://upload.wikimedia.org/wikipedia/commons/6/66/Lipu_tenpo_nanpa_tu_-_luka_Juke.png)

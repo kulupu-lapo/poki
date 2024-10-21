@@ -1,20 +1,18 @@
 ---
 title: kala pi alasa kala
-description: mun ante li lon weka mute li kepeken nasin pi ma mi ala. ma mi en mun ni li ante seme li sama seme?
+description: mun ante li lon weka mute li kepeken nasin pi ma mi ala. ma mi en mun
+  ni li ante seme li sama seme?
 authors:
-  - jan Itan
+- jan Itan
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - moku
-  - pipi
-  - sijelo jan li nasa lili
-license:
+- moku
+- pipi
+- sijelo jan li nasa lili
+license: null
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/kala-pi-alasa-kala.md
-  - http://utala.pona.la/lipu-lili/kala-pi-alasa-kala.html
+- https://github.com/raacz/utala/blob/main/lipu-lili/kala-pi-alasa-kala.md
+- http://utala.pona.la/lipu-lili/kala-pi-alasa-kala.html
 ---
 
 tenpo poka la mun ante pi weka suli a la kulupu jan li lon. mun ni ona li sama ala mun sina.

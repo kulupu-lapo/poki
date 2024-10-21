@@ -1,16 +1,13 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa luka luka wan - ma Kanpusi
 authors:
-  - jan Polo
+- jan Polo
 date: '2023-02-06'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa tu
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0018tu.pdf
-  - https://liputenpo.org/lipu/nanpa-tu/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tu_-_ma_Kanpusi.png
+- https://liputenpo.org/pdfs/0018tu.pdf
+- https://liputenpo.org/lipu/nanpa-tu/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tu_-_ma_Kanpusi.png
 ---
 
 ![ma Kanpusi](https://upload.wikimedia.org/wikipedia/commons/d/d2/Lipu_tenpo_nanpa_tu_-_ma_Kanpusi.png)

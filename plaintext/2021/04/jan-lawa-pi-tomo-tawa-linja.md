@@ -1,16 +1,13 @@
 ---
 title: jan lawa pi tomo tawa linja
 authors:
-  - jan Telakoman
+- jan Telakoman
 date: '2021-04-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa soweli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0003soweli.pdf
-  - https://liputenpo.org/lipu/nanpa-soweli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_tomo_tawa_linja.svg
+- https://liputenpo.org/pdfs/0003soweli.pdf
+- https://liputenpo.org/lipu/nanpa-soweli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_tomo_tawa_linja.svg
 ---
 
 ma tomo lili pi ma weka la nasin kiwen pi tomo tawa linja li lon. nasin kiwen la linja kiwen tu li lon. lawa pi nasin kiwen la tomo tawa linja li tawa.

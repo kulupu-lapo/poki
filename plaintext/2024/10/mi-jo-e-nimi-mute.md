@@ -1,15 +1,15 @@
 ---
 title: mi jo e nimi mute
 authors:
-  - Skimmed
+- Skimmed
 date: '2024-10-02'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/59401648
+- https://archiveofourown.org/works/59401648
 archives:
-  - https://archive.ph/KSxMV
-  - https://archive.ph/p9NmG
+- https://archive.ph/KSxMV
+- https://archive.ph/p9NmG
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

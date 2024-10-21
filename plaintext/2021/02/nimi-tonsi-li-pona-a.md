@@ -1,16 +1,13 @@
 ---
 title: nimi “tonsi” li pona a!
 authors:
-  - jan Olipija
+- jan Olipija
 date: '2021-02-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa akesi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0001akesi.pdf
-  - https://liputenpo.org/lipu/nanpa-akesi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_tonsi.png
+- https://liputenpo.org/pdfs/0001akesi.pdf
+- https://liputenpo.org/lipu/nanpa-akesi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_tonsi.png
 ---
 
 tonsi li seme? tonsi la, kepeken tu li lon. kepeken nanpa wan la, tonsi li mije ala li meli ala. kepeken ante la, tonsi li ni: mije tawa meli anu meli tawa mije anu meli/ mije tawa tonsi.

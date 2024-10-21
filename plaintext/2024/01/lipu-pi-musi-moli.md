@@ -1,15 +1,16 @@
 ---
 title: lipu pi musi moli
-description: 'tenpo pi suli pimeja kama la jan Lajato anpa e jan Elele la, ona li pilin. ma sama ala la, waso sewi Wemu li oko pilin e olin.'
+description: tenpo pi suli pimeja kama la jan Lajato anpa e jan Elele la, ona li pilin.
+  ma sama ala la, waso sewi Wemu li oko pilin e olin.
 authors:
-  - treatster
+- treatster
 date: '2024-01-28'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/53348932/chapters/135018496
+- https://archiveofourown.org/works/53348932/chapters/135018496
 archives:
-  - https://web.archive.org/web/20240927162819/https://archiveofourown.org/works/53348932/chapters/135018496
+- https://web.archive.org/web/20240927162819/https://archiveofourown.org/works/53348932/chapters/135018496
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---

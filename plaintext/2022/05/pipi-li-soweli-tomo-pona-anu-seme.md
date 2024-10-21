@@ -1,16 +1,13 @@
 ---
 title: pipi li soweli tomo (pona) anu seme?
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-05-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pipi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0013pipi.pdf
-  - https://liputenpo.org/lipu/nanpa-pipi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_poki_pipi.png
+- https://liputenpo.org/pdfs/0013pipi.pdf
+- https://liputenpo.org/lipu/nanpa-pipi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_poki_pipi.png
 ---
 
 tenpo ni la, jan mute li jo e soweli tomo. taso, soweli tomo nasa mute li lon. mi la, soweli tomo mi li pipi… mute. mi jo e pipi lili pi kulupu suli, taso kulupu ona li lili lon tenpo ni.

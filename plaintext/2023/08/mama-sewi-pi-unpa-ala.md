@@ -1,21 +1,19 @@
 ---
 title: mama sewi pi unpa ala
-description: 
+description: null
 authors:
-  - jan Lakuse
+- jan Lakuse
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - sewi li nasa e sijelo jan
-  - ike nasin pi ma Mewika tawa jan pi ken mama sijelo
-  - jan li mama e jan lili lon insa ona li ken ala weka e ona tan lawa
+- sewi li nasa e sijelo jan
+- ike nasin pi ma Mewika tawa jan pi ken mama sijelo
+- jan li mama e jan lili lon insa ona li ken ala weka e ona tan lawa
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/mama-pi-unpa-ala.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/mama-pi-unpa-ala.html
-notes: originally in ucsur sitelen pona, but saved in plaintext for Lapo. text contains cartouches meant to be read syllabically
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/mama-pi-unpa-ala.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/mama-pi-unpa-ala.html
+notes: originally in ucsur sitelen pona, but saved in plaintext for Lapo. text contains
+  cartouches meant to be read syllabically
 ---
 
 mi pi unpa ala li  
@@ -128,4 +126,4 @@ li pana mani tawa mi.
 taso toki ante ale la  
 jan lili li sona ala.  
 nasa la toki pona taso   
-li ken lon pilin ona.  
+li ken lon pilin ona.

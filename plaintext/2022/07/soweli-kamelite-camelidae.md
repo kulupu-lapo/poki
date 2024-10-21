@@ -1,16 +1,13 @@
 ---
 title: soweli Kamelite (Camelidae)
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-07-04'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa seli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0014seli.pdf
-  - https://liputenpo.org/lipu/nanpa-seli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_soweli.png
+- https://liputenpo.org/pdfs/0014seli.pdf
+- https://liputenpo.org/lipu/nanpa-seli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_soweli.png
 ---
 
 soweli Kamelite li soweli pi ma seli, taso ona li ken soweli pi ma lete.

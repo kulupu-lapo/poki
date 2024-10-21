@@ -1,16 +1,13 @@
 ---
 title: utala pi ilo tawa
 authors:
-  - jan Pa·ipa
+- jan Pa·ipa
 date: '2021-04-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa soweli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0003soweli.pdf
-  - https://liputenpo.org/lipu/nanpa-soweli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_utala_pi_ilo_tawa.png
+- https://liputenpo.org/pdfs/0003soweli.pdf
+- https://liputenpo.org/lipu/nanpa-soweli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_utala_pi_ilo_tawa.png
 ---
 
 tomo sona Masasuse (MIT) li pali e ilo pi nasin pona. ilo li toki e ni tawa jan: seme li pona?

@@ -1,18 +1,15 @@
 ---
 title: tenpo pini weka
-description: 
+description: null
 authors:
-  - jan Akeso
+- jan Akeso
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - moku li lon
+- moku li lon
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/tenpo-pini-weka.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/tenpo-pini-weka.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/tenpo-pini-weka.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/tenpo-pini-weka.html
 preprocessing: includes HTML
 ---
 

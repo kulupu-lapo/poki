@@ -1,23 +1,20 @@
 ---
 title: musi palisa
 authors:
-  - jan Masine
+- jan Masine
 date: '2023-12-25'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa sewi
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0023sewi.pdf
-  - https://liputenpo.org/lipu/nanpa-sewi/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_01.jpg
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_02.jpg
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_03.jpg
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_04.jpg
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_05.jpg
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_06.jpg
+- https://liputenpo.org/pdfs/0023sewi.pdf
+- https://liputenpo.org/lipu/nanpa-sewi/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_01.jpg
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_02.jpg
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_03.jpg
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_04.jpg
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_05.jpg
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_06.jpg
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 tenpo pini la mi tawa ma Somi (Suomi). tenpo open la mi sona lili e ma Somi, taso mi kama sona mute tan ona lon tenpo mi pi ma ni. tenpo suno wan lon tenpo lete la mi lukin e ijo. ona li pona lukin li nasa lukin tawa mi. ijo ni li jo e sinpin mute. jan li pali e ona tan palisa kasi tan linja. mi sona ala e kon ona. mi toki e ni tawa jan pona mi: “ijo ni li seme?”

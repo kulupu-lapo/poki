@@ -1,18 +1,15 @@
 ---
 title: jaki sijelo ni li moli nanpa wan
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2024-05-14'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa jaki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0026jaki.pdf
-  - https://liputenpo.org/lipu/nanpa-jaki/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_moli.png
+- https://liputenpo.org/pdfs/0026jaki.pdf
+- https://liputenpo.org/lipu/nanpa-jaki/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_moli.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![mani lili en tawa tenpo li kama e moli](https://upload.wikimedia.org/wikipedia/commons/b/bc/Lipu_tenpo_nanpa_jaki_-_moli.png)

@@ -1,20 +1,17 @@
 ---
 title: linja pipi li wawa seme
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2024-07-05'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa linja
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0027linja.pdf
-  - https://liputenpo.org/lipu/nanpa-linja/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_pipi_awen.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_linja_pipi_kulupu.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_linja_pipi_tomo.png
+- https://liputenpo.org/pdfs/0027linja.pdf
+- https://liputenpo.org/lipu/nanpa-linja/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_pipi_awen.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_linja_pipi_kulupu.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_linja_pipi_tomo.png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![pipi li jo sewi e poki kepeken linja wawa](https://upload.wikimedia.org/wikipedia/commons/6/69/Lipu_tenpo_nanpa_linja_-_pipi_awen.png)

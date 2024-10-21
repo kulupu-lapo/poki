@@ -1,18 +1,16 @@
 ---
 title: mije pi utala toki
-description: mije li kama tawa mije ante la, ona tu li pilin ike. ona tu li utala kepeken toki ike. jan ante li kama, li lukin e utala ni.
+description: mije li kama tawa mije ante la, ona tu li pilin ike. ona tu li utala
+  kepeken toki ike. jan ante li kama, li lukin e utala ni.
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2022-08-06'
-collections:
-  - utala.pona.la
-  - utala pi lipu musi lili (2022)
 tags:
-  - moku
+- moku
 license: CC-BY-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/lipu-lili/mije-pi-utala-toki.md
-  - http://utala.pona.la/lipu-lili/mije-pi-utala-toki.html
+- https://github.com/raacz/utala/blob/main/lipu-lili/mije-pi-utala-toki.md
+- http://utala.pona.la/lipu-lili/mije-pi-utala-toki.html
 ---
 
 tenpo wan la, mije li wile tawa esun. ona li kama jo e len lawa ona la, ona li tawa tan tomo ona. open la, ale li pona. kasi li suwi, li lon poka nasin. waso li mu pona. kon li seli pona. 

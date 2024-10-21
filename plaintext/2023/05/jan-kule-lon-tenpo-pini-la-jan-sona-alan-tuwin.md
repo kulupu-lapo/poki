@@ -1,16 +1,13 @@
 ---
 title: jan kule lon tenpo pini la jan sona Alan Tuwin
 authors:
-  - jan Olipija
+- jan Olipija
 date: '2023-05-12'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0019mama.pdf
-  - https://liputenpo.org/lipu/nanpa-mama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_jan_Alan_Tuwin.png
+- https://liputenpo.org/pdfs/0019mama.pdf
+- https://liputenpo.org/lipu/nanpa-mama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_jan_Alan_Tuwin.png
 ---
 
 ![jan Alan Tuwin](https://upload.wikimedia.org/wikipedia/commons/1/14/Lipu_tenpo_nanpa_mama_-_jan_Alan_Tuwin.png)

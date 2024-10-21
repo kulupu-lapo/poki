@@ -1,17 +1,14 @@
 ---
 title: nimi pi jan kule
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2021-09-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kule
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0007kule.pdf
-  - https://liputenpo.org/lipu/nanpa-kule/
-  - https://commons.wikimedia.org/wiki/File:Bisexual_Pride_Flag.svg
-  - https://commons.wikimedia.org/wiki/File:Aroace_flag.svg
+- https://liputenpo.org/pdfs/0007kule.pdf
+- https://liputenpo.org/lipu/nanpa-kule/
+- https://commons.wikimedia.org/wiki/File:Bisexual_Pride_Flag.svg
+- https://commons.wikimedia.org/wiki/File:Aroace_flag.svg
 ---
 
 kulupu pi toki pona li jo e jan pi kon olin mute. mije pi olin mije li lon. meli pi olin meli li lon kin. jan ni li jo e nimi pi kon olin ona. ona li nimi “mijomi” (tan “mije olin mije”) li nimi “melome” (tan nimi “meli olin meli”). taso, nimi ni li pu ala li ku ala.

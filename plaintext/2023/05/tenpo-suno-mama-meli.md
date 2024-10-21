@@ -1,18 +1,14 @@
 ---
 title: tenpo suno mama (meli)
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2023-05-12'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0019mama.pdf
-  - https://liputenpo.org/lipu/nanpa-mama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_mama_mi.png
-preprocessing:
-  – wrote alt text
+- https://liputenpo.org/pdfs/0019mama.pdf
+- https://liputenpo.org/lipu/nanpa-mama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_mama_mi.png
+preprocessing: – wrote alt text
 ---
 
 ![ijo ni li suwi moku li suwi olin · selo ona en kasi ona li pana e olin a · sitelen li lon ona → ‹tawa mama mi›](https://upload.wikimedia.org/wikipedia/commons/3/30/Lipu_tenpo_nanpa_mama_-_mama_mi.png)

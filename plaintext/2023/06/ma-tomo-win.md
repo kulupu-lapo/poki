@@ -1,24 +1,22 @@
 ---
 title: ma tomo Win
-description: 
+description: null
 authors:
-  - jan Jakopo
-  - jan Ke Tami
-  - jan Luna
-  - jan Masije
-  - jan Molisi
-  - jan Palento
-  - jan Peja
-  - jan Peton
-  - jan Pulo
-  - jan Sonatan
+- jan Jakopo
+- jan Ke Tami
+- jan Luna
+- jan Masije
+- jan Molisi
+- jan Palento
+- jan Peja
+- jan Peton
+- jan Pulo
+- jan Sonatan
 date: '2023-06-14'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vQXBGXtAxDXWoPFt1atJbCgEzJzkc1JMSSD9lDU4QHZMPFEWk49LQiwSwDVtcU-b-YjO8Vugup55g0j/pub
-  - https://wikisource.org/wiki/Kalama_sin/28
+- https://docs.google.com/document/d/e/2PACX-1vQXBGXtAxDXWoPFt1atJbCgEzJzkc1JMSSD9lDU4QHZMPFEWk49LQiwSwDVtcU-b-YjO8Vugup55g0j/pub
+- https://wikisource.org/wiki/Kalama_sin/28
 ---
 
 tenpo sike pini la mi Ke Tami en jan ante pi toki pona li tawa ma sama. mi kama kulupu lon ma tomo Win. ma Win li lon ma suli Esalasi li lon ma kulupu Elopa. mi ale li musi li mu li toki pona.

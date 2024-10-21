@@ -2,14 +2,14 @@
 title: jan Kiwino li pakala e akesi laso.
 description: jan Kiwino li pali e kiwen telo.
 authors:
-  - thegreatsoupster
+- thegreatsoupster
 date: '2023-10-08'
 tags:
-  - 'ao3'
+- ao3
 sources:
-  - https://archiveofourown.org/works/50661025
+- https://archiveofourown.org/works/50661025
 archives:
-  - https://web.archive.org/web/20240930140307/https://archiveofourown.org/works/50661025
+- https://web.archive.org/web/20240930140307/https://archiveofourown.org/works/50661025
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu
 ---

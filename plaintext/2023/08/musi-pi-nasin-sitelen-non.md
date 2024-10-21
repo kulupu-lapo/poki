@@ -1,24 +1,21 @@
 ---
 title: musi pi nasin sitelen Non
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2023-08-24'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa ma
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0021ma.pdf
-  - https://liputenpo.org/lipu/nanpa-ma/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_01.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_02.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_03.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(akesi).png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(kala).png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(pipi).png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(waso).png
+- https://liputenpo.org/pdfs/0021ma.pdf
+- https://liputenpo.org/lipu/nanpa-ma/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_01.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_02.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_03.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(akesi).png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(kala).png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(pipi).png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(waso).png
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 mi tawa kepeken tomo kulupu tawa la tawa li wile e tenpo. tawa la mi wile e ijo musi. mi kama sona e musi. mi kama kepeken ona lon tenpo tawa mute. mi kama wile pali e musi ni pi toki pona.

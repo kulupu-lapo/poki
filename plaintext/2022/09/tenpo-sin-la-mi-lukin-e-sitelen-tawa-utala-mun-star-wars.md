@@ -1,16 +1,13 @@
 ---
 title: tenpo sin la, mi lukin e sitelen tawa "utala mun"(Star Wars)
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2022-09-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa moku
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0015moku.pdf
-  - https://liputenpo.org/lipu/nanpa-moku/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_utala_mun.png
+- https://liputenpo.org/pdfs/0015moku.pdf
+- https://liputenpo.org/lipu/nanpa-moku/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_utala_mun.png
 ---
 
 ![lipu sitelen pi musi "utala mun"](https://upload.wikimedia.org/wikipedia/commons/5/59/Lipu_tenpo_nanpa_moku_-_utala_mun.png)

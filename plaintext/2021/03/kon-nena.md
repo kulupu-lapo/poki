@@ -1,16 +1,13 @@
 ---
 title: kon nena
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2021-03-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mun
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0002mun.pdf
-  - https://liputenpo.org/lipu/nanpa-mun/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_soweli_lili.png
+- https://liputenpo.org/pdfs/0002mun.pdf
+- https://liputenpo.org/lipu/nanpa-mun/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_soweli_lili.png
 ---
 
 lon ma Selonka la, kon nena li lon nena. kon nena li seme? tenpo pini mute la, jan pi pali nena li lon. ona li moli. ona li toki tawa mama sewi e ni: “mi li wile kin lon insa nena.” mama sewi li pali e ni: tenpo ni la, jan ni li kon nena.

@@ -1,20 +1,17 @@
 ---
 title: toki 10,000,000,000 pi nasin Limili
 authors:
-  - jan Kapesi Pake
+- jan Kapesi Pake
 date: '2024-03-20'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa kalama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0025kalama.pdf
-  - https://liputenpo.org/lipu/nanpa-kalama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_jan_Juliju_Kasa.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ma_Montana_li_jo_e_pona.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_jan_Pan_en_jan_Lan.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_seme_li_soweli.png
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_nimi_Epiku_li_moli.png
+- https://liputenpo.org/pdfs/0025kalama.pdf
+- https://liputenpo.org/lipu/nanpa-kalama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_jan_Juliju_Kasa.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ma_Montana_li_jo_e_pona.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_jan_Pan_en_jan_Lan.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_seme_li_soweli.png
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_nimi_Epiku_li_moli.png
 ---
 
 musi toki li suli mute tawa mi. tenpo ali la, mi wile pali e ona. ni la, mi alasa pali e musi toki sin kepeken nasin nasa pona. ona li ni! ni li pali suli nasa pi toki pi nasin Limili. toki pi nasin Limili o jo e linja luka, o kepeken lawa pi nasin Limili pi nanpa kalama. toki 10,000,000,000 pi nasin Limili li lon. taso, lipu ni li ken ala jo e toki 10,000,000,000 a! ni la, sina wile lukin e ona la, sina o pali e toki ni! o pali e toki ni kepeken nasin ni: lipu li luka. lon ona ali la, o alasa e linja nimi wan. sina ni la, o kulupu e linja nimi ali sina. o pana e ona ali tawa toki pi nasin Limili. sama ni la, ni li toki ken pi nasin Limili:

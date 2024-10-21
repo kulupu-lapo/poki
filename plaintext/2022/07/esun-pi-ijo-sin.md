@@ -1,14 +1,12 @@
 ---
 title: ante toki pi AU MAGASIN DE NOUVEAUTES (esun pi ijo sin)
 authors:
-  - jan Epen
-date: 2022-07-16T20:31:50.310Z
-collections:
-  - lipu kule
+- jan Epen
+date: 2022-07-16 20:31:50.310000
 license: CC-BY-SA 4.0
 sources:
-  - https://github.com/lipukule/site/blob/main/content/post/2022-07-16-ante-toki-pi-au-magasin-de-nouveautes-esun-pi-ijo-sin.md
-  - https://lipukule.org/post/2022/07/16/ante-toki-pi-au-magasin-de-nouveautes-esun-pi-ijo-sin/
+- https://github.com/lipukule/site/blob/main/content/post/2022-07-16-ante-toki-pi-au-magasin-de-nouveautes-esun-pi-ijo-sin.md
+- https://lipukule.org/post/2022/07/16/ante-toki-pi-au-magasin-de-nouveautes-esun-pi-ijo-sin/
 ---
 
 mi ante e toki pi toki lili “AU MAGASIN DE NOUVEAUTES” tan jan Isan. sina ken pilin e ni: ona li nasa lili. jan Isan li pali ala e toki lili kepeken lawa pi toki lili. ona li lukin pali e ona kepeken nasin sin. toki ni li lon kulupu pi toki lili “leko pi pali tomo pi pini ala”. mi wile pana e toki lili ante lon kulupu ni.

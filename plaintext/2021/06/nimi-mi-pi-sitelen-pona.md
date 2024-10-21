@@ -1,15 +1,12 @@
 ---
 title: nimi mi pi sitelen pona
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2021-06-02'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa pan
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0005pan.pdf
-  - https://liputenpo.org/lipu/nanpa-pan/
+- https://liputenpo.org/pdfs/0005pan.pdf
+- https://liputenpo.org/lipu/nanpa-pan/
 ---
 
 toki, jan Tamalu o! lipu tenpo nanpa soweli la, sina pana e nimi sina pi sitelen pona. mi pana e sama.

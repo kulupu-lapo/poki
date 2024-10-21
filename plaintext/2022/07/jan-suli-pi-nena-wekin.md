@@ -1,16 +1,13 @@
 ---
 title: jan suli pi nena Wekin
 authors:
-  - jan Eli
+- jan Eli
 date: '2022-07-04'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa seli
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0014seli.pdf
-  - https://liputenpo.org/lipu/nanpa-seli/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_nena_Wekin.png
+- https://liputenpo.org/pdfs/0014seli.pdf
+- https://liputenpo.org/lipu/nanpa-seli/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_nena_Wekin.png
 ---
 
 ma tomo mi la jan mute li toki e toki ni tawa jan lili. toki ni li toki e ni: nena Wekin en nena Eka li lon tan seme?

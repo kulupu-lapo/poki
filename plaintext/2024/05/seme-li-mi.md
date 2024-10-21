@@ -1,16 +1,13 @@
 ---
 title: seme li mi
 authors:
-  - jan Alonola
+- jan Alonola
 date: '2024-05-14'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa jaki
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0026jaki.pdf
-  - https://liputenpo.org/lipu/nanpa-jaki/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_sitelen_sitelen.png
+- https://liputenpo.org/pdfs/0026jaki.pdf
+- https://liputenpo.org/lipu/nanpa-jaki/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_sitelen_sitelen.png
 ---
 
 ![sitelen sitelen](https://upload.wikimedia.org/wikipedia/commons/7/70/Lipu_tenpo_nanpa_jaki_-_sitelen_sitelen.png)

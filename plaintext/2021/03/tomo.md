@@ -1,15 +1,12 @@
 ---
 title: tomo
 authors:
-  - jan Sinke
+- jan Sinke
 date: '2021-03-01'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mun
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0002mun.pdf
-  - https://liputenpo.org/lipu/nanpa-mun/
+- https://liputenpo.org/pdfs/0002mun.pdf
+- https://liputenpo.org/lipu/nanpa-mun/
 ---
 
 mi lon tomo mi  

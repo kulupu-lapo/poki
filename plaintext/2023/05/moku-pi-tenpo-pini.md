@@ -1,18 +1,15 @@
 ---
 title: moku pi tenpo pini
 authors:
-  - jan Ke Tami
+- jan Ke Tami
 date: '2023-05-12'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa mama
 license: CC-BY-SA 4.0
 sources:
-  - https://liputenpo.org/pdfs/0019mama.pdf
-  - https://liputenpo.org/lipu/nanpa-mama/
-  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_moku_suwi.png'
+- https://liputenpo.org/pdfs/0019mama.pdf
+- https://liputenpo.org/lipu/nanpa-mama/
+- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_moku_suwi.png'
 preprocessing:
-  - wrote alt text
+- wrote alt text
 ---
 
 ![tomo la pipi li pali e moku suwi](https://upload.wikimedia.org/wikipedia/commons/4/4f/Lipu_tenpo_nanpa_mama_-_moku_suwi.png)

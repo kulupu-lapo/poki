@@ -1,16 +1,14 @@
 ---
 title: ma li supa
-description: 
+description: null
 authors:
-  - jan Tepo
-  - jan Lakuse
+- jan Tepo
+- jan Lakuse
 date: '2022-05-08'
-collections:
-  - kalama sin
 license: CC-BY-SA 4.0
 sources:
-  - https://docs.google.com/document/d/e/2PACX-1vRp71JJBMH1nJ3LZsbKBfj3D90jaU6Ms8ugNSbGP7PXmwOtktbEyDcFKa2ej5Z6S7QmRdQIUdpFD6tJ/pub
-  - https://wikisource.org/wiki/Kalama_sin/20
+- https://docs.google.com/document/d/e/2PACX-1vRp71JJBMH1nJ3LZsbKBfj3D90jaU6Ms8ugNSbGP7PXmwOtktbEyDcFKa2ej5Z6S7QmRdQIUdpFD6tJ/pub
+- https://wikisource.org/wiki/Kalama_sin/20
 preprocessing: replaced unusual "j." abbreviation with the full names
 ---
 

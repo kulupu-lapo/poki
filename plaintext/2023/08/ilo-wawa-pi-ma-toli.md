@@ -1,20 +1,17 @@
 ---
 title: ilo wawa pi ma Toli
-description: 
+description: null
 authors:
-  - jan Peli
+- jan Peli
 date: '2023-08-15'
-collections:
-  - utala.pona.la
-  - utala musi pi toki lili pi lipu suli (2023)
 tags:
-  - utala pi kulupu ma
-  - pakala sijelo
-  - poki li ken ala e tan jan
+- utala pi kulupu ma
+- pakala sijelo
+- poki li ken ala e tan jan
 license: CC-BY-SA-4.0
 sources:
-  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.md
-  - http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.html
+- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.md
+- http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.html
 preprocessing: includes HTML
 ---
 
@@ -112,4 +109,4 @@ mi lon ma Soni ala. tenpo ni la, mi lon ma Toli tan ni : mi ken tawa lon ma ante
 
 tenpo pini la, mi tawa lon ma Soni. mi toki tawa jan lawa mi. tenpo lili la, jan lawa mi li pilin ike tan ni : mi jo ala e ilo wawa pi ma Toli. taso, ona li pilin pona tan ni : jan lawa pi ma Toli li wile ala utala. mi sona e ni : jan lawa mi li wile mani li wile wawa. mi sona ala e ni : jan mute li moli la, ona li pilin ike. jan lawa mi en jan lawa pi ma Toli li toki. tenpo ni la, ma Soni en ma Toli li esun. jan lawa mi li pilin pona tan ni : mani la, esun li pona. kin la, jan lawa pi ma Toli li kepeken e ilo wawa ona. ona li pona e jan pi ma Soni e jan pi ma Toli. 
 
-tenpo kama la, mi tawa lon ma ante lon ma mute, tan ni : mi jan tawa. mi wile la, tawa suli li lon nasin mi ! 
+tenpo kama la, mi tawa lon ma ante lon ma mute, tan ni : mi jan tawa. mi wile la, tawa suli li lon nasin mi !

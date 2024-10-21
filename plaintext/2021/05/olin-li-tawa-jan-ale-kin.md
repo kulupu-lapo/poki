@@ -1,13 +1,13 @@
 ---
 title: olin li tawa jan ale kin
 authors:
-  - jan Sotan
+- jan Sotan
 date: 2021-05-22
 tags:
-  - music
+- music
 license: All Rights Reserved
 sources:
-  - https://www.youtube.com/watch?v=Y2Dw4aatlEE
+- https://www.youtube.com/watch?v=Y2Dw4aatlEE
 preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.
 ---
 
