@@ -59,6 +59,8 @@ notes:
 [ao3]:https://archiveofourown.org/works/search?work_search%5Blanguage_id%5D=tok
 [lentan]:https://lipu-sona.pona.la/lentan/
 [lipu monsuta]:https://lipumonsuta.neocities.org/
+[telakoman]:https://joelthomastr.github.io/tokipona/README_si
+[Storyweaver]:https://storyweaver.org.in/en/stories?language=Toki+Pona
 
 
 | Name                                                  | Made / maintained by | Issue                                         | Claimed by            |
@@ -74,5 +76,7 @@ notes:
 | [nltk-tp]                                             | davidar              | No                                            |                       |
 | [kijetesantakalu o!][kije o]                          | jan Ke Tami          | No                                            | ijo vivi              |
 | [Archive Of Our Own][ao3]                             | various              | No                                            | ijo vivi              |
-| [jan Lentan's blog posts][lentan]                     | jan Lentan           | No                                            |                       |
-| [lipu monsuta]                                        | soweli kina          | No                                            |                       |
+| [jan Lentan's blog posts][lentan]                     | jan Lentan           | No                                            | jan Kita              |
+| [lipu monsuta]                                        | soweli kina          | No                                            | jan Kita              |
+| [jan Telakoman's blog posts][telakoman]               | jan Telakoman        | No                                            | jan Kita              |
+| [Storyweaver]                                         | various              | No                                            |                       |
