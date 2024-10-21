@@ -14,7 +14,7 @@ license: 'CC-BY 4.0'
 sources:
   - https://liputenpo.org/lipu/nanpa-suno
   - https://janketami.wordpress.com/2021/08/03/kijetesantakalu-o-nanpa-luka-wan/
-  https://kijetesantakalu-o.tumblr.com/post/671714331855126528
+  - https://kijetesantakalu-o.tumblr.com/post/671714331855126528
   - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep06.png
   - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep06_(sitelen_pona).png
 ---

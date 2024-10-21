@@ -1,6 +1,6 @@
 ---
 title: kijetesantakalu o! nanpa luka luka wan
-- description: 'kijetesantakalu en waso li lon tenpo pana'
+description: 'kijetesantakalu en waso li lon tenpo pana'
 authors:
   - jan Ke Tami
 date: '2022-02-01'

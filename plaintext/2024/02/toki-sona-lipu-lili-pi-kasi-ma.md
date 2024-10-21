@@ -1,5 +1,5 @@
 ---
-title: toki sona: lipu lili pi kasi ma
+title: "toki sona: lipu lili pi kasi ma"
 authors:
   - jan Lapate
 date: '2024-02-07'

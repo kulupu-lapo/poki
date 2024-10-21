@@ -11,11 +11,11 @@ sources:
   - https://liputenpo.org/pdfs/0014seli.pdf
   - https://liputenpo.org/lipu/nanpa-seli/
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_linja_nanpa.svg
-  – https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_leko_nanpa.svg
-  – https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_ijo_pi_linja_tu_wan_pi_jan_Sipinsiki.svg
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_leko_nanpa.svg
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_ijo_pi_linja_tu_wan_pi_jan_Sipinsiki.svg
 preprocessing:
-  – transcribed images that contained only text
-  – wrote alt text for other images
+  - transcribed images that contained only text
+  - wrote alt text for other images
 ---
 
 mi wile toki e ijo musi tan sona nanpa. mi wile pana e sona pi ijo pi suli pi nanpa kipisi.

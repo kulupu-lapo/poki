@@ -1,6 +1,5 @@
 ---
 title: toki pi kon pona
-description: 
 authors:
   - jan Telakoman
 date: '2021-12-05'
@@ -10,7 +9,7 @@ license: CC-BY-SA 4.0
 sources:
   - https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_si
   - https://wikisource.org/wiki/Kalama_sin/11
-notes: kalama sin episode name: "pana sona pi nasin toki kepeken sitelen tawa". The file name is from jan Telakoman's gh page.
+notes: "kalama sin episode name: \"pana sona pi nasin toki kepeken sitelen tawa\". The file name is from jan Telakoman's gh page."
 ---
 
 ## toki pi kon pona
