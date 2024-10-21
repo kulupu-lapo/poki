@@ -1,17 +1,18 @@
-# TODO: sort collection!
-
 name: lipu tenpo nanpa lete
 items:
-  - plaintext/2021/12/sitelen-emosi.md
-  - plaintext/2021/12/tawa-pi-poki-monsi-pi-ma-asija-nanpa-tu-wan-ma-intonesija.md
-  - plaintext/2021/12/kijetesantakalu-o-nanpa-luka-luka.md
-  - plaintext/2021/12/moku-panson.md
-  - plaintext/2021/12/sitelen-nasa-pi-ilo-nuwapenta.md
   - plaintext/2021/12/o-suli-e-toki-pona.md
-  - plaintext/2021/12/tenpo-lete-li-pona-ala-pona.md
-  - plaintext/2021/12/telo-pi-pona-sijelo.md
-  - plaintext/2021/12/toki-nasa.md
-  - plaintext/2021/12/meli-jaka.md
-  - plaintext/2021/12/sitelen-tawa-sin-jan-pali-pi-weka-kon-ali-sin-ghostbusters-afterlife.md
-  - plaintext/2021/12/toki-polaka.md
   - plaintext/2021/12/tenpo-pi-kalama-musi.md
+  - plaintext/2021/12/sitelen-emosi.md
+  - plaintext/2021/12/toki-polaka.md
+  - plaintext/2021/12/telo-pi-pona-sijelo.md
+  - plaintext/2021/12/sitelen-nasa-pi-ilo-nuwapenta.md
+  - plaintext/2021/12/tawa-pi-poki-monsi-pi-ma-asija-nanpa-tu-wan-ma-intonesija.md
+  - plaintext/2021/12/sitelen-tawa-sin-jan-pali-pi-weka-kon-ali-sin-ghostbusters-afterlife.md
+  - plaintext/2021/12/tenpo-lete-li-pona-ala-pona.md
+  - plaintext/2021/12/meli-jaka.md
+  - plaintext/2021/12/moku-panson.md
+  # retracted: lon poki len
+  # missing: seme li mi?
+  # retracted: sitelen olin
+  - plaintext/2021/12/toki-nasa.md  # Not in the pdf list for some reason
+  - plaintext/2021/12/kijetesantakalu-o-nanpa-luka-luka.md
