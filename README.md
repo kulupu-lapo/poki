@@ -12,8 +12,9 @@ This is a work-in-progress library and monolingual corpus for Toki Pona. Our vis
 Feel free to post issues, fork the repo, and open pull requests with your changes.
 You can also join the "ma pona pi toki pona" discord to talk to the maintainers.
 
-## Schema
+## Schemas
 
+### File metadata
 ```yaml
 ---
 title:
@@ -24,8 +25,6 @@ authors:
 translators:
   -
 date:
-collections:
-  -
 tags:
   -
 license:
@@ -37,6 +36,13 @@ preprocessing:
 accessibility-notes:
 notes:
 ---
+```
+
+### Collection metadata
+```yaml
+name:
+items:
+ - 
 ```
 
 ## Sources
