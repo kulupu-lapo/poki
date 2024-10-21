@@ -2,17 +2,17 @@
 
 name: Fail Blue Dot
 items:
-- plaintext/unknown-year/unknown-month/jan-en-soweli.md
-- plaintext/unknown-year/unknown-month/toki-haikus.md
-- plaintext/unknown-year/unknown-month/jan-bokakio.md
-- plaintext/unknown-year/unknown-month/jan-sewi.md
-- plaintext/unknown-year/unknown-month/jan-suansu.md
-- plaintext/unknown-year/unknown-month/nasin-tawa.md
-- plaintext/unknown-year/unknown-month/monsi-pi-jan-hanki.md
-- plaintext/unknown-year/unknown-month/kalama-musi-suli.md
-- plaintext/unknown-year/unknown-month/tenpo-lili.md
-- plaintext/unknown-year/unknown-month/kasi-nasa-en-telo-nasa.md
-- plaintext/unknown-year/unknown-month/lape-mi.md
-- plaintext/unknown-year/unknown-month/akesi-jaba.md
-- plaintext/unknown-year/unknown-month/jan-lawa.md
-- plaintext/unknown-year/unknown-month/toki-pi-jan-koele.md
+  - plaintext/unknown-year/unknown-month/jan-en-soweli.md
+  - plaintext/unknown-year/unknown-month/toki-haikus.md
+  - plaintext/unknown-year/unknown-month/jan-bokakio.md
+  - plaintext/unknown-year/unknown-month/jan-sewi.md
+  - plaintext/unknown-year/unknown-month/jan-suansu.md
+  - plaintext/unknown-year/unknown-month/nasin-tawa.md
+  - plaintext/unknown-year/unknown-month/monsi-pi-jan-hanki.md
+  - plaintext/unknown-year/unknown-month/kalama-musi-suli.md
+  - plaintext/unknown-year/unknown-month/tenpo-lili.md
+  - plaintext/unknown-year/unknown-month/kasi-nasa-en-telo-nasa.md
+  - plaintext/unknown-year/unknown-month/lape-mi.md
+  - plaintext/unknown-year/unknown-month/akesi-jaba.md
+  - plaintext/unknown-year/unknown-month/jan-lawa.md
+  - plaintext/unknown-year/unknown-month/toki-pi-jan-koele.md

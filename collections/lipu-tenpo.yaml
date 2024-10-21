@@ -4,41 +4,41 @@ name: lipu tenpo
 items:
 
 # 2021:
-- collections/lipu-tenpo/001-nanpa-akesi.yaml               # 2021-02-01
-- collections/lipu-tenpo/002-nanpa-mun.yaml                 # 2021-03-01
-- collections/lipu-tenpo/003-nanpa-soweli.yaml              # 2021-04-05
-- collections/lipu-tenpo/004-nanpa-kasi.yaml                # 2021-05-07
-- collections/lipu-tenpo/005-nanpa-pan.yaml                 # 2021-06-02
-- collections/lipu-tenpo/006-nanpa-suno.yaml                # 2021-08-02
-- collections/lipu-tenpo/007-nanpa-kule.yaml                # 2021-09-02
-- collections/lipu-tenpo/008-nanpa-toki.yaml                # 2021-10-06
-- collections/lipu-tenpo/009-nanpa-moli.yaml                # 2021-10-31
-- collections/lipu-tenpo/010-nanpa-lete.yaml                # 2021-12-08
+  - collections/lipu-tenpo/001-nanpa-akesi.yaml               # 2021-02-01
+  - collections/lipu-tenpo/002-nanpa-mun.yaml                 # 2021-03-01
+  - collections/lipu-tenpo/003-nanpa-soweli.yaml              # 2021-04-05
+  - collections/lipu-tenpo/004-nanpa-kasi.yaml                # 2021-05-07
+  - collections/lipu-tenpo/005-nanpa-pan.yaml                 # 2021-06-02
+  - collections/lipu-tenpo/006-nanpa-suno.yaml                # 2021-08-02
+  - collections/lipu-tenpo/007-nanpa-kule.yaml                # 2021-09-02
+  - collections/lipu-tenpo/008-nanpa-toki.yaml                # 2021-10-06
+  - collections/lipu-tenpo/009-nanpa-moli.yaml                # 2021-10-31
+  - collections/lipu-tenpo/010-nanpa-lete.yaml                # 2021-12-08
 
 # 2022:
-- collections/lipu-tenpo/011-nanpa-walo.yaml                # 2022-02-01
-- collections/lipu-tenpo/012-nanpa-nimi.yaml                # 2022-03-10
-- collections/lipu-tenpo/012.5-nanpa-kijetesantakalu.yaml   # 2022-04-01
-- collections/lipu-tenpo/013-nanpa-pipi.yaml                # 2022-05-05
-- collections/lipu-tenpo/014-nanpa-seli.yaml                # 2022-07-04
-- collections/lipu-tenpo/015-nanpa-moku.yaml                # 2022-09-01
-- collections/lipu-tenpo/016-nanpa-kulupu.yaml              # 2022-10-17
-- collections/lipu-tenpo/017-nanpa-musi.yaml                # 2022-12-09
+  - collections/lipu-tenpo/011-nanpa-walo.yaml                # 2022-02-01
+  - collections/lipu-tenpo/012-nanpa-nimi.yaml                # 2022-03-10
+  - collections/lipu-tenpo/012.5-nanpa-kijetesantakalu.yaml   # 2022-04-01
+  - collections/lipu-tenpo/013-nanpa-pipi.yaml                # 2022-05-05
+  - collections/lipu-tenpo/014-nanpa-seli.yaml                # 2022-07-04
+  - collections/lipu-tenpo/015-nanpa-moku.yaml                # 2022-09-01
+  - collections/lipu-tenpo/016-nanpa-kulupu.yaml              # 2022-10-17
+  - collections/lipu-tenpo/017-nanpa-musi.yaml                # 2022-12-09
 
 # 2023:
-- collections/lipu-tenpo/018-nanpa-tu.yaml                  # 2023-02-06
+  - collections/lipu-tenpo/018-nanpa-tu.yaml                  # 2023-02-06
 # Excluded due to being a different language (tuki tiki):
 # collections/lipu/tenpo/kate-tiki-tu-lili.yaml             # 2023-04-01
-- collections/lipu-tenpo/019-nanpa-mama.yaml                # 2023-05-12
-- collections/lipu-tenpo/020-nanpa-nasin.yaml               # 2023-07-01
-- collections/lipu-tenpo/021-nanpa-ma.yaml                  # 2023-08-24
-- collections/lipu-tenpo/022-nanpa-sin.yaml                 # 2023-11-01
-- collections/lipu-tenpo/023-nanpa-sewi.yaml                # 2023-12-25
+  - collections/lipu-tenpo/019-nanpa-mama.yaml                # 2023-05-12
+  - collections/lipu-tenpo/020-nanpa-nasin.yaml               # 2023-07-01
+  - collections/lipu-tenpo/021-nanpa-ma.yaml                  # 2023-08-24
+  - collections/lipu-tenpo/022-nanpa-sin.yaml                 # 2023-11-01
+  - collections/lipu-tenpo/023-nanpa-sewi.yaml                # 2023-12-25
 
 # 2024:
-- collections/lipu-tenpo/024-nanpa-tenpo.yaml               # 2024-02-07
-- collections/lipu-tenpo/025-nanpa-kalama.yaml              # 2024-03-20
-- collections/lipu-tenpo/025.5-nanpa-lili.yaml              # 2024-04-01
-- collections/lipu-tenpo/026-nanpa-jaki.yaml                # 2024-05-14
-- collections/lipu-tenpo/027-nanpa-linja.yaml               # 2024-07-05
-- collections/lipu-tenpo/028-nanpa-lawa.yaml                # 2024-09-07
+  - collections/lipu-tenpo/024-nanpa-tenpo.yaml               # 2024-02-07
+  - collections/lipu-tenpo/025-nanpa-kalama.yaml              # 2024-03-20
+  - collections/lipu-tenpo/025.5-nanpa-lili.yaml              # 2024-04-01
+  - collections/lipu-tenpo/026-nanpa-jaki.yaml                # 2024-05-14
+  - collections/lipu-tenpo/027-nanpa-linja.yaml               # 2024-07-05
+  - collections/lipu-tenpo/028-nanpa-lawa.yaml                # 2024-09-07

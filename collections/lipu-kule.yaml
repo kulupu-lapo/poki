@@ -1,46 +1,51 @@
-# TODO: sort collection!
-
 name: lipu kule
 items:
-- plaintext/2023/04/lawa-monsuta.md
-- plaintext/2023/01/nasin-pi-utala-meli-mije.md
-- plaintext/2021/03/o-lukin-ala-e-monsi.md
-- plaintext/2021/03/toki-forth.md
-- plaintext/2021/03/jan-pi-moli-ala.md
-- plaintext/2021/03/tonsi.md
-- plaintext/2021/03/kijetesantakalu-tu.md
-- plaintext/2021/02/sowejoki.md
-- plaintext/2021/02/nasin-kulupu.md
-- plaintext/2021/02/pan-sike-suwi.md
-- plaintext/2021/02/pilin-mi-tawa-ilo-nanpa.md
-- plaintext/2021/02/waso-kule.md
-- plaintext/2021/02/telo-ma.md
-- plaintext/2021/02/isipin.md
-- plaintext/2021/02/ijo-lon-pi-lon-ala.md
-- plaintext/2021/02/tomo-kasi.md
-- plaintext/2021/02/lawa-pi-ma-setona.md
-- plaintext/2021/02/len-kule.md
-- plaintext/2021/06/pali-iso.md
-- plaintext/2021/06/sike-lili-laso-walo.md
-- plaintext/2021/09/nasin-nanpa-mute-li-lon.md
-- plaintext/2021/07/musi-moli.md
-- plaintext/2021/05/lipu-wikipesija-sin.md
-- plaintext/2021/01/lipu-sin.md
-- plaintext/2021/01/monsutatesu.md
-- plaintext/2021/01/tan-suli.md
-- plaintext/2021/01/kulupu-pali-pona.md
-- plaintext/2021/01/omekapo.md
-- plaintext/2021/12/pu-tosi.md
-- plaintext/2021/08/lipu-ku.md
-- plaintext/2021/08/ma-anku.md
-- plaintext/2022/02/akesi-pi-ante-kule.md
-- plaintext/2022/06/tenpo-pi-kamalawala-kanse.md
-- plaintext/2022/07/esun-pi-ijo-sin.md
-- plaintext/2022/01/musi-li-weka-lawa.md
-- plaintext/2022/01/waso-seli-pona.md
-- plaintext/2022/01/nasin-lanpan-pi-nimi-iso.md
-- plaintext/2022/01/tenpo-sike-sin-mun.md
-- plaintext/2022/12/tenpo-pini-pi-toki-luka.md
-- plaintext/2024/03/linja-insa.md
-- plaintext/2024/03/nasin-juniko.md
-- plaintext/2024/07/pan-linja-en-telo-pi-kili-loje.md
+# 2021:
+  - plaintext/2021/01/lipu-sin.md
+  - plaintext/2021/01/omekapo.md
+  - plaintext/2021/01/tan-suli.md
+  - plaintext/2021/01/kulupu-pali-pona.md
+  - plaintext/2021/01/monsutatesu.md
+  - plaintext/2021/02/ijo-lon-pi-lon-ala.md
+  - plaintext/2021/02/pan-sike-suwi.md
+  - plaintext/2021/02/tomo-kasi.md
+  - plaintext/2021/02/telo-ma.md
+  - plaintext/2021/02/len-kule.md
+  - plaintext/2021/02/pilin-mi-tawa-ilo-nanpa.md
+  - plaintext/2021/02/sowejoki.md
+  - plaintext/2021/02/lawa-pi-ma-setona.md
+  - plaintext/2021/02/isipin.md
+  - plaintext/2021/02/nasin-kulupu.md
+  - plaintext/2021/02/waso-kule.md
+  - plaintext/2021/03/toki-forth.md
+  - plaintext/2021/03/kijetesantakalu-tu.md
+  - plaintext/2021/03/tonsi.md
+  - plaintext/2021/03/jan-pi-moli-ala.md
+  - plaintext/2021/03/o-lukin-ala-e-monsi.md
+  - plaintext/2021/05/lipu-wikipesija-sin.md
+  - plaintext/2021/06/pali-iso.md
+  - plaintext/2021/06/sike-lili-laso-walo.md
+  - plaintext/2021/07/musi-moli.md
+  - plaintext/2021/08/lipu-ku.md
+  - plaintext/2021/08/ma-anku.md
+  - plaintext/2021/09/nasin-nanpa-mute-li-lon.md
+  - plaintext/2021/12/pu-tosi.md
+
+# 2022:
+  - plaintext/2022/01/musi-li-weka-lawa.md
+  - plaintext/2022/01/nasin-lanpan-pi-nimi-iso.md
+  - plaintext/2022/01/waso-seli-pona.md
+  - plaintext/2022/01/tenpo-sike-sin-mun.md
+  - plaintext/2022/02/akesi-pi-ante-kule.md
+  - plaintext/2022/06/tenpo-pi-kamalawala-kanse.md
+  - plaintext/2022/07/esun-pi-ijo-sin.md
+  - plaintext/2022/12/tenpo-pini-pi-toki-luka.md
+
+# 2023:
+  - plaintext/2023/01/nasin-pi-utala-meli-mije.md
+  - plaintext/2023/04/lawa-monsuta.md
+
+# 2024:
+  - plaintext/2024/03/linja-insa.md
+  - plaintext/2024/03/nasin-juniko.md
+  - plaintext/2024/07/pan-linja-en-telo-pi-kili-loje.md
