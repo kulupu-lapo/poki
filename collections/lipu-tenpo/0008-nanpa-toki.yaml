@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa toki
+sources:
+  - https://liputenpo.org/pdfs/0008toki.pdf
+  - https://liputenpo.org/lipu/nanpa-toki/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_toki
 items:
   - plaintext/2021/10/toki-tawa-jan-pi-lipu-tenpo-jan-ke-tami.md
   - plaintext/2021/10/musi-pi-alasa-sona.md

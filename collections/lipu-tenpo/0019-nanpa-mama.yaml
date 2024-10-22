@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa mama
+sources:
+  - https://liputenpo.org/pdfs/0019mama.pdf
+  - https://liputenpo.org/lipu/nanpa-mama/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_mama
 items:
   - plaintext/2023/05/nasin-nanpa-pona.md
   - plaintext/2023/05/tawa-pi-poki-monsi-pi-ma-asija-nanpa-luka-luka-tu-ma-wije.md

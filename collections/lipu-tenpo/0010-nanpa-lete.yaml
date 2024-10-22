@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa lete
+sources:
+  - https://liputenpo.org/pdfs/0010lete.pdf
+  - https://liputenpo.org/lipu/nanpa-lete/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_lete
 items:
   - plaintext/2021/12/o-suli-e-toki-pona.md
   - plaintext/2021/12/tenpo-pi-kalama-musi.md
@@ -14,5 +18,5 @@ items:
   # retracted: lon poki len
   # missing: seme li mi?
   # retracted: sitelen olin
-  - plaintext/2021/12/toki-nasa.md  # Not in the pdf list for some reason
+  - plaintext/2021/12/toki-nasa.md # Not in the pdf list for some reason
   - plaintext/2021/12/kijetesantakalu-o-nanpa-luka-luka.md

@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa pipi
+sources:
+  - https://liputenpo.org/pdfs/0013pipi.pdf
+  - https://liputenpo.org/lipu/nanpa-pipi/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_pipi
 items:
   - plaintext/2022/05/tenpo-wapukina.md
   - plaintext/2022/05/tenpo-suno-pali.md

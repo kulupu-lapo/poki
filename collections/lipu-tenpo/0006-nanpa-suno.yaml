@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa suno
+sources:
+  - https://liputenpo.org/pdfs/0006suno.pdf
+  - https://liputenpo.org/lipu/nanpa-suno/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_suno
 items:
   - plaintext/2021/08/sike-suno-mute-pi-toki-pona.md
   - plaintext/2021/08/ku.md

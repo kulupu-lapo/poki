@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa seli
+sources:
+  - https://liputenpo.org/pdfs/0014seli.pdf
+  - https://liputenpo.org/lipu/nanpa-seli/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_seli
 items:
   - plaintext/2022/07/tawa-pi-poki-monsi-pi-ma-asija-nanpa-luka-tu-ma-mijama.md
   - plaintext/2022/07/tenpo-ale-la-utala-li-ike-tawa-mi.md

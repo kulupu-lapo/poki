@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa soweli
+sources:
+  - https://liputenpo.org/pdfs/0003soweli.pdf
+  - https://liputenpo.org/lipu/nanpa-soweli/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_soweli
 items:
   - plaintext/2021/04/toki-tawa-jan-elike-mama-pi-jan-lili-pi-toki-pona.md
   - plaintext/2021/04/nimi-sina-pi-sitelen-pona-li-seme.md

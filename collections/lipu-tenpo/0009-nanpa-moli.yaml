@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa moli
+sources:
+  - https://liputenpo.org/pdfs/0009moli.pdf
+  - https://liputenpo.org/lipu/nanpa-moli/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_moli
 items:
   - plaintext/2021/10/jan-lili-pi-toki-pona.md
   - plaintext/2021/10/uta-monsuta.md
@@ -10,7 +14,7 @@ items:
   - plaintext/2021/10/tenpo-suno-monsuta.md
   - plaintext/2021/10/tenpo-kalan-kaja.md
   - plaintext/2021/10/lipu-tan-jan-sekupija.md
-  - plaintext/2021/11/sitelen-mi-o-mu-ala-mu.md  # Not listed in the contents of the pdf; likely treated as just an image asset
+  - plaintext/2021/11/sitelen-mi-o-mu-ala-mu.md # Not listed in the contents of the pdf; likely treated as just an image asset
   - plaintext/2021/10/tawa-pi-poki-monsi-pi-ma-asija-nanpa-tu-ma-sinkapo.md
   - plaintext/2021/10/ale-tenpo.md
   - plaintext/2021/10/pimeja.md

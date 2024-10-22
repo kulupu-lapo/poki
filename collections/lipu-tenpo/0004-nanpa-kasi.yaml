@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa kasi
+sources:
+  - https://liputenpo.org/pdfs/0004kasi.pdf
+  - https://liputenpo.org/lipu/nanpa-kasi/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_kasi
 items:
   - plaintext/2021/05/o-kepeken-e-nimi-pi-poka-pi-nimi-pali.md
   - plaintext/2021/05/mi-lukin-e-nimi-mute-pi-kon-wan.md

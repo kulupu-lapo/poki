@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa tenpo
+sources:
+  - https://liputenpo.org/pdfs/0024tenpo.pdf
+  - https://liputenpo.org/lipu/nanpa-tenpo/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_tenpo
 items:
   - plaintext/2024/02/lipu-tenpo-li-kulupu.md
   - plaintext/2024/02/kalama-pi-sitelen-nimi.md

@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa kulupu
+sources:
+  - https://liputenpo.org/pdfs/0016kulupu.pdf
+  - https://liputenpo.org/lipu/nanpa-kulupu/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_kulupu
 items:
   - plaintext/2022/10/tenpo-kulupu-pi-ma-tomo-win.md
   - plaintext/2022/10/musi-pi-soweli-ike.md

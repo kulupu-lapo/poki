@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa musi
+sources:
+  - https://liputenpo.org/pdfs/0017musi.pdf
+  - https://liputenpo.org/lipu/nanpa-musi/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_musi
 items:
   - plaintext/2022/12/nimi-kule-pi-pu-ala.md
   - plaintext/2022/12/sina-wile-pali-e-ante-toki-la-o-kepeken-nasin-ni.md

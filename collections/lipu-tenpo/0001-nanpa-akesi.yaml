@@ -1,5 +1,9 @@
 name: lipu tenpo nanpa akesi
 # source: https://liputenpo.org/lipu/nanpa-akesi
+sources:
+  - https://liputenpo.org/pdfs/0001akesi.pdf
+  - https://liputenpo.org/lipu/nanpa-akesi/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_akesi
 items:
   - plaintext/2021/02/lipu-tenpo-o-kama-pona.md
   - plaintext/2021/02/tenpo-pini-pi-toki-pona.md

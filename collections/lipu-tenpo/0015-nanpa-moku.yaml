@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa moku
+sources:
+  - https://liputenpo.org/pdfs/0015moku.pdf
+  - https://liputenpo.org/lipu/nanpa-moku/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_moku
 items:
   - plaintext/2022/09/nasin-juniko-ala-la-nasin-ucsur-li-lon.md
   - plaintext/2022/09/lipu-sin-mute-pi-toki-pona.md

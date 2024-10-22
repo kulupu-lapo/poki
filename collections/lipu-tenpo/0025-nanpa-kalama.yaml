@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa kalama
+sources:
+  - https://liputenpo.org/pdfs/0025kalama.pdf
+  - https://liputenpo.org/lipu/nanpa-kalama/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_kalama
 items:
   - plaintext/2024/03/lipu-sin-tan-jan-sonja.md
   - plaintext/2024/03/kulupu-li-toki-pona-lon-ma-ite.md

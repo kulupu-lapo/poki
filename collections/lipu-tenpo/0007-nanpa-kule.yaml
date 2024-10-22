@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa kule
+sources:
+  - https://liputenpo.org/pdfs/0007kule.pdf
+  - https://liputenpo.org/lipu/nanpa-kule/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_kule
 items:
   - plaintext/2021/09/toki-tawa-jan-pi-lipu-tenpo-jan-Alonola.md
   - plaintext/2021/09/suno-pi-toki-pona.md

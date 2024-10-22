@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa linja
+sources:
+  - https://liputenpo.org/pdfs/0027linja.pdf
+  - https://liputenpo.org/lipu/nanpa-linja/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_linja
 items:
   - plaintext/2024/07/pipi-linja-pi-noka-ala.md
   - plaintext/2024/07/tomo-tawa-linja.md

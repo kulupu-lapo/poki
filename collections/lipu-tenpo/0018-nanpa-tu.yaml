@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa tu
+sources:
+  - https://liputenpo.org/pdfs/0018tu.pdf
+  - https://liputenpo.org/lipu/nanpa-tu/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_tu
 items:
   - plaintext/2023/02/nimi-open-pi-toki-pona.md
   - plaintext/2023/02/ma-ilo-wijasa.md

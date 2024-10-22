@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa pan
+sources:
+  - https://liputenpo.org/pdfs/0005pan.pdf
+  - https://liputenpo.org/lipu/nanpa-pan/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_pan
 items:
   - plaintext/2021/06/nimi-mi-pi-sitelen-pona.md
   - plaintext/2021/06/lipu-wikipesija.md

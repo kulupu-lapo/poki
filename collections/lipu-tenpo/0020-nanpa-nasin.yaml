@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa nasin
+sources:
+  - https://liputenpo.org/pdfs/0020nasin.pdf
+  - https://liputenpo.org/lipu/nanpa-nasin/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_nasin
 items:
   - plaintext/2023/07/jan-eli-li-tawa.md
   - plaintext/2023/07/utala-musi-pi-sitelen-toki.md

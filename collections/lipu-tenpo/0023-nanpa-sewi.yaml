@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa sewi
+sources:
+  - https://liputenpo.org/pdfs/0023sewi.pdf
+  - https://liputenpo.org/lipu/nanpa-sewi/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_sewi
 items:
   - plaintext/2023/12/sitelen-pona-pi-nimi-nalanja.md
   - plaintext/2023/12/toki-ma-la-seme-li-lon.md

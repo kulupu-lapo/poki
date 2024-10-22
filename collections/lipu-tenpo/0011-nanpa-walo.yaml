@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa walo
+sources:
+  - https://liputenpo.org/pdfs/0011walo.pdf
+  - https://liputenpo.org/lipu/nanpa-walo/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_walo
 items:
   - plaintext/2022/02/tenpo-santa-walo-anu-tenpo-santa-seli.md
   - plaintext/2022/02/tenpo-pi-kalama-musi.md

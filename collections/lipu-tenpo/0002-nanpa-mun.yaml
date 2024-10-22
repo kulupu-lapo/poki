@@ -1,4 +1,8 @@
 name: lipu tenpo nanpa mun
+sources:
+  - https://liputenpo.org/pdfs/0002mun.pdf
+  - https://liputenpo.org/lipu/nanpa-mun/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_mun
 items:
   - plaintext/2021/03/pali-kulupu-pi-lipu-tenpo-li-seme.md
   - plaintext/2021/03/toki-pona-li-sama-ala-sitelen-sonko.md
