@@ -1,8 +1,7 @@
-# TODO: sort collection!
-
 name: lipu tenpo nanpa lili
 items:
-  - plaintext/2024/04/seme-li-mi.md
   - plaintext/2024/04/waso-soweli-pi-lili-nanpa-wan.md
   - plaintext/2024/04/pipi-pali.md
   - plaintext/2024/04/olin-sin.md
+  # Excluded: linja mute (puzzle)
+  - plaintext/2024/04/seme-li-mi.md

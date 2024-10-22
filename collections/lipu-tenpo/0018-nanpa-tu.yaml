@@ -1,17 +1,16 @@
-# TODO: sort collection!
-
 name: lipu tenpo nanpa tu
 items:
-  - plaintext/2023/02/luka-juke-pona-sin-li-lon-anu-powe.md
-  - plaintext/2023/02/tawa-pi-poki-monsi-pi-ma-asija-nanpa-luka-luka-wan-ma-kanpusi.md
-  - plaintext/2023/02/seme-li-mi.md
-  - plaintext/2023/02/ma-ilo-wijasa.md
-  - plaintext/2023/02/monsuta-li-lon.md
-  - plaintext/2023/02/ale-li-nanpa.md
   - plaintext/2023/02/nimi-open-pi-toki-pona.md
+  - plaintext/2023/02/ma-ilo-wijasa.md
+  - plaintext/2023/02/tenpo-sike-tu.md
+  - plaintext/2023/02/luka-juke-pona-sin-li-lon-anu-powe.md
+  - plaintext/2023/02/toki-li-seme.md
+  - plaintext/2023/02/ale-li-nanpa.md
+  - plaintext/2023/02/tawa-pi-poki-monsi-pi-ma-asija-nanpa-luka-luka-wan-ma-kanpusi.md
+  - plaintext/2023/02/monsuta-li-lon.md
   - plaintext/2023/02/jan-pi-lon-ala.md
+  - plaintext/2023/02/tenpo-pi-mi-jan-lili-la.md
+  - plaintext/2023/02/seme-li-mi.md
   - plaintext/2023/02/kijetesantakalu-o-nanpa-luka-luka-luka-tu-wan.md
   - plaintext/2023/02/mi-ale.md
-  - plaintext/2023/02/tenpo-pi-mi-jan-lili-la.md
-  - plaintext/2023/02/toki-li-seme.md
-  - plaintext/2023/02/tenpo-sike-tu.md
+  # Excluded: "alasa nimi: ma Osejanija" (puzzle)
