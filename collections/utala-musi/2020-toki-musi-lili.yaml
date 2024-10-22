@@ -1,5 +1,6 @@
 name: utala pi toki musi (2020)
-# source: https://utala.pona.la/toki-musi-lili/
+sources:
+  - https://utala.pona.la/toki-musi-lili/
 items:
   # utala winners:
   - plaintext/2020/11/lon-ma-tomo-pi-tenpo-pini-suli.md

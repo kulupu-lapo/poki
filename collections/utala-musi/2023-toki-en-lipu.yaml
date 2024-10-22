@@ -1,5 +1,6 @@
 name: utala musi pi toki lili pi lipu suli (2023)
-# source: https://utala.pona.la/toki-en-lipu/
+sources:
+  - https://utala.pona.la/toki-en-lipu/
 items:
 # toki musi lili
 # https://utala.pona.la/toki-en-lipu/toki-lili.html

@@ -1,5 +1,6 @@
 name: utala pi lipu musi lili (2022)
-# source: https://utala.pona.la/lipu-lili/
+sources:
+  - https://utala.pona.la/lipu-lili/
 items:
   - plaintext/2022/08/aaa-mute.md
   - plaintext/2022/08/akesi-li-wile-lon-nena.md
