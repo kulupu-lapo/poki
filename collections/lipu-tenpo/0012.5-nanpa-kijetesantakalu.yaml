@@ -1,0 +1,10 @@
+name: lipu tenpo nanpa kijetesantakalu
+sources:
+  - https://liputenpo.org/pdfs/0012.5kijetesantakalu.pdf
+  - https://liputenpo.org/lipu/nanpa-kijetesantakalu/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_kijetesantakalu
+items:
+  - plaintext/2022/04/kijetesantakalu-mute.md
+  - plaintext/2022/04/toki-kijetesantakalu.md
+  # kijetesantakalu: image only
+  # kijetesantakalu nasa: image only

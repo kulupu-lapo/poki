@@ -1,0 +1,22 @@
+name: lipu tenpo nanpa walo
+sources:
+  - https://liputenpo.org/pdfs/0011walo.pdf
+  - https://liputenpo.org/lipu/nanpa-walo/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_walo
+items:
+  - plaintext/2022/02/tenpo-santa-walo-anu-tenpo-santa-seli.md
+  - plaintext/2022/02/tenpo-pi-kalama-musi.md
+  - plaintext/2022/02/wile-pi-tenpo-sike-sin.md
+  - plaintext/2022/02/nimi-namako-majuna.md
+  - plaintext/2022/02/ijo-tenpo-pi-toki-pona-mi.md
+  - plaintext/2022/02/ilo-nole-tan-pali-to.md
+  - plaintext/2022/02/kasi-walo-li-utala-e-jan-nasi.md
+  - plaintext/2022/02/tawa-pi-poki-monsi-pi-ma-asija-nanpa-tu-tu-ma-pilipina.md
+  - plaintext/2022/02/kalama-musi-pi-kulupu-pvris.md
+  - plaintext/2022/02/musi-monopoli-li-musi-ala-tan-ni.md
+  - plaintext/2022/02/kalama-musi-o-walo.md
+  - plaintext/2022/02/toki-soweli-nanpa-wan.md
+  - plaintext/2022/02/toki-nasa.md # labelled seme li mi? in the content list
+  # Missing: kijetesantakalu o!
+  - plaintext/2022/02/pilin-jan.md
+  - plaintext/2022/02/tenpo-pimeja-sewi-o-holy-night.md

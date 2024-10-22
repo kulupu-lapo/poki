@@ -1,0 +1,38 @@
+name: utala musi pi toki lili pi lipu suli (2023)
+sources:
+  - https://utala.pona.la/toki-en-lipu/
+items:
+# toki musi lili
+# https://utala.pona.la/toki-en-lipu/toki-lili.html
+  - plaintext/2023/08/alasa-musi-pini.md
+  - plaintext/2023/08/ilo-wawa.md
+  - plaintext/2023/08/jan-pilipu-kalasi.md
+  - plaintext/2023/08/ken-la-jan.md
+  - plaintext/2023/08/linja-mije.md
+  - plaintext/2023/08/luka-waso-pi-nena-taso.md
+  - plaintext/2023/08/lon-n-taso-ala.md
+  - plaintext/2023/08/mu-namako.md
+  - plaintext/2023/08/mu-wawa.md
+  - plaintext/2023/08/nasin-mun.md
+  - plaintext/2023/08/pimeja.md
+  - plaintext/2023/08/pipi-li-wile-pakala.md
+  - plaintext/2023/08/sina-lon-e-ma.md
+  - plaintext/2023/08/sitelen-tawa-lon.md
+  - plaintext/2023/08/sona-la.md
+  - plaintext/2023/08/tenpo-li-lili.md
+
+  # lipu ale
+  # https://utala.pona.la/toki-en-lipu/
+  - plaintext/2023/08/ilo-sitelen-wawa.md
+  - plaintext/2023/08/ilo-toki.md
+  - plaintext/2023/08/ilo-wawa-pi-ma-toli.md
+  - plaintext/2023/08/jan-mun.md
+  - plaintext/2023/08/kili.md
+  - plaintext/2023/08/mama-sewi-pi-unpa-ala.md
+  - plaintext/2023/08/mi-en-waso-kaka.md
+  - plaintext/2023/08/moku-pi-telo-loje.md
+  - plaintext/2023/08/nasi.md
+  - plaintext/2023/08/nasin-nasa-mupa.md
+  - plaintext/2023/08/pilin-pipi.md
+  - plaintext/2023/08/tawa-suli-soweli.md
+  - plaintext/2023/08/tenpo-pini-weka.md

@@ -1,0 +1,20 @@
+name: lipu tenpo nanpa suno
+sources:
+  - https://liputenpo.org/pdfs/0006suno.pdf
+  - https://liputenpo.org/lipu/nanpa-suno/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_suno
+items:
+  - plaintext/2021/08/sike-suno-mute-pi-toki-pona.md
+  - plaintext/2021/08/ku.md
+  - plaintext/2021/08/lawa-jan-li-kama-sona-e-nasin-toki-kepeken-nasin-seme.md
+  - plaintext/2021/08/o-lawa-e-sona-sina.md
+  - plaintext/2021/08/ma-li-tawa-la-jan-o-seme.md
+  - plaintext/2021/08/soweli-lili-li-suwi.md
+  - plaintext/2021/08/o-pali-e-poki-telo-suwi.md
+  - plaintext/2021/08/mi-tawa-ma-mama-mi.md
+  - plaintext/2021/08/ma-pi-nimi-pona.md
+  - plaintext/2021/08/mun-lili-pi-toki-pona.md
+  - plaintext/2021/08/toki-nasa.md
+  # missing: kijetesantakalu o
+  - plaintext/2021/08/ante.md
+  - plaintext/2021/08/nena-ma.md

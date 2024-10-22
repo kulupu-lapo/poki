@@ -1,0 +1,22 @@
+name: lipu tenpo nanpa nasin
+sources:
+  - https://liputenpo.org/pdfs/0020nasin.pdf
+  - https://liputenpo.org/lipu/nanpa-nasin/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_nasin
+items:
+  - plaintext/2023/07/jan-eli-li-tawa.md
+  - plaintext/2023/07/utala-musi-pi-sitelen-toki.md
+  - plaintext/2023/07/sitelen-pi-lipu-tenpo-lon-nasin-juniko.md
+  - plaintext/2023/07/nasin-telo-suli-nile.md
+  - plaintext/2023/07/jan-pali-li-ken-ala-ken-kama-lawa-e-nasin-pali.md
+  - plaintext/2023/07/sitelen-pi-nasin-jan.md
+  - plaintext/2023/07/tawa-pi-poki-monsi-pi-ma-asija-nanpa-luka-luka-tu-ma-sonko.md
+  - plaintext/2023/07/nasin-tawa-intawe.md
+  - plaintext/2023/07/tan-ma-tawa-mun.md
+  - plaintext/2023/07/toki-loje-tu.md
+  - plaintext/2023/07/kijetesantakalu-o-nanpa-mute.md
+  - plaintext/2023/07/mun-suli.md
+  - plaintext/2023/07/seme-li-mi.md
+  - plaintext/2023/07/kalama-ali.md
+  - plaintext/2023/07/lete-kama-seli.md
+  # Excluded: "alasa nimi: ma Elopa (nanpa tu)" (puzzle) # Mislabeled as nanpa wan in contents

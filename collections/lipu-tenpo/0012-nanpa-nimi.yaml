@@ -1,0 +1,24 @@
+name: lipu tenpo nanpa nimi
+sources:
+  - https://liputenpo.org/pdfs/0012nimi.pdf
+  - https://liputenpo.org/lipu/nanpa-nimi/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_nimi
+items:
+  - plaintext/2022/03/o-kama-jo-e-nimi-iso.md
+  - plaintext/2022/03/tenpo-mun-pi-ante-toki.md
+  - plaintext/2022/03/toki-lon-lipu-onze-taal-toki-mi.md
+  - plaintext/2022/03/tenpo-open-pi-nimi-ona.md
+  - plaintext/2022/03/toki-open-pi-nimi-yupekosi.md
+  - plaintext/2022/03/toki-open-pi-nimi-kapesi.md
+  - plaintext/2022/03/toki-sama-pi-toki-pona-nanpa-tu-wan.md
+  - plaintext/2022/03/tawa-pi-poki-monsi-pi-ma-asija-nanpa-luka-ma-pulun.md
+  - plaintext/2022/03/musi-soweli-mu.md
+  - plaintext/2022/03/o-pali-e-moku-sule-żurek.md
+  - plaintext/2022/03/lupa-ali.md
+  - plaintext/2022/03/toki-soweli-nanpa-tu.md
+  - plaintext/2022/03/toki-soweli-nanpa-tu-wan.md
+  - plaintext/2022/03/kon-lon.md
+  - plaintext/2022/03/toki-musi-pi-nasin-tu.md
+  - plaintext/2022/03/seme-li-mi.md
+  - plaintext/2022/03/kijetesantakalu-o-nanpa-luka-luka-tu.md
+  - plaintext/2022/03/ma-elopa-li-utala.md

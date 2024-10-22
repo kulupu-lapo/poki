@@ -1,0 +1,23 @@
+name: lipu tenpo nanpa akesi
+# source: https://liputenpo.org/lipu/nanpa-akesi
+sources:
+  - https://liputenpo.org/pdfs/0001akesi.pdf
+  - https://liputenpo.org/lipu/nanpa-akesi/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_akesi
+items:
+  - plaintext/2021/02/lipu-tenpo-o-kama-pona.md
+  - plaintext/2021/02/tenpo-pini-pi-toki-pona.md
+  - plaintext/2021/02/nimi-pi-pu-ala.md
+  - plaintext/2021/02/luka-pona-li-seme.md
+  - plaintext/2021/02/nimi-tonsi-li-pona-a.md
+  - plaintext/2021/02/mi-la-nimi-kute-li-nasa-lili.md
+  - plaintext/2021/02/toki-sama-pi-toki-pona.md
+  - plaintext/2021/02/wi-pi-wi-fi.md
+  - plaintext/2021/02/kulupu-soko-pi-noka-kasi.md
+  - plaintext/2021/02/sike-mama-waso-en-telo-mama-soweli-li-pona-ala-tan-seme.md
+  - plaintext/2021/02/mi-la-musi-amanka-li-pona-mute.md
+  - plaintext/2021/02/akesi-seli-ike.md
+  - plaintext/2021/02/kijetesantakulu-o.md
+  - plaintext/2021/02/seme-li-mi.md
+  - plaintext/2021/02/waso.md
+  # missing: musi linja  # crossword puzzle

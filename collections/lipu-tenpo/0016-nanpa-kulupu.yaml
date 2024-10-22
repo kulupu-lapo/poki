@@ -1,0 +1,22 @@
+name: lipu tenpo nanpa kulupu
+sources:
+  - https://liputenpo.org/pdfs/0016kulupu.pdf
+  - https://liputenpo.org/lipu/nanpa-kulupu/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_kulupu
+items:
+  - plaintext/2022/10/tenpo-kulupu-pi-ma-tomo-win.md
+  - plaintext/2022/10/musi-pi-soweli-ike.md
+  - plaintext/2022/10/sina-pi-toki-pona-o-kama-kulupu.md
+  - plaintext/2022/10/nasin-ku-li-pona-taso-ala.md
+  - plaintext/2022/10/tenpo-pi-jaki-kolona-li-pini-ala-pini.md
+  - plaintext/2022/10/telo-suli-suli.md
+  - plaintext/2022/10/sona-pi-ijo-lili-a.md
+  - plaintext/2022/10/kulupu-esun-patakonija.md
+  - plaintext/2022/10/tawa-pi-poki-monsi-pi-ma-asija-nanpa-luka-luka-tu-tu-ma-nepali.md
+  - plaintext/2022/10/telo-oko-li-ken-ante-e-pilin.md
+  - plaintext/2022/10/kala-mi.md
+  - plaintext/2022/10/pona-monsuta.md
+  - plaintext/2022/10/seme-li-mi.md
+  - plaintext/2022/10/jan-osimanta.md
+  - plaintext/2022/10/kijetesantakalu-o-nanpa-luka-luka-luka-wan.md
+  # Excluded: "alasa nimi: ma Apika" (puzzle)

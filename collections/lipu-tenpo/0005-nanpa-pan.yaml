@@ -1,0 +1,23 @@
+name: lipu tenpo nanpa pan
+sources:
+  - https://liputenpo.org/pdfs/0005pan.pdf
+  - https://liputenpo.org/lipu/nanpa-pan/
+  - https://wikisource.org/wiki/Lipu_tenpo/nanpa_pan
+items:
+  - plaintext/2021/06/nimi-mi-pi-sitelen-pona.md
+  - plaintext/2021/06/lipu-wikipesija.md
+  # missing: toki pona li toki pi ma ale anu seme?
+  - plaintext/2021/06/wawa-ante-pi-toki-pona.md
+  - plaintext/2021/06/nasin-sewi-puta.md
+  - plaintext/2021/06/soweli-walo-pi-linja-monsi-suli.md
+  - plaintext/2021/06/ijo-apantasija-li-seme.md
+  - plaintext/2021/06/tenpo-kama.md
+  - plaintext/2021/06/jan-kule-lon-tenpo-pini-nanpa-tu-jan-pona-pi-jan-ale.md
+  - plaintext/2021/06/nasin-juni-pi-ilo-kon.md
+  - plaintext/2021/06/toki-musi-pona.md
+  - plaintext/2021/06/sitelen-tawa-nomalan.md
+  - plaintext/2021/06/wile-pi-sike-pan-li-kama-lon.md
+  - plaintext/2021/06/nasin-seme-la-mi-pali-e-kulupu.md
+  - plaintext/2021/06/musi-nasin-linja.md
+  - plaintext/2021/06/toki-nasa-nanpa-tu-tu.md
+  - plaintext/2021/06/kijetesantakalu-o-nanpa-luka.md
