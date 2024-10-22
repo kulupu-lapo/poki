@@ -24,7 +24,7 @@ authors:
   -
 translators:
   -
-date:
+date: [yyyy-mm-dd]
 tags:
   -
 license:
