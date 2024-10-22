@@ -3,7 +3,6 @@ title: kalama musi suli
 original-title: Song of Songs
 authors:
 - Michael F.
-date: Unknown
 tags:
 - translation
 - poetry

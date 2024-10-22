@@ -5,7 +5,6 @@ authors:
 - Authors of the Bible
 translators:
 - Michael F.
-date: Unknown
 tags:
 - translation
 - prose

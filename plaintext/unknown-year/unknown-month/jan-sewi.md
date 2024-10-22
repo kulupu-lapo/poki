@@ -5,7 +5,6 @@ authors:
 - Atheists of Silicon Valley
 translators:
 - Michael F.
-date: Unknown
 tags:
 - translation
 - prose

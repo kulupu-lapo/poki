@@ -5,7 +5,6 @@ authors:
 - Ursula K. Le Guin
 translators:
 - soweli nata
-date: Unknown
 tags:
 - translation
 license: All Rights Reserved

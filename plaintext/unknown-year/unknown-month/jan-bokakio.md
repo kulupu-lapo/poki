@@ -5,7 +5,6 @@ authors:
 - Giovanni Boccaccio
 translators:
 - Michael F.
-date: Unknown
 tags:
 - translation
 - prose

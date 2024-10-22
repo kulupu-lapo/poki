@@ -2,7 +2,6 @@
 title: lape mi
 authors:
 - Michael F.
-date: Unknown
 tags:
 - original work
 - prose

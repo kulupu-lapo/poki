@@ -7,7 +7,6 @@ translators:
 - Martin Palmer
 - Elizabeth Breuilly
 - Michael F.
-date: Unknown
 tags:
 - translation
 - prose

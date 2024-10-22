@@ -5,7 +5,6 @@ authors:
 - Lewis Carroll
 translators:
 - Michael F.
-date: Unknown
 tags:
 - translation
 - poetry

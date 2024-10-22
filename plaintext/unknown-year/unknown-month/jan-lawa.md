@@ -2,7 +2,6 @@
 title: jan lawa
 authors:
 - Michael F.
-date: Unknown
 tags:
 - original work
 - poetry

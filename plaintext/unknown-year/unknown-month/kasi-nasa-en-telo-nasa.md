@@ -2,7 +2,6 @@
 title: kasi nasa en telo nasa
 authors:
 - Michael F.
-date: Unknown
 tags:
 - original work
 - poetry

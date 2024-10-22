@@ -2,7 +2,6 @@
 title: nasin tawa pi jan Nuton
 authors:
 - Michael F.
-date: Unknown
 tags:
 - translation
 - prose
