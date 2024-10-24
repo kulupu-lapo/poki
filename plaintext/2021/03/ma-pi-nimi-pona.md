@@ -5,6 +5,7 @@ authors:
 date: '2021-03-01'
 license: CC-BY-SA 4.0
 sources:
+- https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona_si
 - https://liputenpo.org/pdfs/0002mun.pdf
 - https://liputenpo.org/lipu/nanpa-mun/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ma_pi_nimi_pona.png
