@@ -5,6 +5,7 @@ authors:
 date: '2021-06-02'
 license: CC-BY-SA 4.0
 sources:
+- https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_si
 - https://liputenpo.org/pdfs/0005pan.pdf
 - https://liputenpo.org/lipu/nanpa-pan/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ante.png
