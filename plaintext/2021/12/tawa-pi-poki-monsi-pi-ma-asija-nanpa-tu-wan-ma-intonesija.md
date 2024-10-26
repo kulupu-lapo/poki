@@ -1,5 +1,5 @@
 ---
-title: tawa pi poki monsi pi ma Asija nanpa tu wan - ma Intonesija
+title: 'tawa pi poki monsi pi ma Asija nanpa tu wan: ma Intonesija'
 authors:
 - jan Polo
 date: '2021-12-08'

@@ -1,5 +1,5 @@
 ---
-title: tawa pi poki monsi pi ma Asija nanpa luka luka tu tu - ma Nepali
+title: 'tawa pi poki monsi pi ma Asija nanpa luka luka tu tu: ma Nepali'
 authors:
 - jan Polo
 date: '2022-10-17'

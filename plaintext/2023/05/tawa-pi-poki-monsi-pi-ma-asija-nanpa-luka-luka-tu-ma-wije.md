@@ -1,5 +1,5 @@
 ---
-title: tawa pi poki monsi pi ma Asija nanpa luka luka tu - ma Wije
+title: 'tawa pi poki monsi pi ma Asija nanpa luka luka tu: ma Wije'
 authors:
 - jan Polo
 date: '2023-05-12'

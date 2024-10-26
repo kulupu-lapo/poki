@@ -1,5 +1,5 @@
 ---
-title: tawa pi poki monsi pi ma Asija nanpa luka tu - ma Mijama
+title: 'tawa pi poki monsi pi ma Asija nanpa luka tu: ma Mijama'
 authors:
 - jan Polo
 date: '2022-07-04'

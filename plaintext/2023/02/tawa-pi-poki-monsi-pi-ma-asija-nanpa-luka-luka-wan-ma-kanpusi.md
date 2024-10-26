@@ -1,5 +1,5 @@
 ---
-title: tawa pi poki monsi pi ma Asija nanpa luka luka wan - ma Kanpusi
+title: 'tawa pi poki monsi pi ma Asija nanpa luka luka wan: ma Kanpusi'
 authors:
 - jan Polo
 date: '2023-02-06'

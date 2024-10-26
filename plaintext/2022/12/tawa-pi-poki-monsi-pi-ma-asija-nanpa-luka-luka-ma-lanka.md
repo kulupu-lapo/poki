@@ -1,5 +1,5 @@
 ---
-title: tawa pi poki monsi pi ma Asija nanpa luka luka - ma Lanka
+title: 'tawa pi poki monsi pi ma Asija nanpa luka luka: ma Lanka'
 authors:
 - jan Polo
 date: '2022-12-09'

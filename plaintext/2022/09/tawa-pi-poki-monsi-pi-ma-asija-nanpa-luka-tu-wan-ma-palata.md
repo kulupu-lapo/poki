@@ -1,5 +1,5 @@
 ---
-title: tawa pi poki monsi pi ma Asija nanpa luka tu wan - ma Palata
+title: 'tawa pi poki monsi pi ma Asija nanpa luka tu wan: ma Palata'
 authors:
 - jan Polo
 date: '2022-09-01'

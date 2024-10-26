@@ -1,5 +1,5 @@
 ---
-title: tawa pi poki monsi pi ma Asija nanpa tu tu - ma Pilipina
+title: 'tawa pi poki monsi pi ma Asija nanpa tu tu: ma Pilipina'
 authors:
 - jan Polo
 date: '2022-02-01'

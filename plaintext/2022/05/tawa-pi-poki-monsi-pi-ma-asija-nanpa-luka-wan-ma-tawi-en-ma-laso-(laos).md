@@ -1,5 +1,5 @@
 ---
-title: tawa pi poki monsi pi ma Asija nanpa luka wan - ma Tawi en ma Laso (Laos)
+title: 'tawa pi poki monsi pi ma Asija nanpa luka wan: ma Tawi en ma Laso (Laos)'
 authors:
 - jan Polo
 date: '2022-05-05'

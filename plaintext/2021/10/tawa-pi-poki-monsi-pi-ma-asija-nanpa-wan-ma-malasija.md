@@ -1,5 +1,5 @@
 ---
-title: tawa pi poki monsi pi ma Asija - nanpa wan. ma Malasija
+title: 'tawa pi poki monsi pi ma Asija: nanpa wan. ma Malasija'
 authors:
 - jan Polo
 date: '2021-10-06'
