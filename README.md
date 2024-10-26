@@ -41,8 +41,10 @@ notes:
 ### Collection metadata
 ```yaml
 name:
+sources:
+  -
 items:
- - 
+  -
 ```
 
 ## Sources
