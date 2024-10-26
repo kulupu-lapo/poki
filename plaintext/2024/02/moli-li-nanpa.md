@@ -3,6 +3,8 @@ title: moli li nanpa
 authors:
 - jan Kapesi Pake
 date: '2024-02-07'
+tags:
+- 'leko nimi'
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
