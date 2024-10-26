@@ -3,6 +3,8 @@ title: kalama ali
 authors:
 - kijetesantakalu Nasan
 date: '2023-07-01'
+tags:
+- poetry
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0020nasin.pdf

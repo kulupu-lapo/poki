@@ -3,6 +3,9 @@ title: musi lili
 authors:
 - jan Tesu
 date: '2024-05-14'
+tags:
+- poetry
+- 'UCSUR'
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0026jaki.pdf

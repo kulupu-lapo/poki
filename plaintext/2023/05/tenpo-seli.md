@@ -3,6 +3,8 @@ title: tenpo seli
 authors:
 - jan Alonola
 date: '2023-05-12'
+tags:
+- poetry
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0019mama.pdf

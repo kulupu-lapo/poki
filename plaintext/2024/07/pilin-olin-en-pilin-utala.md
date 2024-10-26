@@ -3,6 +3,8 @@ title: pilin olin en pilin utala
 authors:
 - jan Lapate
 date: '2024-07-05'
+tags:
+- poetry
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0027linja.pdf

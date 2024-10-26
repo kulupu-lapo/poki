@@ -1,15 +1,18 @@
 ---
 title: kasi kule jelo
+original-title: I Wandered Lonely as a Cloud
 authors:
+- William Wordsworth
+translators:
 - jan Kuleku Nena
 date: '2021-09-02'
+tags:
+- poetry
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0007kule.pdf
 - https://liputenpo.org/lipu/nanpa-kule/
 ---
-
-[kepeken “I Wandered Lonely as a Cloud” tan jan William Wordsworth]
 
 mi tawa ma la  
 mi lukin e kasi kule jelo.  

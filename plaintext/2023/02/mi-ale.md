@@ -3,6 +3,8 @@ title: mi ale
 authors:
 - jan Alonola
 date: '2023-02-06'
+tags:
+- poetry
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf

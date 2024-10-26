@@ -4,6 +4,8 @@ authors:
 - jan Alonola
 - jan Lewiku
 date: '2023-12-25'
+tags:
+- comic
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0023sewi.pdf

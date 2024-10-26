@@ -3,6 +3,9 @@ title: telo oko li ken ante e pilin
 authors:
 - jan Ke Tami
 date: '2022-10-17'
+tags:
+- poetry
+- pangram
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf

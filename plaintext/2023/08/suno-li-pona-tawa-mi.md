@@ -3,6 +3,8 @@ title: suno li pona tawa mi
 authors:
 - jan Alonola
 date: '2023-08-24'
+tags:
+- poetry
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0021ma.pdf

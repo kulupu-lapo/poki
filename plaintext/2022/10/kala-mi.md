@@ -2,6 +2,8 @@
 title: kala mi
 authors:
 - jan Alonola
+tags:
+- poetry
 date: '2022-10-17'
 license: CC-BY-SA 4.0
 sources:

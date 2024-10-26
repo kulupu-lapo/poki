@@ -3,6 +3,8 @@ title: toki musi aku
 authors:
 - soweli Eli
 date: '2024-09-07'
+tags:
+- poetry
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0028lawa.pdf

@@ -5,6 +5,8 @@ authors:
 - C. Valerius Catullus (jan Katulo)
 translators:
 - jan Lapate
+tags:
+- poetry
 date: '2023-12-25'
 license: CC-BY-SA 4.0
 sources:

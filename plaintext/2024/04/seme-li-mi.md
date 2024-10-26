@@ -3,6 +3,9 @@ title: seme li mi
 authors:
 - jan Alonola
 date: '2024-04-01'
+tags:
+- 'sitelen sitelen'
+- 'poetry'
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0025.5lili.pdf

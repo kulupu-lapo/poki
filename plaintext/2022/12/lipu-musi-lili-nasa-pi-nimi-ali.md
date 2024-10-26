@@ -4,6 +4,9 @@ authors:
 - jan Kapesi Pake
 date: '2022-12-09'
 license: CC-BY-SA 4.0
+tags:
+- poetry
+- pangram
 sources:
 - https://liputenpo.org/pdfs/0017musi.pdf
 - https://liputenpo.org/lipu/nanpa-musi/

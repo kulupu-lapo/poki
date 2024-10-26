@@ -3,6 +3,8 @@ title: kiwen lukin
 authors:
 - jan Kuleku Nena
 date: '2022-07-04'
+tags:
+- poetry
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0014seli.pdf

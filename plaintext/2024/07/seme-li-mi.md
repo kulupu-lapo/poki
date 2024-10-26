@@ -4,6 +4,9 @@ authors:
 - jan Alonola
 date: '2024-07-05'
 license: CC-BY-SA 4.0
+tags:
+- 'sitelen sitelen'
+- 'poetry'
 sources:
 - https://liputenpo.org/pdfs/0027linja.pdf
 - https://liputenpo.org/lipu/nanpa-linja/

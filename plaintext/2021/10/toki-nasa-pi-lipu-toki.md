@@ -3,6 +3,9 @@ title: toki nasa
 authors:
   - jan Alonola
 date: '2021-10-06'
+tags:
+- 'sitelen sitelen'
+- 'poetry'
 collections:
   - lipu tenpo
   - lipu tenpo nanpa toki

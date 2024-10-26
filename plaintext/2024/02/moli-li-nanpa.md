@@ -5,6 +5,7 @@ authors:
 date: '2024-02-07'
 tags:
 - 'leko nimi'
+- 'poetry'
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
