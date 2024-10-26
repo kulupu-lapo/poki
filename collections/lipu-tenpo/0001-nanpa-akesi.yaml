@@ -1,5 +1,4 @@
 name: lipu tenpo nanpa akesi
-# source: https://liputenpo.org/lipu/nanpa-akesi
 sources:
   - https://liputenpo.org/pdfs/0001akesi.pdf
   - https://liputenpo.org/lipu/nanpa-akesi/
@@ -20,4 +19,4 @@ items:
   - plaintext/2021/02/kijetesantakulu-o.md
   - plaintext/2021/02/seme-li-mi.md
   - plaintext/2021/02/waso.md
-  # missing: musi linja  # crossword puzzle
+  # Excluded: musi linja (crossword puzzle)

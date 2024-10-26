@@ -1,7 +1,6 @@
 ---
 title: kijetesantakalu o! nanpa luka wan
-description: kijetesantakalu li pana e kasi. taso waso li wile ala e ni. ni li pona
-  ala pona?
+description: kijetesantakalu li pana e kasi. taso waso li wile ala e ni. ni li pona ala pona?
 authors:
 - jan Ke Tami
 date: '2021-08-02'
