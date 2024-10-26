@@ -16,7 +16,7 @@ translators:
 - LuxeDeluxe
 date: '2022-02-17'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/37200148
 archives:

@@ -6,7 +6,7 @@ authors:
 - 4d6_Psychic_Damage
 date: '2022-06-14'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/39630540
 archives:

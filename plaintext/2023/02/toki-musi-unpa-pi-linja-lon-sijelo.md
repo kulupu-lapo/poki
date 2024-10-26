@@ -7,7 +7,7 @@ authors:
 - janseme
 date: '2023-02-06'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/44841781?view_adult=true
 archives:

@@ -6,7 +6,7 @@ authors:
 - not_quite_a_furry
 date: '2023-08-22'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/49551514
 archives:

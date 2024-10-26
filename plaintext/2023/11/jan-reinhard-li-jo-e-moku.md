@@ -8,7 +8,7 @@ translators:
 - AngryToasterNoises
 date: '2023-11-28'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/51895672?view_adult=true
 archives:

@@ -7,7 +7,7 @@ authors:
 - Palian
 date: '2024-01-02'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/52757521
 archives:

@@ -10,7 +10,7 @@ translators:
 - orphan_account
 date: '2022-08-08'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/40897929
 archives:

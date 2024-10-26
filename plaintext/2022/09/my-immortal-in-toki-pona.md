@@ -9,7 +9,7 @@ translators:
 - dragon_chris
 date: '2022-09-29'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/42023853
 archives:

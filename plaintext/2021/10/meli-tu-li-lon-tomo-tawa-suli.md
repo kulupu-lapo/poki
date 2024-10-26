@@ -5,7 +5,7 @@ authors:
 - asona
 date: '2021-10-21'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/34637383
 archives:

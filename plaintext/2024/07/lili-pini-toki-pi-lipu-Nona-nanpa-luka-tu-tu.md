@@ -24,7 +24,7 @@ translators:
 - gayspacewizard
 date: '2024-07-30'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/57646951/chapters/146693536
 archives:

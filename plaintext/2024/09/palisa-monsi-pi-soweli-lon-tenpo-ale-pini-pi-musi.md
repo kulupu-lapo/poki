@@ -9,7 +9,7 @@ translators:
 - Hopeful_Student
 date: '2024-09-10'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/58840579
 archives:

@@ -9,7 +9,7 @@ translators:
 - not_someone
 date: '2024-06-08'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/52700236?view_full_work=true
 archives:

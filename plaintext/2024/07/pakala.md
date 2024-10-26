@@ -9,7 +9,7 @@ translators:
 - RiemannHyperthesis
 date: '2024-07-16'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/57437932/chapters/146128024
 archives:

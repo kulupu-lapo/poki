@@ -6,7 +6,7 @@ authors:
 - BR0K3NWA1NUTB50N
 date: '2023-08-26'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/49628908
 archives:

@@ -9,7 +9,7 @@ translators:
 - mokutelo_pona (Wholesome_Soup)
 date: '2024-02-27'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/54104698
 archives:

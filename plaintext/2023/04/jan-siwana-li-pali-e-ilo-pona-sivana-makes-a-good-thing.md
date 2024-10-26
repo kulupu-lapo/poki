@@ -5,7 +5,7 @@ authors:
 - blue_bees
 date: '2023-04-02'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/46183306/chapters/116266990
 archives:

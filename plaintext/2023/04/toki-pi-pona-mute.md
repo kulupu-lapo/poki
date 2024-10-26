@@ -5,7 +5,7 @@ authors:
 - DarkatningAwesome
 date: '2023-04-08'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/46329748
 archives:

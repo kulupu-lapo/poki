@@ -5,7 +5,7 @@ authors:
 - thegreatsoupster
 date: '2024-01-19'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/53143324
 archives:

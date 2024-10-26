@@ -8,7 +8,7 @@ translators:
 - Chronological_knight
 date: '2024-08-10'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/57546829/chapters/146419696
 archives:

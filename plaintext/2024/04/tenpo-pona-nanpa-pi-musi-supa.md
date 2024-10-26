@@ -8,7 +8,7 @@ translators:
 - RandomWordWriter
 date: '2024-04-07'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/54323551
 archives:

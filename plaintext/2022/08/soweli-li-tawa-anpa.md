@@ -7,7 +7,7 @@ translators:
 - fandom Nastoyashee Sveklo 2022 (Nastoyashee_Sveklo)
 date: '2022-08-02'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/40753278
 archives:

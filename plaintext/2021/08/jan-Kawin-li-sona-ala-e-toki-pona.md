@@ -8,7 +8,7 @@ authors:
 - len_hoshi
 date: '2021-08-08'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/33122965
 archives:

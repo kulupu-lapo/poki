@@ -5,7 +5,7 @@ authors:
 - CAYTION_RAYMEN
 date: '2024-01-10'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/52937524
 archives:

@@ -6,7 +6,7 @@ authors:
 - dragon_chris
 date: '2022-10-07'
 tags:
-- ao3
+- 'fan fiction'
 sources:
 - https://archiveofourown.org/works/42217296
 archives:
