@@ -1,5 +1,6 @@
 ---
 title: pilin musi pi lawa toki
+authors: null
 date: '2022-12-09'
 tags:
 - poetry

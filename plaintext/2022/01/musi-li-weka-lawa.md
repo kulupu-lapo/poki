@@ -2,7 +2,7 @@
 title: musi li weka lawa
 authors:
 - waso Wilo
-date: 2022-01-13 05:00:13.822000
+date: 2022-01-13
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-01-13-musi-li-weka-lawa.md

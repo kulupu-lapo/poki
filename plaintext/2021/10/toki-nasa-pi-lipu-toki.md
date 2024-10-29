@@ -6,9 +6,6 @@ date: '2021-10-06'
 tags:
 - 'sitelen sitelen'
 - 'poetry'
-collections:
-  - lipu tenpo
-  - lipu tenpo nanpa toki
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0008toki.pdf

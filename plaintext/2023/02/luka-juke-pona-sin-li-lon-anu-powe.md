@@ -8,7 +8,6 @@ sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tu_-_luka_Juke.png
-- null
 ---
 
 ![luka Juke](https://upload.wikimedia.org/wikipedia/commons/6/66/Lipu_tenpo_nanpa_tu_-_luka_Juke.png)

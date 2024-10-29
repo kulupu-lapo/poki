@@ -2,7 +2,7 @@
 title: akesi pi ante kule
 authors:
 - jan Sonja
-date: 2022-02-03 02:40:23.912000
+date: 2022-02-03
 license: CC0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-02-03-akesi-pi-ante-kule.md

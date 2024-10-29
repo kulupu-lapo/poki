@@ -2,7 +2,7 @@
 title: ante toki pi AU MAGASIN DE NOUVEAUTES (esun pi ijo sin)
 authors:
 - jan Epen
-date: 2022-07-16 20:31:50.310000
+date: 2022-07-16
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-07-16-ante-toki-pi-au-magasin-de-nouveautes-esun-pi-ijo-sin.md
@@ -67,4 +67,4 @@ selo tomo la telo li anpa. tawa pi kulupu pi kala suno
 
 [toki lili lon toki Anku](https://ko.wikisource.org/wiki/%EA%B1%B4%EC%B6%95%EB%AC%B4%ED%95%9C%EC%9C%A1%EB%A9%B4%EA%B0%81%EC%B2%B4/AU_MAGASIN_DE_NOUVEAUTES)
 
-[toki lili lon toki Inli](https://en.wikisource.org/wiki/Translation:Architectonic_Infinite_Cube/AU_MAGASIN_DE_NOUVEAUTES)
+[toki lili lon toki Inli](https://en.wikisource.org/wiki/Translation:Architectonic_Infinite_Cube/AU_MAGASIN_DE_NOUVEAUTES)[toki lili lon toki Inli](https://en.wikisource.org/wiki/Translation:Architectonic_Infinite_Cube/AU_MAGASIN_DE_NOUVEAUTES)

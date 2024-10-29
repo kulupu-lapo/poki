@@ -2,7 +2,7 @@
 title: nasin lanpan pi nimi iso
 authors:
 - jan Jan
-date: 2022-01-17 04:10:01.094000
+date: 2022-01-17
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-01-17-nasin-lanpan-pi-nimi-iso.md
