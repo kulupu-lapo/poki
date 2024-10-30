@@ -1,0 +1,30 @@
+name: Validate TOMLs
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    name: Validate TOMLs
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Setup Yarn
+        uses: threeal/setup-yarn-action@v2.0.0
+        with:
+          cache: false
+
+      - name: Run validate
+        run: |
+          cd utils
+          yarn install
+          yarn run validate

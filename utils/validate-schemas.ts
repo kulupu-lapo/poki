@@ -69,7 +69,7 @@ async function validate() {
     // this can be parallelised, but meh
     await validateMarkdown(filepath);
   }
-  if (errors) {
+  if (errors.length) {
     for (let error of errors) {
       console.log(error);
     }
