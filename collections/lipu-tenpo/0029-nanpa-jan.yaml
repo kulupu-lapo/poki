@@ -4,18 +4,16 @@ sources:
   - https://liputenpo.org/lipu/nanpa-jan/
   # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_jan
 items:
-  # - plaintext/2024/10/
-
-  # ma Pelin la jan kulupu li mute ala mute?
-  # jan en soweli li ante ala ante?
-  # sitelen pona o lon ala nasin Juniko
-  # kalama ala
-  # jan Panini
-  # jan poka mi li tawa
-  # jan Ulise
-  # toki suwi
-  # tenpo jan tu tu
-  # toki insa olin
-  # o moli ala tawa pimeja pona tenpo
-  # seme li mi
-  # kijetesantakalu o
+  - plaintext/2024/10/ma-pelin-la-jan-kulupu-li-mute-ala-mute.md
+  - plaintext/2024/10/jan-en-soweli-li-ante-ala-ante.md
+  - plaintext/2024/10/sitelen-pona-o-lon-ala-nasin-juniko.md
+  - plaintext/2024/10/kalama-ala.md
+  - plaintext/2024/10/jan-panini.md
+  - plaintext/2024/10/jan-poka-mi-li-tawa.md
+  - plaintext/2024/10/jan-ulise.md
+  - plaintext/2024/10/toki-suwi.md
+  - plaintext/2024/10/tenpo-jan-tu-tu.md
+  - plaintext/2024/10/toki-insa-olin.md
+  - plaintext/2024/10/o-moli-ala-tawa-pimeja-pona-tenpo.md
+  - plaintext/2024/10/seme-li-mi.md
+  - plaintext/2024/10/kijetesantakalu-o.md
