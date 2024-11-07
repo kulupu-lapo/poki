@@ -29,7 +29,7 @@ pali li pini
 ilo musi li  
 kalama li mu
 
-tomo swei lon  
+tomo sewi lon  
 poka kipisi tomo  
 kon walo mute
 
