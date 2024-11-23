@@ -88,3 +88,4 @@ items:
 | [lipu monsuta]                                        | soweli kina          | No                                            | jan Kita              |
 | [jan Telakoman's blog posts][telakoman]               | jan Telakoman        | No                                            | jan Kita              |
 | [Storyweaver]                                         | various              | No                                            |                       |
+| Personal websites                                     | various              | https://github.com/kulupu-lapo/poki/issues/17 | ijo vivi              |
