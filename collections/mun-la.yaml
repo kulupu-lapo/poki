@@ -1,0 +1,41 @@
+name: mun.la
+sources:
+  - https://mun.la/lipu/
+items:
+  # How I feel about Toki Pona (not in Toki Pona)
+  # Toki Pona is a weird name! (not in Toki Pona)
+  - plaintext/2021/10/mun-o-pimeja-pona.md
+  - plaintext/2022/01/jan-lawa-meli-lon-kili-lili.md
+  - plaintext/2022/02/jan-pi-alasa-kala-en-jan-olin-ona.
+  - plaintext/2022/06/sina-ken-wile-ala-ijo.md
+  - plaintext/2022/07/jan-monsuta-loje.md
+  - plaintext/2022/08/tawa-tomo.md
+  - plaintext/2022/09/o-toki-ala-e-lawa.md
+  # Toki Pona Always Has Context (scrap) (not in Toki Pona)
+  # Critter Categories (scrap) (not in Toki Pona)
+  - plaintext/2022/10/sona-pi-ijo-lili-a.md
+  # Predicate is better than Verb (scrap) (not in Toki Pona)
+  # Growing Toki Pona (not in Toki Pona)
+  - plaintext/2022/12/sona-pi-tawa-suno.md
+  # Monsutatesu isn't special (scrap) (not in Toki Pona)
+  - plaintext/2023/02/ale-li-nanpa.md # placement [sic], despite the file path
+  - plaintext/2022/12/mama-o-mi-lon.md
+  - plaintext/2023/04/pali-la-o-weka-tan-kulupu.md
+  - plaintext/2023/05/o-lipu-e-sona.md
+  - plaintext/2023/05/mi-lon-ilo-wawa-lukin.md
+  - plaintext/2023/06/ilo-lukin-pi-tenpo-kama.md
+  - plaintext/2023/08/jan-mun.md
+  # Fluency and CEFR (scrap) (not in Toki Pona)
+  # Toki Pona and Autism (not in Toki Pona)
+  - plaintext/2023/10/jan-pi-ma-nu-olin.md
+  - plaintext/2023/11/meli-en-akesi.md
+  # Why (Not) Use New Words (scrap) (not in Toki Pona)
+  # Word Clouds and Meaning in Toki Pona (scrap) (not in Toki Pona)
+  # When was pu added to Toki Pona? (not in Toki Pona)
+  # What is Toki Pona? in 3 minutes (not in Toki Pona)
+  # How long does it take to learn Toki Pona? (not in Toki Pona)
+  - plaintext/2024/10/ilo-li-kama-kalama.md
+  - plaintext/2024/10/meli-en-mije-li-tawa.md
+  - plaintext/2024/10/pakala-pi-ike-wawa.md
+  - plaintext/2024/10/suno-pi-telo-sijelo-ale.md
+  # What is the Easiest Language? (not in Toki Pona)

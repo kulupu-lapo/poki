@@ -5,6 +5,7 @@ authors:
 date: '2023-02-06'
 license: CC-BY-SA 4.0
 sources:
+- https://mun.la/lipu/ale-li-nanpa.html
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tu_-_ilo.png

@@ -5,6 +5,7 @@ authors:
 date: '2022-10-17'
 license: CC-BY-SA 4.0
 sources:
+- https://mun.la/lipu/sona-pi-ijo-lili-a.html
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_ijo_lili.png
