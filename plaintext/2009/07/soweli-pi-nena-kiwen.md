@@ -2,7 +2,7 @@
 title: soweli pi nena kiwen
 authors:
   - jan Mika
-date: 2009-073
+date: 2009-07
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2009/07/soweli-pi-nena-kiwen.html
