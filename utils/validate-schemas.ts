@@ -18,7 +18,13 @@ const Article = z
     // Date is required for all except `unknown-year/unknown-month`.
     // Do this better somehow?
     // TODO: replace Unknown with null
-    date: z.string().date().or(z.literal("Unknown")).nullish(),
+    date: z
+      .union([
+        z.string().date(),
+        z.string().regex(/^\d{4}-(0[1-9]|1[0-2])$/, "Invalid yyyy-mm format"),
+        z.literal("Unknown"),
+      ])
+      .nullish(),
     tags: z.array(z.string()).nullish(),
     // missing license -> "assume All rights reserved, but
     // its also possible we aren't yet aware of the correct license"
