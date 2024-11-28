@@ -4,6 +4,9 @@ import { parse as parseYaml } from "yaml";
 import { z } from "zod";
 import { parseMarkdown } from "./parse-md";
 
+const noPath = (val: string) =>
+  `Collection includes path ${val}; such a file does not exist`;
+
 const Article = z
   .object({
     title: z.string(),
@@ -35,7 +38,12 @@ const Collection = z
     sources: z.array(z.string()).optional(),
     // not optional; can be empty for upcoming collections
     items: z
-      .array(z.string().refine((val) => existsSync(`../${val}`)))
+      .array(
+        z.string().refine(
+          (val) => existsSync(`../${val}`),
+          (val) => ({ message: noPath(val) }),
+        ),
+      )
       .nullable(),
   })
   .strict();
