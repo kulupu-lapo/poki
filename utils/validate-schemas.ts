@@ -1,7 +1,7 @@
 import { glob } from "glob";
 import { existsSync, readFileSync } from "node:fs";
 import { parse as parseYaml } from "yaml";
-import { z } from "zod";
+import { z, ZodError } from "zod";
 import { parseMarkdown } from "./parse-md";
 
 const noPath = (val: string) =>
@@ -60,18 +60,18 @@ async function validateMarkdown(filepath: string) {
     let [meta, content] = await parseMarkdown(article);
     Article.parse(meta);
   } catch (e) {
-    errors.push(e as Error);
+    errors.push([filepath, e as Error]);
   }
 }
 
-var errors: Error[] = [];
+var errors: [string, Error][] = [];
 
 function validateCollection(filepath: string) {
   try {
     let collection = parseYaml(readFileSync(filepath, "utf8"));
     Collection.parse(collection);
   } catch (e) {
-    errors.push(e as Error);
+    errors.push([filepath, e as Error]);
   }
 }
 
@@ -84,8 +84,12 @@ async function validate() {
     await validateMarkdown(filepath);
   }
   if (errors.length) {
-    for (let error of errors) {
-      console.log(error);
+    for (let [filepath, error] of errors) {
+      console.log(filepath, ":");
+      for (let issue of (error as ZodError).issues) {
+        console.log(issue);
+      }
+      console.log("===========================================");
     }
     throw new Error("Files above are invalid");
   }
