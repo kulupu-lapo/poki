@@ -6,8 +6,7 @@ date: 2018-03-13
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/423151642167345152/423154399121244170
-notes:
-  - https://pastebin.com/raw/k41qPuni
+notes: https://pastebin.com/raw/k41qPuni
 ---
 
 ike la ona li tawa ma ni:  \
