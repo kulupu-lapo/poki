@@ -1,5 +1,6 @@
 ---
-title: ma tomo Pape
+title: mama pi mi mute
+original-title: Lord's Prayer
 date: 2005-07-15
 license: CC BY-SA 3.0    # License from Wikipedia
 sources:

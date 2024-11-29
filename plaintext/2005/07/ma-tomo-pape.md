@@ -1,5 +1,6 @@
 ---
 title: ma tomo Pape
+original-title: Tower of Babel
 translators:
   - jan Pije
 date: 2005-07-15
