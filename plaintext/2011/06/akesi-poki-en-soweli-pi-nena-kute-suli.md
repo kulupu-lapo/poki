@@ -3,7 +3,7 @@ title: akesi poki en soweli pi nena kute suli
 authors:
   - jan Mato
 date: 2011-06-24
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/06/akesi-poki-en-soweli-pi-nena-kute-suli.html
 ---

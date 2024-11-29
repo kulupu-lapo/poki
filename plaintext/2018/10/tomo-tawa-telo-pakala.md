@@ -3,7 +3,7 @@ title: tomo tawa telo pakala
 authors:
   - jan Ote
 date: 2018-10-21
-license: All Rights Reseved
+license: null
 sources:
   - https://discord.com/channels/301377942062366741/507286901783527424/507289965550501888
 ---

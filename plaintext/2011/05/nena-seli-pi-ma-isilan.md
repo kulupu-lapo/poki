@@ -4,7 +4,7 @@ authors:
   - jan Kanso
   - Dave Raftery
 date: 2011-05-20
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/05/nena-seli-pi-ma-isilan.html
 ---

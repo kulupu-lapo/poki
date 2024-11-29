@@ -3,7 +3,7 @@ title: kala ma li lon ala tan seme?
 authors:
   - anonymous
 date: 2011-04-01
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/04/kala-ma-li-lon-ala-tan-seme.html
 ---

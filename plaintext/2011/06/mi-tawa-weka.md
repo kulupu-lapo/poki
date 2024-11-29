@@ -3,7 +3,7 @@ title: mi tawa weka
 authors:
   - jan Ote
 date: 2011-06-03
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/06/mi-tawa-weka.html
 ---

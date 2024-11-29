@@ -3,7 +3,7 @@ title: toki utala pi pimeja soweli
 translators:
   - jan Ote
 date: 2011-06-01
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/07/toki-utala-pi-pimeja-soweli.html
 ---

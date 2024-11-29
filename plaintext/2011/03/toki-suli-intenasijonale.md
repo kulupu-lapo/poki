@@ -3,7 +3,7 @@ title: toki suli Intenasijonale
 authors:
   - anonymous
 date: 2011-03-18
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/04/toki-suli-intenasijonale.html
 ---

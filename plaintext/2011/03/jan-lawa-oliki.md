@@ -3,7 +3,7 @@ title: jan lawa Oliki
 authors:
   - jan Elepanto
 date: 2011-03-25
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/04/jan-lawa-oliki.html
 ---

@@ -3,7 +3,7 @@ title: soweli li pona
 authors:
   - jan Ote
 date: 2011-06-17
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/06/soweli-li-pona.html
 ---

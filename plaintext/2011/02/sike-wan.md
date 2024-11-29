@@ -3,7 +3,7 @@ title: sike wan
 authors:
   - jan Pije
 date: 2011-02-11
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/03/sike-wan.html
 ---

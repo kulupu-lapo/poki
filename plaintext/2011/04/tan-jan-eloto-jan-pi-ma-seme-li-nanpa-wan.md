@@ -3,7 +3,7 @@ title: tan jan Eloto. jan pi ma seme li jan nanpa wan?
 authors:
   - jan Ote
 date: 2011-04-22
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/04/meli-anu-mije.html
 ---

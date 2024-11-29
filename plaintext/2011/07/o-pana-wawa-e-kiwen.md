@@ -3,7 +3,7 @@ title: o pana wawa e kiwen
 translators:
   - jan Ote
 date: 2011-06-15
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/07/o-pana-wawa-e-kiwen.html
 ---

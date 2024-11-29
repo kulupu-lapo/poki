@@ -3,7 +3,7 @@ title: soweli en kili
 authors:
   - jan Ote
 date: 2011-02-25
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/03/soweli-en-kili.html
 ---

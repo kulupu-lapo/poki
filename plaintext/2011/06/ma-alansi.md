@@ -3,7 +3,7 @@ title: ma Alansi
 authors:
   - jan Ote
 date: 2011-06-10
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/06/ma-alansi.html
 ---

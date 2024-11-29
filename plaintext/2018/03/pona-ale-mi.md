@@ -3,7 +3,7 @@ title: pona ale mi
 authors:
   - jan Kawa
 date: 2018-03-13
-license: All Rights Reseved
+license: null
 sources:
   - https://discord.com/channels/301377942062366741/423151642167345152/423154399121244170
 ---

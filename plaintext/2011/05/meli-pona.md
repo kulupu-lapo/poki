@@ -3,7 +3,7 @@ title: meli pona
 authors:
   - jan Pije
 date: 2011-05-06
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/05/meli-pona.html
 ---

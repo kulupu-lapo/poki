@@ -3,7 +3,7 @@ title: sina awen ala awen tawa mi?
 authors:
   - jan Mako
 date: 2011-06-01
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/07/sina-awen-ala-awen-tawa-mi.html
 ---

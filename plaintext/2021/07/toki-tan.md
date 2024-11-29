@@ -5,7 +5,7 @@ authors:
 date: 2021-07-12
 tags:
   - poetry
-license: All Rights Reseved
+license: null
 sources:
   - https://www.reddit.com/r/tokipona/comments/oikpr8/toki_tan_a_creation_story_in_toki_pona_inspired/
 ---

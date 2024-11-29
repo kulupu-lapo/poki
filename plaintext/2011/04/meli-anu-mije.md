@@ -3,7 +3,7 @@ title: meli anu mije?
 authors:
   - jan Mika
 date: 2011-04-11
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/04/meli-anu-mije.html
 ---

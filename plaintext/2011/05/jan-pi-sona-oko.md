@@ -3,7 +3,7 @@ title: jan pi sona oko
 authors:
   - Dave Raftery
 date: 2011-05-27
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/05/jan-pi-sona-oko.html
 ---

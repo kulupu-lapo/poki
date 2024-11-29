@@ -3,7 +3,7 @@ title: tan jan Eloto. pipi pali en kiwen suno
 authors:
   - jan Ote
 date: 2011-05-13
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/05/tan-jan-eloto-pipi-pali-en-kiwen-suno.html
 ---

@@ -3,7 +3,7 @@ title: tawa weka
 authors:
   - jan Ote
 date: 2011-06-08
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/07/tawa-weka.html
 ---

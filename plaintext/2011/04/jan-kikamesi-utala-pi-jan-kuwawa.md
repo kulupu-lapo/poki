@@ -3,7 +3,7 @@ title: jan Kikamesi. utala pi jan Kuwawa
 authors:
   - jan Ote
 date: 2011-04-15
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/04/jan-kikamesi-utala-pi-jan-kuwawa.html
 ---

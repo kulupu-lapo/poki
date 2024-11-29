@@ -3,7 +3,7 @@ title: pipi musi en pipi pali
 authors:
   - jan Ote
 date: 2011-03-11
-license: All Rights Reseved
+license: null
 sources:
   - https://olukin.blogspot.com/2011/04/pipi-musi-en-pipi-pali.html
 ---
