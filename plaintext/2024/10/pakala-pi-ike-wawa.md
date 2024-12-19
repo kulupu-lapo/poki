@@ -3,6 +3,7 @@ title: pakala pi ike wawa
 authors:
   - jan Kekan San
 date: 2024-10-13
+license: null
 sources:
   - https://mun.la/lipu/pakala-pi-ike-wawa.html
 archives:

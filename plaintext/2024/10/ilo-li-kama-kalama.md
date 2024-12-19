@@ -3,6 +3,7 @@ title: ilo li kama kalama
 authors:
   - jan Kekan San
 date: 2024-10-11
+license: null
 sources:
   - https://mun.la/lipu/ilo-li-kama-kalama.html
 archives:
