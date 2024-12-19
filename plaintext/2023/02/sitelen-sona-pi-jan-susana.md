@@ -12,8 +12,6 @@ sources:
 archives:
   - https://web.archive.org/web/20240930144530/https://archiveofourown.org/works/44983381
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-accessibility-notes: null
-notes: null
 ---
 
 !!! note

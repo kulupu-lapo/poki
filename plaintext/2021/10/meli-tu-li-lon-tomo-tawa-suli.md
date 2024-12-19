@@ -12,7 +12,6 @@ sources:
 archives:
   - https://archive.ph/AtfHM
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

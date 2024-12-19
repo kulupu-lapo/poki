@@ -12,8 +12,6 @@ sources:
 archives:
   - https://archive.ph/1ki7x
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-accessibility-notes: null
-notes: null
 ---
 
 !!! note

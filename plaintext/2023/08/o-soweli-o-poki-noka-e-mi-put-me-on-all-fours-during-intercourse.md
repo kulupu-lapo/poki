@@ -14,7 +14,6 @@ sources:
 archives:
   - https://web.archive.org/web/20240930140713/https://archiveofourown.org/works/49551514
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML · mi nasa ala e toki Epelanto
-accessibility-notes: null
 notes: toki Inli li lon toki poka · toki Epelanto li lon toki
 ---
 

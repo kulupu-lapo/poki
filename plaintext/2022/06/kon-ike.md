@@ -1,6 +1,8 @@
 ---
 title: kon ike
 description: jan Kije li pilin ike. kon la, jan Kije li pilin ike mute.
+authors:
+  - anonymous
 date: "2022-06-03"
 license: null
 tags:
