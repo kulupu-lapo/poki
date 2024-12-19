@@ -1,15 +1,16 @@
 ---
 title: jan lawa
 authors:
-- Michael F.
+  - Michael F.
+date: null
 tags:
-- original work
-- poetry
+  - original work
+  - poetry
 license: CC BY-NC 3.0
 sources:
-- http://failbluedot.com/toki_pona/jan_lawa
+  - http://failbluedot.com/toki_pona/jan_lawa
 archives:
-- https://web.archive.org/web/20140305061518/http://failbluedot.com/toki_pona/jan_lawa
+  - https://web.archive.org/web/20140305061518/http://failbluedot.com/toki_pona/jan_lawa
 ---
 
 # jan lawa

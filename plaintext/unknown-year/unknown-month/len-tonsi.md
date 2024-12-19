@@ -3,6 +3,7 @@ title: len tonsi
 description: '"len tonsi" can have a specific double meaning that is profound and freeing to think about.'
 authors:
   - lipamanka
+date: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
   - https://lipamanka.gay/toki-pona-taso/len-tonsi

@@ -3,6 +3,7 @@ title: kon pan
 description: a traditional jewish story I grew up with told from memory in toki pona
 authors:
   - lipamanka
+date: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
   - https://lipamanka.gay/toki-pona-taso/kon-pan

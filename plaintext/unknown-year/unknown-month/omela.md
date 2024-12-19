@@ -2,16 +2,17 @@
 title: jan pi weka tan ma tomo Omela
 original-title: The Ones Who Walk Away from Omelas
 authors:
-- Ursula K. Le Guin
+  - Ursula K. Le Guin
+date: null
 translators:
-- soweli nata
+  - soweli nata
 tags:
-- translation
+  - translation
 license: All Rights Reserved
 sources:
-- https://equa.space/toki-pona/omela/
+  - https://equa.space/toki-pona/omela/
 archives:
-- https://web.archive.org/web/20201003152312/https://equa.space/toki-pona/omela/
+  - https://web.archive.org/web/20201003152312/https://equa.space/toki-pona/omela/
 ---
 
 ilo lili li kalama li tawa e waso. tenpo musi pi seli suli li kama tawa ma tomo Omela lon poka pi telo suli. tomo lon telo li kule mute. lon nasin lon poka pi tomo pi sinpin kule, lon poka pi ma kasi suli, lon anpa pi kasi suli, lon poka pi tomo kulupu, la jan musi li tawa. jan mute li pona lukin: jan suli li kepeken len suli pi loje pimeja. mama li awen e jan lili ona li tawa lon nasin. nasin ante la kalama musi li wawa li suwi. jan li tawa musi. jan lili li tawa li mu sama waso lon sewi. jan ale li tawa poka wan pi ma tomo. ona la ma kasi telo li lon. ma kasi telo la jan lili li lon soweli tawa. linja pi kule musi li lon linja soweli. ona li mu tawa ona sama. ona li pilin pona: soweli ale la soweli ni taso li kama pilin e tenpo musi. weka mute la nena suli li lon sike pi ma tomo Omela. kon pi tenpo suno sin li pona. ni la ale li ken lukin e sewi pi nena suli e lete lon ona. kon tawa li kalama e len musi. kalama ala li lon ma kasi laso la jan li ken kute e kalama musi tan jan musi kama. ona li awen tawa li kama tawa ma kasi. kon li suwi tan ni ale.

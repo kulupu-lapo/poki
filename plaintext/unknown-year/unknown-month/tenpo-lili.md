@@ -1,15 +1,16 @@
 ---
 title: tenpo lili
 authors:
-- Michael F.
+  - Michael F.
+date: null
 tags:
-- original work
-- poetry
+  - original work
+  - poetry
 license: CC BY-NC 3.0
 sources:
-- http://failbluedot.com/toki_pona/tenpo_lili
+  - http://failbluedot.com/toki_pona/tenpo_lili
 archives:
-- https://web.archive.org/web/20140305064529/http://failbluedot.com/toki_pona/tenpo_lili
+  - https://web.archive.org/web/20140305064529/http://failbluedot.com/toki_pona/tenpo_lili
 ---
 
 # tenpo lili

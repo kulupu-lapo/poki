@@ -3,6 +3,7 @@ title: kili
 description: quill writes about how toki pona usage
 authors:
   - quill
+date: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
   - https://lipamanka.gay/toki-pona-taso/kili

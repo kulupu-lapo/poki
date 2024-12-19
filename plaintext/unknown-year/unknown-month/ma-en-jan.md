@@ -3,6 +3,7 @@ title: ma en jan
 description: jan li lon ma. ma li lon jan. seme li kama?
 authors:
   - lipamanka
+date: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
   - https://lipamanka.gay/toki-pona-taso/ma-en-jan
@@ -93,4 +94,4 @@ li awen pona e ma
 o pona tawa ma
 
 lipamanka  
-ma 
+ma
