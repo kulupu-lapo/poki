@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0025kalama.pdf
 - https://liputenpo.org/lipu/nanpa-kalama/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_tenpo_kalama.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![ilo li pini e lape jan kepeken kalama](https://upload.wikimedia.org/wikipedia/commons/7/76/Lipu_tenpo_nanpa_kalama_-_ilo_tenpo_kalama.png)

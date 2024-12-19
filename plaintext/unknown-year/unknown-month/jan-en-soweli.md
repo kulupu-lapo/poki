@@ -1,15 +1,16 @@
 ---
 title: jan en soweli
 authors:
-- Michael F.
+  - Michael F.
+date: null
 tags:
-- original work
-- poetry
+  - original work
+  - poetry
 license: CC BY-NC 3.0
 sources:
-- http://failbluedot.com/toki_pona/jan_en_soweli
+  - http://failbluedot.com/toki_pona/jan_en_soweli
 archives:
-- https://web.archive.org/web/20140305064458/http://failbluedot.com/toki_pona/jan_en_soweli
+  - https://web.archive.org/web/20140305064458/http://failbluedot.com/toki_pona/jan_en_soweli
 ---
 
 # jan en soweli

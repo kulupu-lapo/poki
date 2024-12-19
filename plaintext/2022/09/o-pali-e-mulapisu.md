@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0015moku.pdf
 - https://liputenpo.org/lipu/nanpa-moku/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_moku_open.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 toki! sina wile ala wile moku e mulapisu? toki Italija la, ona li “Pizza”. mi kin li wile! o open.

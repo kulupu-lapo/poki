@@ -1,6 +1,5 @@
 ---
 title: ilo toki
-description: null
 authors:
 - jan Peton
 date: '2023-08-15'

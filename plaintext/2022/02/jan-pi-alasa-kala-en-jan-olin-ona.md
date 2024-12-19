@@ -6,6 +6,7 @@ authors:
 translators:
   - jan Kekan San
 date: 2022-02-28
+license: null
 sources:
   - https://mun.la/lipu/jan-pi-alasa-kala-en-jan-olin-ona.html
 archives:

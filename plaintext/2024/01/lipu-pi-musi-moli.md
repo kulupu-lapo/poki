@@ -1,22 +1,24 @@
 ---
 title: lipu pi musi moli
-description: tenpo pi suli pimeja kama la jan Lajato anpa e jan Elele la, ona li pilin.
+description:
+  tenpo pi suli pimeja kama la jan Lajato anpa e jan Elele la, ona li pilin.
   ma sama ala la, waso sewi Wemu li oko pilin e olin.
 authors:
-- treatster
-date: '2024-01-28'
+  - treatster
+date: "2024-01-28"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/53348932/chapters/135018496
+  - https://archiveofourown.org/works/53348932/chapters/135018496
 archives:
-- https://web.archive.org/web/20240927162819/https://archiveofourown.org/works/53348932/chapters/135018496
+  - https://web.archive.org/web/20240927162819/https://archiveofourown.org/works/53348932/chapters/135018496
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---
 
 !!! note
-    AO3 has a toki pona category, and this is my attempt at using it. Grammar and language corrections are very appreciated!
+AO3 has a toki pona category, and this is my attempt at using it. Grammar and language corrections are very appreciated!
 
     I very much wanted to do this because of the possibilities for linguistic ambiguity and vagueness. Death Note, I think, would make fantastic use of it.
 

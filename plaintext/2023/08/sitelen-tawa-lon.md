@@ -1,6 +1,5 @@
 ---
 title: sitelen tawa lon
-description: null
 authors:
 - jan Poli
 date: '2023-08-15'

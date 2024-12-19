@@ -2,16 +2,18 @@
 title: len
 description: len pi jan Linan li pakala.
 authors:
-- thegreatsoupster
-date: '2024-04-23'
+  - thegreatsoupster
+date: "2024-04-23"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/55421998
+  - https://archiveofourown.org/works/55421998
 archives:
-- https://web.archive.org/web/20240927152603/https://archiveofourown.org/works/55421998
+  - https://web.archive.org/web/20240927152603/https://archiveofourown.org/works/55421998
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-notes: lipu open la sitelen `\n` mute li poka li lon e weka suli · nasin Markdown
+notes:
+  lipu open la sitelen `\n` mute li poka li lon e weka suli · nasin Markdown
   la ni li ken ala
 ---
 

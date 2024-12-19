@@ -9,8 +9,7 @@ sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tu_-_ilo.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![ilo li poki e ma li pana lukin e ona lon sinpin](https://upload.wikimedia.org/wikipedia/commons/1/16/Lipu_tenpo_nanpa_tu_-_ilo.png)

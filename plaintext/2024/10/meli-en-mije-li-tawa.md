@@ -1,8 +1,9 @@
 ---
 title: meli en mije li tawa
-translators:
-  - jan Kekan San
 date: 2024-10-13
+license: null
+authors:
+  - jan Kekan San
 sources:
   - https://mun.la/lipu/meli-en-mije-li-tawa.html
 archives:

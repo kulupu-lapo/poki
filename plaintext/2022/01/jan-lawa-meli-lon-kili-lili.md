@@ -6,6 +6,7 @@ authors:
 translators:
   - jan Kekan San
 date: 2022-01-15
+license: null
 sources:
   - https://mun.la/lipu/jan-lawa-meli-lon-kili-lili.html
 archives:

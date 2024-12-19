@@ -1,15 +1,16 @@
 ---
 title: lape mi
 authors:
-- Michael F.
+  - Michael F.
+date: null
 tags:
-- original work
-- prose
+  - original work
+  - prose
 license: CC BY-NC 3.0
 sources:
-- http://failbluedot.com/toki_pona/lape_mi
+  - http://failbluedot.com/toki_pona/lape_mi
 archives:
-- https://web.archive.org/web/20140305062349/http://failbluedot.com/toki_pona/lape_mi
+  - https://web.archive.org/web/20140305062349/http://failbluedot.com/toki_pona/lape_mi
 ---
 
 # lape mi

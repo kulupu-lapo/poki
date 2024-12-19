@@ -1,6 +1,5 @@
 ---
 title: ma li supa
-description: null
 authors:
 - jan Tepo
 - jan Lakuse

@@ -3,6 +3,7 @@ title: mi lon ilo wawa lukin
 authors:
   - jan Kekan San
 date: 2023-05-06
+license: null
 sources:
   - https://mun.la/lipu/mi-lon-ilo.html
 archives:

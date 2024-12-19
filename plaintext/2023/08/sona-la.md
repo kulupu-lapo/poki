@@ -1,6 +1,5 @@
 ---
 title: sona la
-description: null
 authors:
 - asali
 date: '2023-08-15'

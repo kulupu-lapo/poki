@@ -1,16 +1,18 @@
 ---
 title: moku sina
-description: 'soweli suli li moku e sina anu: soweli, jan, mi, kala, kijetesantakalu,
-  monsuta, ona, waso moku sina'
+description:
+  "soweli suli li moku e sina anu: soweli, jan, mi, kala, kijetesantakalu,
+  monsuta, ona, waso moku sina"
 authors:
-- BR0K3NWA1NUTB50N
-date: '2023-08-26'
+  - BR0K3NWA1NUTB50N
+date: "2023-08-26"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/49628908
+  - https://archiveofourown.org/works/49628908
 archives:
-- https://web.archive.org/web/20240930140541/https://archiveofourown.org/works/49628908
+  - https://web.archive.org/web/20240930140541/https://archiveofourown.org/works/49628908
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

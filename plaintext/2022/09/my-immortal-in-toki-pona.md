@@ -1,30 +1,32 @@
 ---
 title: My Immortal in toki pona
 original-title: My Immortal
-description: exactly what it says on the tin. a fan translation of my immortal, but
+description:
+  exactly what it says on the tin. a fan translation of my immortal, but
   with (hopefully) correct toki pona grammar and spelling.
 authors:
-- Tara Gilesbie
+  - Tara Gilesbie
 translators:
-- dragon_chris
-date: '2022-09-29'
+  - dragon_chris
+date: "2022-09-29"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/42023853
+  - https://archiveofourown.org/works/42023853
 archives:
-- https://archive.ph/fyAra
+  - https://archive.ph/fyAra
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---
 
 !!! note
-    wow! this is…a lot. thank you to ma pona for the help and encouragement. i hope i can get some more chapters out at some point but…no promises.
+wow! this is…a lot. thank you to ma pona for the help and encouragement. i hope i can get some more chapters out at some point but…no promises.
 
 ##
 
 !!! note
-    a handy dandy guide to the characters and such:
+a handy dandy guide to the characters and such:
 
     - jan Eponi: enoby
     - jan Teko: drako
@@ -52,4 +54,4 @@ taso tenpo ni la, mi kute e jan pona mi li wile weka a!
 sitelen lili mama: ni li pona ala pona? o toki tawa mi.
 
 !!! note
-    feedback is greatly appreciated. i’m sure i made a ton of mistakes and i’d love corrections (and if you’re interested in helping write more, please say so, i’d love help).
+feedback is greatly appreciated. i’m sure i made a ton of mistakes and i’d love corrections (and if you’re interested in helping write more, please say so, i’d love help).

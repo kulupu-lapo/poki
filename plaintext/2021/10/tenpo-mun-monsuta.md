@@ -1,6 +1,5 @@
 ---
 title: tenpo mun monsuta
-description: null
 authors:
 - waso suno Alana
 date: '2021-10-23'

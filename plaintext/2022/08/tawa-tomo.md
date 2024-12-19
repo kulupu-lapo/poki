@@ -5,6 +5,7 @@ authors:
 translators:
   - jan Kekan San
 date: 2022-08-27
+license: null
 sources:
   - https://mun.la/lipu/tawa-tomo.html
 archives:

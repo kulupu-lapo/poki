@@ -1,6 +1,5 @@
 ---
 title: pu Tosi
-description: null
 authors:
 - jan Juli
 date: '2021-12-20'

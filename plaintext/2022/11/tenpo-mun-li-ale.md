@@ -1,22 +1,24 @@
 ---
 title: tenpo mun li ale
-description: jan Jasija Te en jan Julijen Pasi li lape ala. tenpo mun ni la jan tu
+description:
+  jan Jasija Te en jan Julijen Pasi li lape ala. tenpo mun ni la jan tu
   li toki li lukin e tomo sewi lon mun; jan tu li pilin pona mute. jan Julijen li
   pilin olin. (lipu ni li kepeken e nimi ku.)
 authors:
-- Palian
-date: '2022-11-26'
+  - Palian
+date: "2022-11-26"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/43271809
+  - https://archiveofourown.org/works/43271809
 archives:
-- https://archive.ph/RsEQG
+  - https://archive.ph/RsEQG
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 
 !!! note
-    mi wile e ni: sina pilin pona tawa lipu ni. :3
+mi wile e ni: sina pilin pona tawa lipu ni. :3
 
 jan Jasija li tawa lon nasin sike pi tomo mun.  
 tenpo li tenpo mun la jan mute li lape.

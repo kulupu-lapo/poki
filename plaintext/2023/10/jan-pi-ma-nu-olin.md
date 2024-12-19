@@ -3,6 +3,7 @@ title: jan pi ma Nu Olin
 authors:
   - jan Kekan San
 date: 2023-10-21
+license: null
 sources:
   - https://mun.la/lipu/jan-pi-ma-nu-olin.html
 archives:

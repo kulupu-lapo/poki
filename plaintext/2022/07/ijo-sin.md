@@ -1,6 +1,5 @@
 ---
 title: ijo sin
-description: null
 authors:
 - jan Lakuse
 date: '2022-07-30'

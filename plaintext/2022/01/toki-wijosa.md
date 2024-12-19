@@ -1,14 +1,14 @@
 ---
 title: toki Wijosa
-description: null
+description: jan Tepo en jan Tesa li toki e nasin pi toki Wijosa
 authors:
-- jan Tepo
-- jan Tesa
-date: '2022-01-18'
+  - jan Tepo
+  - jan Tesa
+date: "2022-01-18"
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vRXQZ8ukm_TlxLME6nE-OI_c893zAA9RMr1iYD7vQLaOvj0Gs75VSSRlJc6l4E1qTa5gKqOoOH3x8Z1/pub
-- https://wikisource.org/wiki/Kalama_sin/16
+  - https://docs.google.com/document/d/e/2PACX-1vRXQZ8ukm_TlxLME6nE-OI_c893zAA9RMr1iYD7vQLaOvj0Gs75VSSRlJc6l4E1qTa5gKqOoOH3x8Z1/pub
+  - https://wikisource.org/wiki/Kalama_sin/16
 ---
 
 **jan Tepo:** o kama pona tawa kalama sin ni.
@@ -54,7 +54,7 @@ tenpo suno ni la mi toki lon toki Wijosa. jan Tesa li lon, a–
 
 **jan Tepo:** n, tenpo seme la sina kama sona e toki Wijosa. tan seme? seme la–?
 
-**jan Tesa:** a, mi la mi kama sona e toki Wijosa la jan pi nimi lawa- jan lawa li toki [tawa] mi, tan tokiponido sin pi nasin Wijosa kepeken nimi pi toki pona. tenpo ona la mi sona ala e toki Wijosa la  mi kama sona e toki Wijosa la mi pana e nasin tawa tokiponido sin pi jan lawa. mi kama sona e toki Wijosa la  mi olin kin mute e toki Wijosa, la mi kama sona suli e ona. e nasin, e nimi, e jan, e kulupu. kulupu pi toki Wijosa li pona kin.
+**jan Tesa:** a, mi la mi kama sona e toki Wijosa la jan pi nimi lawa- jan lawa li toki [tawa] mi, tan tokiponido sin pi nasin Wijosa kepeken nimi pi toki pona. tenpo ona la mi sona ala e toki Wijosa la mi kama sona e toki Wijosa la mi pana e nasin tawa tokiponido sin pi jan lawa. mi kama sona e toki Wijosa la mi olin kin mute e toki Wijosa, la mi kama sona suli e ona. e nasin, e nimi, e jan, e kulupu. kulupu pi toki Wijosa li pona kin.
 
 **jan Tepo:** a! ni li lon. toki pona li pona mute tawa mi toki taso ala, li pona suli tawa mi tan ni: kulupu li lon li pona suli!
 
@@ -157,7 +157,7 @@ ni li ale. kalama li awen.
 
 **jan Tepo:** pona, pona... a a ni li lili tawa toki Losupan.
 
-**jan Tesa:** toki Losupan li pona tawa mi- taso mi sona ala- mi toki ala e toki Losupan. nimi pi mute mute mute la  mi ken ala kama sona.
+**jan Tesa:** toki Losupan li pona tawa mi- taso mi sona ala- mi toki ala e toki Losupan. nimi pi mute mute mute la mi ken ala kama sona.
 
 **jan Tepo:** a lon, lon. kama sona nimi [la] mi ken kepeken ilo. taso, a. ilo li ken pana pona e sona nimi. taso, ilo la mi o pali mute. ilo li pana e nimi tawa mi lon tenpo mute la mi o... o pali mute tawa awen sona nimi. a! ni li musi mute ala. toki pona li...
 

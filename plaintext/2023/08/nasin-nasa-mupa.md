@@ -1,6 +1,5 @@
 ---
 title: nasin nasa pi jan Mupa
-description: null
 authors:
 - jan Telupiso
 - jan Kiwisin

@@ -2,19 +2,20 @@
 title: pilin nasa ike pi jan Unala
 description: jan Unala li alasa e pilin pona.
 authors:
-- kasi lape (orphan_account)
-date: '2021-10-27'
+  - kasi lape (orphan_account)
+date: "2021-10-27"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/34762312
+  - https://archiveofourown.org/works/34762312
 archives:
-- https://archive.ph/V6bk5
+  - https://archive.ph/V6bk5
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 
 !!! note
-    ilo ike li pana e nanpa pona mute tawa ni :( tenpo lon la, lipu ni li jo e nanpa pona pi mute 15 pi nimi ala.
+ilo ike li pana e nanpa pona mute tawa ni :( tenpo lon la, lipu ni li jo e nanpa pona pi mute 15 pi nimi ala.
 
     mi pilin e ni: ona ale li tan ilo ike. mi wile jo e nanpa pona tan jan lon taso.
 

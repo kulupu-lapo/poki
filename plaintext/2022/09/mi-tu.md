@@ -1,16 +1,18 @@
 ---
 title: mi tu.
-description: kulupu Upi li jan tu li jan Kuki li jan Sato. taso jan ante li sona ala
+description:
+  kulupu Upi li jan tu li jan Kuki li jan Sato. taso jan ante li sona ala
   a! ona li pona e ni.
 authors:
-- dragon_chris
-date: '2022-09-12'
+  - dragon_chris
+date: "2022-09-12"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/41662281?view_full_work=true
+  - https://archiveofourown.org/works/41662281?view_full_work=true
 archives:
-- https://archive.ph/C4Pl2
+  - https://archive.ph/C4Pl2
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

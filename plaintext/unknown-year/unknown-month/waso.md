@@ -3,6 +3,8 @@ title: waso
 description: fable by lipamanka about waso
 authors:
   - lipamanka
+date: null
+license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
   - https://lipamanka.gay/toki-pona-taso/waso

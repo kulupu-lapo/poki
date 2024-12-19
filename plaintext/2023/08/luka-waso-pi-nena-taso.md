@@ -1,6 +1,5 @@
 ---
 title: luka waso pi nena taso
-description: null
 authors:
 - jan Lakuse
 date: '2023-08-15'

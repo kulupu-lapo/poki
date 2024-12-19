@@ -1,6 +1,5 @@
 ---
 title: nasin pi kama sona
-description: null
 authors:
 - jan Tepo
 - soweli nata

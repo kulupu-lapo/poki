@@ -10,8 +10,7 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_pipi_awen.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_linja_pipi_kulupu.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_linja_pipi_tomo.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![pipi li jo sewi e poki kepeken linja wawa](https://upload.wikimedia.org/wikipedia/commons/6/69/Lipu_tenpo_nanpa_linja_-_pipi_awen.png)

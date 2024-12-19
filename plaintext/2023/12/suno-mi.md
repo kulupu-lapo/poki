@@ -1,17 +1,19 @@
 ---
 title: suno mi
-description: jan Ikalusu li kama olin e suno. a.k.a. I started learning toki pona
+description:
+  jan Ikalusu li kama olin e suno. a.k.a. I started learning toki pona
   yesterday and wanted to practice, so here’s a ficlet of Icarus falling in love with
   the sun (pun intended).
 authors:
-- FeatherlessBiped
-date: '2023-12-27'
+  - FeatherlessBiped
+date: "2023-12-27"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/52567966
+  - https://archiveofourown.org/works/52567966
 archives:
-- https://web.archive.org/web/20240930134751/https://archiveofourown.org/works/52567966
+  - https://web.archive.org/web/20240930134751/https://archiveofourown.org/works/52567966
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

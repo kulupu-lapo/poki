@@ -1,6 +1,5 @@
 ---
 title: Nasi
-description: null
 authors:
 - jan Kepe
 date: '2023-08-15'

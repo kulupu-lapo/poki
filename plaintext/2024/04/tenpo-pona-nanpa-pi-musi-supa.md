@@ -3,16 +3,17 @@ title: tenpo pona nanpa pi musi supa
 original-title: The Amazing Digital Game Night
 description: jan pona pi jan Pami li weka e pilin ike ona.
 authors:
-- RandomWordWriter
+  - RandomWordWriter
 translators:
-- RandomWordWriter
-date: '2024-04-07'
+  - RandomWordWriter
+date: "2024-04-07"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/54323551
+  - https://archiveofourown.org/works/54323551
 archives:
-- https://web.archive.org/web/20240927154311/https://archiveofourown.org/works/54323551
+  - https://web.archive.org/web/20240927154311/https://archiveofourown.org/works/54323551
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

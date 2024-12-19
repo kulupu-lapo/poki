@@ -10,8 +10,7 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_tomo_tawa_kon.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_ilo_nena.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_tomo_tawa_taki.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 tomo tawa mute li lon. tomo tawa li tawa lon nasin. nasin li ken ma li ken kiwen li ken linja kiwen. tomo tawa linja li ken tawa lon linja kiwen. taso ona li ante mute!

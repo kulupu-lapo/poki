@@ -2,17 +2,18 @@
 title: monsi pi jan Hanki
 original-title: Kissing Hank’s Ass
 authors:
-- James Huber
+  - James Huber
+date: null
 translators:
-- Michael F.
+  - Michael F.
 tags:
-- translation
-- prose
+  - translation
+  - prose
 license: CC BY-NC 3.0
 sources:
-- http://failbluedot.com/toki_pona/kha
+  - http://failbluedot.com/toki_pona/kha
 archives:
-- https://web.archive.org/web/20140305061302/http://failbluedot.com/toki_pona/kha
+  - https://web.archive.org/web/20140305061302/http://failbluedot.com/toki_pona/kha
 ---
 
 # Kissing Hank’s Ass
@@ -92,16 +93,16 @@ jan Jon: “ala, ala! jan Kali li jo e lipu tan jan Hanki. o lukin:”
 jan Jon li pana e lipu tawa mi. sewi ona li jo e toki ni: “tan supa pi jan Kali.” ona li toki:
 
 1. o pilin e monsi pi jan Hanki kepeken uta sina. sina weka e ma tomo la jan Hanki li pana e mani suli tawa sina.
-2.  o moku mute ala e telo nasa.
-3.  o pakala e jan ante ali.
-4.  o moku e moku pona.
-5.  jan Hanki li pali e lipu ni.
-6.  mun li moku laso jelo.
-7.  toki ali pi jan Hanki li lon.
-8.  sina pana e telo jaki e ko jaki. o telo e luka sina!
-9.  o moku ala e telo nasa.
+2. o moku mute ala e telo nasa.
+3. o pakala e jan ante ali.
+4. o moku e moku pona.
+5. jan Hanki li pali e lipu ni.
+6. mun li moku laso jelo.
+7. toki ali pi jan Hanki li lon.
+8. sina pana e telo jaki e ko jaki. o telo e luka sina!
+9. o moku ala e telo nasa.
 10. o moku ala e soweli kepeken moku suwi! o moku ona kepeken pan taso!
-11. o pilin e monsi pi jan Hanki. sina pilin ala la ona li pakala e sina. 
+11. o pilin e monsi pi jan Hanki. sina pilin ala la ona li pakala e sina.
 
 mi: “lipu li lukin e ni: ona li tan jan Kali.”
 

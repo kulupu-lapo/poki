@@ -1,6 +1,5 @@
 ---
 title: kili
-description: null
 authors:
 - jan Simiman
 date: '2023-08-15'

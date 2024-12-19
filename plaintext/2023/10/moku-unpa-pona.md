@@ -2,14 +2,15 @@
 title: moku unpa pona
 description: A vore story written in toki pona.
 authors:
-- jan_sitelen
-date: '2023-10-11'
+  - jan_sitelen
+date: "2023-10-11"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/50748886
+  - https://archiveofourown.org/works/50748886
 archives:
-- https://web.archive.org/web/20240930135748/https://archiveofourown.org/works/50748886
+  - https://web.archive.org/web/20240930135748/https://archiveofourown.org/works/50748886
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

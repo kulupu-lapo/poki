@@ -1,6 +1,5 @@
 ---
 title: lon n taso ala
-description: null
 authors:
 - jan Pontu
 date: '2023-08-15'

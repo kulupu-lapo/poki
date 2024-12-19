@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
 - https://liputenpo.org/lipu/nanpa-tenpo/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_ilo_ike.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![ilo ike GitHub Copilot li jo e poki mani](https://upload.wikimedia.org/wikipedia/commons/9/92/Lipu_tenpo_nanpa_tenpo_-_ilo_ike.png)

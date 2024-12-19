@@ -1,6 +1,5 @@
 ---
 title: tenpo li lili
-description: null
 authors:
 - jan Jasun
 date: '2023-08-15'

@@ -2,19 +2,20 @@
 title: jan pi olin ala
 description: jan Sasali li olin ala e jan Semila
 authors:
-- dragon_chris
-date: '2023-02-10'
+  - dragon_chris
+date: "2023-02-10"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/44930653
+  - https://archiveofourown.org/works/44930653
 archives:
-- https://archive.ph/ITV54
+  - https://archive.ph/ITV54
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 
 !!! note
-    mi pini e ni la, mi lukin ala e ona. mi pakala a! o pona e sitelen mi.
+mi pini e ni la, mi lukin ala e ona. mi pakala a! o pona e sitelen mi.
 
 jan Sasali la, olin li nasa. ona li olin ala a! on li pilin pona tawa jan ante, tawa ijo ante. ni li lon. taso, ona li olin ala e jan pona ona. ona li -jan olin- ala. ona li jan pona.
 

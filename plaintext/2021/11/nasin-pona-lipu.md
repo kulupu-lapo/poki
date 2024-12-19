@@ -1,6 +1,5 @@
 ---
 title: nasin pona lipu
-description: null
 authors:
 - jan Lakuse
 date: '2021-11-15'

@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0027linja.pdf
 - https://liputenpo.org/lipu/nanpa-linja/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_toki_linja_tu.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![jan pi lawa linja en jan pi linja ala](https://upload.wikimedia.org/wikipedia/commons/0/00/Lipu_tenpo_nanpa_linja_-_toki_linja_tu.png)

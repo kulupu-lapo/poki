@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0023sewi.pdf
 - https://liputenpo.org/lipu/nanpa-sewi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_ma_anpa_pi_ma_tomo_Paki.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![jan li suno tawa ma pimeja kepeken ilo · lawa moli jan li lon noka ona](https://upload.wikimedia.org/wikipedia/commons/1/12/Lipu_tenpo_nanpa_sewi_-_ma_anpa_pi_ma_tomo_Paki.png)

@@ -14,8 +14,7 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(kala).png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(pipi).png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(waso).png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 mi tawa kepeken tomo kulupu tawa la tawa li wile e tenpo. tawa la mi wile e ijo musi. mi kama sona e musi. mi kama kepeken ona lon tenpo tawa mute. mi kama wile pali e musi ni pi toki pona.

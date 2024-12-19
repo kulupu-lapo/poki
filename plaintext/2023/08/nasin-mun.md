@@ -1,6 +1,5 @@
 ---
 title: nasin mun
-description: null
 authors:
 - jan inwin
 date: '2023-08-15'

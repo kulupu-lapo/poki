@@ -1,6 +1,5 @@
 ---
 title: suno pi toki pona
-description: null
 authors:
 - jan Kepe
 - jan Lakuse

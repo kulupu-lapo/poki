@@ -3,6 +3,7 @@ title: ilo lukin pi tenpo kama
 authors:
   - jan Kekan San
 date: 2023-06-03
+license: null
 sources:
   - https://mun.la/lipu/ilo-lukin-pi-tenpo-kama.html
 archives:

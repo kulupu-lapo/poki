@@ -2,7 +2,8 @@
 title: toki lili lon ma kasi
 authors:
   - jan Telakoman
-date: '2021-12-05'
+date: "2021-12-05"
+license: null
 sources:
   - https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_si
 ---

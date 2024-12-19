@@ -1,6 +1,5 @@
 ---
 title: poki nasa
-description: null
 authors:
 - jan Lakuse
 - kala Salan

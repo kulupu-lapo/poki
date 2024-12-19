@@ -3,6 +3,8 @@ title: kalama
 description: kalama li seme
 authors:
   - lipamanka
+date: null
+license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
   - https://lipamanka.gay/toki-pona-taso/kalama

@@ -10,38 +10,37 @@ const noPath = (val: string) =>
 const Article = z
   .object({
     title: z.string(),
-    "original-title": z.string().nullish(),
-    description: z.string().nullish(),
-    authors: z.array(z.string()).nonempty().nullish(),
-    translators: z.array(z.string()).nullish(),
-    proofreaders: z.array(z.string()).nullish(),
+    // NOTE: original-title may not exist, e.g. meli en mije li tawa
+    "original-title": z.string().optional(),
+    description: z.string().optional(),
+    authors: z.array(z.string()).nonempty().optional(),
+    translators: z.array(z.string()).nonempty().optional(),
+    proofreaders: z.array(z.string()).nonempty().optional(),
     // Date is required for all except `unknown-year/unknown-month`.
-    // Do this better somehow?
-    // TODO: replace Unknown with null
-    date: z
-      .union([
-        z.string().date(),
-        z.string().regex(/^\d{4}-(0[1-9]|1[0-2])$/, "Invalid yyyy-mm format"),
-        z.literal("Unknown"),
-      ])
-      .nullish(),
-    tags: z.array(z.string()).nullish(),
+    // Those still have to specify null explicitly
+    date: z.union([
+      z.string().date(),
+      z.string().regex(/^\d{4}-(0[1-9]|1[0-2])$/, "Invalid yyyy-mm format"),
+      z.null(),
+    ]),
+    tags: z.array(z.string()).nonempty().optional(),
     // missing license -> "assume All rights reserved, but
     // its also possible we aren't yet aware of the correct license"
-    license: z.string().nullish(),
-    sources: z.array(z.string()).nonempty().nullish(),
-    archives: z.array(z.string()).nullish(),
-    // Intended to be string only. TODO cleanup.
-    preprocessing: z.string().nullish().or(z.array(z.string())),
-    "accessibility-notes": z.string().nullish(),
-    notes: z.string().nullish(),
+    license: z.string().nullable(), // TODO: SPDX compliance
+    sources: z.array(z.string()).nonempty().optional(),
+    archives: z.array(z.string()).nonempty().optional(),
+    preprocessing: z.string().optional(),
+    "accessibility-notes": z.string().optional(),
+    notes: z.string().optional(),
   })
-  .strict(); // reject additional fields
+  .strict() // reject additional fields
+  // TODO: it just says "Invalid input" when this refine fails to be met
+  .refine((data) => data.authors || data.translators);
 
 const Collection = z
   .object({
     name: z.string(),
-    sources: z.array(z.string()).optional(),
+    sources: z.array(z.string()).nonempty().optional(),
     // not optional; can be empty for upcoming collections
     items: z
       .array(
@@ -86,6 +85,7 @@ async function validate() {
   if (errors.length) {
     for (let [filepath, error] of errors) {
       console.log(filepath, ":");
+      // console.log(error);
       for (let issue of (error as ZodError).issues) {
         console.log(issue);
       }

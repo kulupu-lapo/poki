@@ -2,14 +2,15 @@
 title: mu! mu!
 description: jan Jon en jan Linan li toki utala musi.
 authors:
-- thegreatsoupster
-date: '2024-01-19'
+  - thegreatsoupster
+date: "2024-01-19"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/53143324
+  - https://archiveofourown.org/works/53143324
 archives:
-- https://web.archive.org/web/20240930134301/https://archiveofourown.org/works/53143324
+  - https://web.archive.org/web/20240930134301/https://archiveofourown.org/works/53143324
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

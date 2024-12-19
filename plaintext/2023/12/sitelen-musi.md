@@ -1,18 +1,17 @@
 ---
 title: sitelen musi
 authors:
-- jan Alonola
-- jan Lewiku
-date: '2023-12-25'
+  - jan Alonola
+  - jan Lewiku
+date: "2023-12-25"
 tags:
-- comic
+  - comic
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0023sewi.pdf
-- https://liputenpo.org/lipu/nanpa-sewi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_sitelen_musi.png
-preprocessing:
-- transcribed
+  - https://liputenpo.org/pdfs/0023sewi.pdf
+  - https://liputenpo.org/lipu/nanpa-sewi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_sitelen_musi.png
+preprocessing: transcribed
 ---
 
 ![sitelen musi](https://upload.wikimedia.org/wikipedia/commons/2/2d/Lipu_tenpo_nanpa_sewi_-_sitelen_musi.png)

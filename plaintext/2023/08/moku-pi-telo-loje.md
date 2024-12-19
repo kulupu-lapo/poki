@@ -1,6 +1,5 @@
 ---
 title: moku pi telo loje
-description: null
 authors:
 - jan Wilo
 date: '2023-08-15'

@@ -1,6 +1,5 @@
 ---
 title: jan Pilipu Kalasi (Philip Glass)
-description: null
 authors:
 - jan Mimakenta
 date: '2023-08-15'

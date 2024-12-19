@@ -5,6 +5,7 @@ description: '"The Red Oni who Cried" in Toki Pona, translated by [jan Pensa](ht
 translators:
   - jan Pensa
 date: 2022-07-10
+license: null
 sources:
   - https://mun.la/lipu/jan-monsuta-loje.html
 archives:

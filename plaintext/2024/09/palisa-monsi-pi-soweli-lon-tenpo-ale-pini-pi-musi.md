@@ -1,25 +1,27 @@
 ---
-title: 'palisa monsi pi soweli lon tenpo ale: pini pi musi'
-original-title: 'Eternal Tails: Game Over'
-description: 'utala ale li wile pini. jan pona ale li wile tawa anpa. jan ale li wile
+title: "palisa monsi pi soweli lon tenpo ale: pini pi musi"
+original-title: "Eternal Tails: Game Over"
+description:
+  'utala ale li wile pini. jan pona ale li wile tawa anpa. jan ale li wile
   toki e ni lon tenpo kama: "mi tawa." soweli Mile Powe (Miles Prower) li ante ala.'
 authors:
-- Pantalion
+  - Pantalion
 translators:
-- Hopeful_Student
-date: '2024-09-10'
+  - Hopeful_Student
+date: "2024-09-10"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/58840579
+  - https://archiveofourown.org/works/58840579
 archives:
-- https://web.archive.org/web/20240927132033/https://archiveofourown.org/works/58840579
+  - https://web.archive.org/web/20240927132033/https://archiveofourown.org/works/58840579
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---
 
 !!! note
-    A translation of [Eternal Tails: Game Over](http://archiveofourown.org/works/25424860) by [Pantalion](http://archiveofourown.org/users/Pantalion/pseuds/Pantalion)
+A translation of [Eternal Tails: Game Over](http://archiveofourown.org/works/25424860) by [Pantalion](http://archiveofourown.org/users/Pantalion/pseuds/Pantalion)
 
     I have a love hate relationship with Toki Pona, largely because, while I respect its minimalistic goals, I feel like it is absolutely useless in its current form. This whole story, or even most of the stories in this series could be translated in a single word: mu.
 

@@ -1,6 +1,5 @@
 ---
 title: sina lon e ma
-description: null
 authors:
 - kala suno/waso laso Alisanosaka, pi kulupu telo mun (kutemu)
 date: '2023-08-15'

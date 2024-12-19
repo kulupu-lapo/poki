@@ -10,8 +10,7 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_Jan_Losu.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_sitelen_kalama.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_sina_awen_kalama.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 nimi li jo e kalama. taso mi wile pana e kalama nimi ale tawa sina la sina ken sona kepeken nasin seme? mi o kalama seme e kalama lili ni? a, nasin mute li ken. mi ken pana e kalama taso: jan ni li jan Losu – kalama pi nimi ona li ni – L, O, S, U. taso ni li ken ike tawa sona kute. ni la mi o seme. lon la mi ken wawa e kalama. taso nasin ante li lon.

@@ -9,8 +9,7 @@ sources:
 - https://liputenpo.org/lipu/nanpa-linja/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_pipi_linja.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_kala_linja.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 pipi linja mute li lon, taso pipi linja ale li linja li sike li lili. tenpo pini mute la jan li pilin e ni: pipi lili li akesi. nasa a! taso tenpo ni kin la pipi linja li ken nimi pi pipi mute ante.

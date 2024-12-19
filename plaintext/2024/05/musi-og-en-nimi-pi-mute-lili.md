@@ -1,16 +1,15 @@
 ---
 title: musi Og en nimi pi mute lili
 authors:
-- jan Nalu
-date: '2024-05-14'
+  - jan Nalu
+date: "2024-05-14"
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0026jaki.pdf
-- https://liputenpo.org/lipu/nanpa-jaki/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_lipu_musi_01.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_lipu_musi_02.png
-preprocessing:
-- wrote alt text
+  - https://liputenpo.org/pdfs/0026jaki.pdf
+  - https://liputenpo.org/lipu/nanpa-jaki/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_lipu_musi_01.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_lipu_musi_02.png
+preprocessing: wrote alt text
 ---
 
 ![kijetesantakalu en waso li musi Og](https://upload.wikimedia.org/wikipedia/commons/7/70/Lipu_tenpo_nanpa_jaki_-_lipu_musi_01.png)

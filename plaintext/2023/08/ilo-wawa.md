@@ -1,6 +1,5 @@
 ---
 title: ilo wawa
-description: null
 authors:
 - jan Sepulon
 date: '2023-08-15'

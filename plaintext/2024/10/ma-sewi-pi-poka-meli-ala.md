@@ -1,9 +1,10 @@
 ---
 title: ma sewi pi poka meli ala
 description: jan Joje li lon poka jan ala. ona li pali e sitelen lape ona.
+date: '2024-10-15'
+license: null
 authors:
 - boatNectar
-date: '2024-10-15'
 tags:
 - 'fan fiction'
 sources:

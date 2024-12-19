@@ -1,6 +1,5 @@
 ---
 title: ike li ken ike ala
-description: null
 authors:
 - monsuta pi soweli mun
 date: '2021-12-13'

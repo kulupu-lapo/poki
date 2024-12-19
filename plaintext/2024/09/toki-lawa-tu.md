@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0028lawa.pdf
 - https://liputenpo.org/lipu/nanpa-lawa/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_kijetesantakalu.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![kijetesantakalu li pilin e olin insa e pona insa](https://upload.wikimedia.org/wikipedia/commons/4/4c/Lipu_tenpo_nanpa_lawa_-_kijetesantakalu.png)

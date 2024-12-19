@@ -1,27 +1,30 @@
 ---
 title: toki musi mute - Fairy Tales
-description: 'I translate many fairy tales into toki pona! mi toki pona e toki musi
+description:
+  "I translate many fairy tales into toki pona! mi toki pona e toki musi
   usawi mute! The text will start in sitelen Akesi, then be rewritten in sitelen Lasina.
   mi toki e ni kepeken sitelen Akesi. ni la mi toki kin e ni kepeken sitelen Lasina
-  (sitelen Mora used in cartouches) Link to sitelen akesi: https://docs.google.com/document/d/16uRD4ag-reoUJLVuWT0CUXd4lHuRYHJ3Mn-JjFzFiRw/edit'
+  (sitelen Mora used in cartouches) Link to sitelen akesi: https://docs.google.com/document/d/16uRD4ag-reoUJLVuWT0CUXd4lHuRYHJ3Mn-JjFzFiRw/edit"
 authors:
-- Phoenixacxf
-date: '2022-08-26'
+  - Phoenixacxf
+date: "2022-08-26"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/41293695
+  - https://archiveofourown.org/works/41293695
 archives:
-- https://archive.ph/lleCo
+  - https://archive.ph/lleCo
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-notes: lipu open li kepeken sitelen Akesi kepeken sitelen Lasina · mi weka e sitelen
+notes:
+  lipu open li kepeken sitelen Akesi kepeken sitelen Lasina · mi weka e sitelen
   Akesi
 ---
 
 ## soweli pi tawa wawa suli en akesi pi tawa wawa ala - The Tortoise and the Hare
 
 !!! note
-    Original Text: https://fablesofaesop.com/the-hare-and-the-tortoise.html
+Original Text: https://fablesofaesop.com/the-hare-and-the-tortoise.html
 
 akesi li ken tawa wawa ala la soweli pi ken tawa wawa li toki e toki musi ike tawa akesi.
 

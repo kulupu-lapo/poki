@@ -1,6 +1,5 @@
 ---
 title: nasin ISO
-description: null
 authors:
 - jan Pensa
 - jan Tepo

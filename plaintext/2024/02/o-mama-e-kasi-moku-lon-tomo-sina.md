@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
 - https://liputenpo.org/lipu/nanpa-tenpo/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_ma_kasi_kule.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![kasi mute kule li lon tomo](https://upload.wikimedia.org/wikipedia/commons/a/ae/Lipu_tenpo_nanpa_tenpo_-_ma_kasi_kule.png)

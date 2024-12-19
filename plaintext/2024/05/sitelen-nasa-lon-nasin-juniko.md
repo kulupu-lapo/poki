@@ -1,15 +1,14 @@
 ---
 title: sitelen nasa lon nasin Juniko[^1]
 authors:
-- kije Enki
-date: '2024-05-14'
+  - kije Enki
+date: "2024-05-14"
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0026jaki.pdf
-- https://liputenpo.org/lipu/nanpa-jaki/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_nasin_Juniko.png
-preprocessing:
-- wrote alt text
+  - https://liputenpo.org/pdfs/0026jaki.pdf
+  - https://liputenpo.org/lipu/nanpa-jaki/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_nasin_Juniko.png
+preprocessing: wrote alt text
 ---
 
 ![jan li lon ilo nimi · ilo li pana e nimi mute](https://upload.wikimedia.org/wikipedia/commons/b/b0/Lipu_tenpo_nanpa_tenpo_-_nasin_Juniko.png)

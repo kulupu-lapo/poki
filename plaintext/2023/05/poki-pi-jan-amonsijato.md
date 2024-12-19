@@ -2,17 +2,17 @@
 title: poki pi telo Amonsijato
 original-title: The Cask of Amontillado
 authors:
-- Edgar Allan Poe
+  - Edgar Allan Poe
 translators:
-- jan lili Enta
-date: Unknown
+  - jan lili Enta
+date: 2023-05
 tags:
-- translation
+  - translation
 license: All Rights Reserved
 sources:
-- https://docs.google.com/document/d/1FDUkWFxzWLlDj9xYIuMXIpC5G59_o_g_hW-bCPTV0hw/edit
+  - https://docs.google.com/document/d/1FDUkWFxzWLlDj9xYIuMXIpC5G59_o_g_hW-bCPTV0hw/edit
 archives:
-- https://web.archive.org/web/20240625230321/https://docs.google.com/document/d/1FDUkWFxzWLlDj9xYIuMXIpC5G59_o_g_hW-bCPTV0hw/edit
+  - https://web.archive.org/web/20240625230321/https://docs.google.com/document/d/1FDUkWFxzWLlDj9xYIuMXIpC5G59_o_g_hW-bCPTV0hw/edit
 ---
 
 pakala ale tan jan Potunato li tawa mi la, mi awen pona, taso ona li pakala toki e nimi mi la, mi o pakala sama e ona. sina sona mute e kon mi la, sina sona e ni: mi toki ala e wile pakala mi. pali li pini ale la mi kama pona sin. ni li lon, taso nasin pali mi li pona mute la pali li ken ala pakala ike. mi pakala e ona la, ike ante o tawa ala mi. ike sama li kama pakala e mi la pali li pini pona ala. jan ike li sona ala e mi pakala la pali li pini pona ala sama.
@@ -21,7 +21,7 @@ lon toki lon pali la wile mi li pona taso tawa jan Potunato. mi awen pona e uta 
 
 jan Potunato ni a, la ona li jan suli li ken monsuta tawa jan mute, taso ike wan ona ni li lon: ona li pilin pona tan sona mute ona pi telo nasa kili. jan Italija lili li jo e ken musi wawa. tenpo mute la pilin wawa ona tawa musi li tan tenpo pona li tan ken jo, li sama jan mani Inli anu Esakaki, taso wawa ona li lon ala. sitelen musi en musi pi kiwen kule la, jan Potunato, li sama jan pi ma ona, li toki pakala e musi. taso ona li sona mute e telo nasa suli. ni li sama sona mi. mi kin li sona mute e telo nasa suli pi ma Italija, li esun mute e ona lon ken mi.
 
-suno li tawa la, lon tenpo musi pi kalama wawa mute la, mi lukin e ona. ona li kama lon pilin seli mute tan ni: ona li moku e telo nasa mute. ona li len sama jan musi. len li selo e sijelo la linja kule li lon len. len lawa li sama nena li jo e kiwen kalama lili. mi pilin pona tan kama ona la mi wile ala pini e luka wawa lon luka ona. 
+suno li tawa la, lon tenpo musi pi kalama wawa mute la, mi lukin e ona. ona li kama lon pilin seli mute tan ni: ona li moku e telo nasa mute. ona li len sama jan musi. len li selo e sijelo la linja kule li lon len. len lawa li sama nena li jo e kiwen kalama lili. mi pilin pona tan kama ona la mi wile ala pini e luka wawa lon luka ona.
 
 mi toki tawa ona e ni: "jan pona Potunato o, kama sina li pona a. sina pona lukin mute a! a, mi kama jo e poki palisa. jan ante la ona li telo Amonsijato, taso mi la ni li ken lon ala."
 
@@ -61,7 +61,7 @@ mi awen toki e ni: "taso jan ante li wile e sina la mi wile toki tawa jan Lusesi
 
 pini toki la, jan Potunato li luka e luka mi, li len kepeken len sinpin pimeja kepeken len selo lon poka mi. ona li lawa e nasin mi tawa tomo mi.
 
-jan anpa mi li lon ala tomo, li weka li musi tan tenpo musi. toki mi tawa ona la, mi kama ala lon tenpo pimeja la ona o weka ala tan tomo. mi sona e ni la toki mi li pona: mi lukin ala la jan ale li weka tan tomo. 
+jan anpa mi li lon ala tomo, li weka li musi tan tenpo musi. toki mi tawa ona la, mi kama ala lon tenpo pimeja la ona o weka ala tan tomo. mi sona e ni la toki mi li pona: mi lukin ala la jan ale li weka tan tomo.
 
 mi kama jo e palisa suno tu tan poki ona, li pana e ni wan tawa jan Potunato. mi tawa e ona tawa tomo kipisi mute li kama lon lupa pi poki anpa. mi tawa lon nasin suli sike pi tawa anpa la, mi toki e ni tawa jan Potunato: wile mi la ona o pakala ala lon tawa. mi tawa mute la mi lon pini nasin, li awen lon sewi pi ma telo lon tomo anpa moli pi kulupu Monteso mi.
 
@@ -85,7 +85,7 @@ pini la toki ona li ni: "ni li suli ala."
 
 mi toki lon wile wawa e ni: "o kama. mi o weka tan ni. sijelo sina li suli. sina jan mani, li jan suli li jan pona li jan olin tawa jan mute. lon sina li pona, sama mi pi tenpo pini. jan mute li kama pilin ike tan moli sina. wile mi li suli ala mute. sina kama ike mute la mi kama tan ike. mi wile ala ni. kin la, jan Lusesi li lon..."
 
-"o pini!" ona li awen toki e ni: "mu ike li suli ala. ona li moli ala e mi. mi moli tan ala ike ni." 
+"o pini!" ona li awen toki e ni: "mu ike li suli ala. ona li moli ala e mi. mi moli tan ala ike ni."
 
 toki mi la: "lon. lon. mi wile ala monsuta e sina tan ijo pi suli ala. taso sina wile awen pona la o moku e telo nasa Meto lili. ni la kon telo li ike ala e sina.
 
@@ -103,7 +103,7 @@ toki mi la: "mi kin, tan lon suli sina."
 
 ona li luka sin e luka mi la, mi tawa sin.
 
-ona li toki e ni: "tomo anpa ni, li suli mute a." 
+ona li toki e ni: "tomo anpa ni, li suli mute a."
 
 toki mi la: "kulupu Monteso a, li suli li jan mute."
 
@@ -117,7 +117,7 @@ toki mi la: "kulupu Monteso a, li suli li jan mute."
 
 (jan li pakala e mi la ike o tawa ona)
 
-"pona a!" ona li pini toki. 
+"pona a!" ona li pini toki.
 
 telo nasa li suno e lukin ona la kiwen kalama li mu. pilin mi kin li kama seli tan telo nasa. tawa la sinpin pi kiwen moli li lon poka la, poki sike telo mute li lon sinpin moli kin. mi tawa insa mute lon tomo linja. mi awen lili la mi luka wawa e luka ona lon tenpo ni, lon luka suli sewi.
 
@@ -149,7 +149,7 @@ toki mi la: "mi ni ala."
 
 "ona li ni." mi toki e ni la mi luka e ilo pi tawa ko tan insa pi len selo.
 
-"sina toki musi a." ona li toki e ni la ona li tawa monsi lili. toki awen la: " taso mi o tawa telo Amonsijato." 
+"sina toki musi a." ona li toki e ni la ona li tawa monsi lili. toki awen la: " taso mi o tawa telo Amonsijato."
 
 "o ni." mi toki e ni la mi len sin e ilo lon len selo li pana e luka mi la, ona li lon e sijelo suli lon luka suli mi. mi tawa sin tawa telo Amonsijato. mi tawa lon anpa pi selo lupa mute, li tawa anpa, li tawa sinpin, li tawa anpa sin, li kama lon tomo pi anpa mute. tomo la kon li jaki mute la suno mi li suno lili taso li suno seli ala.
 
@@ -159,7 +159,7 @@ jan Potunato li sewi e palisa suno la, ona li wile lukin e insa lupa, taso ona l
 
 mi toki e ni: "o tawa insa. telo Amonsijato li lon ni. jan Lusesi la..."
 
-"ona li sona e ala." jan li pini e toki mi li toki e ni la ona li tawa sinpin nasa. ni la mi tawa lon monsi poka ona. tenpo lili la ona li kama sona e pini lupa. tawa ona li pini tan kiwen la, ona li awen tan pilin nasa tan sona ala. tenpo poka kama la mi awen e ona lon sinpin kiwen kepeken ni: kiwen wawa awen tu li lon sinpin li lon poka ante la, suli pi weka ona tan kiwen ante li sama suli noka tu. linja kiwen lili li kama tan kiwen awen wan. ilo awen pi ilo open li lon kiwen awen ante. mi sike e linja lon sijelo ona la mi awen e ona kepeken tenpo lili. ona li sona ala e kama ni la ona li ken ala pini e pali mi. mi weka e ilo open li weka tan lupa lili. 
+"ona li sona e ala." jan li pini e toki mi li toki e ni la ona li tawa sinpin nasa. ni la mi tawa lon monsi poka ona. tenpo lili la ona li kama sona e pini lupa. tawa ona li pini tan kiwen la, ona li awen tan pilin nasa tan sona ala. tenpo poka kama la mi awen e ona lon sinpin kiwen kepeken ni: kiwen wawa awen tu li lon sinpin li lon poka ante la, suli pi weka ona tan kiwen ante li sama suli noka tu. linja kiwen lili li kama tan kiwen awen wan. ilo awen pi ilo open li lon kiwen awen ante. mi sike e linja lon sijelo ona la mi awen e ona kepeken tenpo lili. ona li sona ala e kama ni la ona li ken ala pini e pali mi. mi weka e ilo open li weka tan lupa lili.
 
 mi toki e ni: "o luka e sinpin la, sina ken sona e kiwen ko lon ni. ona li telo mute a. mi o toki sin e ni: sina o weka. wile ala a anu seme? ni la mi o weka ala e sina tan ma ni. taso mi wile toki sitelen e ijo ale ma kepeken ken ale mi."
 
@@ -171,7 +171,7 @@ mi toki la mi pali mute lon kiwen moli. kiwen ni li weka la kiwen leko en ko pi 
 
 linja sinpin nanpa wan li pini ala la nasa mute pi jan Potunato li weka. mi kama sona e ni tan ni: mu lili pi tenpo suli li kama tan lupa. mu li tan ala jan pi lawa nasa. mu pini la kalama ike ala li lon tenpo suli. mi pana e linja sinpin nanpa tu lon sewi pi linja ante, e linja nanpa tu wan, e linja ante. pali pi linja ni li pini la mi kute e kalama wawa tan linja kiwen. kalama li lon tenpo mute. mi wile kute e ona tawa pilin pona la mi pini e pali mi li awen lon sewi pi kiwen moli. kalama li pini la mi pali sin. mi wile ala awen mute la mi pali e linja sinpin nanpa luka, e linja ante, e linja ante ante. ni la supa sinpin li kama lon sijelo sewi mi. mi pini sin e pali. mi lon e suno lon sewi sinpin la mi ken suno lili taso e selo jan insa.
 
-kalama suli mute li kama wawa tan uta pi jan awen sama soweli lili la ona li tawa monsi wawa e mi. tenpo lili la mi awen tan pilin... mi tawa lete tan pilin monsuta. mi luka e palisa utala mi, li tawa e ona lon selo pi lupa lili sinpin tan wile utala, taso mi sona sin e ijo lon la pilin ike li weka. mi luka e selo pi tomo ni la mi pilin pona tan pali mi. mi kama sin tawa sinpin pali. mi toki tawa kalama jan. mi kalama sama e kalama ona. mi mute e kalama. suli kalama en wawa la kalama mi li suli tawa ona. mi ni la kalama ona li pini. 
+kalama suli mute li kama wawa tan uta pi jan awen sama soweli lili la ona li tawa monsi wawa e mi. tenpo lili la mi awen tan pilin... mi tawa lete tan pilin monsuta. mi luka e palisa utala mi, li tawa e ona lon selo pi lupa lili sinpin tan wile utala, taso mi sona sin e ijo lon la pilin ike li weka. mi luka e selo pi tomo ni la mi pilin pona tan pali mi. mi kama sin tawa sinpin pali. mi toki tawa kalama jan. mi kalama sama e kalama ona. mi mute e kalama. suli kalama en wawa la kalama mi li suli tawa ona. mi ni la kalama ona li pini.
 
 mun li lon sewi ale la, pali mi li kama pini. linja sinpin nanpa luka tu wan, en linja ante wan, en linja ante tu li kama lon. mi pali mute e linja nanpa pini la leko wan taso li lon ala sinpin. tawa ona li wile e wawa mute mi. mi kama lon e ona, taso mu musi sama soweli suli li kama tan lupa la linja lawa mi li sama palisa tan ni. pini mu la toki pi kalama ike li kama. mi la toki li sama ala mute toki pi jan suli Potunato. toki li ni:
 

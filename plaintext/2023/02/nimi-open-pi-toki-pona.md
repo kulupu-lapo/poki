@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_tenpo_kama_pi_toki_pona.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![sike li toki e tenpo · sitelen pi toki pona li lon monsi ona](https://upload.wikimedia.org/wikipedia/commons/c/c7/Lipu_tenpo_nanpa_soweli_-_tenpo_kama_pi_toki_pona.png)

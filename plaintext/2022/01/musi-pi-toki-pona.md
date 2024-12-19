@@ -1,6 +1,5 @@
 ---
 title: musi pi toki pona
-description: null
 authors:
 - jan Sema
 date: '2022-01-09'

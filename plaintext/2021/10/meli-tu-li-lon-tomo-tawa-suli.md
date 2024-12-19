@@ -2,21 +2,21 @@
 title: meli tu li lon tomo tawa suli
 description: jan Fu Hua en jan Kiana li lon tomo tawa suli. jan Kiana li lape.
 authors:
-- asona
-date: '2021-10-21'
+  - asona
+date: "2021-10-21"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/34637383
+  - https://archiveofourown.org/works/34637383
 archives:
-- https://archive.ph/AtfHM
+  - https://archive.ph/AtfHM
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 
 !!! note
-    please look at the end notes for a summary in english! i am a beginner at toki pona so please correct my writing. the names are intentionally not tokiponized!
+please look at the end notes for a summary in english! i am a beginner at toki pona so please correct my writing. the names are intentionally not tokiponized!
 
     toki ante la o lukin e pini pi lipu ni! toki pona la mi jan pi sona lili. o pona e toki mi!>
 
@@ -89,8 +89,8 @@ lawa pi jan Fu Hua li toki e ni: ‘o ken e ni: jan Kiana taso li tawa’. taso 
 jan Fu Hua li pilin e pilin mute. pilin ni li pona. “pona," jan Fu Hua li toki.>
 
 !!! note
-    summary:  
-    fu hua is sitting on the bus listening to music. kiana sits next to her and they exchange hi's. kiana falls asleep on fu hua's shoulder! fu hua panics (respectfully) and proceeds to miss her own stop in order to prevent the tired kiana from waking up. she wakes up. they leave together at the next stop. (lifelong partnership and happy marriage are implied.)
+summary:  
+ fu hua is sitting on the bus listening to music. kiana sits next to her and they exchange hi's. kiana falls asleep on fu hua's shoulder! fu hua panics (respectfully) and proceeds to miss her own stop in order to prevent the tired kiana from waking up. she wakes up. they leave together at the next stop. (lifelong partnership and happy marriage are implied.)
 
-    note:  
+    note:
     toki pona is a pretty cool constructed language with less than 150 words! if you're interested in languages at all i wholeheartedly recommend looking it up!!>

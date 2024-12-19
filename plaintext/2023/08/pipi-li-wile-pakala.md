@@ -1,6 +1,5 @@
 ---
 title: pipi li wile pakala
-description: null
 authors:
 - jan Keri
 date: '2023-08-15'

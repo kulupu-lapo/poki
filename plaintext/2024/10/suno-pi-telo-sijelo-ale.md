@@ -3,6 +3,7 @@ title: suno pi telo sijelo ale
 authors:
   - jan Kekan San
 date: 2024-10-21
+license: null
 sources:
   - https://mun.la/lipu/suno-pi-telo-sijelo-ale.html
 archives:

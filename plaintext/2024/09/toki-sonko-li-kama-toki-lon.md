@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0028lawa.pdf
 - https://liputenpo.org/lipu/nanpa-lawa/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_waso_suli.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![waso pi kulupu Sonko · kulupu Sonko la waso ni li suli li waso ona](https://upload.wikimedia.org/wikipedia/commons/7/7f/Lipu_tenpo_nanpa_lawa_-_waso_suli.png)

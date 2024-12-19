@@ -1,19 +1,21 @@
 ---
 title: toki sewi
 original-title: The Legend
-description: Translation of the Legend into toki pona :) mi toki ante e toki sewi
+description:
+  Translation of the Legend into toki pona :) mi toki ante e toki sewi
   tan musi Tetalun!
 authors:
-- Toby Fox
+  - Toby Fox
 translators:
-- RiemannHyperthesis
-date: '2024-05-19'
+  - RiemannHyperthesis
+date: "2024-05-19"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/56008024
+  - https://archiveofourown.org/works/56008024
 archives:
-- https://web.archive.org/web/20240927142917/https://archiveofourown.org/works/56008024
+  - https://web.archive.org/web/20240927142917/https://archiveofourown.org/works/56008024
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 
