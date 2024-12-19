@@ -2,14 +2,15 @@
 title: sitelen sona pi jan Susana
 description: jan Susana li pali e sitelen sona
 authors:
-- dragon_chris
-date: '2023-02-12'
+  - dragon_chris
+date: "2023-02-12"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/44983381
+  - https://archiveofourown.org/works/44983381
 archives:
-- https://web.archive.org/web/20240930144530/https://archiveofourown.org/works/44983381
+  - https://web.archive.org/web/20240930144530/https://archiveofourown.org/works/44983381
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 accessibility-notes: null
 notes: null

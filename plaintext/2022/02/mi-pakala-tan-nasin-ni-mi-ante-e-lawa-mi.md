@@ -1,7 +1,8 @@
 ---
 title: mi pakala tan nasin ni. mi ante e lawa mi.
 original-title: Did I get lost along the way? Lose my mind for a new identity?
-description: 'English Speakers - This is a toki pona translation of a fic I wrote
+description:
+  "English Speakers - This is a toki pona translation of a fic I wrote
   last summer. It is entirely in toki pona, and if you don’t speak the language you’d
   be much better off reading the original lol. Also if you have a fic you want me
   to translate to toki pona for some reason I will do it no charge, I love translation
@@ -9,19 +10,21 @@ description: 'English Speakers - This is a toki pona translation of a fic I wrot
   know. jan pi toki pona - ni li kepeken kalama musi “Entropy” pi toki Inli. mi wile
   e ni: sina sona e kon pi kalama musi ni. taso, ken la sina wile e ni: sina ken lukin
   e toki Inli pi kalama musi ni. ni la, mi sitelen e ijo ni tu lon lipu ni. sama ni:
-  toki pona // toki Inli. ni la toki Inli li jo e kon sama toki pona. o awen pona!'
+  toki pona // toki Inli. ni la toki Inli li jo e kon sama toki pona. o awen pona!"
 authors:
-- LuxeDeluxe
+  - LuxeDeluxe
 translators:
-- LuxeDeluxe
-date: '2022-02-17'
+  - LuxeDeluxe
+date: "2022-02-17"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/37200148
+  - https://archiveofourown.org/works/37200148
 archives:
-- https://archive.ph/FUGv1
-preprocessing: mi nasin Markdown e lipu open pi nasin HTML · lipu open la sitelen
+  - https://archive.ph/FUGv1
+preprocessing:
+  mi nasin Markdown e lipu open pi nasin HTML · lipu open la sitelen
   `\n` mute li poka li lon e weka suli · nasin Markdown la ni li ken ala · kin mi
   weka e sitelen jaki Zalgo
 notes: toki Inli li lon lipu ni

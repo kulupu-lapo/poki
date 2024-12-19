@@ -2,19 +2,20 @@
 title: waso laso tu
 description: jan Mizore en jan Nozomi li lape.
 authors:
-- emily_signet
-date: '2022-01-15'
+  - emily_signet
+date: "2022-01-15"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/36429508
+  - https://archiveofourown.org/works/36429508
 archives:
-- https://archive.ph/3RMK1
+  - https://archive.ph/3RMK1
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 
 !!! note
-    o pona tawa jan Sopi! ni li tawa sina <3
+o pona tawa jan Sopi! ni li tawa sina <3
 
 kalama musi pi ona li sama sitelen; ona toki e pilin sama kon toki lili.
 

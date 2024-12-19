@@ -1,19 +1,21 @@
 ---
 title: seli sewi
 original-title: holy fire
-description: 'seli sewi li kipisi e sina. seli sewi li lon oko ona. ante: jan Makalole
-  li kama sona e jan sewi.'
+description:
+  "seli sewi li kipisi e sina. seli sewi li lon oko ona. ante: jan Makalole
+  li kama sona e jan sewi."
 authors:
-- Wholesome_Soup
+  - Wholesome_Soup
 translators:
-- mokutelo_pona (Wholesome_Soup)
-date: '2024-02-27'
+  - mokutelo_pona (Wholesome_Soup)
+date: "2024-02-27"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/54104698
+  - https://archiveofourown.org/works/54104698
 archives:
-- https://web.archive.org/web/20240927154926/https://archiveofourown.org/works/54104698
+  - https://web.archive.org/web/20240927154926/https://archiveofourown.org/works/54104698
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 
@@ -36,4 +38,4 @@ taso—ona li kama pakala tan sina. ona li toki tawa sina—o kama! li pana e lu
 sina sona—jan sewi li kute. sina kute, sina luka e luka ona; sina en ona li pakala, taso ni li pona.
 
 !!! note
-    nasin mi li nasin pi jan Jesu. mi toki—ken la, jan Makalole li lon ma sama alu tenpo sama.
+nasin mi li nasin pi jan Jesu. mi toki—ken la, jan Makalole li lon ma sama alu tenpo sama.

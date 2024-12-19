@@ -6,6 +6,7 @@ authors:
 translators:
   - jan Kekan San
 date: 2022-12-28
+license: null
 sources:
   - https://mun.la/lipu/mama-o-mi-lon.html
 archives:

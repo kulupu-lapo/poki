@@ -7,6 +7,7 @@ authors:
 translators:
   - jan Kekan San
 date: 2022-06-01
+license: null
 sources:
   - https://mun.la/lipu/sina-ken-wile-ala-ijo.html
 archives:

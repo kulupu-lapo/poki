@@ -1,17 +1,19 @@
 ---
 title: pana e ma pi pimeja
-description: mani ali li mute tenpo ala. lawa insa li toki tenpo ala. pilin li pakalama
+description:
+  mani ali li mute tenpo ala. lawa insa li toki tenpo ala. pilin li pakalama
   tenpo ala. kalama li pana ike tenpo ala. tan sewi en pimeja pana la, sina lon. sina
   pini e sewi walo pi lawa sitelen pi lape. sina poki pi pimeja. sina alasa poki.
 authors:
-- jan_Tansi (tanzytechgem)
-date: '2022-10-19'
+  - jan_Tansi (tanzytechgem)
+date: "2022-10-19"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/42478797
+  - https://archiveofourown.org/works/42478797
 archives:
-- https://archive.ph/24pLW
+  - https://archive.ph/24pLW
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

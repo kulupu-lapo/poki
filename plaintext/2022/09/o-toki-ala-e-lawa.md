@@ -4,6 +4,7 @@ description: musi lipu ni li nanpa wan tawa mi la mi toki pona e lawa ona
 authors:
   - jan Kekan San
 date: 2022-09-18
+license: null
 sources:
   - https://mun.la/lipu/musi-lawa.html
 archives:
@@ -47,7 +48,7 @@ taso, sina ken pana e musi ni tawa jan poka sina, a a a
   - K - mije
 
 !!! note nimi ni li pona ala tawa sina la o lukin
-    kulupu pilin la nimi insa en nimi olin li ken pona
+kulupu pilin la nimi insa en nimi olin li ken pona
 
     kulupu kiwen la nimi mani li ken pona
 
@@ -73,6 +74,7 @@ taso, sina ken pana e musi ni tawa jan poka sina, a a a
 - lawa li toki ala e toki pakala la o toki pona e lawa ona lon ni: "o ni: ..."
 
 ### tawa open
+
 <a name="tawa-open"></a>
 
 - jan lawa o pana e lipu tu tu tu wan tawa jan ale.
@@ -100,6 +102,7 @@ taso, sina ken pana e musi ni tawa jan poka sina, a a a
 - jan li pakala mute lon tenpo wan la ona o pana e lipu tan pakala **ale**!
 
 ### tawa jan pana
+
 <a name="tawa-jan-pana"></a>
 
 - jan pana o pana e lipu tawa kulupu lawa.

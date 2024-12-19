@@ -2,14 +2,15 @@
 title: lape ala
 description: jan Lan Me li wile lape ala. ni li ike mute tawa jan Weso.
 authors:
-- CAYTION_RAYMEN
-date: '2024-02-08'
+  - CAYTION_RAYMEN
+date: "2024-02-08"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/53607739
+  - https://archiveofourown.org/works/53607739
 archives:
-- https://web.archive.org/web/20240927160554/https://archiveofourown.org/works/53607739
+  - https://web.archive.org/web/20240927160554/https://archiveofourown.org/works/53607739
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 
@@ -30,4 +31,4 @@ jan Lan Me li lukin e lipu ona. ona li pini e lipu anu seme?
 jan Lan Me li tawa e lipu li tawa li sinpin pi pilin pona. mije ona li wile e sijelo pona tawa ona. tenpo pimeja ni la, ona li pali ala e alasa sona.
 
 !!! note
-    ni li lili a! mi wile taso e lipu mute pi olin Ruan Mei x Dr Ratio.
+ni li lili a! mi wile taso e lipu mute pi olin Ruan Mei x Dr Ratio.

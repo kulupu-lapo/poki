@@ -1,15 +1,16 @@
 ---
 title: Domestic Bliss — pilin tomo
-description: 'jan Peni en jan Upi li mama e jan. For NND day 3: Domestic Bliss'
+description: "jan Peni en jan Upi li mama e jan. For NND day 3: Domestic Bliss"
 authors:
-- dragon_chris
-date: '2023-07-13'
+  - dragon_chris
+date: "2023-07-13"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/48541447
+  - https://archiveofourown.org/works/48541447
 archives:
-- https://web.archive.org/web/20240930141649/https://archiveofourown.org/works/48541447
+  - https://web.archive.org/web/20240930141649/https://archiveofourown.org/works/48541447
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 

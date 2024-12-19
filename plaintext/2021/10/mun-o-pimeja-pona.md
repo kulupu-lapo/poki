@@ -7,6 +7,7 @@ authors:
 translators:
   - jan Kekan San
 date: 2021-10-20
+license: null
 tags:
   - poetry
 sources:

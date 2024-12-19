@@ -1,28 +1,32 @@
 ---
 title: li pakala tan telo loje (tan sona awen)
-description: 'jan pali ma The Magnus Institute li kama e kulupu pali. jan Jon li musi
+description:
+  "jan pali ma The Magnus Institute li kama e kulupu pali. jan Jon li musi
   jaki e telo loje. jan Jon li toki e sona awen. note: as i reread this i realise
   i’ve made many small translation errors and mistakes! this will probably be changed
-  around a bit.'
+  around a bit."
 authors:
-- bonustrack
+  - bonustrack
 translators:
-- orphan_account
-date: '2022-08-08'
+  - orphan_account
+date: "2022-08-08"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/40897929
+  - https://archiveofourown.org/works/40897929
 archives:
-- https://archive.ph/xPphC
-preprocessing: mi nasin Markdown e lipu open pi nasin HTML · nasin Markdown la toki
+  - https://archive.ph/xPphC
+preprocessing:
+  mi nasin Markdown e lipu open pi nasin HTML · nasin Markdown la toki
   tu li ken ala weka suli · ni la mi lili e weka suli · weka ale li kama lili sama
-notes: ilo li sona ala e mi la ona li pana ala e nimi pi lipu open · ni la mi sona
+notes:
+  ilo li sona ala e mi la ona li pana ala e nimi pi lipu open · ni la mi sona
   ala e nimi · kin toki Inli lili li lon
 ---
 
 !!! note
-    please forgive any mistakes, i am still very new to toki pona!
+please forgive any mistakes, i am still very new to toki pona!
 
     by the way, names are not translated for the sake of comprehension.
 
@@ -97,6 +101,6 @@ jan Martin li toki musi li lukin mute lon jan Jon. “kupulu seme?”
 jan Jon li moku e telo loje suli.
 
 !!! notes
-    for the sake of my own sanity i have heavily simplified a lot of this fanfic. if you want to read the actual good one please do read the original! this was just so i could exercise my abilities and familiarize myself with some toki pona vocabulary.
+for the sake of my own sanity i have heavily simplified a lot of this fanfic. if you want to read the actual good one please do read the original! this was just so i could exercise my abilities and familiarize myself with some toki pona vocabulary.
 
     thank you kindly for reading <3

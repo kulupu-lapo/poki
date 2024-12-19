@@ -3,23 +3,24 @@ title: o kama ala e sona weka
 original-title: Don't Forget
 description: mi lon la, sina taso ala. Don't Forget - toki pona translation
 authors:
-- Toby Fox
-- Laura Shigihara
+  - Toby Fox
+  - Laura Shigihara
 translators:
-- RiemannHyperthesis
-date: '2024-07-07'
+  - RiemannHyperthesis
+date: "2024-07-07"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/57201715
+  - https://archiveofourown.org/works/57201715
 archives:
-- https://web.archive.org/web/20240927145307/https://archiveofourown.org/works/57201715
+  - https://web.archive.org/web/20240927145307/https://archiveofourown.org/works/57201715
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---
 
 !!! note
-    A translation of [Don't Forget](https://archiveofourown.org/external_works/1356046) by Toby Fox, Laura Shigihara
+A translation of [Don't Forget](https://archiveofourown.org/external_works/1356046) by Toby Fox, Laura Shigihara
 
     I tried to make a singable version here, not a literal translation :)
 

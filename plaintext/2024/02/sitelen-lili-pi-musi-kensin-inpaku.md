@@ -1,23 +1,25 @@
 ---
 title: sitelen lili pi musi Kensin Inpaku
-description: musi Kensin Inpaku la mi pali e sitelen mute lon toki pona. sitelen mi
+description:
+  musi Kensin Inpaku la mi pali e sitelen mute lon toki pona. sitelen mi
   la jan pi musi ni li ken ante suli. wile mi la sitelen ni li pona tawa sina :)
 authors:
-- JDAbadeer
-date: '2024-02-19'
+  - JDAbadeer
+date: "2024-02-19"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/53909767?view_full_work=true
+  - https://archiveofourown.org/works/53909767?view_full_work=true
 archives:
-- https://web.archive.org/web/20240927155641/https://archiveofourown.org/works/53909767?view_full_work=true
+  - https://web.archive.org/web/20240927155641/https://archiveofourown.org/works/53909767?view_full_work=true
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 ---
 
 !!! note
-    nasin sitelen mi li kama tan jan dragon_chris. pona o tawa ona :)
+nasin sitelen mi li kama tan jan dragon_chris. pona o tawa ona :)
 
-    Tighnari = jan Tanali  
+    Tighnari = jan Tanali
     Cyno = jan Senu
 
     (mi wile e nimi Tinali tawa jan Tanali. taso mi o wuwojiti ala.)
@@ -41,8 +43,8 @@ jan Tanali li kalama. -mu a.-
 jan Senu li wile musi e musi supa.
 
 !!! note
-    Genius Invocation TCG = musi lipu pi usawi wawa  
-    Forbidden Island = musi pi ma telo pakala
+Genius Invocation TCG = musi lipu pi usawi wawa  
+ Forbidden Island = musi pi ma telo pakala
 
     pu ala la mi kepeken nimi tu. oko li ijo sijelo. jan li lukin kepeken oko ona. usawi li wawa nasa a.
 

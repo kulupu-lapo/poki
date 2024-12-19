@@ -1,13 +1,13 @@
 ---
 title: pilin ku
-description: null
+description: jan Tepo li toki e pilin ona lon lipu ku lon nimi mute ona lon nimi suli ona
 authors:
-- jan Tepo
-date: '2021-10-03'
+  - jan Tepo
+date: "2021-10-03"
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vSE37sqz6LfD4F0KgIAh9OQXr5zc9yQJVu8Fxfr3gm89fjMyvk7HCkkPUI6GTb-vf99_p91WURXjWv9/pub
-- https://wikisource.org/wiki/Kalama_sin/2
+  - https://docs.google.com/document/d/e/2PACX-1vSE37sqz6LfD4F0KgIAh9OQXr5zc9yQJVu8Fxfr3gm89fjMyvk7HCkkPUI6GTb-vf99_p91WURXjWv9/pub
+  - https://wikisource.org/wiki/Kalama_sin/2
 ---
 
 o kama pona tawa kalama sin! mi jan Tepo. kalama nanpa pini la jan Juli li toki e ni tawa sina: kalama sin li open. mi wile suli e toki ni li wile toki mute e nasin pi tenpo kalama ni: kalama sin.

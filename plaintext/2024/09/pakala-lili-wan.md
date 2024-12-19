@@ -1,25 +1,26 @@
 ---
 title: pakala lili wan
 original-title: One Little Accident
-description: misa Kimi en misa Emi li musi lon poka pi tomo ona. ona li lukin li kute
+description:
+  misa Kimi en misa Emi li musi lon poka pi tomo ona. ona li lukin li kute
   mute. taso, pakala lili wan li lon. ni li lon ala tan tawa kepeken tenpo lili.
 authors:
-- secretfirefox
+  - secretfirefox
 translators:
-- Hopeful_Student
-date: '2024-09-10'
+  - Hopeful_Student
+date: "2024-09-10"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/58839649
+  - https://archiveofourown.org/works/58839649
 archives:
-- https://web.archive.org/web/20240927133427/https://archiveofourown.org/works/58839649
+  - https://web.archive.org/web/20240927133427/https://archiveofourown.org/works/58839649
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
 notes: toki Inli li lon lipu ni
 ---
 
 !!! note
-    Toki Pona is notorious for being obscure or ambiguous. I am not terribly involved in the online community but I feel that I have a grasp of the basic grammatical features of the language. The job of a translator is to present a understandable translation in the target language so that the original text does not need to be consulted. And, although that is the basic task, it proves extremely difficult in this particular case.
 
     Therefore, my translation goals for this project have been for clarity rather than to be extremely faithful to the source text. But even so, I have tried to capture everything possible to capture.
 

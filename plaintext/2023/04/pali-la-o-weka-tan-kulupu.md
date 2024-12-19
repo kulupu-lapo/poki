@@ -3,6 +3,7 @@ title: pali la o weka tan kulupu
 authors:
   - jan Kekan San
 date: 2023-04-14
+license: null
 sources:
   - https://mun.la/lipu/nasin-pali-pona.html
 archives:

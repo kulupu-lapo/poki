@@ -2,7 +2,8 @@
 title: nasin pi sitelen ma pi jan Ekite ala
 authors:
   - jan Telakoman
-date: '2021-07-07'
+date: "2021-07-07"
+license: null
 sources:
   - https://joelthomastr.github.io/tokipona/jan-ekite-ala_si
 ---

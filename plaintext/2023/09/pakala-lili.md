@@ -3,6 +3,7 @@ title: pakala-lili
 authors:
   - Knives
 date: 2023-09-10
+license: null
 tags:
   - poetry
 sources:

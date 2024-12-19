@@ -4,6 +4,7 @@ description: mi sitelen e ni tawa jan Sonja. lipu ni li pona tawa ona la [mi kam
 authors:
   - jan Kekan San
 date: 2023-11-10
+license: null
 sources:
   - https://mun.la/lipu/princess-and-the-frog.html
 archives:

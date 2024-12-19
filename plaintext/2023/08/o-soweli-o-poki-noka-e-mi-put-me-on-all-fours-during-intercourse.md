@@ -1,23 +1,25 @@
 ---
 title: o soweli o poki noka e mi (put me on all fours during intercourse)
-description: seli pi jan Kasuki li kama. ona li wile e alupa ona. ona tu li unpa.
+description:
+  seli pi jan Kasuki li kama. ona li wile e alupa ona. ona tu li unpa.
   I wrote this as a joke but then I started caring about it and now here it is.
 authors:
-- not_quite_a_furry
-date: '2023-08-22'
+  - not_quite_a_furry
+date: "2023-08-22"
+license: null
 tags:
-- 'fan fiction'
+  - "fan fiction"
 sources:
-- https://archiveofourown.org/works/49551514
+  - https://archiveofourown.org/works/49551514
 archives:
-- https://web.archive.org/web/20240930140713/https://archiveofourown.org/works/49551514
+  - https://web.archive.org/web/20240930140713/https://archiveofourown.org/works/49551514
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML · mi nasa ala e toki Epelanto
 accessibility-notes: null
 notes: toki Inli li lon toki poka · toki Epelanto li lon toki
 ---
 
 !!! note
-    The English part of the title is 90% less sexy than the original lyric, but it still rhymes, so it Had To Be Done.
+The English part of the title is 90% less sexy than the original lyric, but it still rhymes, so it Had To Be Done.
 
     – nimi sin: alupa (alpha), omeka (omega)
     – nimi ku: kipisi, n
@@ -33,6 +35,6 @@ alupa li pilin e lupa pi omeka ona. “ni li open pona”. “jan Linjapakala en
 “seli sina li wawa, anu seme?”
 
 !!! notes
-    nimi lipu li tan musi kalama pi jan Litali. nimi musi ni li ni: "ilo pana pi kon nasa". jan Litali o lape suwi.
+nimi lipu li tan musi kalama pi jan Litali. nimi musi ni li ni: "ilo pana pi kon nasa". jan Litali o lape suwi.
 
     Criticism and corrections are very welcome.
