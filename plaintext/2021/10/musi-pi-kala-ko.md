@@ -1,6 +1,5 @@
 ---
 title: musi pi kala ko
-description: null
 authors:
 - jan Itan
 - jan Tepo

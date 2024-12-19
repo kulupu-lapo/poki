@@ -1,6 +1,5 @@
 ---
 title: linja mije
-description: null
 authors:
 - kulupu kala
 date: '2023-08-15'

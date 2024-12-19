@@ -1,6 +1,5 @@
 ---
 title: tenpo musi "suwi"
-description: null
 authors:
   - CrowsAreSpyingOnYou
 date: "2022-06-12"

@@ -1,6 +1,5 @@
 ---
 title: pimeja
-description: null
 authors:
 - kili potato_9898
 date: '2023-08-15'

@@ -1,6 +1,5 @@
 ---
 title: o toki e ijo pi toki pona ala!
-description: null
 authors:
 - jan Itan
 - jan Lakuse

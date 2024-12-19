@@ -1,6 +1,5 @@
 ---
 title: pilin pipi
-description: null
 authors:
 - jan Ke Tami
 date: '2023-08-15'

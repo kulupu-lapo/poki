@@ -1,6 +1,5 @@
 ---
 title: tu lukin lon
-description: null
 authors:
 - jan Lakuse
 date: '2021-11-29'

@@ -1,6 +1,5 @@
 ---
 title: ken la jan
-description: null
 authors:
 - jan Uwe (Russ Sharek)
 date: '2023-08-15'

@@ -1,6 +1,5 @@
 ---
 title: nasin Puta
-description: null
 authors:
 - jan Lakuse
 - kala Salan

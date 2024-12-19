@@ -1,6 +1,5 @@
 ---
 title: tenpo pini weka
-description: null
 authors:
 - jan Akeso
 date: '2023-08-15'

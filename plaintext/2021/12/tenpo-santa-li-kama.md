@@ -1,6 +1,5 @@
 ---
 title: tenpo Santa li kama
-description: null
 authors:
 - jan Itan
 - jan Tepo

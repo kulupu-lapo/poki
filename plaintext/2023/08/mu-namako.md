@@ -1,6 +1,5 @@
 ---
 title: mu namako
-description: null
 authors:
 - ijo tan anpa nanpa (Itan)
 date: '2023-08-15'

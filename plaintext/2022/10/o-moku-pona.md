@@ -1,6 +1,5 @@
 ---
 title: o moku pona!
-description: null
 authors:
 - jan Simiman
 date: '2022-10-31'

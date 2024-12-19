@@ -15,8 +15,6 @@ sources:
 archives:
   - https://web.archive.org/web/20240930134634/https://archiveofourown.org/works/52757521
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-accessibility-notes: null
-notes: null
 ---
 
 jan alasa en soweli sona li utala kin!

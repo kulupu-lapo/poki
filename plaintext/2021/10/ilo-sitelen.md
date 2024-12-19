@@ -1,6 +1,5 @@
 ---
 title: ilo sitelen
-description: null
 authors:
 - lipamanka
 date: '2021-10-10'

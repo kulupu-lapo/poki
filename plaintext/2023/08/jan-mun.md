@@ -1,6 +1,5 @@
 ---
 title: jan mun
-description: null
 authors:
   - mun Kekan San
 date: "2023-08-15"

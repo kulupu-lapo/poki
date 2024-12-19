@@ -1,6 +1,5 @@
 ---
 title: tawa suli soweli
-description: null
 authors:
 - jan pi nimi ala
 date: '2023-08-15'

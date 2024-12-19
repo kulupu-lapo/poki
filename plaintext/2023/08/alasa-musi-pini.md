@@ -1,6 +1,5 @@
 ---
 title: alasa musi pini
-description: null
 authors:
 - kapesi Pake
 date: '2023-08-15'

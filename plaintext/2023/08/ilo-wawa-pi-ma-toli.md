@@ -1,6 +1,5 @@
 ---
 title: ilo wawa pi ma Toli
-description: null
 authors:
 - jan Peli
 date: '2023-08-15'

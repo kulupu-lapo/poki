@@ -1,6 +1,5 @@
 ---
 title: jan mun en nasin waso
-description: null
 authors:
 - jan Itan
 - jan Lakuse

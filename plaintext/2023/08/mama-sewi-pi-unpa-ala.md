@@ -1,6 +1,5 @@
 ---
 title: mama sewi pi unpa ala
-description: null
 authors:
 - jan Lakuse
 date: '2023-08-15'

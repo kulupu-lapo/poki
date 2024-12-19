@@ -1,6 +1,5 @@
 ---
 title: ma pi lipu Tun
-description: null
 authors:
 - jan Tepo
 date: '2021-11-08'

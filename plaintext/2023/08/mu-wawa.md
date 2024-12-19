@@ -1,6 +1,5 @@
 ---
 title: mu wawa
-description: null
 authors:
 - jan Puloku
 date: '2023-08-15'

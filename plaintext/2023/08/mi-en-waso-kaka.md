@@ -1,6 +1,5 @@
 ---
 title: mi en waso Kaka en monsuta pi ma kasi
-description: null
 authors:
 - jan Pensa
 date: '2023-08-15'

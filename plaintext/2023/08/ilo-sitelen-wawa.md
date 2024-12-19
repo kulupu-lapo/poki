@@ -1,6 +1,5 @@
 ---
 title: ilo sitelen wawa
-description: null
 authors:
 - nasa utala
 date: '2023-08-15'

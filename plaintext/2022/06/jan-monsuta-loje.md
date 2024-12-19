@@ -1,6 +1,5 @@
 ---
 title: jan monsuta loje
-description: null
 authors:
 - jan Kekan San
 - jan Pensa

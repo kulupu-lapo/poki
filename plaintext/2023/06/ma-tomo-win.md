@@ -1,6 +1,5 @@
 ---
 title: ma tomo Win
-description: null
 authors:
 - jan Jakopo
 - jan Ke Tami
