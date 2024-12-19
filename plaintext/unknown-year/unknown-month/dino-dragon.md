@@ -3,6 +3,7 @@ title: Dino & Dragon
 authors:
   - UnusualEgg
 date: null
+license: null
 sources:
   - https://ctrl-c.club/~unusualegg/tp_stories.html
 archives:

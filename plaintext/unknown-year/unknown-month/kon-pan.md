@@ -4,6 +4,7 @@ description: a traditional jewish story I grew up with told from memory in toki 
 authors:
   - lipamanka
 date: null
+license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
   - https://lipamanka.gay/toki-pona-taso/kon-pan

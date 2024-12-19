@@ -4,6 +4,7 @@ description: lipamanka tries (not very hard) to explain what language is in toki
 authors:
   - lipamanka
 date: null
+license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
   - https://lipamanka.gay/toki-pona-taso/toki
