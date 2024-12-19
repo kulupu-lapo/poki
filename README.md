@@ -9,7 +9,7 @@ This is a work-in-progress library and monolingual corpus for Toki Pona. Our vis
   </a>
 </div>
 
-Feel free to post issues, fork the repo, and open pull requests with your changes.
+Feel free to post issues, fork the repo, and open pull requests with your changes.  \
 You can also join the "ma pona pi toki pona" discord to talk to the maintainers.
 
 ## Schemas
@@ -49,6 +49,26 @@ items:
 
 ## Sources
 
+| Name                                                  | Made / maintained by | Issue                                         | Claimed by            |
+|-------------------------------------------------------|----------------------|-----------------------------------------------|-----------------------|
+| lipu kule ([site][lk site] / [repo][lk repo])         | akesi Jan            | https://github.com/kulupu-lapo/poki/issues/9  | kala Asi              |
+| Writing contests ([site][um site] / [repo][um repo])  | jan Lakuse           | https://github.com/kulupu-lapo/poki/issues/11 | kala Asi              |
+| kalama sin ([site][ks site] / [ws][ks ws])            | various              | https://github.com/kulupu-lapo/poki/issues/12 | kala Asi              |
+| lipu tenpo ([site][lt site] / [repo][lt repo])        | jan Alonola          | https://github.com/kulupu-lapo/poki/issues/10 | ijo vivi              |
+| Song collection ([yt][songs yt] / [docs][songs doc])  | jan Ke Tami          | No                                            | ijo \[osuka\] en poka |
+| [TP Library][tonyu lib]                               | kala pona Tonyu      | No                                            |                       |
+| [Wikisource]                                          | various              | No                                            |                       |
+| [Corpora]                                             | (sona pona)          | No                                            |                       |
+| [nltk-tp]                                             | davidar              | No                                            |                       |
+| [kijetesantakalu o!][kije o]                          | jan Ke Tami          | No                                            | ijo vivi              |
+| [Archive Of Our Own][AO3]                             | various              | No                                            | ijo vivi              |
+| [jan Lentan's blog posts][Lentan]                     | jan Lentan           | No                                            | jan Kita              |
+| [lipu monsuta]                                        | soweli kina          | No                                            | jan Kita              |
+| [jan Telakoman's blog posts][Telakoman]               | jan Telakoman        | No                                            | jan Kita              |
+| [Storyweaver]                                         | various              | No                                            |                       |
+| Personal websites                                     | various              | https://github.com/kulupu-lapo/poki/issues/17 | ijo vivi              |
+
+
 [lk site]:https://lipukule.org/
 [lk repo]:https://github.com/lipukule/lipu-kule
 [um site]:https://utala.pona.la
@@ -64,28 +84,8 @@ items:
 [Corpora]:https://sona.pona.la/wiki/Corpora
 [nltk-tp]:https://github.com/davidar/nltk-tp/tree/master/Corpus
 [kije o]:https://kijetesantakalu-o.tumblr.com/tagged/comic
-[ao3]:https://archiveofourown.org/works/search?work_search%5Blanguage_id%5D=tok
-[lentan]:https://lipu-sona.pona.la/lentan/
+[AO3]:https://archiveofourown.org/works/search?work_search%5Blanguage_id%5D=tok
+[Lentan]:https://lipu-sona.pona.la/lentan/
 [lipu monsuta]:https://lipumonsuta.neocities.org/
-[telakoman]:https://joelthomastr.github.io/tokipona/README_si
+[Telakoman]:https://joelthomastr.github.io/tokipona/README_si
 [Storyweaver]:https://storyweaver.org.in/en/stories?language=Toki+Pona
-
-
-| Name                                                  | Made / maintained by | Issue                                         | Claimed by            |
-|-------------------------------------------------------|----------------------|-----------------------------------------------|-----------------------|
-| lipu kule ([site][lk site] / [repo][lk repo])         | akesi Jan            | https://github.com/kulupu-lapo/poki/issues/9  | kala Asi              |
-| Writing contests ([site][um site] / [repo][um repo])  | jan Lakuse           | https://github.com/kulupu-lapo/poki/issues/11 | kala Asi              |
-| kalama sin ([site][ks site] / [ws][ks ws])            | various              | https://github.com/kulupu-lapo/poki/issues/12 | kala Asi              |
-| lipu tenpo ([site][lt site] / [repo][lt repo])        | jan Alonola          | https://github.com/kulupu-lapo/poki/issues/10 | ijo vivi              |
-| Song collection ([yt][songs yt] / [docs][songs doc])  | jan Ke Tami          | No                                            | ijo \[osuka\] en poka |
-| [TP Library][tonyu lib]                               | kala pona Tonyu      | No                                            |                       |
-| [Wikisource]                                          | various              | No                                            |                       |
-| [Corpora]                                             | (sona pona)          | No                                            |                       |
-| [nltk-tp]                                             | davidar              | No                                            |                       |
-| [kijetesantakalu o!][kije o]                          | jan Ke Tami          | No                                            | ijo vivi              |
-| [Archive Of Our Own][ao3]                             | various              | No                                            | ijo vivi              |
-| [jan Lentan's blog posts][lentan]                     | jan Lentan           | No                                            | jan Kita              |
-| [lipu monsuta]                                        | soweli kina          | No                                            | jan Kita              |
-| [jan Telakoman's blog posts][telakoman]               | jan Telakoman        | No                                            | jan Kita              |
-| [Storyweaver]                                         | various              | No                                            |                       |
-| Personal websites                                     | various              | https://github.com/kulupu-lapo/poki/issues/17 | ijo vivi              |
