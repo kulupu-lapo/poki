@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0019mama.pdf
 - https://liputenpo.org/lipu/nanpa-mama/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_moku_seli.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![kijetesantakalu li pali e moku](https://upload.wikimedia.org/wikipedia/commons/b/b6/Lipu_tenpo_nanpa_mama_-_moku_seli.png)

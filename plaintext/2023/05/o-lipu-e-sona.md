@@ -9,8 +9,7 @@ sources:
 - https://liputenpo.org/pdfs/0019mama.pdf
 - https://liputenpo.org/lipu/nanpa-mama/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_lipu.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![kijetesantakalu li lipu e sona](https://upload.wikimedia.org/wikipedia/commons/8/89/Lipu_tenpo_nanpa_mama_-_lipu.png)

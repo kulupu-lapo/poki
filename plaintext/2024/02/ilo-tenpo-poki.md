@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
 - https://liputenpo.org/lipu/nanpa-tenpo/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_ilo_tenpo_poki.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 tenpo ale la, jan li wile sona e tenpo. taso tenpo pini la, ilo tenpo li lon ala. ni la, jan li pali e ilo tenpo nanpa wan: ma Tosi la, jan mute li open pali e ilo tenpo. mute la, jan li toki e ni: jan Peta Enlan (Peter Henlein) li pali e ilo tenpo nanpa wan. ona ni li sike suli, li jo e luka wan taso. kin la, ona li tawa ike, li nasa. sina sona ike e tenpo tan ona. kama la, ilo tenpo li mu lon tenpo wan.

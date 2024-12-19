@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0019mama.pdf
 - https://liputenpo.org/lipu/nanpa-mama/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_suno.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![suno suli a loje en suno suli laso en suno mi jelo en suno lili kapesi](https://upload.wikimedia.org/wikipedia/commons/6/68/Lipu_tenpo_nanpa_mama_-_suno.png)

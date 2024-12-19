@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0019mama.pdf
 - https://liputenpo.org/lipu/nanpa-mama/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_moku_suwi.png'
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![tomo la pipi li pali e moku suwi](https://upload.wikimedia.org/wikipedia/commons/4/4f/Lipu_tenpo_nanpa_mama_-_moku_suwi.png)

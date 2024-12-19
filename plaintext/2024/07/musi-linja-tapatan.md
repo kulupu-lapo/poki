@@ -9,8 +9,7 @@ sources:
 - https://liputenpo.org/lipu/nanpa-linja/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_musi_linja_Tapatan_01.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_musi_linja_Tapatan_02.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 musi Tapatan li pona mute. ona li tan ma Pilipina, taso ona li jo e nimi mute li tan ma mute. nimi Tapatan li pona tan ni: ona li nimi pi kalama pona! jan lili en jan suli li ken musi e musi ni.

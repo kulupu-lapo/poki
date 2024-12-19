@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0025.5lili.pdf
 - https://liputenpo.org/lipu/nanpa-lili/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lili_-_soweli_lili_(waso_taso).png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![waso lili mute](https://upload.wikimedia.org/wikipedia/commons/4/4d/Lipu_tenpo_nanpa_lili_-_soweli_lili_%28waso_taso%29.png)

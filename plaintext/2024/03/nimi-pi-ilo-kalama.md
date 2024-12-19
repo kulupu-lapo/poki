@@ -11,8 +11,7 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_kiwen.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_linja.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_kulupu_pi_kalama_musi.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 mi musi lon kulupu pi kalama musi. kulupu ni la, jan mute li kalama kepeken ilo ante mute. mute la, mi pilin e ni: nimi pi ilo ni li seme? ni la, mi wile alasa e nimi ona. nanpa wan la, ilo kalama li ante tan ni: ona li kalama kepeken nasin ante. suli la, nasin tu tu ni li lon:

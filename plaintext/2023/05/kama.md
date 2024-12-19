@@ -8,8 +8,7 @@ sources:
 - https://liputenpo.org/pdfs/0019mama.pdf
 - https://liputenpo.org/lipu/nanpa-mama/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_kama.png
-preprocessing:
-- wrote alt text
+preprocessing: wrote alt text
 ---
 
 ![lipu sitelen](https://upload.wikimedia.org/wikipedia/commons/1/15/Lipu_tenpo_nanpa_mama_-_kama.png)
