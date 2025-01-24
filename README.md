@@ -15,6 +15,9 @@ You can also join the "ma pona pi toki pona" discord to talk to the maintainers.
 ## Schemas
 
 ### File metadata
+
+See also the [validation code](utils/validate-schemas.ts).
+
 ```yaml
 ---
 title:
@@ -24,10 +27,12 @@ authors:
   -
 translators:
   -
-date: [yyyy-mm-dd]
+proofreaders:
+  -
+date: # yyyy-mm-dd
 tags:
   -
-license:
+license: # `null` if no or unknown license
 sources:
   -
 archives:
