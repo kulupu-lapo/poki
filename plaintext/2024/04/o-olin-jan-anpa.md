@@ -1,4 +1,3 @@
-o pakala e sina, ona li toki
 ---
 title: o olin e jan anpa
 original-title: Love The Subhuman Self
