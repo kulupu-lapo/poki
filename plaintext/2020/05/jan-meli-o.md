@@ -4,6 +4,7 @@ original-title: Ave Maria
 translators:
   - Tobias Merkle
 date: 2020-05-09
+license: null
 sources:
   - https://www.jonathangabel.com/2020/ave-maria/
 ---
