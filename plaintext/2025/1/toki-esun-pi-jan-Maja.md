@@ -9,7 +9,6 @@ translators:
 proofreaders:
   - jan lape pi toki Inli ala
 date: 2025-01-03
-  -
 license: null
 sources:
   - https://imgur.com/a/tsjmcwu
