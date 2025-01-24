@@ -1,7 +1,7 @@
 ---
 title: tomo lape pi Pocatello
 authors: 
-  - unknown # utala.pona.la doesn't say lmao
+  - anonymous # jan Lakuse li toki e ni: "jan pali li wile len e nimi ona"
 date: '2024-08-10'
 license: CC-BY-SA-4.0
 sources:
