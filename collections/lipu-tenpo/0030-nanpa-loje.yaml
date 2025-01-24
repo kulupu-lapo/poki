@@ -1,0 +1,19 @@
+name: lipu tenpo nanpa loje
+sources:
+  - https://liputenpo.org/pdfs/0030loje.pdf
+  - https://liputenpo.org/lipu/nanpa-loje/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_loje
+items:
+- plaintext/2024/12/ijo-sin-pona.md
+- plaintext/2024/12/jan-kasi-pi-ma-Sonko.md
+- plaintext/2024/12/kijetesantakalu-loje.md
+- plaintext/2024/12/kijetesantakalu-o.md
+- plaintext/2024/12/lipu-li-kama-loje-tan-seme.md
+- plaintext/2024/12/loje-laso-li-ken-sama-tawa-mi.md
+- plaintext/2024/12/nasin-kule-pona.md
+- plaintext/2024/12/nasin-sin-pi-selo-toki.md
+- plaintext/2024/12/o-moku-e-kasi-unu.md
+- plaintext/2024/12/seme-li-mi.md
+- plaintext/2024/12/sike-pi-mun-Satunu.md
+- plaintext/2024/12/sona-len-suli-pi-jan-tonsi.md
+- plaintext/2024/12/suno-lili-moli.md
