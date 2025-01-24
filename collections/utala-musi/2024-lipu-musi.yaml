@@ -1,0 +1,40 @@
+name: utala musi lipu (2024)
+sources:
+  - https://utala.pona.la/mamtt/lipu-musi/
+items:
+  # 2024-08-10
+  # lipu lili
+  # https://utala.pona.la/mamtt/lipu-musi/lipu-lili.html
+  - plaintext/2024/08/ilo-pi-tenpo-awen.md
+  - plaintext/2024/08/laso-poki.md
+  - plaintext/2024/08/ma-telo-kon-seli-ijo-tu-tu-pi-lon-ale.md
+  - plaintext/2024/08/mi-tawa.md
+  - plaintext/2024/08/mi-tawa-lon-pimeja.md
+  - plaintext/2024/08/moku-li-suwi-ala-suwi.md
+  - plaintext/2024/08/nimi.md
+  - plaintext/2024/08/nimi-nasa.md
+  - plaintext/2024/08/olin-mute.md
+  - plaintext/2024/08/sina-seme.md
+  - plaintext/2024/08/seme-li-sewi.md
+  - plaintext/2024/08/tawa.md
+  - plaintext/2024/08/tenpo-seli-li-pini-la.md
+  - plaintext/2024/08/telo-tu.md
+  - plaintext/2024/08/tomo-lape-pi-Pocatello.md
+
+  # lipu suli
+  # https://utala.pona.la/mamtt/lipu-musi/
+  - plaintext/2024/08/jan-Eto-li-alasa-e-pipi.md
+  - plaintext/2024/08/kasi-li-toki.md
+  - plaintext/2024/08/kasi-utala-pi-ma-Tokono.md
+  - plaintext/2024/08/likujo.md
+  - plaintext/2024/08/lon-anpa-pi-sewi-walo-lon-sewi-pi-telo-suno.md
+  - plaintext/2024/08/mi-alasa-e-telo.md
+  - plaintext/2024/08/mi-jan.md
+  # excluded for now: needs javascript to run, too complicated
+  # - plaintext/2024/08/mi-pana-e-lipu.md
+  - plaintext/2024/08/mi-wile-e-sona-sin.md
+  - plaintext/2024/08/nasin-Lanpan.md
+  - plaintext/2024/08/toki-pi-ma-kasi.md
+  - plaintext/2024/08/toki-musi-pata.md
+  - plaintext/2024/08/utala-nanpa.md
+  - plaintext/2024/08/waso-sona-Ukami-en-monsuta-pi-kiwen-pimeja.md
