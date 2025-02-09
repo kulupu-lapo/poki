@@ -6,7 +6,7 @@ authors:
 date: '2024-02-07'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-tenpo
 - https://janketami.wordpress.com/2024/02/09/kijetesantakalu-o-nanpa-mute-tu-tu/

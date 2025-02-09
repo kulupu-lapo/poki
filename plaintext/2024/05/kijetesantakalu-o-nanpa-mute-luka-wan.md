@@ -5,7 +5,7 @@ authors:
 date: '2024-05-14'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-jaki/
 - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep26.png

@@ -5,7 +5,7 @@ authors:
 - kala Salan
 - jan Tepo
 date: '2022-06-06'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vRv-rQ14NCsZYIjcBpP-u9xGRwnF-gRDebj6lO5lsHKq5UmeO3ePooYk8BYlz1CJWjiMRoADfH05dQV/pub
 - https://wikisource.org/wiki/Kalama_sin/21

@@ -3,7 +3,7 @@ title: mi alasa telo
 authors:
   - ijo Wen
 date: '2024-08-10'
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 tags:
   - monsuta
   - ijo li ken ala e tawa jan

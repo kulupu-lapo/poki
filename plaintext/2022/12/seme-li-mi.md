@@ -6,7 +6,7 @@ date: '2022-12-09'
 tags:
 - 'sitelen sitelen'
 - 'poetry'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0017musi.pdf
 - https://liputenpo.org/lipu/nanpa-musi/

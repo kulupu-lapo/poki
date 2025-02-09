@@ -5,7 +5,7 @@ authors:
 date: '2021-11-02'
 tags:
 - comic
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://janketami.wordpress.com/2021/11/02/sitelen-mi-o-mu-ala-mu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_mu_ala_mu.png

@@ -7,7 +7,7 @@ authors:
 date: '2022-08-06'
 tags:
 - kasi li pilin ike tawa ona sama
-license: CC-BY-4.0
+license: CC BY-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/lipu-lili/kasi-lili-li-suli.md
 - http://utala.pona.la/lipu-lili/kasi-lili-li-suli.html

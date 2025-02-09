@@ -3,7 +3,7 @@ title: lawa jan li kama sona e nasin toki kepeken nasin seme?
 authors:
 - jan Telakoman
 date: '2021-08-02'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0006suno.pdf
 - https://liputenpo.org/lipu/nanpa-suno/

@@ -3,7 +3,7 @@ title: sitelen tawa sin jan pali pi weka kon - ali sin [Ghostbusters - Afterlife
 authors:
 - jan Pije
 date: '2021-12-08'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0010lete.pdf
 - https://liputenpo.org/lipu/nanpa-lete/

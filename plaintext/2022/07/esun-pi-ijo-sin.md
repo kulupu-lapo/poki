@@ -3,7 +3,7 @@ title: ante toki pi AU MAGASIN DE NOUVEAUTES (esun pi ijo sin)
 authors:
 - jan Epen
 date: 2022-07-16
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-07-16-ante-toki-pi-au-magasin-de-nouveautes-esun-pi-ijo-sin.md
 - https://lipukule.org/post/2022/07/16/ante-toki-pi-au-magasin-de-nouveautes-esun-pi-ijo-sin/

@@ -6,7 +6,7 @@ authors:
 date: '2021-05-07'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-kasi
 - https://janketami.wordpress.com/2021/05/15/kijetesantakalu-o-nanpa-tu-tu/

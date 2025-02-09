@@ -3,7 +3,7 @@ title: ike li ken ike ala
 authors:
 - monsuta pi soweli mun
 date: '2021-12-13'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vQfC5lL405CmVLTc9VLoxH5GDGzZMHuGOIHCxIhrFqzmBmtgzBvpuksLXH5W66vgg/pub
 - https://wikisource.org/wiki/Kalama_sin/12

@@ -6,7 +6,7 @@ date: '2023-08-15'
 tags:
 - jan pali en ilo ChatGPT li sitelen e lipu ni
 - nimi sin mute pi ku ala
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/tawa-suli-soweli.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/tawa-suli-soweli.html

@@ -5,7 +5,7 @@ authors:
 date: '2021-06-02'
 tags:
 - 'comic'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0005pan.pdf
 - https://liputenpo.org/lipu/nanpa-pan/

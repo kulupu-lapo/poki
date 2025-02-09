@@ -3,7 +3,7 @@ title: nasin pona lipu
 authors:
 - jan Lakuse
 date: '2021-11-15'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vQW8Gls6Nds6irxYIiEbuXGf9ea_R_wNU20IdPrCzsK9K0bEEzGbOOyTO08yGSWYjObV-Py8_hGeM7U/pub
 - https://wikisource.org/wiki/Kalama_sin/8

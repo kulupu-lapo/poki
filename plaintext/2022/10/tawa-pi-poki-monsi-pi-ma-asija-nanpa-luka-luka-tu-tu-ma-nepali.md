@@ -3,7 +3,7 @@ title: 'tawa pi poki monsi pi ma Asija nanpa luka luka tu tu: ma Nepali'
 authors:
 - jan Polo
 date: '2022-10-17'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/

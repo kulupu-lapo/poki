@@ -3,7 +3,7 @@ title: jan lili pi toki pona
 authors:
 - jan Nowa
 date: '2021-10-31'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0009moli.pdf
 - https://liputenpo.org/lipu/nanpa-moli/

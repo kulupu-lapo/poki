@@ -7,7 +7,7 @@ authors:
 date: '2021-03-01'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-mun
 - https://janketami.wordpress.com/2021/03/02/kijetesantakalu-o-nanpa-tu/

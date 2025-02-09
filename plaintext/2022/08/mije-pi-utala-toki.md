@@ -7,7 +7,7 @@ authors:
 date: '2022-08-06'
 tags:
 - moku
-license: CC-BY-4.0
+license: CC BY-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/lipu-lili/mije-pi-utala-toki.md
 - http://utala.pona.la/lipu-lili/mije-pi-utala-toki.html

@@ -5,7 +5,7 @@ authors:
 date: '2023-12-25'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-sewi/
 - https://janketami.wordpress.com/2025/02/28/kijetesantakalu-o-nanpa-mute-tu-wan/

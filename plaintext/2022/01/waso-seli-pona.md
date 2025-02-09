@@ -3,7 +3,7 @@ title: waso seli pona
 authors:
 - jan Jan
 date: '2022-01-20'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-01-20-waso-seli-pona.md
 - https://lipukule.org/post/2022/03/01/waso-seli-pona/

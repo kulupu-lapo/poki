@@ -6,7 +6,7 @@ authors:
 date: '2022-12-09'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-musi
 - https://janketami.wordpress.com/2023/07/05/kijetesantakalu-o-nanpa-luka-luka-luka-tu/

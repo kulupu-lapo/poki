@@ -3,7 +3,7 @@ title: pilin mi pi nasin nanpa pona
 authors:
   - jan Momo
 date: "2024-03-20"
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0025kalama.pdf
   - https://liputenpo.org/lipu/nanpa-kalama/

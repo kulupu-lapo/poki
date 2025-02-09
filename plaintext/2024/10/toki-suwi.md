@@ -5,7 +5,7 @@ authors:
 date: '2024-10-20'
 tags:
   - poetry
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf
   - https://liputenpo.org/lipu/nanpa-jan/

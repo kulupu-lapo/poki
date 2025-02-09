@@ -5,7 +5,7 @@ authors:
 date: '2024-09-07'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-lawa/
 - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep28.png

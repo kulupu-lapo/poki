@@ -3,7 +3,7 @@ title: lipu musi lili nasa pi nimi ali
 authors:
 - jan Kapesi Pake
 date: '2022-12-09'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 tags:
 - poetry
 - pangram

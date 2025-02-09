@@ -3,7 +3,7 @@ title: toki luka li sin ala li toki pali ala! tenpo pini pi toki luka
 authors:
 - jan Olipija
 date: 2022-12-26
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-12-26-tenpo-pini-pi-toki-luka.md
 - https://lipukule.org/post/2022/12/26/toki-luka-li-sin-ala-li-toki-pali-ala-tenpo-pini-pi-toki-luka/

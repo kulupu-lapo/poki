@@ -3,7 +3,7 @@ title: nasin nimi sin pi sitelen pona
 authors:
 - jan Ke Tami
 date: '2022-05-05'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0013pipi.pdf
 - https://liputenpo.org/lipu/nanpa-pipi/

@@ -3,7 +3,7 @@ title: kulupu pi lanpan nimi ISO tawa toki pona
 authors:
 - jan Jan
 date: '2021-06-12'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-06-12-pali_iso.md
 - https://lipukule.org/post/2021/06/12/kulupu-pi-lanpan-nimi-iso-tawa-toki-pona/

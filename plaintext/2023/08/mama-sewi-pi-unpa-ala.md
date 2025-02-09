@@ -7,7 +7,7 @@ tags:
 - sewi li nasa e sijelo jan
 - ike nasin pi ma Mewika tawa jan pi ken mama sijelo
 - jan li mama e jan lili lon insa ona li ken ala weka e ona tan lawa
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/mama-pi-unpa-ala.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/mama-pi-unpa-ala.html

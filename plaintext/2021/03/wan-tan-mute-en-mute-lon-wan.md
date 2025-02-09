@@ -3,7 +3,7 @@ title: wan tan mute en mute lon wan
 authors:
 - kulupu Alesanwa
 date: '2021-03-01'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0002mun.pdf
 - https://liputenpo.org/lipu/nanpa-mun/

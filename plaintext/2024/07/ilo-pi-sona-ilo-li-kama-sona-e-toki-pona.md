@@ -3,7 +3,7 @@ title: ilo pi sona ilo li kama sona e toki pona
 authors:
 - jan Lapate
 date: '2024-07-05'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0027linja.pdf
 - https://liputenpo.org/lipu/nanpa-linja/

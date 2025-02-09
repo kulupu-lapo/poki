@@ -7,7 +7,7 @@ authors:
 date: '2021-09-02'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-kule
 - https://janketami.wordpress.com/2021/10/13/kijetesantakalu-o-nanpa-luka-tu/

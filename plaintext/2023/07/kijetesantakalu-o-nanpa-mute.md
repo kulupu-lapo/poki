@@ -5,7 +5,7 @@ authors:
 date: '2023-07-01'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-nasin/
 - https://janketami.wordpress.com/2024/09/30/kijetesantakalu-o-nanpa-mute/

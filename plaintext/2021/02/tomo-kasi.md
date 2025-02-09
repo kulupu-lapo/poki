@@ -3,7 +3,7 @@ title: tomo kasi nanpa tu
 authors:
 - kule epiku Atawan
 date: '2021-02-07'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-07-tomokasi.md
 - https://lipukule.org/post/2021/02/07/tomo-kasi-nanpa-tu/

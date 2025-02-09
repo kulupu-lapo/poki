@@ -3,7 +3,7 @@ title: pan linja en telo pi kili loje
 authors:
 - jan Asukata
 date: '2024-07-16'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2024-07-16-pan-linja-en-telo-pi-kili-loje.md
 - https://lipukule.org/post/2024/07/16/pan-linja-en-telo-pi-kili-loje/

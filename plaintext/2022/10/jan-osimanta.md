@@ -8,7 +8,7 @@ translators:
 date: '2022-10-17'
 tags:
 - poetry
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/

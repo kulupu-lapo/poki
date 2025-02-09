@@ -7,7 +7,7 @@ tags:
 - pilin pi wan taso
 - utala sijelo ike
 - ilo nasa li ante e sijelo jan
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-sitelen-wawa.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-sitelen-wawa.html

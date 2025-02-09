@@ -3,7 +3,7 @@ title: ale li nanpa
 authors:
 - jan Kekan San
 date: '2023-02-06'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://mun.la/lipu/ale-li-nanpa.html
 - https://liputenpo.org/pdfs/0018tu.pdf

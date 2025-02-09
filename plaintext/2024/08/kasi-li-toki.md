@@ -3,7 +3,7 @@ title: kasi li toki
 authors:
   - kapesi Pake
 date: '2024-08-10'
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 tags:
   - kasi li moli
   - kasi li ken toki

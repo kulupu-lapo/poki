@@ -5,7 +5,7 @@ authors:
 date: '2023-08-15'
 tags:
 - ilo nanpa li sona wawa e toki
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-toki.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-toki.html

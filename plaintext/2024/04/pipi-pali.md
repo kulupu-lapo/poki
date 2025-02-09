@@ -6,7 +6,7 @@ date: '2024-04-01'
 tags:
 - 'leko nimi'
 - 'poetry'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0025.5lili.pdf
 - https://liputenpo.org/lipu/nanpa-lili/

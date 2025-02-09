@@ -4,7 +4,7 @@ authors:
 - jan Sonatan
 - jan Alonola
 date: '2024-09-07'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0028lawa.pdf
 - https://liputenpo.org/lipu/nanpa-lawa/

@@ -3,7 +3,7 @@ title: nasin Lanpan
 authors:
   - kapesi Pake
 date: '2024-08-10'
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 tags:
   - jan toki lipu li toki e sona ante lon tenpo ante
   - pakala sijelo

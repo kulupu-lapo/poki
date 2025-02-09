@@ -7,7 +7,7 @@ authors:
 date: '2021-04-05'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-soweli
 - https://janketami.wordpress.com/2021/04/05/kijetesantakalu-o-nanpa-tu-wan/
