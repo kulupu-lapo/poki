@@ -5,7 +5,7 @@ authors:
 tags:
   - poetry
 date: 2020-06-13
-license: All Rights Reserved
+license: null
 archives:
   - https://archive.org/details/jan_pi_kamalawa/mode/2up
 ---

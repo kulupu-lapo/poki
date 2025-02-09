@@ -6,7 +6,7 @@ date: 2019-11-14
 tags:
 - music
 - tok' apona
-license: All Rights Reserved
+license: null
 sources:
 - https://www.youtube.com/watch?v=iVFbnflPzQw
 - https://soundcloud.com/dschorsaanjo/toki-nasa

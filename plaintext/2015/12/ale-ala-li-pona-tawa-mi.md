@@ -3,7 +3,7 @@ title: ale ala li pona tawa mi
 authors:
 - jan Sotan
 date: 2015-12-20
-license: All Rights Reserved
+license: null
 sources:
 - https://www.youtube.com/watch?v=JMn71HY0Z-Q
 preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.

@@ -3,7 +3,7 @@ title: lipu sona
 authors:
   - jan Likipi
 date: 2020-07-03
-license: All Rights Reserved
+license: null
 sources:
   - https://discord.com/channels/301377942062366741/375591429608570881/728692750043709481
 preprocessing: Wrapped sitelen pona text in square brackets.

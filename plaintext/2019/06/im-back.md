@@ -5,7 +5,7 @@ authors:
 date: 2019-06-07
 tags:
 - music
-license: All Rights Reserved
+license: null
 sources:
 - https://www.youtube.com/watch?v=nuLy1yOCdUg
 ---

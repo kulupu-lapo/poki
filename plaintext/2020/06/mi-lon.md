@@ -5,7 +5,7 @@ authors:
 date: 2020-06-24
 tags:
 - original work
-license: All Rights Reserved
+license: null
 sources:
 - https://docs.google.com/document/d/1FwKYb31Bx30o7FYUe1r9UjhR4dLXRR2yHNDJS7JBoV4/edit
 archives:

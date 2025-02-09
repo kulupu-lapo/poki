@@ -8,7 +8,7 @@ translators:
 date: 2023-05
 tags:
   - translation
-license: All Rights Reserved
+license: null
 sources:
   - https://docs.google.com/document/d/1FDUkWFxzWLlDj9xYIuMXIpC5G59_o_g_hW-bCPTV0hw/edit
 archives:

@@ -6,7 +6,7 @@ date: 2016-08-14
 tags:
 - poetry
 - read-aloud poetry
-license: All Rights Reserved
+license: null
 sources:
 - https://www.youtube.com/watch?v=sO6YEBXLpsk
 ---
