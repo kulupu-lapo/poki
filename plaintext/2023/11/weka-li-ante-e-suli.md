@@ -15,11 +15,11 @@ sources:
 
 ![sitelen pona](https://upload.wikimedia.org/wikipedia/commons/f/f2/Lipu_tenpo_nanpa_sin_-_weka_li_ante_e_suli.png)
 
-.|.|.|.|.|.
--|-|-|-|-|-
-seme|li||kama||lili
-li|kama||weka|.|sina
-|||||.
-kama|poka||la||sina
-|.
-suli|mi|.|mi||tu
+| .    | .    | .   | .    | .   | .    |
+| ---- | ---- | --- | ---- | --- | ---- |
+| seme | li   |     | kama |     | lili |
+| li   | kama |     | weka | .   | sina |
+|      |      |     |      | .   |
+| kama | poka |     | la   |     | sina |
+| .    |
+| suli | mi   | .   | mi   |     | tu   |

@@ -21,38 +21,38 @@ jan Iteka li pali e toki Inota kepeken tenpo sike luka tu wan. taso, ona li pali
 
 taso toki Inota li sama seme? mi pana e nimi pi mute ala tan ona.
 
-toki pona|toki Inota
--|-
-jan|Inimois
-kiwen|Staurinz
-kute|Oir
-lipu|Libizama
-luka|Branizel
-oko|Luzeia
-mani|Melzita
-meli|Vanix
-mije|Iur
-moku|Birscheiz
-monsi|Dorniel
-palisa|Stamziz
-pan|Parreiz
-pimeja|Conchsis
-poki|Guzimiz
-suno|Limix
-suwi|Saxia
-telo|Auizel
-uta|Moniz
+| toki pona | toki Inota |
+| --------- | ---------- |
+| jan       | Inimois    |
+| kiwen     | Staurinz   |
+| kute      | Oir        |
+| lipu      | Libizama   |
+| luka      | Branizel   |
+| oko       | Luzeia     |
+| mani      | Melzita    |
+| meli      | Vanix      |
+| mije      | Iur        |
+| moku      | Birscheiz  |
+| monsi     | Dorniel    |
+| palisa    | Stamziz    |
+| pan       | Parreiz    |
+| pimeja    | Conchsis   |
+| poki      | Guzimiz    |
+| suno      | Limix      |
+| suwi      | Saxia      |
+| telo      | Auizel     |
+| uta       | Moniz      |
 
 ni li nimi ijo taso. mi sona e nimi ijo taso tan ni: nimi li lon lipu. lipu li pana e nimi ijo taso. nimi pi kulupu ale pi kulupu luka luka en nimi luka luka wan li lon. nimi pali en nimi pi kama ante en nimi ante li lon ala. nimi kasi mute li lon. nimi pipi mute li lon. taso nimi kala li lon ala. waso mute li lon. taso soweli ma li lon ala. akesi li lon ala. toki Inota li pini ale la, ni li nasa tawa jan sona. jan Iteka li pana ala e sona toki ale.
 
 toki Inota la, nasin toki li seme? nasin toki li lon ala. nimi taso li lon. jan sona la, jan Iteka li kepeken toki Inota lon musi wan taso. sona la, toki ni li toki Lasina, li kepeken nimi lili pi toki Inota. toki ni li lon kalama musi tan jan Iteka:
 
-toki Inota|toki pona
--|-
-O orzchis Ecclesia,|tomo sewi suli o,
-armis divinis praecincta,|luka sewi li selo e sina.
-et hyacinto ornata,|kiwen pona pi loje jelo li namako e sina.
-tu es caldemia|sina kon pi suwi pilin
-stigmatum loifolum|pi pakala sijelo jan.
-et urbs scienciarum.|sina ma tomo sona.
-O, o tu es etiam crizanta in alto sono, et es chorzta gemma.|sina o. sina o. kalama li kama tan sewi, li namako sewi e sina. sina kiwen mani suno pona.
+| toki Inota                                                   | toki pona                                                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| O orzchis Ecclesia,                                          | tomo sewi suli o,                                                                          |
+| armis divinis praecincta,                                    | luka sewi li selo e sina.                                                                  |
+| et hyacinto ornata,                                          | kiwen pona pi loje jelo li namako e sina.                                                  |
+| tu es caldemia                                               | sina kon pi suwi pilin                                                                     |
+| stigmatum loifolum                                           | pi pakala sijelo jan.                                                                      |
+| et urbs scienciarum.                                         | sina ma tomo sona.                                                                         |
+| O, o tu es etiam crizanta in alto sono, et es chorzta gemma. | sina o. sina o. kalama li kama tan sewi, li namako sewi e sina. sina kiwen mani suno pona. |

@@ -15,15 +15,15 @@ sources:
 
 ![sitelen pona](https://upload.wikimedia.org/wikipedia/commons/0/0a/Lipu_tenpo_nanpa_sewi_-_sitelen_pi_nasin_toki_tu.png)
 
-.|.|.|.|.|.|.|.|.|.
--|-|-|-|-|-|-|-|-|-
-soweli||pona||li|wile|tawa||tomo|ona
-||.
-li||awen||alasa|e|awen|.|ona|li
-||||||.||.
-lape||ala||lon|tenpo|poka|.|taso|lape
-pona||o||ala|e|ike||ona|ale
-lon||awen|.|lape|awen|o||lape|lon
-supa|.|ike||ona|li|lon||la|tenpo
-||.
-lape||soweli||li|awen|ala||pakala|awen
+| .      | .   | .      | .   | .     | .     | .    | .   | .      | .     |
+| ------ | --- | ------ | --- | ----- | ----- | ---- | --- | ------ | ----- |
+| soweli |     | pona   |     | li    | wile  | tawa |     | tomo   | ona   |
+|        | .   |
+| li     |     | awen   |     | alasa | e     | awen | .   | ona    | li    |
+|        |     |        |     |       | .     |      | .   |
+| lape   |     | ala    |     | lon   | tenpo | poka | .   | taso   | lape  |
+| pona   |     | o      |     | ala   | e     | ike  |     | ona    | ale   |
+| lon    |     | awen   | .   | lape  | awen  | o    |     | lape   | lon   |
+| supa   | .   | ike    |     | ona   | li    | lon  |     | la     | tenpo |
+|        | .   |
+| lape   |     | soweli |     | li    | awen  | ala  |     | pakala | awen  |

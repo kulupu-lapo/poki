@@ -15,11 +15,11 @@ sources:
 
 ![sitelen pona](https://upload.wikimedia.org/wikipedia/commons/b/bc/Lipu_tenpo_nanpa_tenpo_-_moli_li_nanpa.png)
 
-.|.|.|.|.|.
--|-|-|-|-|-
-moli|mi|o||kon
-|.
-li|pona|kama|.|o
-nanpa|o|lon||tenpo
-e|tawa|ni||kin|.
-||.||.
+| .     | .    | .    | .   | .     | .   |
+| ----- | ---- | ---- | --- | ----- | --- |
+| moli  | mi   | o    |     | kon   |
+| .     |
+| li    | pona | kama | .   | o     |
+| nanpa | o    | lon  |     | tenpo |
+| e     | tawa | ni   |     | kin   | .   |
+|       | .    |      | .   |

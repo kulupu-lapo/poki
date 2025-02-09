@@ -15,12 +15,12 @@ sources:
 
 ![sitelen pona](https://upload.wikimedia.org/wikipedia/commons/7/71/Lipu_tenpo_nanpa_lili_-_pipi_pali.png)
 
-.|.|.|.|.|.|.|.
--|-|-|-|-|-|-|-
-pipi||li|ken||kama|wile
-moku|.|moku|li||lon|pipi
-||||||.
-li||mute|pona|.|pipi|o
-|||.
-wile||e|pini||moku|pipi|.
-suli||ijo|li||tan ala|moku
+| .    | .   | .    | .    | .   | .       | .    | .   |
+| ---- | --- | ---- | ---- | --- | ------- | ---- | --- |
+| pipi |     | li   | ken  |     | kama    | wile |
+| moku | .   | moku | li   |     | lon     | pipi |
+|      |     |      |      |     | .       |
+| li   |     | mute | pona | .   | pipi    | o    |
+|      |     | .    |
+| wile |     | e    | pini |     | moku    | pipi | .   |
+| suli |     | ijo  | li   |     | tan ala | moku |

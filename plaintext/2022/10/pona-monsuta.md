@@ -14,13 +14,13 @@ sources:
 
 ![](https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_pona_monsuta.png)
 
-.|.|.|.|.|.
--|-|-|-|-|-
-ale||mi|la|nasa
-||.
-o||pona|monsuta|e
-nasa|.|ni|li|wawa
-e||mi|taso|a|.
-||||.
+| .    | .   | .    | .       | .    | .   |
+| ---- | --- | ---- | ------- | ---- | --- |
+| ale  |     | mi   | la      | nasa |
+|      | .   |
+| o    |     | pona | monsuta | e    |
+| nasa | .   | ni   | li      | wawa |
+| e    |     | mi   | taso    | a    | .   |
+|      |     |      | .       |
 
 [^1]: "monsuta" li ike, li wile pakala e jan
