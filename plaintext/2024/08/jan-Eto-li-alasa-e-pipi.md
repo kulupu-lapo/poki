@@ -3,7 +3,7 @@ title: jan Eto li alasa e pipi
 authors:
   - lipamanka
 date: '2024-08-10'
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 tags:
   - toki sona pi nasin pipi
 sources:

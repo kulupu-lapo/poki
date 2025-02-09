@@ -3,7 +3,7 @@ title: toki musi pi kulupu Lanu
 authors:
 - jan Kuku
 date: '2024-07-05'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0027linja.pdf
 - https://liputenpo.org/lipu/nanpa-linja/

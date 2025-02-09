@@ -6,7 +6,7 @@ authors:
 date: '2022-10-17'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-kulupu
 - https://janketami.wordpress.com/2023/04/27/kijetesantakalu-o-nanpa-luka-luka-luka-wan/

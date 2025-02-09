@@ -3,7 +3,7 @@ title: alasa musi pini
 authors:
 - kapesi Pake
 date: '2023-08-15'
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
 - http://utala.pona.la/toki-en-lipu/toki-lili.html

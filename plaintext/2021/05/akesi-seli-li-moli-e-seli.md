@@ -3,7 +3,7 @@ title: akesi seli li moli e seli
 authors:
 - jan Tamalu
 date: '2021-05-07'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf
 - https://liputenpo.org/lipu/nanpa-kasi/

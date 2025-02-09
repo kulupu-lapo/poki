@@ -3,7 +3,7 @@ title: toki soweli - nanpa tu
 authors:
 - jan Eweni Wako
 date: '2022-03-10'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0012nimi.pdf
 - https://liputenpo.org/lipu/nanpa-nimi/

@@ -3,7 +3,7 @@ title: lipu sin tan jan Sonja
 authors:
 - jan Ke Tami
 date: '2024-03-20'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0025kalama.pdf
 - https://liputenpo.org/lipu/nanpa-kalama/

@@ -6,7 +6,7 @@ description: nasin sitelen pona mute li lon. taso ala li jo e kon sama linja Int
 authors:
 - jan pali pi lipu kule
 date: '2024-03-11'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2024-03-11-linja-insa.md
 - https://lipukule.org/post/2024/03/11/linja-insa-nasin-sitelen-sin-pi-lipu-kule/

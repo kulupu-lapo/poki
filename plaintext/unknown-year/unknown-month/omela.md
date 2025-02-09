@@ -8,7 +8,7 @@ translators:
   - soweli nata
 tags:
   - translation
-license: All Rights Reserved
+license: null
 sources:
   - https://equa.space/toki-pona/omela/
 archives:

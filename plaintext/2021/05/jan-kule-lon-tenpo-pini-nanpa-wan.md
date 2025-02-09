@@ -3,7 +3,7 @@ title: jan kule lon tenpo pini - nanpa wan
 authors:
 - jan Olipija
 date: '2021-05-07'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf
 - https://liputenpo.org/lipu/nanpa-kasi/

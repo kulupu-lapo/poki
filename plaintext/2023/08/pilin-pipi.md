@@ -5,7 +5,7 @@ authors:
 date: '2023-08-15'
 tags:
 - nasa pi nasin sitelen selo
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/pilin-pipi.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/pilin-pipi.html

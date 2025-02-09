@@ -3,7 +3,7 @@ title: soweli, lawa, sijelo, sewi, kon
 authors:
   - jan Wenato
 date: 2016-03-11
-license: All Rights Reserved
+license: null
 sources:
   - https://tokisona.github.io/toki/pona/sitelen/2017/10/27/soweli-lawa-sijelo.html
 preprocessing: Fixed markdown headers from plain-text number signs

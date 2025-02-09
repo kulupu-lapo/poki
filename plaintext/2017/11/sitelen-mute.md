@@ -3,7 +3,7 @@ title: sitelen mute
 authors:
   - jan Wenato
 date: 2017-11-06
-license: All Rights Reserved
+license: null
 sources:
   - https://tokisona.github.io/toki/pona/nasin/2017/11/06/sitelen-mute.html
 preprocessing: Fixed markdown headers from plain-text number signs

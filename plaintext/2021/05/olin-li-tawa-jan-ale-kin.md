@@ -5,7 +5,7 @@ authors:
 date: 2021-05-22
 tags:
 - music
-license: All Rights Reserved
+license: null
 sources:
 - https://www.youtube.com/watch?v=Y2Dw4aatlEE
 preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.

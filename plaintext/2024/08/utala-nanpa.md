@@ -3,7 +3,7 @@ title: utala nanpa
 authors:
   - nasa utala
 date: '2024-08-10'
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/utala-nanpa.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/utala-nanpa.html

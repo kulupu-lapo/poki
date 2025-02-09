@@ -3,7 +3,7 @@ title: tawa pi poki monsi pi ma Asija nanpa luka luka tu tu. ma Tawan en ma Anku
 authors:
 - jan Polo
 date: '2023-08-24'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0021ma.pdf
 - https://liputenpo.org/lipu/nanpa-ma/

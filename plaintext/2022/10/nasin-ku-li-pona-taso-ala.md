@@ -3,7 +3,7 @@ title: nasin ku li pona taso ala
 authors:
 - jan pi wile nimi ala
 date: '2022-10-17'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/

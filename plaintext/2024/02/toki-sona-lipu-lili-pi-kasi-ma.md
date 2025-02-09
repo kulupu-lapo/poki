@@ -3,7 +3,7 @@ title: 'toki sona: lipu lili pi kasi ma'
 authors:
 - jan Lapate
 date: '2024-02-07'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
 - https://liputenpo.org/lipu/nanpa-tenpo/

@@ -3,7 +3,7 @@ title: nasin tenpo pi kamalawala Kanse
 authors:
 - jan Peton
 date: 2022-06-14
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-06-14-nasin-tenpo-pi-kamalawala-kanse.md
 - https://lipukule.org/post/2022/06/14/nasin-tenpo-pi-kamalawala-kanse/

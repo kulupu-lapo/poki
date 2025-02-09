@@ -6,7 +6,7 @@ authors:
 date: '2021-02-01'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-akesi
 - https://janketami.wordpress.com/2021/02/03/kijetesantakulu-o/

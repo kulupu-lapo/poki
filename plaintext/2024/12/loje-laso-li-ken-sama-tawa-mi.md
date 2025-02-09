@@ -3,7 +3,7 @@ title: loje en laso li ken sama tawa mi
 authors:
   - jan Siwa
 date: '2024-12-29'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0030loje.pdf
   - https://liputenpo.org/lipu/nanpa-loje/

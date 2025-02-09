@@ -6,7 +6,7 @@ date: '2023-02-06'
 tags:
 - 'sitelen sitelen'
 - 'poetry'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/

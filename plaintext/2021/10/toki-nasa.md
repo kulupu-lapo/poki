@@ -6,7 +6,7 @@ date: '2021-10-31'
 tags:
 - 'sitelen sitelen'
 - 'poetry'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0009moli.pdf
 - https://liputenpo.org/lipu/nanpa-moli/

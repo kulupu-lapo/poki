@@ -4,7 +4,7 @@ authors:
 - jan Tepo
 - soweli nata
 date: '2022-01-25'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vQXRiAS0dONLfrJyyzJVyAfazHz51-7uUxJOK8k5tTneSIIOIlxvEKNVxrZvaa786IcMEYmjYFgWgnT/pub
 - https://wikisource.org/wiki/Kalama_sin/17

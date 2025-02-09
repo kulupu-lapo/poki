@@ -6,7 +6,7 @@ date: "2023-08-15"
 tags:
   - moli
   - sona wawa pi nasin mun
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
   - https://mun.la/lipu/jan-mun.html
   - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/jan-mun.md

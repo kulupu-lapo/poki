@@ -3,7 +3,7 @@ title: nasin pi utala meli mije
 authors:
 - jan Olipija
 date: 2023-01-03
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2023-01-03-nasin-pi-utala-meli-mije.md
 - https://lipukule.org/post/2023/01/03/nasin-pi-utala-meli-mije/

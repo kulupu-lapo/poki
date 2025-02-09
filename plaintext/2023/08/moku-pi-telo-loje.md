@@ -6,7 +6,7 @@ date: '2023-08-15'
 tags:
 - monsuta
 - moku pi telo loje sijelo
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/moku-pi-telo-loje.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/moku-pi-telo-loje.html

@@ -5,7 +5,7 @@ authors:
 date: '2023-08-24'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-ma
 - https://janketami.wordpress.com/2024/11/30/kijetesantakalu-o-nanpa-mute-wan/

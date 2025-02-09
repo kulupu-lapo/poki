@@ -6,7 +6,7 @@ authors:
 date: '2021-06-02'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-pan
 - https://janketami.wordpress.com/2021/06/11/kijetesantakalu-o-nanpa-luka/

@@ -3,7 +3,7 @@ title: ma pi nimi pona
 authors:
 - jan Telakoman
 date: '2021-03-01'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona_si
 - https://liputenpo.org/pdfs/0002mun.pdf

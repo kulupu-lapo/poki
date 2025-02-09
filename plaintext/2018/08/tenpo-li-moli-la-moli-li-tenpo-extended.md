@@ -6,7 +6,7 @@ date: 2018-08-03
 tags:
 - music
 - tok' apona
-license: All Rights Reserved
+license: null
 sources:
 - https://www.youtube.com/watch?v=INm3vnNbapM
 ---

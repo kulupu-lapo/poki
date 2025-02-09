@@ -5,7 +5,7 @@ authors:
 translators:
   - u/shy_girl_69
 date: 2020-09-24
-license: Unknown license
+license: null
 sources:
   - https://www.reddit.com/r/tokipona/comments/iyty70/toki_pona_translation_of_the_wikipedia_article/
 ---

@@ -3,7 +3,7 @@ title: toki musi pi pana waleja
 authors:
 - jan Jonatan
 date: '2021-10-06'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0008toki.pdf
 - https://liputenpo.org/lipu/nanpa-toki/

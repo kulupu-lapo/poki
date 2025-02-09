@@ -6,7 +6,7 @@ authors:
 date: '2022-05-05'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-pipi
 - https://janketami.wordpress.com/2022/06/23/kijetesantakalu-o-nanpa-luka-luka-tu-2/

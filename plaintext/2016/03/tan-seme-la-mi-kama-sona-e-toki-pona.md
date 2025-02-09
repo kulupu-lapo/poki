@@ -3,7 +3,7 @@ title: tan seme la mi kama sona e toki pona?
 authors:
   - jan Wenato
 date: 2016-03-11
-license: All Rights Reserved
+license: null
 sources:
   - https://tokisona.github.io/toki/pona/2016/03/11/tan-seme-la-mi-kama-sona-e-toki-pona.html
 ---

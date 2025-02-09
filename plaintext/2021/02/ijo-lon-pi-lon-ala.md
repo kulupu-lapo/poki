@@ -3,7 +3,7 @@ title: ijo lon pi lon ala
 authors:
 - kulupu En
 date: '2021-02-01'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-01-ijolonpilonala.md
 - https://lipukule.org/post/2021/02/01/ijo-lon-pi-lon-ala/

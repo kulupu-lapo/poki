@@ -5,7 +5,7 @@ authors:
 date: '2023-08-15'
 tags:
 - moku li lon
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/tenpo-pini-weka.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/tenpo-pini-weka.html

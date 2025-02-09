@@ -3,7 +3,7 @@ title: jan suli pi nena Wekin
 authors:
 - jan Eli
 date: '2022-07-04'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0014seli.pdf
 - https://liputenpo.org/lipu/nanpa-seli/

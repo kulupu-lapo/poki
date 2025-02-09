@@ -7,7 +7,7 @@ authors:
 date: '2021-10-06'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-toki
 - https://janketami.wordpress.com/2021/10/23/kijetesantakalu-o-nanpa-luka-tu-wan/

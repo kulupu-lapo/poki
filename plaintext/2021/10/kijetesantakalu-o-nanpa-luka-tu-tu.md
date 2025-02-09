@@ -6,7 +6,7 @@ authors:
 date: '2021-10-31'
 tags:
 - comic
-license: CC-BY 4.0
+license: CC BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-moli
 - https://janketami.wordpress.com/2021/11/11/kijetesantakalu-o-nanpa-luka-tu-tu/

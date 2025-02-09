@@ -3,7 +3,7 @@ title: tenpo mun monsuta
 authors:
 - waso suno Alana
 date: '2021-10-23'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vTXq3OcM8u1_476zrIekPUhZ-biXWhY53_QQZSXp_ADesIdf2Go8PRgIeVvIOOBu5JBG7m9H_jMxDxO/pub
 - https://wikisource.org/wiki/Kalama_sin/5

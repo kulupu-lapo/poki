@@ -3,7 +3,7 @@ title: sona pi tawa suno
 authors:
 - jan Kekan San
 date: '2022-12-09'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://mun.la/lipu/sona-pi-tawa-suno.html
 - https://liputenpo.org/pdfs/0017musi.pdf

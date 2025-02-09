@@ -3,7 +3,7 @@ title: luka Juke - pona sin li lon anu powe[^1]?
 authors:
 - jan Olipija
 date: '2023-02-06'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/

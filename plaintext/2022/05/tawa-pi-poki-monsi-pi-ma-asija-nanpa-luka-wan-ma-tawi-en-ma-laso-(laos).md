@@ -3,7 +3,7 @@ title: 'tawa pi poki monsi pi ma Asija nanpa luka wan: ma Tawi en ma Laso (Laos)
 authors:
 - jan Polo
 date: '2022-05-05'
-license: CC-BY-SA 4.0
+license: CC BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0013pipi.pdf
 - https://liputenpo.org/lipu/nanpa-pipi/

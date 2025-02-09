@@ -10,7 +10,7 @@ tags:
 - moku li lon
 - utala sijelo
 - nimi ku li mute
-license: CC-BY-SA-4.0
+license: CC BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.html

@@ -3,7 +3,7 @@ title: mi pu
 authors:
   - jan Wenato
 date: 2016-03-11
-license: All Rights Reserved
+license: null
 sources:
   - https://tokisona.github.io/toki/pona/2016/03/11/mi-pu.html
 ---
