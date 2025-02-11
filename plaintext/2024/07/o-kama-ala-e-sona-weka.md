@@ -6,7 +6,7 @@ authors:
   - Toby Fox
   - Laura Shigihara
 translators:
-  - RiemannHyperthesis
+  - ijo Kinesin
 date: "2024-07-07"
 license: null
 tags:

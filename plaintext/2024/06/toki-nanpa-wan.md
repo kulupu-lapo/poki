@@ -5,7 +5,7 @@ description: CONTACT (Deltarune intro/build-a-vessel sequence in toki pona)
 authors:
   - Toby Fox
 translators:
-  - RiemannHyperthesis
+  - ijo Kinesin
 date: "2024-06-08"
 license: null
 tags:

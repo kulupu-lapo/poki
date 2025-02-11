@@ -7,7 +7,7 @@ description:
 authors:
   - Toby Fox
 translators:
-  - RiemannHyperthesis
+  - ijo Kinesin
 date: "2024-07-16"
 license: null
 tags:
