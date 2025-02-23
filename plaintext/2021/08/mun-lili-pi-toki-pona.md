@@ -2,7 +2,7 @@
 title: mun lili pi toki pona
 authors:
 - jan Sepa
-date: '2021-08-02'
+date: 2021-08-02
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0006suno.pdf

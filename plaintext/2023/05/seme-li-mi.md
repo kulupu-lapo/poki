@@ -2,7 +2,7 @@
 title: seme li mi?
 authors:
 - jan Alonola
-date: '2023-05-12'
+date: 2023-05-12
 tags:
 - 'sitelen sitelen'
 - 'poetry'

@@ -3,7 +3,7 @@ title: jan li toki e wile ona lon ma Netelan
 authors:
 - jan Kasape
 - jan Simiman
-date: '2023-12-25'
+date: 2023-12-25
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0023sewi.pdf

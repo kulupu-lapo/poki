@@ -2,7 +2,7 @@
 title: tenpo pini weka
 authors:
 - jan Akeso
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - moku li lon
 license: CC-BY-SA-4.0

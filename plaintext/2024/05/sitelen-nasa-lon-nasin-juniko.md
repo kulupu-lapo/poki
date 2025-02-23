@@ -2,7 +2,7 @@
 title: sitelen nasa lon nasin Juniko[^1]
 authors:
   - kije Enki
-date: "2024-05-14"
+date: 2024-05-14
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0026jaki.pdf

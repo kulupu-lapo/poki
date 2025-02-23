@@ -3,7 +3,7 @@ title: mu! mu!
 description: jan Jon en jan Linan li toki utala musi.
 authors:
   - thegreatsoupster
-date: "2024-01-19"
+date: 2024-01-19
 license: null
 tags:
   - "fan fiction"

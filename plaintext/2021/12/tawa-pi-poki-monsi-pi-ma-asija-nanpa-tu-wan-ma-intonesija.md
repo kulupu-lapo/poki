@@ -2,7 +2,7 @@
 title: 'tawa pi poki monsi pi ma Asija nanpa tu wan: ma Intonesija'
 authors:
 - jan Polo
-date: '2021-12-08'
+date: 2021-12-08
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0010lete.pdf

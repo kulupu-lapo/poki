@@ -5,7 +5,7 @@ authors:
   - fandom Nastoyashee Sveklo 2022 (Nastoyashee_Sveklo)
 translators:
   - fandom Nastoyashee Sveklo 2022 (Nastoyashee_Sveklo)
-date: "2022-08-02"
+date: 2022-08-02
 license: null
 tags:
   - "fan fiction"

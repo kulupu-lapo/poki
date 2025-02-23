@@ -2,7 +2,7 @@
 title: mi ale
 authors:
 - jan Alonola
-date: '2023-02-06'
+date: 2023-02-06
 tags:
 - poetry
 license: CC-BY-SA 4.0

@@ -2,7 +2,7 @@
 title: nimi pi pu ala
 authors:
 - jan Kapesi Pake
-date: '2021-02-01'
+date: 2021-02-01
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0001akesi.pdf

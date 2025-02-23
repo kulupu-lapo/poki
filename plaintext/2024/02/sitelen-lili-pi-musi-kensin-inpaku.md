@@ -5,7 +5,7 @@ description:
   la jan pi musi ni li ken ante suli. wile mi la sitelen ni li pona tawa sina :)
 authors:
   - JDAbadeer
-date: "2024-02-19"
+date: 2024-02-19
 license: null
 tags:
   - "fan fiction"

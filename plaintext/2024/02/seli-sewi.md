@@ -8,7 +8,7 @@ authors:
   - Wholesome_Soup
 translators:
   - mokutelo_pona (Wholesome_Soup)
-date: "2024-02-27"
+date: 2024-02-27
 license: null
 tags:
   - "fan fiction"

@@ -2,7 +2,7 @@
 title: kasi utala pi ma Tokono
 authors:
   - jan Wilo
-date: '2024-08-10'
+date: 2024-08-10
 license: CC-BY-SA-4.0
 tags:
   - moli

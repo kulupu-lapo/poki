@@ -4,7 +4,7 @@ description: ilo li kute e mu suwi la ona li wile tawa mu · taso ni li wile e a
   pi nasin pona · sina o pana e nasin pona tawa ilo
 authors:
 - jan Ke Tami
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - ilo li kama ken sona sama jan
 - kala li moli

@@ -3,7 +3,7 @@ title: pilin nasa ike pi jan Unala
 description: jan Unala li alasa e pilin pona.
 authors:
   - kasi lape (orphan_account)
-date: "2021-10-27"
+date: 2021-10-27
 license: null
 tags:
   - "fan fiction"

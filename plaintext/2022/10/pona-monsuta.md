@@ -2,7 +2,7 @@
 title: pona monsuta[^1]
 authors:
 - jan Kapesi Pake
-date: '2022-10-17'
+date: 2022-10-17
 tags:
 - 'leko nimi'
 - 'poetry'

@@ -3,7 +3,7 @@ title: kijetesantakalu o! nanpa luka luka tu wan
 description: pipi li wile sona e ijo suli
 authors:
 - jan Ke Tami
-date: '2022-05-05'
+date: 2022-05-05
 tags:
 - comic
 license: CC-BY 4.0

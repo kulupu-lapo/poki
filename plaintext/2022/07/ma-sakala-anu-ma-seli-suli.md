@@ -2,7 +2,7 @@
 title: ma Sakala (anu ma seli suli)
 authors:
 - jan Alonola
-date: '2022-07-04'
+date: 2022-07-04
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0014seli.pdf

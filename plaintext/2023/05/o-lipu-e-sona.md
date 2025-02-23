@@ -2,7 +2,7 @@
 title: o lipu e sona
 authors:
 - jan Kekan San
-date: '2023-05-12'
+date: 2023-05-12
 license: CC-BY-SA 4.0
 sources:
 - https://mun.la/lipu/o-lipu-e-sona.html

@@ -3,7 +3,7 @@ title: ma li supa
 authors:
 - jan Tepo
 - jan Lakuse
-date: '2022-05-08'
+date: 2022-05-08
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vRp71JJBMH1nJ3LZsbKBfj3D90jaU6Ms8ugNSbGP7PXmwOtktbEyDcFKa2ej5Z6S7QmRdQIUdpFD6tJ/pub

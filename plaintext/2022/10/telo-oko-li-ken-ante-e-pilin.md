@@ -2,7 +2,7 @@
 title: telo oko li ken ante e pilin
 authors:
 - jan Ke Tami
-date: '2022-10-17'
+date: 2022-10-17
 tags:
 - poetry
 - pangram

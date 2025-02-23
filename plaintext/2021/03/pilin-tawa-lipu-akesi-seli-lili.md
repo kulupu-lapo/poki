@@ -2,7 +2,7 @@
 title: pilin tawa lipu “akesi seli lili”
 authors:
 - jan Alonola
-date: '2021-03-01'
+date: 2021-03-01
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0002mun.pdf

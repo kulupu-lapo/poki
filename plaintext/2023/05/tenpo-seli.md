@@ -2,7 +2,7 @@
 title: tenpo seli
 authors:
 - jan Alonola
-date: '2023-05-12'
+date: 2023-05-12
 tags:
 - poetry
 license: CC-BY-SA 4.0

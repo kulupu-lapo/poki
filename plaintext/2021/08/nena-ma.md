@@ -2,7 +2,7 @@
 title: nena ma
 authors:
 - jan ala
-date: '2021-08-02'
+date: 2021-08-02
 tags:
 - 'poetry'
 license: CC-BY-SA 4.0

@@ -2,7 +2,7 @@
 title: pipi pali
 authors:
 - jan Ke Tami
-date: '2024-04-01'
+date: 2024-04-01
 tags:
 - 'leko nimi'
 - 'poetry'

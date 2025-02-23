@@ -4,7 +4,7 @@ description: mije li kama tawa mije ante la, ona tu li pilin ike. ona tu li utal
   kepeken toki ike. jan ante li kama, li lukin e utala ni.
 authors:
 - jan Ke Tami
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - moku
 license: CC-BY-4.0

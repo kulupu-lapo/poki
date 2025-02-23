@@ -3,7 +3,7 @@ title: kijetesantakulu o!
 description: kijetesantakalu li nasa lili. taso ona li musi li pona pi nasin ona.
 authors:
 - jan Ke Tami
-date: '2021-02-01'
+date: 2021-02-01
 tags:
 - comic
 license: CC-BY 4.0

@@ -5,7 +5,7 @@ authors:
 - Percy Bysshe Shelley
 translators:
 - jan Kapesi Pake
-date: '2022-10-17'
+date: 2022-10-17
 tags:
 - poetry
 license: CC-BY-SA 4.0

@@ -2,7 +2,7 @@
 title: toki pona li sama ala sitelen Sonko
 authors:
 - jan Telakoman
-date: '2021-03-01'
+date: 2021-03-01
 license: CC-BY-SA 4.0
 sources:
 - https://joelthomastr.github.io/tokipona/sitelen-sonko_si

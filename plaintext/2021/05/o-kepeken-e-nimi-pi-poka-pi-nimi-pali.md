@@ -2,7 +2,7 @@
 title: o kepeken e nimi pi poka pi nimi pali
 authors:
 - jan Tamalu
-date: '2021-05-07'
+date: 2021-05-07
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf

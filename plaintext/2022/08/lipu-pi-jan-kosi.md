@@ -4,7 +4,7 @@ description: jan sin li kama lon kulupu pi toki pona. o lukin e lipu tenpo ona k
   sitelen pona!
 authors:
 - jan Temili
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - jan li weka e sona mute
 - moku li lon

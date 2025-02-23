@@ -2,7 +2,7 @@
 title: ilo sitelen wawa
 authors:
 - nasa utala
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - pilin pi wan taso
 - utala sijelo ike

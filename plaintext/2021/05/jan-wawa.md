@@ -3,7 +3,7 @@ title: jan wawa!
 authors:
 - jan Owekano
 - jan Ke Tami
-date: '2021-05-07'
+date: 2021-05-07
 tags:
 - 'comic'
 license: CC-BY-SA 4.0

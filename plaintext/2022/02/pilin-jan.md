@@ -2,7 +2,7 @@
 title: pilin jan
 authors:
 - jan Kapesi Pake
-date: '2022-02-01'
+date: 2022-02-01
 tags:
 - poetry
 license: CC-BY-SA 4.0

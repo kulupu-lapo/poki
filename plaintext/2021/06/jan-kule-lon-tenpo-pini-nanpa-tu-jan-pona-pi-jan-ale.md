@@ -2,7 +2,7 @@
 title: jan kule lon tenpo pini - nanpa tu - jan pona pi jan ale
 authors:
 - jan Olipija
-date: '2021-06-02'
+date: 2021-06-02
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0005pan.pdf

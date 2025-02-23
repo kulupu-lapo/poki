@@ -3,7 +3,7 @@ title: sitelen sona pi jan Susana
 description: jan Susana li pali e sitelen sona
 authors:
   - dragon_chris
-date: "2023-02-12"
+date: 2023-02-12
 license: null
 tags:
   - "fan fiction"

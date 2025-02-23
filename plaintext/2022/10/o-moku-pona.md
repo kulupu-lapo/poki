@@ -2,7 +2,7 @@
 title: o moku pona!
 authors:
 - jan Simiman
-date: '2022-10-31'
+date: 2022-10-31
 license: CC-BY-SA 4.0
 sources:
 - https://lipumonsuta.neocities.org/mun-monsuta/o-moku-pona

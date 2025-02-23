@@ -4,7 +4,7 @@ description: kijetesantakalu en waso li wile sitelen e waso e kijetesantakalu. o
   li ken ala ken?
 authors:
 - jan Ke Tami
-date: '2021-10-06'
+date: 2021-10-06
 tags:
 - comic
 license: CC-BY 4.0

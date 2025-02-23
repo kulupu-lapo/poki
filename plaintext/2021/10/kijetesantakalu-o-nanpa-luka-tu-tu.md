@@ -3,7 +3,7 @@ title: kijetesantakalu o! nanpa luka tu tu
 description: kijetesantakalu en waso li sike lon nasin sama li sike lon nasin sama
 authors:
 - jan Ke Tami
-date: '2021-10-31'
+date: 2021-10-31
 tags:
 - comic
 license: CC-BY 4.0

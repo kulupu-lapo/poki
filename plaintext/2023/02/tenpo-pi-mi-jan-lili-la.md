@@ -5,7 +5,7 @@ authors:
 - jan Ukwainka (Леся Українка)
 translators:
 - kije Enki
-date: '2023-02-06'
+date: 2023-02-06
 tags:
 - poetry
 license: CC-BY-SA 4.0

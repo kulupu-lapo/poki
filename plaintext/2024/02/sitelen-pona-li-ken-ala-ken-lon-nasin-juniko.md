@@ -2,7 +2,7 @@
 title: sitelen pona li ken ala ken lon nasin Juniko
 authors:
 - jan Ke Tami
-date: '2024-02-07'
+date: 2024-02-07
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf

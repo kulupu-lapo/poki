@@ -2,7 +2,7 @@
 title: linja pipi li wawa seme
 authors:
 - jan Ke Tami
-date: '2024-07-05'
+date: 2024-07-05
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0027linja.pdf

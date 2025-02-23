@@ -3,7 +3,7 @@ title: lipu lili ike pi olin Sonsilesi
 description: neuvillette is lost so zhongli helps him out
 authors:
   - CAYTION_RAYMEN
-date: "2024-01-10"
+date: 2024-01-10
 license: null
 tags:
   - "fan fiction"

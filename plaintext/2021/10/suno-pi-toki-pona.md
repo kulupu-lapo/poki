@@ -2,7 +2,7 @@
 title: toki mi lon suno pi toki pona
 authors:
   - jan Telakoman
-date: "2021-10-10"
+date: 2021-10-10
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/suno-pi-toki-pona_si

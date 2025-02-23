@@ -2,7 +2,7 @@
 title: toki musi aku
 authors:
 - soweli Eli
-date: '2024-09-07'
+date: 2024-09-07
 tags:
 - poetry
 license: CC-BY-SA 4.0

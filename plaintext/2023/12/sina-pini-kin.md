@@ -2,7 +2,7 @@
 title: sina pini kin
 authors:
 - jan Kapesi Pake
-date: '2023-12-25'
+date: 2023-12-25
 tags:
 - poetry
 license: CC-BY-SA 4.0

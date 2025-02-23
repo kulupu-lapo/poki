@@ -2,7 +2,7 @@
 title: 'alasa nimi: ma Apika'
 authors:
 - jan Sonatan
-date: '2022-10-17'
+date: 2022-10-17
 tags:
 - puzzle
 license: CC-BY-SA 4.0

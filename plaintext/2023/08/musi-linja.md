@@ -2,7 +2,7 @@
 title: musi linja
 authors:
 - jan Kapesi Pake
-date: '2023-08-24'
+date: 2023-08-24
 tags:
 - puzzle
 license: CC-BY-SA 4.0

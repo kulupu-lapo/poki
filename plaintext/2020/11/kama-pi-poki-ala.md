@@ -1,8 +1,13 @@
 ---
 title: kama pi poki ala
 authors:
+<<<<<<< HEAD
 - jan Lakuse  # jan Sasalin
 date: '2020-11-11'
+=======
+- jan Sasalin
+date: 2020-11-11
+>>>>>>> 74a39b4 (Fixed 701 schema issues related to dates)
 license: null
 sources:
 - https://utala.pona.la/toki-musi-lili/

@@ -3,7 +3,7 @@ title: tu kuntu
 authors:
 - kule epiku Atawan
 - kala pona Tonyu
-date: '2021-02-08'
+date: 2021-02-08
 license: CC0 1.0
 sources:
 - https://utala.pona.la/lipu-kalama-tawa/

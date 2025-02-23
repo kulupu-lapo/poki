@@ -3,7 +3,7 @@ title: mije pona mi
 description: jan Pitun li alasa e jan unpa. jan Iso lon ni!
 authors:
   - Chameleon_Marx
-date: "2024-04-08"
+date: 2024-04-08
 license: null
 tags:
   - "fan fiction"

@@ -2,7 +2,7 @@
 title: 'tawa pi poki monsi pi ma Asija nanpa luka tu wan: ma Palata'
 authors:
 - jan Polo
-date: '2022-09-01'
+date: 2022-09-01
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0015moku.pdf

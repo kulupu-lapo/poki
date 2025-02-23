@@ -2,7 +2,7 @@
 title: toki pi kon pona
 authors:
 - jan Telakoman
-date: '2021-12-05'
+date: 2021-12-05
 license: CC-BY-SA 4.0
 sources:
 - https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_si

@@ -2,7 +2,7 @@
 title: moli li nanpa
 authors:
 - jan Kapesi Pake
-date: '2024-02-07'
+date: 2024-02-07
 tags:
 - 'leko nimi'
 - 'poetry'

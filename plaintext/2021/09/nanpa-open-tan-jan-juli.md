@@ -4,7 +4,7 @@ description: ni li kalama sin nanpa open. kalama ni li lon tan seme? jan Juli li
   sona e toki pona tan seme? sina kute la sina ken sona.
 authors:
 - jan Juli
-date: '2021-09-27'
+date: 2021-09-27
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vTYQAKHmNWVFqnKfr9Z7Zen09agJQUJiQLfMZyTvJ_-0OU9juZ1FNNKgsAvFCRjnPkanc1ud61nI_2X/pub

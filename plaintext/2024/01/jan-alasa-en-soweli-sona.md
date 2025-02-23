@@ -6,7 +6,7 @@ description:
   fable about a fox and a hunter. ]"
 authors:
   - Palian
-date: "2024-01-02"
+date: 2024-01-02
 license: null
 tags:
   - "fan fiction"

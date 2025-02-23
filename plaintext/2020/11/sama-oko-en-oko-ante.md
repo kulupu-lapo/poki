@@ -2,7 +2,7 @@
 title: sama oko en oko ante
 authors:
 - jan Naso
-date: '2020-11-11'
+date: 2020-11-11
 license: null
 sources:
 - https://utala.pona.la/toki-musi-lili/

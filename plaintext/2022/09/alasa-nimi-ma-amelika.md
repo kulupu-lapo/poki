@@ -2,7 +2,7 @@
 title: 'alasa nimi: ma Amelika'
 authors:
 - jan Sonatan
-date: '2022-09-01'
+date: 2022-09-01
 tags:
 - puzzle
 license: CC-BY-SA 4.0

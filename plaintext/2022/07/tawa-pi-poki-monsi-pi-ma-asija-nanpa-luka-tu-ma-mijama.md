@@ -2,7 +2,7 @@
 title: 'tawa pi poki monsi pi ma Asija nanpa luka tu: ma Mijama'
 authors:
 - jan Polo
-date: '2022-07-04'
+date: 2022-07-04
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0014seli.pdf

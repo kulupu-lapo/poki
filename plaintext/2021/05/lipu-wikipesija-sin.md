@@ -2,7 +2,7 @@
 title: lipu Wikipesija sin
 authors:
 - jan Jan
-date: '2021-05-02'
+date: 2021-05-02
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-05-02-lipu_wikipesija_sin.md

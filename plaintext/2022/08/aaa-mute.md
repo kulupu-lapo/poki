@@ -4,7 +4,7 @@ description: jan sona li poki e ijo pi nasa mute li alasa e sona tan ona. ijo na
   ni li wawa seme li tan seme?
 authors:
 - jan Alesa
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - ijo li ken ala weka tan poki
 - ijo monsuta

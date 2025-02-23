@@ -2,7 +2,7 @@
 title: luka waso pi nena taso
 authors:
 - jan Lakuse
-date: '2023-08-15'
+date: 2023-08-15
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md

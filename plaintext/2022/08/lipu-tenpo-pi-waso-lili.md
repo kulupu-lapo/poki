@@ -4,7 +4,7 @@ description: ijo sin li kama tawa waso lili. jan laso nasa li kama lon poka! was
   lili li sitelen e pilin ona lon lipu...
 authors:
 - jan Sepi (pi mute to)
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - moli li lon
 - nimi sin mute li lon

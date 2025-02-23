@@ -2,7 +2,7 @@
 title: mi jo e nimi mute
 authors:
   - Skimmed
-date: "2024-10-02"
+date: 2024-10-02
 license: null
 tags:
   - "fan fiction"

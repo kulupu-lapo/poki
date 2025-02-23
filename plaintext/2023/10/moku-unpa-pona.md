@@ -3,7 +3,7 @@ title: moku unpa pona
 description: A vore story written in toki pona.
 authors:
   - jan_sitelen
-date: "2023-10-11"
+date: 2023-10-11
 license: null
 tags:
   - "fan fiction"

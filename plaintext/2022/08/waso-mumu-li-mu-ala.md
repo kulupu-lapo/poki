@@ -4,7 +4,7 @@ description: waso sama ale pi waso Mumu li mu. taso waso Mumu li wile toki! o al
   lon poka pi waso Mumu e ijo pi ken toki!
 authors:
 - jan Atelin
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - akesi linja pi noka ala
 license: null

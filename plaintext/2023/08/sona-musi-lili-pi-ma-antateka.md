@@ -2,7 +2,7 @@
 title: sona musi lili pi ma Antateka
 authors:
 - mije Luke
-date: '2023-08-24'
+date: 2023-08-24
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0021ma.pdf

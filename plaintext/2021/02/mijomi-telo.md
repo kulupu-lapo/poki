@@ -4,7 +4,7 @@ authors:
 - jan Sami
 - jan Kawa
 - jan inwin
-date: '2021-02-08'
+date: 2021-02-08
 license: null
 sources:
 - https://utala.pona.la/lipu-kalama-tawa/

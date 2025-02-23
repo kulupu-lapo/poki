@@ -6,7 +6,7 @@ description:
   pini e sewi walo pi lawa sitelen pi lape. sina poki pi pimeja. sina alasa poki.
 authors:
   - jan_Tansi (tanzytechgem)
-date: "2022-10-19"
+date: 2022-10-19
 license: null
 tags:
   - "fan fiction"

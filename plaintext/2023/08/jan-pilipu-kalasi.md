@@ -2,7 +2,7 @@
 title: jan Pilipu Kalasi (Philip Glass)
 authors:
 - jan Mimakenta
-date: '2023-08-15'
+date: 2023-08-15
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md

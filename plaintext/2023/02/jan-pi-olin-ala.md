@@ -3,7 +3,7 @@ title: jan pi olin ala
 description: jan Sasali li olin ala e jan Semila
 authors:
   - dragon_chris
-date: "2023-02-10"
+date: 2023-02-10
 license: null
 tags:
   - "fan fiction"

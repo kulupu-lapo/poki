@@ -3,7 +3,7 @@ title: kijetesantakalu o! nanpa mute tu tu
 description: kijetesantakalu li lukin e lipu
 authors:
 - jan Ke Tami
-date: '2024-02-07'
+date: 2024-02-07
 tags:
 - comic
 license: CC-BY 4.0

@@ -2,7 +2,7 @@
 title: jan mun
 authors:
   - mun Kekan San
-date: "2023-08-15"
+date: 2023-08-15
 tags:
   - moli
   - sona wawa pi nasin mun

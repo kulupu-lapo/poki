@@ -2,7 +2,7 @@
 title: Nasi
 authors:
 - jan Kepe
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - moku misikeke li nasa e lawa jan
 - moli mute

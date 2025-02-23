@@ -3,7 +3,7 @@ title: jan Kiwino li pakala e akesi laso.
 description: jan Kiwino li pali e kiwen telo.
 authors:
   - thegreatsoupster
-date: "2023-10-08"
+date: 2023-10-08
 license: null
 tags:
   - "fan fiction"

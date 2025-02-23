@@ -5,7 +5,7 @@ authors:
 - jan Petaka
 translators:
 - jan Lapate
-date: '2024-05-14'
+date: 2024-05-14
 tags:
 - poetry
 license: CC-BY-SA 4.0

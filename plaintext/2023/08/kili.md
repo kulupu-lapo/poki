@@ -2,7 +2,7 @@
 title: kili
 authors:
 - jan Simiman
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - nimi ku li lon
 license: CC-BY-SA-4.0

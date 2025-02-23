@@ -3,7 +3,7 @@ title: jaki lili majuna[^1] li kama tan telo lete
 authors:
 - jan Kapesi Pake
 - jan Apeja Akesi
-date: '2022-12-09'
+date: 2022-12-09
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0017musi.pdf

@@ -2,7 +2,7 @@
 title: tu lukin lon
 authors:
 - jan Lakuse
-date: '2021-11-29'
+date: 2021-11-29
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vSOEdt92WI-5IMBBT-HopLtu_zg_seU5VBhA7klqKz1g9NVHsgPvTvzdgq-4Mm9X8paRX9g-ubkpZdq/pub

@@ -2,7 +2,7 @@
 title: tomo
 authors:
 - jan Sinke
-date: '2021-03-01'
+date: 2021-03-01
 tags:
 - 'poetry'
 license: CC-BY-SA 4.0

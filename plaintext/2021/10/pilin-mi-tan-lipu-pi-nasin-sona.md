@@ -2,7 +2,7 @@
 title: pilin mi tan "lipu pi nasin sona"
 authors:
 - jan Telakoman
-date: '2021-10-31'
+date: 2021-10-31
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0009moli.pdf

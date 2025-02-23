@@ -2,7 +2,7 @@
 title: kulupu pali pona
 authors:
 - jan Jan
-date: '2021-01-25'
+date: 2021-01-25
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-01-25-kulupupalipona.md

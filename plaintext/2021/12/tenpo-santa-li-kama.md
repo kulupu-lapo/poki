@@ -3,7 +3,7 @@ title: tenpo Santa li kama
 authors:
 - jan Itan
 - jan Tepo
-date: '2021-12-28'
+date: 2021-12-28
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/spreadsheets/d/e/2PACX-1vQtasUq60JG-ISBsO1hlEFv5JszjeI57wEyCNEGhnjDq8AeyzKE-tx1qdwWtuMT3FBlyzNcGPvkBntD/pubhtml

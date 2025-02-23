@@ -2,7 +2,7 @@
 title: tenpo mun pi ante toki
 authors:
 - jan Ke Tami
-date: '2022-03-10'
+date: 2022-03-10
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0012nimi.pdf

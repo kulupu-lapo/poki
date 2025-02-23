@@ -6,7 +6,7 @@ description:
   I just smashed together some syllables and boom done.
 authors:
   - janseme
-date: "2023-01-09"
+date: 2023-01-09
 license: null
 tags:
   - "fan fiction"

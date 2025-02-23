@@ -2,7 +2,7 @@
 title: 'alasa nimi: ma Elopa (nanpa wan)'
 authors:
 - jan Sonatan
-date: '2023-05-12'
+date: 2023-05-12
 tags:
 - puzzle
 license: CC-BY-SA 4.0

@@ -2,7 +2,7 @@
 title: mi en waso Kaka en monsuta pi ma kasi
 authors:
 - jan Pensa
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - pakala sijelo
 - pilin ike pi ken moli

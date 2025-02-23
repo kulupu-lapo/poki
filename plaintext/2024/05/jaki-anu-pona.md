@@ -2,7 +2,7 @@
 title: jaki anu pona
 authors:
 - jan Alonola
-date: '2024-05-14'
+date: 2024-05-14
 tags:
 - poetry
 license: CC-BY-SA 4.0

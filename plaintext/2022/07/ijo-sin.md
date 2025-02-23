@@ -2,7 +2,7 @@
 title: ijo sin
 authors:
 - jan Lakuse
-date: '2022-07-30'
+date: 2022-07-30
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vRWok2SgBE8NCDcxds-LGpycTJYitKAxJgUiFP3Bow0yAKCHPopBCuBxNzVDK19Jh01zq_0dv4YXc7d/pub

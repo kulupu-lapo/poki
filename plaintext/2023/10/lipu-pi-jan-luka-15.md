@@ -5,7 +5,7 @@ authors:
   - Luke the Evangelist
 translators:
   - jan Telakoman
-date: "2023-10-14"
+date: 2023-10-14
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/lipu-pi-jan-Luka-15_si

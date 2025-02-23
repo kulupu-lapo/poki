@@ -2,7 +2,7 @@
 title: mi wile e sona sin
 authors:
   - jan Sepulon
-date: '2024-08-10'
+date: 2024-08-10
 license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/mi-wile-e-sona-sin.md

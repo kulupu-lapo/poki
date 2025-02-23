@@ -3,7 +3,7 @@ title: nasin ISO
 authors:
 - jan Pensa
 - jan Tepo
-date: '2022-02-24'
+date: 2022-02-24
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vS30k7ZPiuKYSKZh-u3aYVLKQFHcoBe9q38Ka8vdDZBRYhNGvo3gLRV3uq-3HWUaV55bSzwqdIwH3lU/pub

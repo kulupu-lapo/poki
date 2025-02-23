@@ -3,7 +3,7 @@ title: kijetesantakalu
 description: kijetesantakalu li pali e seme?
 authors:
   - thegreatsoupster
-date: "2024-05-03"
+date: 2024-05-03
 license: null
 tags:
   - "fan fiction"

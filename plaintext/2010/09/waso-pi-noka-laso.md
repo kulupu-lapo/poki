@@ -2,7 +2,7 @@
 title: waso pi noka laso
 authors:
   - jan Ote
-date: 2010-09
+date: 2010-09-01
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2010/09/waso-pi-noka-waso.html

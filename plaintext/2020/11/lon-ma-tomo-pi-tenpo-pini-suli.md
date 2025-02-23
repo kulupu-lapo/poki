@@ -2,7 +2,7 @@
 title: lon ma tomo pi tenpo pini suli
 authors:
 - jan Kapilu
-date: '2020-11-11'
+date: 2020-11-11
 license: null
 sources:
 - https://utala.pona.la/toki-musi-lili/

@@ -2,7 +2,7 @@
 title: kijetesantakalu o! nanpa mute luka tu
 authors:
 - jan Ke Tami
-date: '2024-07-05'
+date: 2024-07-05
 tags:
 - comic
 license: CC-BY 4.0

@@ -2,7 +2,7 @@
 title: sona pi ijo lili a
 authors:
 - jan Kekan San
-date: '2022-10-17'
+date: 2022-10-17
 license: CC-BY-SA 4.0
 sources:
 - https://mun.la/lipu/sona-pi-ijo-lili-a.html

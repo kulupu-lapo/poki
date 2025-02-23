@@ -4,7 +4,7 @@ authors:
 - jan Lakuse
 - kala Salan
 - jan Tepo
-date: '2022-06-12'
+date: 2022-06-12
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vTq5b0nc7MNlG7AFCm-NqYhlc2vS0uRqvdcojDMrrIgF8mNmYyyvQrw9ZYbWm3L4sq8pxmItTmdQwd9/pub

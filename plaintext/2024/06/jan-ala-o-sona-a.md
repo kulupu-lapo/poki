@@ -8,7 +8,7 @@ authors:
   - not_someone
 translators:
   - not_someone
-date: "2024-06-08"
+date: 2024-06-08
 license: null
 tags:
   - "fan fiction"

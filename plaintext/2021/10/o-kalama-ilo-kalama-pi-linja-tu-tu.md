@@ -2,7 +2,7 @@
 title: o kalama - ilo kalama pi linja tu tu
 authors:
 - jan Alonola
-date: '2021-10-31'
+date: 2021-10-31
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0009moli.pdf

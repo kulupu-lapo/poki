@@ -2,7 +2,7 @@
 title: jan li ken pana e sona ale kepeken toki pona
 authors:
   - jan Telakoman
-date: "2020-06-19"
+date: 2020-06-19
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/pana-sona-ale_si

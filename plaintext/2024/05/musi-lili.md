@@ -2,7 +2,7 @@
 title: musi lili
 authors:
 - jan Tesu
-date: '2024-05-14'
+date: 2024-05-14
 tags:
 - poetry
 - 'UCSUR'

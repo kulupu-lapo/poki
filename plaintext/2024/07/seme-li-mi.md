@@ -2,7 +2,7 @@
 title: seme li mi
 authors:
 - jan Alonola
-date: '2024-07-05'
+date: 2024-07-05
 license: CC-BY-SA 4.0
 tags:
 - 'sitelen sitelen'

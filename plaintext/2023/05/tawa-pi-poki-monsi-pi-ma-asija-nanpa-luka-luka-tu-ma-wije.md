@@ -2,7 +2,7 @@
 title: 'tawa pi poki monsi pi ma Asija nanpa luka luka tu: ma Wije'
 authors:
 - jan Polo
-date: '2023-05-12'
+date: 2023-05-12
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0019mama.pdf

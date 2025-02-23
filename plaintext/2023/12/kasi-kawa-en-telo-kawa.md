@@ -4,7 +4,7 @@ authors:
 - jan Alonola
 description: ma mute la, telo Kawa li suli mute tawa jan. taso jan mute ala li sona
   e tenpo pini, e ma open pi kasi Kawa. mi o pana e sona ni.
-date: '2023-12-25'
+date: 2023-12-25
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0023sewi.pdf

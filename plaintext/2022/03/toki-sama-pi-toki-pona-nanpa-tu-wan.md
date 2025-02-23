@@ -2,7 +2,7 @@
 title: toki sama pi toki pona — nanpa tu wan
 authors:
 - jan Kapesi Pake
-date: '2022-03-10'
+date: 2022-03-10
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0012nimi.pdf

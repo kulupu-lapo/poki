@@ -5,7 +5,7 @@ authors:
 - William Wordsworth
 translators:
 - jan Kuleku Nena
-date: '2021-09-02'
+date: 2021-09-02
 tags:
 - poetry
 license: CC-BY-SA 4.0

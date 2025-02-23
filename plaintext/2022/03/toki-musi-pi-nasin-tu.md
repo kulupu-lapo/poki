@@ -2,7 +2,7 @@
 title: toki musi pi nasin tu
 authors:
   - jan Ke Tami
-date: "2022-03-10"
+date: 2022-03-10
 tags:
   - "leko nimi"
   - "poetry"

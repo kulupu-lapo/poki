@@ -2,7 +2,7 @@
 title: lipu pu Tosi li lon a
 authors:
 - jan Juli
-date: '2021-12-08'
+date: 2021-12-08
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-12-08-pu_tosi.md

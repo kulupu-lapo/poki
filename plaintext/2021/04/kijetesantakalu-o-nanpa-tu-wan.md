@@ -4,7 +4,7 @@ description: linja li tan kijetesantakalu tawa telo. kijetesantakalu li alasa al
   alasa e kala? ala!
 authors:
 - jan Ke Tami
-date: '2021-04-05'
+date: 2021-04-05
 tags:
 - comic
 license: CC-BY 4.0

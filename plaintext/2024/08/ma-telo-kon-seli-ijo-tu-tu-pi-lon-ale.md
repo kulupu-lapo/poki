@@ -2,7 +2,7 @@
 title: "ma, telo, kon, seli: ijo tu tu pi lon ale"
 authors:
   - soweli Lapate
-date: '2024-08-10'
+date: 2024-08-10
 license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-lili.md

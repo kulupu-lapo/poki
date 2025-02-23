@@ -2,7 +2,7 @@
 title: lipu kule li kama lon
 authors:
 - jan Ana
-date: '2021-01-20'
+date: 2021-01-20
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-01-20-lipusin.md

@@ -4,7 +4,7 @@ description: waso li pali musi. taso kijetesantakalu li ken pali musi kin. pali 
   ni li pona a.
 authors:
 - jan Ke Tami
-date: '2021-03-01'
+date: 2021-03-01
 tags:
 - comic
 license: CC-BY 4.0

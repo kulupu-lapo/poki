@@ -2,7 +2,7 @@
 title: ilo toki
 authors:
 - jan Peton
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - ilo nanpa li sona wawa e toki
 license: CC-BY-SA-4.0

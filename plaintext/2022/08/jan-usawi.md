@@ -4,7 +4,7 @@ description: jan Kasona li wile kama sona e ijo wawa nasa sin li wile weka tan m
   mama ona. seme li kama?
 authors:
 - jan Kepe
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - pakala sijelo
 - moli

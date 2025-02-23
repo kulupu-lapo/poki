@@ -23,7 +23,7 @@ authors:
   - Tamsyn Elizabeth Muir
 translators:
   - gayspacewizard
-date: "2024-07-30"
+date: 2024-07-30
 license: null
 tags:
   - "fan fiction"
