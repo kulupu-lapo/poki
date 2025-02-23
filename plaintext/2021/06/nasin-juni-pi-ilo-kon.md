@@ -2,7 +2,7 @@
 title: nasin Juni pi ilo kon
 authors:
 - jan Lentan
-date: '2021-06-02'
+date: 2021-06-02
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0005pan.pdf

@@ -4,7 +4,7 @@ description: mi sona e jan. jan ni taso li lape lon tomo ona, taso jan pona ona 
   li moku lon poka lon tenpo suno ale.
 authors:
 - jan Ontoli
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - moku
 - jan li weka e jan pona ona

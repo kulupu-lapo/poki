@@ -2,7 +2,7 @@
 title: sona nimi li mute li nasa li musi
 authors:
 - jan Tamalu
-date: '2021-04-05'
+date: 2021-04-05
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0003soweli.pdf

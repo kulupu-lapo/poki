@@ -2,7 +2,7 @@
 title: tenpo musi "suwi"
 authors:
   - CrowsAreSpyingOnYou
-date: "2022-06-12"
+date: 2022-06-12
 license: null
 tags:
   - "fan fiction"

@@ -2,7 +2,7 @@
 title: pipi mama - luka monsuta
 authors:
 - jan Ke Tami
-date: '2022-05-05'
+date: 2022-05-05
 tags:
 - poetry
 license: CC-BY-SA 4.0

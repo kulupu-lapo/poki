@@ -3,7 +3,7 @@ title: jan Peni en jan Upi
 description: jan Peni li ma nasa li kama e jan pona sin.
 authors:
   - dragon_chris
-date: "2022-05-24"
+date: 2022-05-24
 license: null
 tags:
   - "fan fiction"

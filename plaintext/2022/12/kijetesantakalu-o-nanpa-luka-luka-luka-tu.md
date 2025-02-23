@@ -3,7 +3,7 @@ title: kijetesantakalu o! nanpa luka luka luka tu
 description: kijetesantakalu li open e lupa
 authors:
 - jan Ke Tami
-date: '2022-12-09'
+date: 2022-12-09
 tags:
 - comic
 license: CC-BY 4.0

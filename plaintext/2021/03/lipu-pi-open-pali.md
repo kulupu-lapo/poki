@@ -2,7 +2,7 @@
 title: lipu pi open pali
 authors:
   - jan Telakoman
-date: "2021-03-06"
+date: 2021-03-06
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/lipu-pi-open-pali_si

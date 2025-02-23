@@ -6,7 +6,7 @@ authors:
   - jan Reinhard li jo e moku
 translators:
   - AngryToasterNoises
-date: "2023-11-28"
+date: 2023-11-28
 license: null
 tags:
   - "fan fiction"

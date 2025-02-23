@@ -2,7 +2,7 @@
 title: o pali e telo kili jelo
 authors:
 - jan Nowa
-date: '2024-09-07'
+date: 2024-09-07
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0028lawa.pdf

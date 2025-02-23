@@ -2,7 +2,7 @@
 title: waso sona Ukami en monsuta pi kiwen pimeja
 authors:
   - jan Jowi
-date: '2024-08-10'
+date: 2024-08-10
 license: CC-BY-SA-4.0
 tags:
   - moli mute

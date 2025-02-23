@@ -3,7 +3,7 @@ title: lape ala
 description: jan Lan Me li wile lape ala. ni li ike mute tawa jan Weso.
 authors:
   - CAYTION_RAYMEN
-date: "2024-02-08"
+date: 2024-02-08
 license: null
 tags:
   - "fan fiction"

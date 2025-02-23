@@ -2,7 +2,7 @@
 title: sina lon e ma
 authors:
 - kala suno/waso laso Alisanosaka, pi kulupu telo mun (kutemu)
-date: '2023-08-15'
+date: 2023-08-15
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md

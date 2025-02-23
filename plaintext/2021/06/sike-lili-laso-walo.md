@@ -2,7 +2,7 @@
 title: sike lili laso walo
 authors:
 - jan Emalan
-date: '2021-06-13'
+date: 2021-06-13
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-06-13-sike_lili_laso_walo.md

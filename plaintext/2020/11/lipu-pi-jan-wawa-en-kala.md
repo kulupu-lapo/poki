@@ -2,7 +2,7 @@
 title: lipu pi jan wawa en kala
 authors:
 - jan Kawa
-date: '2020-11-11'
+date: 2020-11-11
 license: null
 sources:
 - https://utala.pona.la/toki-musi-lili/

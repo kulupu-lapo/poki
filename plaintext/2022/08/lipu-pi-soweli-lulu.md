@@ -4,7 +4,7 @@ description: soweli Lulu li soweli pona li olin mute. taso soweli ale li olin al
   olin e ona?
 authors:
 - jan Non
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - moku li lon
 license: null

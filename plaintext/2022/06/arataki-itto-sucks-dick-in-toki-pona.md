@@ -5,7 +5,7 @@ description:
   language that the author butchered? well here you go
 authors:
   - 4d6_Psychic_Damage
-date: "2022-06-14"
+date: 2022-06-14
 license: null
 tags:
   - "fan fiction"

@@ -7,7 +7,7 @@ description:
   toki e toki pona tan jan Kawin"
 authors:
   - len_hoshi
-date: "2021-08-08"
+date: 2021-08-08
 license: null
 tags:
   - "fan fiction"

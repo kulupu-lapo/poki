@@ -2,7 +2,7 @@
 title: nasin nanpa mute li lon
 authors:
 - jan Kita
-date: '2021-09-21'
+date: 2021-09-21
 license: CC0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-09-21-nasin_nanpa_mute_li_lon.md

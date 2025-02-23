@@ -2,7 +2,7 @@
 title: kasi pan pi lili nanpa wan
 authors:
 - jan Ke Tami
-date: '2022-07-04'
+date: 2022-07-04
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0014seli.pdf

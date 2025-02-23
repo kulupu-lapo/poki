@@ -2,7 +2,7 @@
 title: noka o tawa
 authors:
 - jan Nowa
-date: '2021-10-06'
+date: 2021-10-06
 tags:
 - poetry
 license: CC-BY-SA 4.0

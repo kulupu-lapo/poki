@@ -3,7 +3,7 @@ title: pilin ku
 description: jan Tepo li toki e pilin ona lon lipu ku lon nimi mute ona lon nimi suli ona
 authors:
   - jan Tepo
-date: "2021-10-03"
+date: 2021-10-03
 license: CC-BY-SA 4.0
 sources:
   - https://docs.google.com/document/d/e/2PACX-1vSE37sqz6LfD4F0KgIAh9OQXr5zc9yQJVu8Fxfr3gm89fjMyvk7HCkkPUI6GTb-vf99_p91WURXjWv9/pub

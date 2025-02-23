@@ -2,7 +2,7 @@
 title: ma pi lipu Tun
 authors:
 - jan Tepo
-date: '2021-11-08'
+date: 2021-11-08
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vShYto392jps6POf-s8mztAlGCGlBk23L61FS4D-p4yGCBQmGgVI1_r5P1gZEbv5Pvyt7vEiH5mxGYa/pub

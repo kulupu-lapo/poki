@@ -2,7 +2,7 @@
 title: 'sitelen: mi o mu ala mu?'
 authors:
 - jan Ke Tami
-date: '2021-11-02'
+date: 2021-11-02
 tags:
 - comic
 license: CC-BY-SA 4.0

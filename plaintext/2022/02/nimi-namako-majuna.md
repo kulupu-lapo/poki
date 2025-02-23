@@ -2,7 +2,7 @@
 title: nimi namako majuna[^1]
 authors:
 - jan Kapesi Pake
-date: '2022-02-01'
+date: 2022-02-01
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0011walo.pdf

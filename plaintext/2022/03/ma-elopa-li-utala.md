@@ -2,7 +2,7 @@
 title: ma Elopa li utala
 authors:
 - jan Alonola
-date: '2022-03-10'
+date: 2022-03-10
 tags:
 - poetry
 license: CC-BY-SA 4.0

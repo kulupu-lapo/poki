@@ -8,7 +8,7 @@ authors:
   - secretfirefox
 translators:
   - Hopeful_Student
-date: "2024-09-10"
+date: 2024-09-10
 license: null
 tags:
   - "fan fiction"

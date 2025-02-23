@@ -2,7 +2,7 @@
 title: ijo Pimeja o, mi olin e sina.
 authors:
   - thegreatsoupster
-date: "2023-10-11"
+date: 2023-10-11
 license: null
 tags:
   - "fan fiction"

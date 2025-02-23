@@ -6,7 +6,7 @@ description:
   the sun (pun intended).
 authors:
   - FeatherlessBiped
-date: "2023-12-27"
+date: 2023-12-27
 license: null
 tags:
   - "fan fiction"

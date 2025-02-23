@@ -3,7 +3,7 @@ title: len
 description: len pi jan Linan li pakala.
 authors:
   - thegreatsoupster
-date: "2024-04-23"
+date: 2024-04-23
 license: null
 tags:
   - "fan fiction"

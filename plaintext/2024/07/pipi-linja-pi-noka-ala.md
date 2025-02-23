@@ -2,7 +2,7 @@
 title: pipi linja pi noka ala
 authors:
 - jan Alonola
-date: '2024-07-05'
+date: 2024-07-05
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0027linja.pdf

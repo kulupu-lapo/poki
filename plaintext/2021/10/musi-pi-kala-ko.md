@@ -3,7 +3,7 @@ title: musi pi kala ko
 authors:
 - jan Itan
 - jan Tepo
-date: '2021-10-18'
+date: 2021-10-18
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vQPqFsD5V-459Tb9tfvtfgAMP-VMUS_d-ISL3mxjHrjWmxCD08st1a6s12i83u9A4yZ1Q0JfRAaZwe7/pub

@@ -2,7 +2,7 @@
 title: mi alasa telo
 authors:
   - ijo Wen
-date: '2024-08-10'
+date: 2024-08-10
 license: CC-BY-SA-4.0
 tags:
   - monsuta

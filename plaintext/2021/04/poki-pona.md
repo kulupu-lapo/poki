@@ -3,7 +3,7 @@ title: poki pona
 authors:
 - jan Alonola
 - jan Telakoman
-date: '2021-04-05'
+date: 2021-04-05
 tags:
 - 'comic'
 license: CC-BY-SA 4.0

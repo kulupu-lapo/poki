@@ -2,7 +2,7 @@
 title: wawa ante pi toki pona
 authors:
 - jan Telakoman
-date: '2021-06-02'
+date: 2021-06-02
 license: CC-BY-SA 4.0
 sources:
 - https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_si

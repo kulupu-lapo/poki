@@ -2,7 +2,7 @@
 title: moku pi telo loje
 authors:
 - jan Wilo
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - monsuta
 - moku pi telo loje sijelo

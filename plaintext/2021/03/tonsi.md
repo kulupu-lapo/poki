@@ -2,7 +2,7 @@
 title: nimi 'tonsi' li pona a!
 authors:
 - jan Olipija
-date: '2021-03-08'
+date: 2021-03-08
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-03-08-tonsi.md

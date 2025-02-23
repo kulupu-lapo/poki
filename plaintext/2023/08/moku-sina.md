@@ -5,7 +5,7 @@ description:
   monsuta, ona, waso moku sina"
 authors:
   - BR0K3NWA1NUTB50N
-date: "2023-08-26"
+date: 2023-08-26
 license: null
 tags:
   - "fan fiction"

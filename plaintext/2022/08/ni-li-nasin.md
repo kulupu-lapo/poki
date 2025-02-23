@@ -4,7 +4,7 @@ description: jan pi kulupu pona li pona. jan pi kulupu ma li ike. ni li nasin, a
   seme? jan pi wile sona li alasa e sona sin.
 authors:
 - palisa jelo Natan
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - kulupu lili ike pi nasin sewi nasa
 - nasin ike - jan li toki ike e nasin pi jan ante

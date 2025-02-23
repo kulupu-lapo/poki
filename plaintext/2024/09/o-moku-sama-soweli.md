@@ -3,7 +3,7 @@ title: o moku sama soweli
 description: pali suli li wile e moku suli.
 authors:
   - asona
-date: "2024-09-13"
+date: 2024-09-13
 license: null
 tags:
   - "fan fiction"

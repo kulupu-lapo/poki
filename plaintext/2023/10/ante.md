@@ -2,7 +2,7 @@
 title: ante.
 authors:
   - thegreatsoupster
-date: "2023-10-10"
+date: 2023-10-10
 license: null
 tags:
   - "fan fiction"

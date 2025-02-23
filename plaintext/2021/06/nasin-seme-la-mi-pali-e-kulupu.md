@@ -2,7 +2,7 @@
 title: nasin seme la mi pali e kulupu
 authors:
 - jan Kasimun
-date: '2021-06-02'
+date: 2021-06-02
 tags:
 - 'comic'
 license: CC-BY-SA 4.0

@@ -2,7 +2,7 @@
 title: toki musi pi kijetesantakalu lawa
 authors:
 - jan pi nimi ala
-date: '2024-02-07'
+date: 2024-02-07
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf

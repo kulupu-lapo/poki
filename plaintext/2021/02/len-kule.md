@@ -2,7 +2,7 @@
 title: len kule
 authors:
 - jan Nijo
-date: '2021-02-11'
+date: 2021-02-11
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-11-lenkule.md

@@ -2,7 +2,7 @@
 title: '"sina kepeken toki Inli sama jan nasa tan seme?"'
 authors:
   - jan Telakoman
-date: "2020-05-31"
+date: 2020-05-31
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si

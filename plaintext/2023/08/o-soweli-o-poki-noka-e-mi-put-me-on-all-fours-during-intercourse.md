@@ -5,7 +5,7 @@ description:
   I wrote this as a joke but then I started caring about it and now here it is.
 authors:
   - not_quite_a_furry
-date: "2023-08-22"
+date: 2023-08-22
 license: null
 tags:
   - "fan fiction"

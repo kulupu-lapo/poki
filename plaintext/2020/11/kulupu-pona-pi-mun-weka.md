@@ -2,7 +2,7 @@
 title: kulupu pona pi mun weka
 authors:
 - jan Sohuwa
-date: '2020-11-11'
+date: 2020-11-11
 license: null
 sources:
 - https://utala.pona.la/toki-musi-lili/

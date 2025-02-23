@@ -3,7 +3,7 @@ title: ken la mi tu o toki
 description: jan Pesi li alasa sitelen lon tenpo sin.
 authors:
   - asona
-date: "2022-05-26"
+date: 2022-05-26
 license: null
 tags:
   - "fan fiction"

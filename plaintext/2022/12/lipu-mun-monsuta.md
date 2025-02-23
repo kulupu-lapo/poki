@@ -2,7 +2,7 @@
 title: lipu “mun monsuta[^1]”
 authors:
 - jan Kapesi Pake
-date: '2022-12-09'
+date: 2022-12-09
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0017musi.pdf

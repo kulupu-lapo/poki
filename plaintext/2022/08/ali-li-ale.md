@@ -4,7 +4,7 @@ description: kulupu tu li utala tan nasin toki. utala li ike tawa jan li ike taw
   ma. jan seme li ken pini e utala ni?
 authors:
 - kapesi Pake
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - utala suli li lon
 - moli

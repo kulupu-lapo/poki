@@ -6,7 +6,7 @@ authors:
   - RandomWordWriter
 translators:
   - RandomWordWriter
-date: "2024-04-07"
+date: 2024-04-07
 license: null
 tags:
   - "fan fiction"

@@ -3,7 +3,7 @@ title: kijetesantakalu o! nanpa luka
 description: kijetesantakalu li lukin e pipi. pipi li lukin e seme? o lukin!
 authors:
 - jan Ke Tami
-date: '2021-06-02'
+date: 2021-06-02
 tags:
 - comic
 license: CC-BY 4.0

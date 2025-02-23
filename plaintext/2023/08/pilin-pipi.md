@@ -2,7 +2,7 @@
 title: pilin pipi
 authors:
 - jan Ke Tami
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - nasa pi nasin sitelen selo
 license: CC-BY-SA-4.0

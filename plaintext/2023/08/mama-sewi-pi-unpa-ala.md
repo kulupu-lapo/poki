@@ -2,7 +2,7 @@
 title: mama sewi pi unpa ala
 authors:
 - jan Lakuse
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - sewi li nasa e sijelo jan
 - ike nasin pi ma Mewika tawa jan pi ken mama sijelo

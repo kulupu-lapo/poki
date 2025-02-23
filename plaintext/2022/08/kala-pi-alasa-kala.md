@@ -4,7 +4,7 @@ description: mun ante li lon weka mute li kepeken nasin pi ma mi ala. ma mi en m
   ni li ante seme li sama seme?
 authors:
 - jan Itan
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - moku
 - pipi

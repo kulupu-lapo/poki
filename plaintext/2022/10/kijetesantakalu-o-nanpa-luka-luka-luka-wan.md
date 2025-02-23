@@ -3,7 +3,7 @@ title: kijetesantakalu o! nanpa luka luka luka wan
 description: kijetesantakalu li tawa sewi
 authors:
 - jan Ke Tami
-date: '2022-10-17'
+date: 2022-10-17
 tags:
 - comic
 license: CC-BY 4.0

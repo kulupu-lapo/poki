@@ -3,7 +3,7 @@ title: kijetesantakalu o! nanpa luka luka luka tu wan
 description: kijetesantakalu en waso li mu musi
 authors:
 - jan Ke Tami
-date: '2023-02-06'
+date: 2023-02-06
 tags:
 - comic
 license: CC-BY 4.0

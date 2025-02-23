@@ -4,7 +4,7 @@ description: jan sona nasa li sitelen e lipu toki tawa jan ante pi kulupu sama. 
   sona nasa li wile e seme?
 authors:
 - jan Lakuse
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - pipi li ike tawa sijelo
 - insa sijelo

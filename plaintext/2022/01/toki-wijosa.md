@@ -4,7 +4,7 @@ description: jan Tepo en jan Tesa li toki e nasin pi toki Wijosa
 authors:
   - jan Tepo
   - jan Tesa
-date: "2022-01-18"
+date: 2022-01-18
 license: CC-BY-SA 4.0
 sources:
   - https://docs.google.com/document/d/e/2PACX-1vRXQZ8ukm_TlxLME6nE-OI_c893zAA9RMr1iYD7vQLaOvj0Gs75VSSRlJc6l4E1qTa5gKqOoOH3x8Z1/pub

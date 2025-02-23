@@ -2,7 +2,7 @@
 title: nasin ante
 authors:
   - jan Kapesi Pake
-date: "2022-12-09"
+date: 2022-12-09
 tags:
   - poetry
 license: CC-BY-SA 4.0

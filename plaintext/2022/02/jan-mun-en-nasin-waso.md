@@ -4,7 +4,7 @@ authors:
 - jan Itan
 - jan Lakuse
 - jan Tepo
-date: '2022-02-11'
+date: 2022-02-11
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vS0Cnpa-8BG3jZGOj52CCHYfZZbSVMUnq9-FfA_g_guCZQWZ2yNZPJ4H7I7FxPI8yNC7N0VEQI5qOj8/pub

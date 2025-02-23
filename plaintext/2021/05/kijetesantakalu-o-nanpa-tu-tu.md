@@ -3,7 +3,7 @@ title: kijetesantakalu o! nanpa tu tu
 description: waso en kijetesantakalu li wile e mani tan ma. ona li kama jo e… ijo.
 authors:
 - jan Ke Tami
-date: '2021-05-07'
+date: 2021-05-07
 tags:
 - comic
 license: CC-BY 4.0

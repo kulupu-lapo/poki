@@ -5,7 +5,7 @@ description: kijetesantakalu li kama sona e kijetesantakalu sin. pilin sin ni li
 authors:
 - jan Kiwisin
 - jan Telupiso
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - moku mute li lon
 - pakala lili sijelo

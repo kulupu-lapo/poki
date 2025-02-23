@@ -2,7 +2,7 @@
 title: nasin Juniko pi sitelen pona
 authors:
 - jan Jan
-date: '2024-03-16'
+date: 2024-03-16
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2024-03-16-nasin-juniko.md

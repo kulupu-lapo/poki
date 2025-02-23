@@ -3,7 +3,7 @@ title: kijetesantakalu tu
 authors:
 - jan Wija
 - lipamanka
-date: '2021-03-05'
+date: 2021-03-05
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-03-05-kijetesantakalutu.md

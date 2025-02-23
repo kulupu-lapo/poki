@@ -2,7 +2,7 @@
 title: soweli pi poki sinpin
 authors:
   - jan Ote
-date: 2010-09
+date: 2010-09-01
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2010/09/soweli-pi-poki-sinpin.html

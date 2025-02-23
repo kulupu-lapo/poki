@@ -2,7 +2,7 @@
 title: olin pi ken ala
 authors:
 - jan Lapate
-date: '2024-07-05'
+date: 2024-07-05
 tags:
 - poetry
 license: CC-BY-SA 4.0

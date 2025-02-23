@@ -8,7 +8,7 @@ authors:
   - Toby Fox
 translators:
   - ijo Kinesin
-date: "2024-07-16"
+date: 2024-07-16
 license: null
 tags:
   - "fan fiction"

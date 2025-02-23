@@ -4,7 +4,7 @@ description: kijetesantakalu li pana e pan suwi tawa waso. taso waso li sona ala
   kijetesantakalu li moku.
 authors:
 - jan Ke Tami
-date: '2021-09-02'
+date: 2021-09-02
 tags:
 - comic
 license: CC-BY 4.0

@@ -3,7 +3,7 @@ title: waso laso tu
 description: jan Mizore en jan Nozomi li lape.
 authors:
   - emily_signet
-date: "2022-01-15"
+date: 2022-01-15
 license: null
 tags:
   - "fan fiction"

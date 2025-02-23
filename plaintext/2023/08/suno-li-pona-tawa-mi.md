@@ -2,7 +2,7 @@
 title: suno li pona tawa mi
 authors:
 - jan Alonola
-date: '2023-08-24'
+date: 2023-08-24
 tags:
 - poetry
 license: CC-BY-SA 4.0

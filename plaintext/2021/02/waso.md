@@ -2,7 +2,7 @@
 title: waso
 authors:
 - jan Tanije
-date: '2021-02-01'
+date: 2021-02-01
 tags:
 - 'poetry'
 license: CC-BY-SA 4.0

@@ -2,7 +2,7 @@
 title: kama nanpa tu
 authors:
 - jan Kapesi Pake
-date: '2023-11-01'
+date: 2023-11-01
 tags:
 - poetry
 license: CC-BY-SA 4.0

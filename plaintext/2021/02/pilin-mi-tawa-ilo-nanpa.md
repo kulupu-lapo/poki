@@ -2,7 +2,7 @@
 title: pilin mi tawa ilo nanpa
 authors:
 - jan Ana
-date: '2021-02-13'
+date: 2021-02-13
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-13-pilinmitawailonanpa.md

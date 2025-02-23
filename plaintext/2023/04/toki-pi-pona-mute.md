@@ -3,7 +3,7 @@ title: toki pi pona mute
 description: "toki ona li pona. ijo li ken ala ken pali e ni: ona li pona mute?"
 authors:
   - DarkatningAwesome
-date: "2023-04-08"
+date: 2023-04-08
 license: null
 tags:
   - "fan fiction"

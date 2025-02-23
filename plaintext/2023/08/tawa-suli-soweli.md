@@ -2,7 +2,7 @@
 title: tawa suli soweli
 authors:
 - jan pi nimi ala
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - jan pali en ilo ChatGPT li sitelen e lipu ni
 - nimi sin mute pi ku ala

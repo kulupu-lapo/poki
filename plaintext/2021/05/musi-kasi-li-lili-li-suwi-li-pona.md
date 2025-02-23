@@ -2,7 +2,7 @@
 title: musi Kasi li lili li suwi li pona
 authors:
 - jan Olipija
-date: '2021-05-07'
+date: 2021-05-07
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf

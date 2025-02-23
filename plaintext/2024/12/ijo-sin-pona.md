@@ -2,7 +2,7 @@
 title: ijo sin pona
 authors:
   - jan Lapate
-date: '2024-12-29'
+date: 2024-12-29
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0030loje.pdf

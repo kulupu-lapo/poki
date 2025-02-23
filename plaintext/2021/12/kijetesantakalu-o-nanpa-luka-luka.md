@@ -3,7 +3,7 @@ title: kijetesantakalu o! nanpa luka luka
 description: kijetesantakalu li musi, li pana e ken ona nasa
 authors:
 - jan Ke Tami
-date: '2021-12-08'
+date: 2021-12-08
 tags:
 - comic
 license: CC-BY 4.0

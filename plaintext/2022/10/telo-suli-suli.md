@@ -2,7 +2,7 @@
 title: telo suli suli
 authors:
 - jan Alonola
-date: '2022-10-17'
+date: 2022-10-17
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf

@@ -8,7 +8,7 @@ authors:
   - Tara Gilesbie
 translators:
   - dragon_chris
-date: "2022-09-29"
+date: 2022-09-29
 license: null
 tags:
   - "fan fiction"

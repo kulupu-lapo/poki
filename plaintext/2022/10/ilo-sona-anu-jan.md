@@ -5,7 +5,7 @@ description:
   ala."
 authors:
   - dragon_chris
-date: "2022-10-07"
+date: 2022-10-07
 license: null
 tags:
   - "fan fiction"

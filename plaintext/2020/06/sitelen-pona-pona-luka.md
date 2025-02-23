@@ -2,7 +2,7 @@
 title: sitelen pona pona luka
 authors:
   - jan Telakoman
-date: "2020-06-02"
+date: 2020-06-02
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si

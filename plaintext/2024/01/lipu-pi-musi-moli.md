@@ -5,7 +5,7 @@ description:
   ma sama ala la, waso sewi Wemu li oko pilin e olin.
 authors:
   - treatster
-date: "2024-01-28"
+date: 2024-01-28
 license: null
 tags:
   - "fan fiction"

@@ -3,7 +3,7 @@ title: olin li seme?
 description: "jan Luwi li toki insa e ni: olin li seme?"
 authors:
   - lilymoth
-date: "2023-08-11"
+date: 2023-08-11
 license: null
 tags:
   - "fan fiction"

@@ -15,7 +15,7 @@ authors:
   - LuxeDeluxe
 translators:
   - LuxeDeluxe
-date: "2022-02-17"
+date: 2022-02-17
 license: null
 tags:
   - "fan fiction"

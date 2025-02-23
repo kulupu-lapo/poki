@@ -2,7 +2,7 @@
 title: omekapo
 authors:
 - kala pona Tonyu
-date: '2021-01-23'
+date: 2021-01-23
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-01-23-omekapo.md

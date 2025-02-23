@@ -2,7 +2,7 @@
 title: toki suwi
 authors:
   - jan Kuku
-date: '2024-10-20'
+date: 2024-10-20
 tags:
   - poetry
 license: CC-BY-SA 4.0

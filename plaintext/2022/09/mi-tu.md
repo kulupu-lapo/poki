@@ -5,7 +5,7 @@ description:
   a! ona li pona e ni.
 authors:
   - dragon_chris
-date: "2022-09-12"
+date: 2022-09-12
 license: null
 tags:
   - "fan fiction"

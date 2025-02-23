@@ -2,7 +2,7 @@
 title: kulupu Kanse la jan meli li kama ken
 authors:
 - jan Kasape
-date: '2024-05-14'
+date: 2024-05-14
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0026jaki.pdf

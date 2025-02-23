@@ -2,7 +2,7 @@
 title: ma musi nasa Kalaka pi telo wawa nasa
 authors:
 - jan Alonola
-date: '2021-10-06'
+date: 2021-10-06
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0008toki.pdf

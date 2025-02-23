@@ -2,7 +2,7 @@
 title: toki nasa
 authors:
 - jan Alonola
-date: '2021-05-07'
+date: 2021-05-07
 tags:
 - 'sitelen sitelen'
 - 'poetry'

@@ -2,7 +2,7 @@
 title: mi ken
 authors:
 - jan Alonola
-date: '2021-10-31'
+date: 2021-10-31
 tags:
 - comic
 license: CC-BY-SA 4.0

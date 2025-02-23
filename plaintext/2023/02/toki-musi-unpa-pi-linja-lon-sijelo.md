@@ -6,7 +6,7 @@ description:
   characters falling asleep.
 authors:
   - janseme
-date: "2023-02-06"
+date: 2023-02-06
 license: null
 tags:
   - "fan fiction"

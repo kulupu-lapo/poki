@@ -2,7 +2,7 @@
 title: jan pi toki Sonko li toki pona la seme li sin lon kulupu ona / 人之言Sonko兮言善时何兮新于团伊
 authors:
 - jan Ke Tami
-date: '2023-08-24'
+date: 2023-08-24
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0021ma.pdf

@@ -3,7 +3,7 @@ title: nasin nasa pi jan Mupa
 authors:
 - jan Telupiso
 - jan Kiwisin
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - utala sijelo
 - ijo tu li toki kepeken kalama ala kepeken lukin ala kepeken nasin nasa lawa

@@ -2,7 +2,7 @@
 title: 'alasa nimi: ma Osejanija'
 authors:
 - jan Sonatan
-date: '2023-02-06'
+date: 2023-02-06
 tags:
 - puzzle
 license: CC-BY-SA 4.0

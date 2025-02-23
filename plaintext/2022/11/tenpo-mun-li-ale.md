@@ -6,7 +6,7 @@ description:
   pilin olin. (lipu ni li kepeken e nimi ku.)
 authors:
   - Palian
-date: "2022-11-26"
+date: 2022-11-26
 license: null
 tags:
   - "fan fiction"

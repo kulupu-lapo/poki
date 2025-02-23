@@ -6,7 +6,7 @@ authors:
   - Silverskye13
 translators:
   - Chronological_knight
-date: "2024-08-10"
+date: 2024-08-10
 license: null
 tags:
   - "fan fiction"

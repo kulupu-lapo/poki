@@ -7,7 +7,7 @@ authors:
   - Laura Shigihara
 translators:
   - ijo Kinesin
-date: "2024-07-07"
+date: 2024-07-07
 license: null
 tags:
   - "fan fiction"

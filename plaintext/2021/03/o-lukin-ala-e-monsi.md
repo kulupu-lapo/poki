@@ -3,7 +3,7 @@ title: o lukin ala e monsi
 authors:
 - jan Juli
 - jan Nijo
-date: '2021-03-14'
+date: 2021-03-14
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-03-14-o%20lukin%20ala%20e%20monsi.md

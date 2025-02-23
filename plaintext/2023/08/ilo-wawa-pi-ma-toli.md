@@ -2,7 +2,7 @@
 title: ilo wawa pi ma Toli
 authors:
 - jan Peli
-date: '2023-08-15'
+date: 2023-08-15
 tags:
 - utala pi kulupu ma
 - pakala sijelo

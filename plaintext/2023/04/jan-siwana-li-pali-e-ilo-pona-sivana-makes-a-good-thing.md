@@ -3,7 +3,7 @@ title: jan Siwana li pali e ilo pona (Sivana Makes a Good Thing)
 description: Doctor Sivana creates a device with unintended consequences.
 authors:
   - blue_bees
-date: "2023-04-02"
+date: 2023-04-02
 license: null
 tags:
   - "fan fiction"

@@ -4,7 +4,7 @@ description: kasi li kama tan ma, li sin. kasi li suli mute lon poka ona la, ona
   wile sama. tenpo li pana e ante.
 authors:
 - jan Ke Tami
-date: '2022-08-06'
+date: 2022-08-06
 tags:
 - kasi li pilin ike tawa ona sama
 license: CC-BY-4.0

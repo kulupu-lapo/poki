@@ -2,7 +2,7 @@
 title: toki ala o e toki inli
 authors:
 - kulupu kama
-date: '2021-02-08'
+date: 2021-02-08
 license: null
 sources:
 - https://utala.pona.la/lipu-kalama-tawa/

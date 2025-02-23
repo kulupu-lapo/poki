@@ -2,7 +2,7 @@
 title: pan sike suwi
 authors:
 - jan Nijo
-date: '2021-02-04'
+date: 2021-02-04
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-04-pansikesuwi.md
