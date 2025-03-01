@@ -12,6 +12,7 @@ date: 2024-12-23
 license: null
 sources:
   - https://www.tumblr.com/jan-majeka-yaps/770611193848250368/i-translated-mayas-sweet-16-into-toki-pona
+  - https://drive.google.com/drive/folders/16FCrsFBgMR34bHuL1GreECymdcQpoDMw?usp=sharing
 ---
 
 maya's sweet 16 pi toki pona
