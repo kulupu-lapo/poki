@@ -1,22 +1,14 @@
+<img src="images/logo.svg" alt="Logo of poki Lapo" width="225" style="display: block; margin: 0 auto"/>
+
 # poki-lapo
-This is a work-in-progress library and monolingual corpus for Toki Pona. Our vision is to expand to include all types of media in Toki Pona, including books, poetry, music, comics, posts and more. Files are transcribed by volunteers into Markdown format with metadata as shown below:
 
-## Contributing
-
-<div align="center">
-  <a href="https://github.com/kulupu-lapo/poki/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=kulupu-lapo/poki" />
-  </a>
-</div>
-
-Feel free to post issues, fork the repo, and open pull requests with your changes.  \
-You can also join the "ma pona pi toki pona" discord to talk to the maintainers.
+This is a work-in-progress library and monolingual corpus for Toki Pona. Our vision is to expand to include all types of media in Toki Pona, including books, poetry, music, comics, posts and more. Files are transcribed by volunteers into Markdown format with metadata as shown below.
 
 ## Schemas
 
 ### File metadata
 
-See also the [validation code](utils/validate-schemas.ts).
+See also the [schema validation code](utils/validate-schemas.ts).
 
 ```yaml
 ---
@@ -73,7 +65,6 @@ items:
 | [Storyweaver]                                         | various              | No                                            |                       |
 | Personal websites                                     | various              | https://github.com/kulupu-lapo/poki/issues/17 | ijo vivi              |
 
-
 [lk site]:https://lipukule.org/
 [lk repo]:https://github.com/lipukule/lipu-kule
 [um site]:https://utala.pona.la
@@ -94,3 +85,21 @@ items:
 [lipu monsuta]:https://lipumonsuta.neocities.org/
 [Telakoman]:https://joelthomastr.github.io/tokipona/README_si
 [Storyweaver]:https://storyweaver.org.in/en/stories?language=Toki+Pona
+
+## Contributing
+
+<div align="center">
+  <a href="https://github.com/kulupu-lapo/poki/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=kulupu-lapo/poki" />
+  </a>
+</div>
+
+Feel free to post issues, fork the repo, and open pull requests with your changes.  \
+You can also join the "ma pona pi toki pona" discord to talk to the maintainers.
+
+Thank you to [ilo Nija](https://nia.dog/) for the creating the logo.
+
+# License
+
+The creative works listed in `plaintext` all belong to their respective copyright holders.  \
+The logo is licensed under [CC0 1.0 Universal](https://creativecommons.org/public-domain/cc0/).
