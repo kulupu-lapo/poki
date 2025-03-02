@@ -42,3 +42,6 @@ items:
   - collections/lipu-tenpo/0028-nanpa-lawa.yaml                # 2024-09-07
   - collections/lipu-tenpo/0029-nanpa-jan.yaml                 # 2024-10-20
   - collections/lipu-tenpo/0030-nanpa-loje.yaml                # 2024-12-29
+
+# 2025:
+  - collections/lipu-tenpo/0031-nanpa-kala.yaml                # 2025-02-28
