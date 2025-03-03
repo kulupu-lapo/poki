@@ -29,7 +29,7 @@ lukin pona !
 
 (See the end of the work for more notes.)
 
-----
+---
 
 UTALA PINI KEPEKEN LIPU
  
@@ -65,7 +65,7 @@ jan Lose wile ala toki tawa jan Kopiju la, ona li tawa.
  
 jan Kopiju li sona ala e ni: ona li ken pali e seme la jan Lose li pona tawa ona?
  
-----
+---
  
 tenpo kama la, jan Kopiju li tawa tomo lipu. ona li wile e kama sona. ona li lukin e lipu lon supa. lipu ni li lukin pona. ona li wile kama jo e lipu ni, taso ona li kute e kalama:
  

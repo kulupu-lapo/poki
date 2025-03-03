@@ -3,7 +3,7 @@ title: lipu tawa kama sona
 authors:
   - jan Wenato
 date: 2016-03-12
-license: All Rights Reserved
+license: null
 sources:
   - https://tokisona.github.io/toki/pona/2016/03/12/lipu-tawa-kama-sona.html
 ---

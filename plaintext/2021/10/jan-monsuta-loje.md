@@ -4,9 +4,10 @@ original-title: The Red Oni who Cried
 description: '"The Red Oni who Cried" in Toki Pona, translated by [jan Pensa](https://www.youtube.com/channel/UCo27SyuT3kdd12RCH_4HAgA). [Listen to my dub](https://youtu.be/9VjPV9BpU2I)!'
 translators:
   - jan Pensa
-date: 2022-07-10
+date: 2021-10-28
 license: null
 sources:
+  - https://www.reddit.com/r/tokipona/comments/qhut4a/toki_musi_pi_jan_monsuta_loje/
   - https://mun.la/lipu/jan-monsuta-loje.html
 archives:
   - https://web.archive.org/web/20230325102251/https://mun.la/lipu/jan-monsuta-loje.html
