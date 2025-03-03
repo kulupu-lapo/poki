@@ -1,10 +1,10 @@
 ---
 title: mama pi mi mute
 original-title: Lord's Prayer
-authors:
-  - Damian Yerrick  # likely, according to Wikipedia's page history, but could instead be Chuck Smith; unclear if this is the actual translator
+translators:
+  - Damian Yerrick  # According to Wikipedia's page history; unclear if this is the actual translator
 date: 2005-07-15
-license: CC BY-SA 3.0    # License from Wikipedia
+license: CC BY-SA 3.0  # License from Wikipedia
 sources:
   - https://en.wikipedia.org/w/index.php?title=Toki_Pona&oldid=1198391
 ---
