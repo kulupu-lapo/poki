@@ -1,13 +1,15 @@
 ---
 title: nasin Juni pi ilo kon
+description: a short page about the “Unix way”
 authors:
 - jan Lentan
 date: 2021-06-02
-license: CC-BY-SA 4.0
+license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
 - https://liputenpo.org/pdfs/0005pan.pdf
 - https://liputenpo.org/lipu/nanpa-pan/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_ilo_kon.png
+- https://lipu-sona.pona.la/lentan/nasin_juni
 ---
 
 tenpo pini mute la, jan Ken Tansan (Ken Thompson) en jan Teni Wisi (Dennis Ritchie) en jan ante mute li pali e ilo kon lawa Juni (Unix) tawa ilo sona. ona li pali e ilo sin tan ni: ilo kon lawa ante li suli, li jo e ijo ike, li pali ike lon ilo sona pi wawa lili. ona li wile e ni: jan li ken pali e ilo kon sin tawa ona kepeken pali lili.
@@ -27,6 +29,40 @@ jan Taka Mikilo (Doug McIlroy) li jan pali suli pi ilo kon Juni. ona li toki e n
 
 nasin Juni en nasin pi toki pona li sama lili. toki pona li jo e nimi pi mute lili. toki ante la, jan li ken toki e ijo kepeken nimi suli wan. toki pona la, toki sama li kepeken e nimi lili mute.
 
-tenpo ni la, ilo kon lawa mute li kama tan ilo Juni, li pali lon nasin sama. ilo Peli (Berkeley Software Distribution, BSD) li kama tan ilo Juni. ilo kon lawa Makinto (Mac OS) pi tenpo ni li jo e insa lawa wan, e ilo lili mute pi ilo Peli. ilo Nu (GNU) en ilo Linu (Linux) li kama ala tan ilo Juni. taso, ona li jo e ilo kon lili mute pi pali sama, pi nasin sama
+tenpo ni la, ilo kon lawa mute li kama tan ilo Juni, li pali lon nasin sama. ilo Peli (Berkeley Software Distribution, BSD) li kama tan ilo Juni. ilo kon lawa Makinto (Mac OS) pi tenpo ni li jo e insa lawa wan, e ilo lili mute pi ilo Peli. ilo Nu (GNU) en ilo Linu (Linux) li kama ala tan ilo Juni. taso, ona li jo e ilo kon lili mute pi pali sama, pi nasin sama.
 
 ![ilo kon](https://upload.wikimedia.org/wikipedia/commons/7/78/Lipu_tenpo_nanpa_pan_-_ilo_kon.png)
+
+# sona sin
+
+!!! note
+    sona ni li lon "lipu tenpo" ala. mi pali e ona tawa lipu ni.
+
+mi pali e kulupu pi lipu kon mute. mi wile e ni: ilo sona li pali e lipu sin.
+lipu sin ni li jo e nimi nasin pi lipu ante ale. nimi nasin ni li kepeken e
+nasin nanpa ni: lipu pi tenpo pini lili li lon sewi. lipu pi tenpo pini suli li
+lon anpa. mi ken pali e ni kepeken lipu lili pi ilo Juni.
+
+!!! note
+    lipu mi ale li jo e linja sitelen tu wan ni: ona li open kepeken
+    sitelen "%". linja nanpa wan li toki e nimi lipu. linja nanpa tu li toki e ni:
+    jan seme li pali e lipu ni? linja nanpa tu wan li toki e ni: lipu ni li tan
+    tenpo seme?
+    
+    lipu ante ale li jo e sitelen toki pi lipu pini. ilo kon "`markdown`" li lukin
+    e lipu ni, li pali e lipu sin pi nasin HTML. mi ken pana e lipu sin tawa lipu
+    kon mi.
+   
+    mi wile pali e lipu sin tan sona pi lipu ale ni.
+
+ilo kon "`grep`" li lukin e lipu, li toki e ni: sitelen seme li open kepeken
+sitelen "%"? ilo kon "`sed`" li lukin e ona, li toki e ni: linja sitelen nanpa
+tu wan ona li toki e seme? ilo kon "`cut`" li weka e sona jaki tan linja sitelen
+ni. ilo kon "`date`" li lukin e ona, li toki e ni: ona li toki e tenpo pali
+seme? ilo ni li pali e nanpa tan tenpo ona. ilo sin mi li awen e nimi pi lipu
+kon, e tenpo pali ona lon lipu kon ante.
+
+ilo kon "`sort`" li ante e nasin pi linja sitelen ale lon lipu kon sin. ona li
+lukin e nanpa, li tawa e linja sitelen pi nanpa suli tawa sewi. ilo sin mi li
+lukin e sitelen ni, li pali e lipu pini. mi ken pana e lipu pini ni tawa kulupu
+pi lipu kon mi.
