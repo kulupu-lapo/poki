@@ -5,7 +5,7 @@ authors:
 date: 2022-06-20
 tags:
   - original
-  - song
+  - music
   - lyrics
 license: CC BY 4.0
 sources:

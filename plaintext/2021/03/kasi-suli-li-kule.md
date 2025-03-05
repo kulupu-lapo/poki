@@ -9,7 +9,7 @@ translators:
 date: 2021-03-11
 tags:
   - translation
-  - song
+  - music
   - lyrics
   - folk song
   - volkslied

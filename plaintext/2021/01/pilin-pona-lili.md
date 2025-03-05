@@ -13,6 +13,7 @@ license: CC BY 4.0
 sources:
   - https://www.youtube.com/watch?v=5xlck-IL80Q
   - https://janketami.wordpress.com/2021/01/20/pilin-pona-lili/
+  - https://seka.pona.la/w/2y1eMa3D3weZuioX5FLAtK
 ---
 
 <!-- jan pona mi li sitelen e toki kepeken toki Tosi. ona li wile e ni: mi pali e sitelen tawa kepeken toki ona. pali pi sitelen tawa li pini la, jan pona ante mi li wile e ni: mi ante toki e ni kepeken toki Kanse. mi ante toki la, mi ante toki e ni kepeken toki pona kin. -->

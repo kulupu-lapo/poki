@@ -1,16 +1,17 @@
 ---
 title: o epiku
 authors:
-  - zuct
+  - jan Sewa
 date: 2020-06-03
 tags:
   - original
+  - music
   - lyrics
-  - poetry
   - humorous
 license: null
 sources:
   - https://discordapp.com/channels/301377942062366741/340307145373253642/717800314732019744
+  - https://soundcloud.com/kala-pona/o-epiku
 ---
 
 o epiku, o epiku  \

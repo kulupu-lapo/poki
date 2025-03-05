@@ -9,7 +9,7 @@ translators:
 date: 2021-12-06
 tags:
   - translation
-  - song
+  - music
   - lyrics
   - folk song
   - christmas

@@ -8,7 +8,7 @@ translators:
 date: 2021-03-13
 tags:
   - translation
-  - song
+  - music
   - lyrics
   - children's song
 license: CC BY 4.0
