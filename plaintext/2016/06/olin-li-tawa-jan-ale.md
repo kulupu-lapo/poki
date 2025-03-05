@@ -8,7 +8,7 @@ tags:
 license: All Rights Reserved
 sources:
 - https://www.youtube.com/watch?v=tAepWWMxr2k
-preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.
+preprocessing: Section headers are wrapped inside square brackets.
 ---
 
 [musi #1]

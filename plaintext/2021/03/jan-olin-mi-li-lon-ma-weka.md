@@ -8,7 +8,7 @@ translators:
 date: 2021-03-06
 tags:
   - translation
-  - song
+  - music
   - lyrics
 license: CC BY 4.0
 sources:

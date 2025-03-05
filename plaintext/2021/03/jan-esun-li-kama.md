@@ -8,7 +8,7 @@ translators:
 date: 2021-03-09
 tags:
   - translation
-  - song
+  - music
   - lyrics
   - ballad
   - folk song

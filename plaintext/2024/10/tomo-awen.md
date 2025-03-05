@@ -5,7 +5,7 @@ authors:
 date: 2024-10-31
 tags:
   - original
-  - song
+  - music
   - lyrics
   - halloween
 license: CC BY 4.0

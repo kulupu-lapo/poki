@@ -8,7 +8,7 @@ translators:
 date: 2020-12-23
 tags:
   - translation
-  - song
+  - music
   - lyrics
   - folk song
   - christmas
