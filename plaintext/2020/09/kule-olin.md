@@ -12,7 +12,8 @@ license: null
 sources:
   - https://www.youtube.com/watch?v=ArGaIGXJCZE
   - https://soundcloud.com/kala-pona/kule-olin
-  - https://open.spotify.com/track/1NVE7FcE67aaFzH7toDjk5 Section headers are wrapped inside square brackets.
+  - https://open.spotify.com/track/1NVE7FcE67aaFzH7toDjk5 
+preprocessing: Section headers are wrapped inside square brackets.
 ---
 
 \[musi #1]  \

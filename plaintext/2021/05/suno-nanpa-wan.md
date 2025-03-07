@@ -13,7 +13,8 @@ sources:
   - https://www.youtube.com/watch?v=zzkJJecT3gM
   - https://www.youtube.com/playlist?list=OLAK5uy_nu3ln2q76DXwTOybvpZNAf5n5fuIW9J28
   - https://soundcloud.com/kala-pona/suno-nanpa-wan
-  - https://open.spotify.com/track/18xjmoUgomC5mbshTO7yeZ Section headers are wrapped inside square brackets.
+  - https://open.spotify.com/track/18xjmoUgomC5mbshTO7yeZ 
+preprocessing: Section headers are wrapped inside square brackets.
 ---
 
 \[musi #1]  \
