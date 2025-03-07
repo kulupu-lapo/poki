@@ -12,8 +12,8 @@ license: null
 sources:
   - https://www.youtube.com/watch?v=_MIMQeX_-uc
   - https://soundcloud.com/kala-pona/o-tawa-noka
-  - https://open.spotify.com/track/4PUtEufP32ZLu5b7H2Rrsz?si=1613c34a68d44c04
-  - https://open.spotify.com/track/3MTxQ1ri4NOdmkO0wIhCRp?si=69fadc89487342a3  # nightcore
+  - https://open.spotify.com/track/4PUtEufP32ZLu5b7H2Rrsz
+  -   - https://open.spotify.com/track/3MTxQ1ri4NOdmkO0wIhCRp  # nightcore
 preprocessing: Section headers are wrapped inside square brackets.
 ---
 

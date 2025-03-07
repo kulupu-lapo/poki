@@ -12,8 +12,7 @@ sources:
   - https://www.youtube.com/watch?v=bLwqfGEJOt4
   - https://www.youtube.com/watch?v=v6TmlFqiZ-M
   - https://www.youtube.com/playlist?list=OLAK5uy_mBCpWW0nBqmBcCHGIYCKCFzTI7whhB4W8
-  - https://open.spotify.com/track/5nPDuhUi5LjOnKKcPowXDA?si=79dfe41105794528
-preprocessing: Section headers are wrapped inside square brackets.
+  - https://open.spotify.com/track/5nPDuhUi5LjOnKKcPowXDA Section headers are wrapped inside square brackets.
 ---
 
 \[musi #1]  \

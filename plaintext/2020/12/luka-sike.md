@@ -13,8 +13,7 @@ sources:
   - https://www.youtube.com/watch?v=CA8IDSsdj_Y
   - https://www.youtube.com/watch?v=ElSgWkww_Qo
   - https://soundcloud.com/kala-pona/luka-sike
-  - https://open.spotify.com/track/485NBaEzTIG6FfPvtVKTV2?si=e135cc5eb4b24264
-preprocessing: Section headers are wrapped inside square brackets.
+  - https://open.spotify.com/track/485NBaEzTIG6FfPvtVKTV2 Section headers are wrapped inside square brackets.
 ---
 
 \[musi #1]  \

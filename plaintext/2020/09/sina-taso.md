@@ -12,8 +12,7 @@ license: null
 sources:
   - https://www.youtube.com/watch?v=CA8IDSsdj_Y
   - https://soundcloud.com/kala-pona/sina-taso
-  - https://open.spotify.com/track/58oeR88mUK3V2Pta6CFecn?si=9c9a2315ffaf4d53
-preprocessing: Section headers are wrapped inside square brackets.
+  - https://open.spotify.com/track/58oeR88mUK3V2Pta6CFecn Section headers are wrapped inside square brackets.
 ---
 
 \[musi #1]  \

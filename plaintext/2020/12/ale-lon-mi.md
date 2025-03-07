@@ -13,8 +13,7 @@ sources:
   - https://www.youtube.com/watch?v=aYo0X49vyJ8
   - https://www.youtube.com/watch?v=WLgLgCZ-Vo8
   - https://soundcloud.com/kala-pona/ale-lon-mi
-  - https://open.spotify.com/track/4h31gOAHxrn0UqSEYEhpNL?si=e03e071fca264792
-preprocessing: Section headers are wrapped inside square brackets.
+  - https://open.spotify.com/track/4h31gOAHxrn0UqSEYEhpNL Section headers are wrapped inside square brackets.
 ---
 
 \[musi #1]  \
