@@ -1,0 +1,22 @@
+---
+title: sona pona
+translators:
+  - jan Nikita
+date: null
+tags:
+  - translation
+  - taoism
+license: CC0 1.0
+sources:
+  - http://tokipona.net/tp/janpije/nasinpona-lipu.php  # dead link
+archives:
+  - https://web.archive.org/web/20180212103841/http://tokipona.net/tp/janpije/nasinpona-lipu.php
+---
+
+## sona pona
+
+![lipu](https://web.archive.org/web/20180212103841im_/http://tokipona.net/tp/janpije/texts/nasinpona/lipu.png)
+
+tenpo wan li jo e jan sona. ona li kama jo e sona pona la ona li seli e lipu toki ona ale.
+
+[lipu lawa](./nasin-pona-nasin.md)
