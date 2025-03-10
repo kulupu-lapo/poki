@@ -2,12 +2,18 @@
 title: kama pi poki ala
 authors:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - jan Sasalin
 date: 2020-11-11
 =======
 - jan Lakuse  # jan Sasalin
 date: '2020-11-11'
 >>>>>>> 121d3e9 (Added texts by kala pona Tonyu, jan Pije and jan Nikita)
+=======
+date: 2020-11-11
+- jan Lakuse  # jan Sasalin
+date: '2020-11-11'
+>>>>>>> fe66cc6 (Cleaned up conflicts from rebasing)
 license: null
 sources:
 - https://utala.pona.la/toki-musi-lili/
