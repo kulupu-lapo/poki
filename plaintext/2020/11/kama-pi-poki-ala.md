@@ -2,20 +2,11 @@
 title: kama pi poki ala
 authors:
 <<<<<<< HEAD
-<<<<<<< HEAD
-- jan Lakuse  # jan Sasalin
-date: '2020-11-11'
-=======
-- jan Sasalin
-date: 2020-11-11
->>>>>>> 74a39b4 (Fixed 701 schema issues related to dates)
-=======
 - jan Sasalin
 date: 2020-11-11
 =======
 - jan Lakuse  # jan Sasalin
 date: '2020-11-11'
->>>>>>> 80e0ca1 (Added texts by kala pona Tonyu, jan Pije and jan Nikita)
 >>>>>>> 121d3e9 (Added texts by kala pona Tonyu, jan Pije and jan Nikita)
 license: null
 sources:
