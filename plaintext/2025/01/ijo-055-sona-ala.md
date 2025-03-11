@@ -10,6 +10,7 @@ translators:
 date: 2025-01-20
 tags:
   - 'ao3'
+license: null
 sources:
   - https://archiveofourown.org/works/62356867
 archives:
