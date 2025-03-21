@@ -13,14 +13,6 @@ tags:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/348976-kasi-luka
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/40978/size7/98bb26c7736d016dfe98dcc3d5758c9c.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/40979/size7/5ac572c3ce4b4c5e67d8d0b6505da9e3.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/40980/size7/d65dd446681ba19d713aa78f463b00bf.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/40981/size7/d140d9dc9a92129c3a9dcb47b0ae82bc.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/40982/size7/e424dace14fd997a8011df5d6f27139d.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/40983/size7/1f5ab6650cbd2a79354631c0b43295e4.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/40984/size7/3602e95200079976f2a16dd7a9dd1a7c.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/40985/size7/38d6747fe2dbaf538e5dd946f4b2bcbe.jpg
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/40978/size7/98bb26c7736d016dfe98dcc3d5758c9c.jpg)

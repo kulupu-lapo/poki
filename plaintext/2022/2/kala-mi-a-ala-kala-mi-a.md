@@ -12,17 +12,6 @@ tags:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/403868-kala-mi-a-ala-kala-mi-a
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/612/size7/d585a09e6bf11692f42196b18fad83c6.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/613/size7/a62ff49d8723f434ea3c112f74f0dd94.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/614/size7/1872a0f12758631f33eb5560e699b75a.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/615/size7/a17fe8c8d4299296a20b95cb3b155be7.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/616/size7/16e81ba16ebf463b73c2e2e8423f413d.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/617/size7/4b69e07e9d38e4bd5d96425d68d2def8.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/618/size7/5782ef630e94cebc84e4a13c5bf58824.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/619/size7/46a13eb99ca4f964db1fffd13d48a9f7.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/620/size7/960809a9d5d4819719d07ece4d3c2241.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/621/size7/4e421f61cdc1dff24f7e378ac0e1a792.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/622/size7/403a852ae07f249ff6f855748dd596e1.jpg
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/612/size7/d585a09e6bf11692f42196b18fad83c6.jpg)

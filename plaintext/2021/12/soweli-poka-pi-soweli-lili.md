@@ -14,21 +14,6 @@ tags:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/374174-soweli-poka-pi-soweli-lili
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56603/size7/b2b323012179be1f5327a39cbaa1a192.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56604/size7/b797116158da143139fdc4881b1e652a.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56605/size7/69980b08f5aa12f5772b68f25c478b6f.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56717/size7/8a4f4999b188cf273ade68697f875254.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56607/size7/f60d0fcc9da7a108faf8dec6f66c70d2.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56608/size7/5b99ef20dd567332780ab0c818b9ebe9.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56609/size7/e211cd8d26255138233dbc098c14933f.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56610/size7/98fcb71c6acf6f982db0ac223565e636.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56611/size7/54c95dacc54029532c2200dce7eb8c9d.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56612/size7/dbb01ee84661063c2013616fce1cf1ea.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56718/size7/9d20f51c06f024d203660e78bff4b27b.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56614/size7/dfd146a67c7e1542419570f5749eeb79.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56615/size7/475e7c3043c0e00d1e66a35abe590a14.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56616/size7/c1af84090bfe2c06c8bd164c07602a64.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56617/size7/a684a34fb00a021d34aa3cd2ab886896.jpg
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56603/size7/b2b323012179be1f5327a39cbaa1a192.jpg)

@@ -14,26 +14,6 @@ tags:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/374149-lipu-pi-jan-puku
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53340/size7/50ddf388680dcbcca181f4bd928da414.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53341/size7/67b9a931bec853b4523505e6048cc06c.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53342/size7/5af95d4c3e399bdafa2a98812fcc9c72.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53343/size7/05223332714993f241e630d5a9fb661d.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53479/size7/b5686410e8e435b47e60e5e5a1d2cc99.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53443/size7/fc1651d836dc2f378e3d45d2d4491431.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53346/size7/379df21ef754be5c3a230b8779defa2e.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53485/size7/04fa79c47f0b7a7dc00ed301bb764d65.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53481/size7/14491fc96dda9871e4cc6fa507166465.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53482/size7/e0c539045aa2c67cb5d6fae614e8f17d.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53450/size7/4212f8d761658fbd18a67645ab886cb8.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53751/size7/867b599d8f7da2e322de30fe3b5e63f2.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53352/size7/769c2d9c63b51de785e54f95747c1bbe.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53353/size7/716b2cb7aaab755a0840782073899f91.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53487/size7/865fa33cd3528aff3701e5880bbfd21d.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53355/size7/4df9f70079471eb732a68eea7a20da54.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53441/size7/547ef0695d53d421583602414c70f439.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53357/size7/731f661b3dec3cdf26220fdd3ba992ed.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53484/size7/4c21175ab9bd2c30b459320fddecdc3a.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53363/size7/0f3c6a7fe6a98e653058990c85a7a24b.jpg
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53340/size7/50ddf388680dcbcca181f4bd928da414.jpg)

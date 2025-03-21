@@ -14,13 +14,6 @@ tags:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/465770-tenpo-ni-la-ala-o-awen-a
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/339/size7/af14cc9424214ff4a7b8413e00473442.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/340/size7/c78c742bf091bd43b71e1d92124942b2.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/341/size7/58629a2e675e7ba4456fecf11db63b5d.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/342/size7/75a30fb7aa74ea6e0528e8adfb18f912.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/343/size7/9ae6eb29278eb1ae5e79d0000682ebe8.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/344/size7/13eda5c389aca934c03c80eb552331aa.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/3452/size7/c30d145272741b7e60a3530a053d3dc9.jpg
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/339/size7/af14cc9424214ff4a7b8413e00473442.jpg)

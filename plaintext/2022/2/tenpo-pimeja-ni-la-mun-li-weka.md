@@ -14,27 +14,6 @@ tags:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/403776-tenpo-pimeja-ni-la-mun-li-weka
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71935/size7/9037a19eec6eecb03f8e64b53cefe861.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71936/size7/c12aafc099b45b2989f1fb1054bedc67.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71937/size7/7814598475515f963a672a13f620502c.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71938/size7/33fdbbe6d9f6bc9b4a8e03da284dcf94.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71939/size7/862e583a32b3840fb4977c17ee68bd51.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72655/size7/b5af95a60269704c2d5566f07924e0f2.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71941/size7/81276c7c60d15330bebd139f68bce562.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72562/size7/c8251f016791501b80fc4f3d74f7fae6.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72561/size7/b271d6a9cbf2bc4bec395478ab5cc635.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71944/size7/6707bfb2af83b06e7ad8541b21ee5cce.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71953/size7/da3ffb478cc9827fe00dcdb3e024dc0d.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72566/size7/b06a658ac98d55be1fe2ed3b665178f9.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72563/size7/d4e7914a09e43986a39998b21ff69906.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71948/size7/4024123c7fe0f4c4e83b59e22ede5bb8.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71949/size7/15c24a795a2de26113b051a1ca2a50f4.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72545/size7/aad510a22b8857ab5ff95618f033afb9.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72550/size7/e150cd80ca024cd0d25e540b690a36d8.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71952/size7/57cef873839a856faef8c145f460b05e.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72552/size7/23a3997d9059945c30fcfa7e1dc78738.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72548/size7/392074673a153c6978e69b8e544d3437.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72549/size7/68092b2d40495ca7cb542cb443ba24dd.jpg
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71935/size7/9037a19eec6eecb03f8e64b53cefe861.jpg)

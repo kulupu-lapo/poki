@@ -13,17 +13,6 @@ tags:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/410253-jan-pona-a-mi
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12939/size7/26f3c562e8fcf285da64ace4885497a2.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12940/size7/d07a196027366d86d218485a16115cef.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12941/size7/9968ed9b842685f573b114b9a2be8e6a.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12942/size7/7f19ca3a7f4392ae1737ad6f7ba722e6.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12943/size7/f77bed787eca6e623588fd4492456666.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12944/size7/0ab978d66dc04fbd958537accfaf3474.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12945/size7/f2d91399e3710afc2ab72f1a4251ae1f.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12946/size7/99927082c4c7183837255183b81f106f.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12947/size7/193694c2078e2b794802233069bfca43.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12948/size7/2fdc1d0c194d45e607462e4a77a7b9b4.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12949/size7/e6d48b6c13538e56e67d69f9f907c03e.jpg
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12939/size7/26f3c562e8fcf285da64ace4885497a2.jpg)

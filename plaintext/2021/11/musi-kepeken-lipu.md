@@ -12,17 +12,6 @@ tags:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/347526-musi-kepeken-lipu
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1866/size7/abb5d13f72dd864a0b469e58b88bf0ef.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1867/size7/87fdef913f3105a7d5f7097ac80ffbdb.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1868/size7/e146dde722f5ab15101ec881911b138f.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1869/size7/91db9351f8946e3ddfefc0b0c0b1a7cc.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1870/size7/0e20d8dccaf08bf4507134f464260200.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1871/size7/40ece528f64e3540654f392d082f7fd4.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1872/size7/43fd2c08ca69cd16486309666db9eccd.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1873/size7/644128ba4168f4133ee9c69684b24cd4.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1874/size7/4e893a2a50740056fc05618df94d9fb0.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1875/size7/9bb3a6d3bd23e0d0c2129d78450d6f81.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1876/size7/18c5cc8bef12da89917560f58a1bff20.jpg
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1866/size7/abb5d13f72dd864a0b469e58b88bf0ef.jpg)

@@ -13,13 +13,6 @@ tags:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/550759-ken-li-ken-ala
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1638/size7/3f73e6b18d960955e15fdb59a23e45dc.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1639/size7/14a197487f962fe9801cf9e6c0a2cc7f.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/623291/size7/2da31331f405a6087314071bfb815cea.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1641/size7/f8d2c59fe7a8605a84956e6c5c892ae4.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1642/size7/cb193460a942ab79e35272de1e620bd2.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1643/size7/6e6879a82ae4da25d2ee244e20782d20.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1644/size7/66e66e4d4d9b1c355fef09e020dd04bf.jpg
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1638/size7/3f73e6b18d960955e15fdb59a23e45dc.jpg)

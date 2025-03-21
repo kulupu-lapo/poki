@@ -15,27 +15,6 @@ tags:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/442898-o-pona-e-ijo-pakala
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88667/size7/ded6ce2c1911598f7210c38daca9b7cb.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88679/size7/7288ff182e72e50d40e749ea6e97a862.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88669/size7/86ad9cef0d29dc7e8f40edb06be9f356.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88670/size7/5c8236ea4b7727cd489360cd276b9c99.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88671/size7/12a9a6f645a392d11ea8e0408117ba96.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88672/size7/57f21802739e97c5f023ef0708fe73c8.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88673/size7/db4be2c5237ac49bf0cc43d163f26c23.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88674/size7/83fcdad9042b2c734ebd6d9950679be5.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88675/size7/2f1b6c8ad3f4391d9ba32f0fc540fdaf.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88677/size7/58ac50e36f9cdaf28f15b6c97257def3.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88678/size7/79c89f00a10782185f050fbcd4baa99f.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88680/size7/c6736d7a1a570ae8b6eff6bda41aab92.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88681/size7/b83339af0f3a3a581c633d32390c4cd6.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88682/size7/5fcc2f309dcc5580bbf4b37a93614292.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88683/size7/0b306d8369ef0869913a5c9215c8f8c5.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88684/size7/5a986b1383292d322e5f09f4e525095e.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88685/size7/6203c78aa1008e114553f31381631349.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88686/size7/1c7e5b807316d66d6208ea53948dfe71.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88687/size7/1504aa53009cac077b96be84822747bf.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88688/size7/c06a39c3d43616eecacf578e9020707d.jpg
-- https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88689/size7/ca46b759eb9c4957e8050d666419a46a.jpg
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88667/size7/ded6ce2c1911598f7210c38daca9b7cb.jpg)
