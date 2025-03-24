@@ -3,7 +3,7 @@ title: sona awen
 authors:
   - jan Wenato
 date: 2017-10-27
-license: All Rights Reserved
+license: null
 sources:
   - https://tokisona.github.io/toki/pona/nasin/2017/10/27/sona-awen.html
 preprocessing: Fixed markdown headers from plain-text number signs

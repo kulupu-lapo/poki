@@ -6,16 +6,16 @@ date: 2015-12-20
 license: All Rights Reserved
 sources:
 - https://www.youtube.com/watch?v=JMn71HY0Z-Q
-preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.
+preprocessing: Section headers are wrapped inside square brackets.
 ---
 
-[open]  \
+\[open]  \
 toki! mi jan Sotan. sina pilin e seme?  \
 sina tawa nasin seme? mi tawa nasin lete.  \
 sina tawa nasin sama la, mi mute li ken toki.  \
 sina sona ala e ijo la, mi jo e musi lili.
 
-[musi #1]  \
+\[musi #1]  \
 sina wile sona e ni: mi pali e musi la,  \
 mi moku e palisa moli e telo mute e moku ala.  \
 sina wile pilin e ni: mi nasa li pakala.  \
@@ -31,13 +31,13 @@ mi jo e sitelen awen lon luka wan mi.  \
 mi jo e sona suli la, meli mi li ma seme?  \
 mi jo e meli la, mi pilin ike tan seme?
 
-[sike]  \
+\[sike]  \
 musi sike lon ilo sitelen? ona li pona tawa mi.  \
 toki tawa ilo awen toki? ona li pona tawa mi.  \
 unpa e meli sina? ona li pona tawa mi.  \
 moku e palisa moli ala? ona li ike tawa mi.
 
-[pini]  \
+\[pini]  \
 mi wile awen lon ma ni.  \
 mi tawa! ken la mi toki  \
 lon tenpo kama. ken la mi toki ala.  \

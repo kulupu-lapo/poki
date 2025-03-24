@@ -6,7 +6,7 @@ date: 2016-01-23
 license: All Rights Reserved
 sources:
 - https://www.youtube.com/watch?v=Wjlewm7rojY
-preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.
+preprocessing: Section headers are wrapped inside square brackets.
 ---
 
 [toki]  \

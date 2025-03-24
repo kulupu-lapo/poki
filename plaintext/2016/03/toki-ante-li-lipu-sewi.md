@@ -1,9 +1,9 @@
 ---
-title: toki ante pi lipu sewi
+title: toki ante li lipu sewi
 authors:
   - jan Wenato
 date: 2016-03-11
-license: All Rights Reserved
+license: null
 sources:
   - https://tokisona.github.io/toki/pona/sewi/2016/03/11/toki-ante-li-lipu-sewi.html
 ---

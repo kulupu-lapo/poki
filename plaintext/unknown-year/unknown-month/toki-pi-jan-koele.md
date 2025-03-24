@@ -2,7 +2,7 @@
 title: toki pi jan Koele
 original-title: Ecclesiastes
 authors:
-  - Authors of the Bible
+  - authors of the Bible
 date: null
 translators:
   - Michael F.
