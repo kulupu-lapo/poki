@@ -1,6 +1,6 @@
 ---
 title: kalama musi pi jan Peni
-original: Penny's Theme
+original-title: Penny's Theme
 authors:
   - jan Misali
   - Jules
