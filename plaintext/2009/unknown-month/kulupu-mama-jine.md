@@ -8,7 +8,8 @@ authors:
   - Mayumi Heene    # jan Majumi
 translators:
   - jan Jonan
-date: 2009
+date: 2009-01-01
+# date-precision: year
 tags:
   - translation
   - artwork

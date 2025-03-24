@@ -3,7 +3,8 @@ title: lipu lawa pi esun kama
 authors:
   - jan Josan
   - jan Mato
-date: 2009 
+date: 2009-01-01
+# date-precision: year
 tags:
   - original
   - artwork

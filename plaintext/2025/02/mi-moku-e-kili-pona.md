@@ -1,5 +1,5 @@
 ---
-title: null
+title: mi moku e kili pona  # not the original title; title given for Lapo purposes.
 authors:
   - pan Kamiju
 date: 2025-02

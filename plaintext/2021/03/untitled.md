@@ -1,5 +1,5 @@
 ---
-title: null   # untitled
+title: untitled
 authors:
   - mute to
 date: 2021-03-10
