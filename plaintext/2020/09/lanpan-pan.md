@@ -1,7 +1,6 @@
 ---
 title: lanpan pan
 original-title: La Conquête du Pain  # The Conquest of Bread
-description:
 authors:
   - Peter Kropotkin  # jan pijoto popokin
 translators:

@@ -1,7 +1,6 @@
 ---
 title: sike lili laso walo
 original-title: The Pale Blue Dot
-description:
 authors:
   - Carl Sagan
 translators:

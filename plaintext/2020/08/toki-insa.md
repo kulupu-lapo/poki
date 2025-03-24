@@ -1,7 +1,5 @@
 ---
-title:
-original-title:
-description:
+title: toki insa
 translators:
   - socks
 date: 2020-08-19

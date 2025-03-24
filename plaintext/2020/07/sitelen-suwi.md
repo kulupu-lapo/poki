@@ -1,6 +1,6 @@
 ---
 title: sitelen suwi
-original-title: # Unclear to proofreader
+# original-title: Unclear to proofreader
 authors:
   - Ferenc Szilágyi
 translators:

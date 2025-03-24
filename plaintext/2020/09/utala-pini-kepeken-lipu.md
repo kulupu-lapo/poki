@@ -1,6 +1,5 @@
 ---
 title: utala pini kepeken lipu
-description: 
 authors:
   - Cozaure
 date: 2020-09-09

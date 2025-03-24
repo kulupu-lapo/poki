@@ -1,6 +1,5 @@
 ---
 title: pilin ike
-original-title:
 description: Even angst-ridden, mediocre teenage poetry can be expressed in Toki Pona. As a universal language of simplicity, Toki Pona must lend itself to every genre, good and bad.
 authors:
   - jan Sonja

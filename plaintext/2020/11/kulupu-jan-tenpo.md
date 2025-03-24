@@ -1,7 +1,6 @@
 ---
 title: kulupu jan tenpo
 original-title: Dreams of Our Generation
-description:
 authors:
   - Tsunku♂
   - Kaoru Okubo
