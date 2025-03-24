@@ -2,7 +2,7 @@
 title: telo suli li supa  # kalama musi “telo suli li supa”
 original-title: La Mar Esteba Serena
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-03-13

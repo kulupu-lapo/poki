@@ -1,7 +1,7 @@
 ---
 title: tenpo pi seli lili
 authors:
-  - null # unknown
+  - unknown author
 date: null
 tags:
   - poetry

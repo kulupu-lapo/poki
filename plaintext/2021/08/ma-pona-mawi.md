@@ -2,7 +2,7 @@
 title: ma pona Mawi
 original-title: Rolling Down to Old Maui
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-08-27

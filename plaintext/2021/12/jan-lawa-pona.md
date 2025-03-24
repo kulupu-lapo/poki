@@ -2,7 +2,7 @@
 title: jan lawa pona  # kalama: jan lawa pona
 original-title: Good Kind Wenceslas
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-12-13

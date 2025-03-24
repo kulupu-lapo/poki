@@ -2,7 +2,7 @@
 title: jan pana li kama  # kalama: jan pana li kama
 original-title: Morgen kommt der Weihnachtsmann
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-12-14

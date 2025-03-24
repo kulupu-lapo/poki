@@ -2,7 +2,7 @@
 title: tenpo suno kama  # kalama: tenpo suno kama
 original-title: Morgen, Kinder, wird's was geben
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-12-08

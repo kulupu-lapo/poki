@@ -2,7 +2,7 @@
 title: o weka tan ona  # kamala musi: o weka tan ona
 original-title: Leave Her, Johnny, Leave Her
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-08-26

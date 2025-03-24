@@ -2,7 +2,7 @@
 title: ilo kalama li mu  # kalama: ilo kalama li mu
 original-title: Kling Glöckchen klingelingeling
 authors:
-  - null
+  - folk origin
   - Karl Enslin
 translators:
   - jan Ke Tami

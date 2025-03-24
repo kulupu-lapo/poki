@@ -2,7 +2,7 @@
 title: mi tawa ma mi pona  # kamala musi “mi tawa ma mi pona”
 original-title: Bound to South Australia
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-03-23

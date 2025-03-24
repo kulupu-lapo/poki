@@ -2,7 +2,7 @@
 title: pona o lon tenpo sewi  # kalama: pona o lon tenpo sewi
 original-title: We Wish You a Merry Christmas
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-12-15

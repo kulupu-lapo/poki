@@ -2,7 +2,7 @@
 title: pona o tawa kulupu  # kamala musi: pona o tawa kulupu
 original-title: Here's a Health to the Company
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-08-25

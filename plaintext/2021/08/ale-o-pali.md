@@ -2,7 +2,7 @@
 title: ale o pali  # kamala musi: ale o pali
 original-title: Haul Away Joe
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-08-24

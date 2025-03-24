@@ -2,7 +2,7 @@
 title: o tawa e mi  # kalama musi: o tawa e mi
 original-title: Come Roll Me Over
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-08-28

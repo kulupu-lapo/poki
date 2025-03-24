@@ -2,7 +2,7 @@
 title: tomo awen  # kalama: tomo awen
 original-title: Old Year and New Year
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-12-21

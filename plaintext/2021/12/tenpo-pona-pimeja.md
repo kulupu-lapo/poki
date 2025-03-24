@@ -2,7 +2,7 @@
 title: tenpo pona pimeja  # kalama: tenpo pona pimeja
 original-title: Stille Nacht
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-12-07

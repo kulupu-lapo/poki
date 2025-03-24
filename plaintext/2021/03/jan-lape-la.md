@@ -2,7 +2,7 @@
 title: jan lape la  # kamala musi “jan lape la”
 original-title: Drunken Sailor
 authors:
-  - null
+  - folk origin
 translators:
   - jan Ke Tami
 date: 2021-03-10
