@@ -52,8 +52,9 @@ items:
 | Writing contests ([site][um site] / [repo][um repo])  | jan Lakuse           | https://github.com/kulupu-lapo/poki/issues/11 | kala Asi              |
 | kalama sin ([site][ks site] / [ws][ks ws])            | various              | https://github.com/kulupu-lapo/poki/issues/12 | kala Asi              |
 | lipu tenpo ([site][lt site] / [repo][lt repo])        | jan Alonola          | https://github.com/kulupu-lapo/poki/issues/10 | ijo vivi              |
-| Song collection ([yt][songs yt] / [docs][songs doc])  | jan Ke Tami          | No                                            | ijo \[osuka\] en poka |
-| [TP Library][tonyu lib]                               | kala pona Tonyu      | No                                            |                       |
+| [TP Library][tonyu lib]                               | kala pona Tonyu      | https://github.com/kulupu-lapo/poki/issues/22 | jan Juwan             |
+| Personal websites                                     | various              | https://github.com/kulupu-lapo/poki/issues/17 | ijo vivi              |
+| Song collection ([yt][songs yt] / [docs][songs doc])  | jan Ke Tami          | No                                            | jan Juwan             |
 | [Wikisource]                                          | various              | No                                            |                       |
 | [Corpora]                                             | (sona pona)          | No                                            |                       |
 | [nltk-tp]                                             | davidar              | No                                            |                       |
@@ -63,7 +64,6 @@ items:
 | [lipu monsuta]                                        | soweli kina          | No                                            | jan Kita              |
 | [jan Telakoman's blog posts][Telakoman]               | jan Telakoman        | No                                            | jan Kita              |
 | [Storyweaver]                                         | various              | No                                            |                       |
-| Personal websites                                     | various              | https://github.com/kulupu-lapo/poki/issues/17 | ijo vivi              |
 
 [lk site]:https://lipukule.org/
 [lk repo]:https://github.com/lipukule/lipu-kule
