@@ -30,8 +30,6 @@ soweli li olin e kule.﻿
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/69660/size7/fa36e86259eae89a7dec78cc74e90a98.jpg)
 
-﻿
-
 ni la, kute ona li jelo.
 
 ---
@@ -52,8 +50,6 @@ ni la, sijelo ona li pimeja.
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/69665/size7/d5ebbd94ed1b63a48327c3555b1441e1.jpg)
 
-﻿
-
 ni la, uta ona li loje.
 
 ---
@@ -64,8 +60,6 @@ ni la, uta ona li loje.
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/69668/size7/b5c84b8288330ff4b6477f53b32edae3.jpg)
 
-﻿
-
 ni la, luka ona li laso.
 
 ---
@@ -75,8 +69,6 @@ ni la, luka ona li laso.
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/69670/size7/81629078565c21dd7d40aad33512288e.jpg)
-
-﻿
 
 ni la, monsi ona li laso kin.
 

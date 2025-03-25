@@ -52,9 +52,7 @@ sources:
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/149146/size7/55697c17a0892eb6fc5523b283e54bb1.jpg)
 
-**noka luka tu wan li lon sijelo pi pipi**
-
-**akesi**
+**noka luka tu wan li lon sijelo pi pipi akesi**
 
 ---
 

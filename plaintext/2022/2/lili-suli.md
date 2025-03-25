@@ -3,7 +3,7 @@ title: lili. suli.
 original-title: Little and Big
 description: lipu pona lon lili lon suli.
 authors:
-- Carole  Bloch
+- Carole Bloch
 translators:
 - nick
 date: 2022-02-28

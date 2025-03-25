@@ -50,6 +50,8 @@ jan Puku li pali.
 
 ona li lukin e lipu.
 
+
+
 ona li lukin e lipu lon tenpo ale — lon tomo ona, lon tomo sona, lon ma kasi, lon supa lape.
 
 lipu en toki en musi la, ona li lukin e ale.
