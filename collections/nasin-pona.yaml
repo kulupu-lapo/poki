@@ -1,0 +1,11 @@
+name: nasin pona
+sources:
+  - https://web.archive.org/web/20180101231049/http://tokipona.net/tp/janpije/nasinpona-nasin.php
+items:
+  - plaintext/unknown-year/unknown-month/nasin-pona-intro.md
+  - plaintext/unknown-year/unknown-month/nasin-pona-nasin.md
+  - plaintext/unknown-year/unknown-month/nasin-pona-moku.md
+  - plaintext/unknown-year/unknown-month/nasin-pona-len.md
+  - plaintext/unknown-year/unknown-month/nasin-pona-moli.md
+  - plaintext/unknown-year/unknown-month/nasin-pona-lipu.md
+  - plaintext/unknown-year/unknown-month/nasin-pona-kasi.md

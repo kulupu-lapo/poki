@@ -32,7 +32,7 @@ ma pi lon ala
 [lipu pini:](#lipu-pini)  
 tenpo ni
 
-----
+---
 ## lipu nanpa wan:
 
 ### tenpo open

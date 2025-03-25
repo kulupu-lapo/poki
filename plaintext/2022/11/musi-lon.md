@@ -11,7 +11,7 @@ sources:
 - https://zotn.hu/toki-pona/rap-musi-lon
 - https://www.youtube.com/watch?v=rqkcj3IpnKc
 - https://soundcloud.com/dschorsaanjo/musi-lon
-preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.
+preprocessing: Section headers are wrapped inside square brackets.
 ---
 
 [open]
