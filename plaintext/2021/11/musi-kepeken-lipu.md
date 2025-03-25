@@ -103,5 +103,3 @@ seme li tan? ken la ni li tan moku wawa kepeken pali pona ala. ken la ni li tan 
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1876/size7/18c5cc8bef12da89917560f58a1bff20.jpg)
-
-

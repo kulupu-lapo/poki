@@ -42,8 +42,6 @@ sources:
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53343/size7/05223332714993f241e630d5a9fb661d.jpg)
 
-
-
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53479/size7/b5686410e8e435b47e60e5e5a1d2cc99.jpg)

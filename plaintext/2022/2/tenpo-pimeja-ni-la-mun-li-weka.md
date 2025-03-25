@@ -74,8 +74,6 @@ ona li lon telo pi pana suno la jan Majesa li insa e kon li jo wawa e kala Usili
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71941/size7/81276c7c60d15330bebd139f68bce562.jpg)
 
-
-
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/72562/size7/c8251f016791501b80fc4f3d74f7fae6.jpg)
