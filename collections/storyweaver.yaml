@@ -1,4 +1,6 @@
 name: StoryWeaver
+sources:
+- https://storyweaver.org.in/stories?language=Toki+Pona
 items:
 - plaintext/2021/11/musi-kepeken-lipu.md
 - plaintext/2021/11/kasi-luka.md
