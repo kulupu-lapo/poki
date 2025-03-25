@@ -63,7 +63,7 @@ items:
 | [jan Lentan's blog posts][Lentan]                     | jan Lentan           | No                                            | jan Kita              |
 | [lipu monsuta]                                        | soweli kina          | No                                            | jan Kita              |
 | [jan Telakoman's blog posts][Telakoman]               | jan Telakoman        | No                                            | jan Kita              |
-| [Storyweaver]                                         | various              | No                                            |                       |
+| [Storyweaver]                                         | various              | No                                            | jan Kita              |
 
 [lk site]:https://lipukule.org/
 [lk repo]:https://github.com/lipukule/lipu-kule
