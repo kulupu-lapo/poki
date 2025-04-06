@@ -4,7 +4,7 @@ original-title: My Body
 description: sijelo pi mi ale li pali lon tenpo ale, anu seme?
 authors:
 - Clare Verbeek
-- Thembani  Dladla
+- Thembani Dladla
 - Zanele Buthelezi
 # - Mlungisi Dlamini (illustrator)
 translators:
