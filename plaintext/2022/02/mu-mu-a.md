@@ -4,6 +4,7 @@ original-title: Bow Meow Wow
 description: soweli tu li musi lon lipu kule ni.
 authors:
 - Priya Kuriyan
+# - Priya Kuriyan (illustrator)
 translators:
 - nick
 date: 2022-02-28

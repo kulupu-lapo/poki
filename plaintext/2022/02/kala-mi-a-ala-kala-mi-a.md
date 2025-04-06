@@ -4,6 +4,7 @@ original-title: My fish! No, my fish!
 description: musi ni li toki e jan pona e kala sona.
 authors:
 - Suraj J Menon
+# - Soumya Menon (illustrator)
 translators:
 - nick
 date: 2022-02-01

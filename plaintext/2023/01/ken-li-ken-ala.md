@@ -5,6 +5,7 @@ description: sina ken lukin e lipu ni; taso ona li ken ala ike tawa sina a! jan 
   sina li ken ala lukin e ni la, ona li ken musi e sitelen pona.
 authors:
 - Radha HS
+# - Ruchi Shah (illustrator)
 translators:
 - Oreo Créme
 date: 2023-01-19

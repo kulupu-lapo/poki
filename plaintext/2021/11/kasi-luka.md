@@ -5,6 +5,7 @@ description: 'sina sona ala sona e ni: kasi luka li suli pi mute seme tawa lon j
   sina wile sona la o lukin e lipu ni.'
 authors:
 - Simon Ipoo
+# - Rob Owen (illustrator)
 translators:
 - jan Melon
 date: 2021-11-08

@@ -6,6 +6,7 @@ description: 'tenpo mute la, jan lili pi wile sona li toki tawa mama ona tan ni:
   pana e wile sona e toki sin musi.'
 authors:
 - Madhav Chavan
+# - Rijuta Ghate (illustrator)
 translators:
 - Miles Rodriguez
 date: 2022-10-02

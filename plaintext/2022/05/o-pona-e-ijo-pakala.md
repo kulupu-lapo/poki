@@ -7,6 +7,7 @@ description: len pi jan Sijan li kama pakala · ilo pi supa len li pakala kin ·
 authors:
 - Himadri Das
 - Veena Prasad
+# - Ankitha Kini (illustrator)
 translators:
 - jan Kita
 date: 2022-05-14

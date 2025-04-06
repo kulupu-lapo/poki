@@ -6,6 +6,7 @@ description: mun li kama ala tan telo suli lon tenpo pimeja wan la jan Majesa en
   seme?
 authors:
 - Shreya Yadav
+# - Sunaina Coelho (illustrator)
 translators:
 - jan Melon
 date: 2022-02-01

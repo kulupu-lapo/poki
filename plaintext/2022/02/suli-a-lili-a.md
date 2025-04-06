@@ -6,6 +6,7 @@ description: jan Sanu li suli a la jan Ami li ken ala jo e ona. jan Sanu li lili
   ala lili a? jan li uta e toki ni la sina suli ala suli a? o open o alasa!
 authors:
 - Lavanya Karthik
+# - Lavanya Karthik (illustrator)
 translators:
 - nick
 date: 2022-02-02

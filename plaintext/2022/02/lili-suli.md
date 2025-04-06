@@ -4,6 +4,7 @@ original-title: Little and Big
 description: lipu pona lon lili lon suli.
 authors:
 - Carole Bloch
+# - Vian Oelofsen (illustrator)
 translators:
 - nick
 date: 2022-02-28

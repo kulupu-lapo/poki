@@ -4,6 +4,8 @@ original-title: The Race
 description: musi mute la jan mute li wile musi tawa. seme li nanpa wan.
 authors:
 - Kanchan Bannerjee
+# - Kavya Singh (illustrator)
+# - Natasha Mehra (illustrator)
 translators:
 - nick
 date: 2022-02-28

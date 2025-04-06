@@ -6,6 +6,7 @@ description: 'jan lili pi toki musi ni li wile pali e ijo mute. taso jan suli al
   utala?'
 authors:
 - Rohini Nilekani
+# - Ruchi Shah (illustrator)
 translators:
 - Miles Rodriguez
 date: 2022-09-19

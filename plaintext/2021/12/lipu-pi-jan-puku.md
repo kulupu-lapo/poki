@@ -6,6 +6,7 @@ description: jan Puku li jo ala e lipu. ona li lukin e lipu mute lon sewi pi pok
   seme a?
 authors:
 - Deepanjana Pal
+# - Rajiv Eipe (illustrator)
 translators:
 - Aspen Leigh
 date: 2021-12-20

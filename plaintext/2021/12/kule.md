@@ -6,6 +6,7 @@ authors:
 - Priyanka
 translators:
 - Aspen Leigh
+# - Ajanta Guhathakurta (illustrator)
 date: 2021-12-20
 tags:
 - StoryWeaver level 1 (Emergent Readers)

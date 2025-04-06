@@ -6,6 +6,7 @@ description: 'tomo sona li pona ala tawa soweli lili. tomo sona li suli a. sowel
   tomo sona li kama pona.'
 authors:
 - Sudeshna Shome Ghosh
+# - Aratrika Choudhury (illustrator)
 translators:
 - jan Kita
 date: 2021-12-20

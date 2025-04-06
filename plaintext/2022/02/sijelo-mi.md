@@ -6,6 +6,7 @@ authors:
 - Clare Verbeek
 - Thembani  Dladla
 - Zanele Buthelezi
+# - Mlungisi Dlamini (illustrator)
 translators:
 - Frzzl
 date: 2022-02-04

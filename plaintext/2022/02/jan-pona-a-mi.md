@@ -5,6 +5,7 @@ description: 'sina wile jo e jan pona nasa la o lukin e lipu ni. ni la sina ken 
   pilin e ni: sina jo e jan pona nasa!'
 authors:
 - Anupa Lal
+# - Suvidha Mistry (illustrator)
 translators:
 - Simon K
 date: 2022-02-06
