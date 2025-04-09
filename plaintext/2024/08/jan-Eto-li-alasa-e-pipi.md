@@ -11,9 +11,10 @@ sources:
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/jan-Eto-li-alasa-e-pipi.html
 ---
 
-[![](sitelen-Eto.svg){: style="width: 100%"}](https://raw.githubusercontent.com/raacz/utala/refs/heads/main/mamtt/lipu-musi/lipu-suli/sitelen-Eto.svg)
+<!-- [![](sitelen-Eto.svg){: style="width: 100%"}](https://raw.githubusercontent.com/raacz/utala/refs/heads/main/mamtt/lipu-musi/lipu-suli/sitelen-Eto.svg) -->
+<!-- Messes with open Lapo. readd the image later. -->
 
-[o lukin suli e sitelen taso](sitelen-Eto.svg)
+[o lukin suli e sitelen taso](https://raw.githubusercontent.com/raacz/utala/refs/heads/main/mamtt/lipu-musi/lipu-suli/sitelen-Eto.svg)
 
 tenpo li kama e wile. ni li ken pona li ken ike. lipu ni li toki e jan wan. ona li wile e pona tawa jan. ona li wile pona tawa ona sama kin. taso ni tu li utala. o kute pona. 
 
