@@ -14,6 +14,7 @@ tags:
 license: CC BY-SA 3.0
 sources:
   - https://tobiah.bandcamp.com/track/toki-pona
+  - https://www.youtube.com/watch?v=2jRtYBaZGgQ
 ---
 
 toki pona li toki pona.  \
