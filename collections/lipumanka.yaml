@@ -1,4 +1,6 @@
 name: "LIPUmanka"
+sources:
+  - https://lipamanka.gay/toki-pona-taso
 items:
   - plaintext/unknown-year/unknown-month/waso.md
   - plaintext/unknown-year/unknown-month/kili.md
@@ -9,3 +11,4 @@ items:
   - plaintext/unknown-year/unknown-month/ma-en-jan.md
   - plaintext/unknown-year/unknown-month/kalama.md
   - plaintext/unknown-year/unknown-month/jasima.md
+  - collections/lipamanka-la-moku.yaml
