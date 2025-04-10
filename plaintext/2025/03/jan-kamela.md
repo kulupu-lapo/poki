@@ -1,7 +1,8 @@
 ---
 title: jan Kamela
 original-title: ¡Ay! Carmela
-authors: Coro Popular Jabalón
+authors:
+  - Coro Popular Jabalón
 translators:
   - soko Sijeni
 date: 2025-03-29
