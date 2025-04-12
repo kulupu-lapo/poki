@@ -10,7 +10,7 @@ license: All Rights Reserved
 sources:
 - https://www.youtube.com/watch?v=iVFbnflPzQw
 - https://soundcloud.com/dschorsaanjo/toki-nasa
-preprocessing: Tags such as "Verse", "Chorus", "Bridge" are marked with brackets.
+preprocessing: Section headers are wrapped inside square brackets.
 ---
 
 jan ale li wile. jan ale li sona.  \

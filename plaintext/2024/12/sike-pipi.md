@@ -7,6 +7,7 @@ date: 2024-12-16
 tags:
   - 'ao3'
   - 'music'
+license: null
 sources:
   - https://archiveofourown.org/works/61372846
 archives:

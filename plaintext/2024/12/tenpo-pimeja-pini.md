@@ -9,6 +9,7 @@ translators:
 date: 2024-12-15
 tags:
   - 'ao3'
+license: null
 sources:
   - https://archiveofourown.org/works/61341418/chapters/156788023
 archives:
