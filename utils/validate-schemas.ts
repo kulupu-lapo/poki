@@ -23,13 +23,13 @@ const Article = z
       z.string().regex(/^\d{4}-(0[1-9]|1[0-2])$/, "Invalid yyyy-mm format"),
       z.null(),
     ]),
-    tags: z.array(z.string()).nonempty().nullish(), // TODO: nullish -> nullable
+    tags: z.array(z.string()).nonempty().nullish(), // TODO: nullable
     // missing license -> "assume All rights reserved, but
     // its also possible we aren't yet aware of the correct license"
     license: z.string().nullable(), // TODO: SPDX compliance
     sources: z.array(z.string()).nonempty().optional(),
     archives: z.array(z.string()).nonempty().optional(),
-    preprocessing: z.string().optional(),
+    preprocessing: z.string().nullish(),
     "accessibility-notes": z.string().optional(),
     notes: z.string().optional(),
   })
@@ -87,7 +87,11 @@ async function validate() {
       console.log(filepath, ":");
       // console.log(error);
       for (let issue of (error as ZodError).issues) {
-        console.log(issue);
+        if (issue["code"] == "invalid_type") {
+          console.log(`${issue["path"].join(".")}:  ${issue["message"]}`)
+        } else {
+          console.log(issue);
+        }
       }
       console.log("===========================================");
     }
