@@ -3,24 +3,12 @@ title: ante toki tawa musi pi sitelen tawa (video game translations)
 authors:
   - jan Lentan
 date: 2020-10-10
-tags:
-  -
+tags: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://lipu-sona.pona.la/lentan/game_patches
-preprocessing:
+preprocessing: Removed the English introduction. Available in sources.
 ---
-
-
-# toki Inli (English)
-
-This is my collection of translation patches that translate old video game ROMs
-into toki pona. To apply a patch to a game, you need:
-
-* the original ROM file of the game,
-* the patch file, usually in a format like IPS, BPS or XDelta,
-* a program that applies the patch to the game. different patch formats require
-  different tools.
 
 # toki pona
 

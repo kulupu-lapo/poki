@@ -3,13 +3,12 @@ title: lipu nasin pi musi Lisi Masan (Riichi Mahjong) (WIP)
 authors:
   - jan Lentan
 date: 2020-11-13
-tags:
-  -
+tags: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
-  - https://lipu-sona.pona.la/lentan/shogi
+  - https://lipu-sona.pona.la/lentan/riichi_mahjong
 preprocessing:
-notes: English translation in HTML comments
+notes: Removed English translation in HTML comments
 ---
 
 !!! note
@@ -31,21 +30,21 @@ notes: English translation in HTML comments
 
 ## musi Lisi Masan
 
-musi Masan li musi supa. <!-- mahjong is a board game. -->
+musi Masan li musi supa. 
 
-jan 4 li utala kepeken musi ni tawa ni: ona li wile kama jo e mute pi nanpa pona ni: ona li suli #1. <!-- the goal is to gain most points. -->
+jan 4 li utala kepeken musi ni tawa ni: ona li wile kama jo e mute pi nanpa pona ni: ona li suli #1. 
 
-tawa ni la, jan musi li wile pali e "luka" pona kepeken ijo musi. <!-- for this, they aim to collect a good hand with the pieces. -->
+tawa ni la, jan musi li wile pali e "luka" pona kepeken ijo musi. 
 
-musi "Lisi Masan" (Riichi Mahjong) li ante pi musi Masan tan ma Nijon. <!-- Riichi Mahjong is the Japanese version of the game. -->
+musi "Lisi Masan" (Riichi Mahjong) li ante pi musi Masan tan ma Nijon. 
 
 ## ijo musi
 
 ![sitelen pi ijo musi pi musi Masan](/mahjong_tiles.gif)
 
-musi Lisi Masan la, ijo musi ante 34 li lon. ante wan la, ijo musi 4 sama li lon. ni la, ijo musi 136 li lon. <!-- there are 34 types of tiles, 4 of each tile, so 136 tiles. -->
+musi Lisi Masan la, ijo musi ante 34 li lon. ante wan la, ijo musi 4 sama li lon. ni la, ijo musi 136 li lon. 
 
-sinpin pi ijo musi li jo e sitelen. monsi pi ijo musi li jo ala e sitelen. nasin musi la, ona li sama lipu pi musi supa. <!-- on one side they have an image, on the other they don't. they're similar to playing cards in that way. -->
+sinpin pi ijo musi li jo e sitelen. monsi pi ijo musi li jo ala e sitelen. nasin musi la, ona li sama lipu pi musi supa. 
 
 poka en anpa en sewi pi ijo musi li jo ala e sitelen. poka ona li suli. sewi en anpa ona li lili.
 
@@ -156,9 +155,9 @@ ale li pona, jan musi li lon ma sama ni:
 
 jan musi Ton li tawa e **ilo sona pi tenpo musi** lon poki ona lon nasin ni: poki pi sitelen "Ton" (東) li lon sewi. ona li toki e ni: kulupu pi tenpo musi pi nasin Ton li lon, jan ni li jan musi pi nasin Ton lon tenpo open.
 
-jan ale musi li **len** e ijo musi ale. ona li tawa nasa e ona ale lon supa musi. ni li tawa ni: jan ale li wile ala sona e ni: ijo musi seme li lon seme? <!-- players first put all the tiles face-down and shuffle them. -->
+jan ale musi li **len** e ijo musi ale. ona li tawa nasa e ona ale lon supa musi. ni li tawa ni: jan ale li wile ala sona e ni: ijo musi seme li lon seme? 
 
-ni li pini la, jan musi ale wan li wile pali e ni: o pali e "palisa" 2 pi ijo musi 17. ijo musi ale li wile awen lon nasin ni: sinpin ona li lon anpa. (poka pi ijo musi wan li wile "pilin" e poka ante pi ijo musi ante.) o tawa e "palisa" wan tawa sewi pi "palisa" ante. jan ale li pini e ni la, **sinpin** li lon.  <!-- then each player must build two lines of 17 tiles each and put one on top of another. after this is done, the "wall" is built. -->
+ni li pini la, jan musi ale wan li wile pali e ni: o pali e "palisa" 2 pi ijo musi 17. ijo musi ale li wile awen lon nasin ni: sinpin ona li lon anpa. (poka pi ijo musi wan li wile "pilin" e poka ante pi ijo musi ante.) o tawa e "palisa" wan tawa sewi pi "palisa" ante. jan ale li pini e ni la, **sinpin** li lon.  
 
 ```
  .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.

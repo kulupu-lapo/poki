@@ -3,38 +3,11 @@ title: jan lawa pi linja ilo (translation hack)
 authors:
   - jan Lentan
 date: 2020-08-23
-tags:
-  -
+tags: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://lipu-sona.pona.la/lentan/jan_lawa_pi_linja_ilo
-preprocessing:
----
-
-# what's it about?
-
-This is a translation of the public domain homebrew game "LAN Master" by
-[Shiru](http://shiru.untergrund.net/) that changes all of the text in game into
-sitelen pona.
-
-# what's "lan master"
-
-"LAN Master" is a puzzle game, in which your goal is to connect all of the
-computers with pipe-like cables. You can rotate any piece of cable, and whenever
-the cables form an unbroken connection between all the machines, the level is
-over. However, the game has a time limit, and on later stages, random
-connections may "break" and rotate themselves. The idea is similar to an old
-game called "NetWalk", but unlike "NetWalk", there is no central "server" that
-all computers must be connected to.
-
-# why translate an nes game?
-
-The now-retired toki pona pages by jan Pije offered a bunch of toki pona translation ROM
-hacks for old games, and to sort of honor jan Pije's contributions, I decided to
-try and make my own translation hack. Except in this case, the game is
-public-domain and open-source, which means there are no copyright issues with
-hosting the game.
-
+preprocessing: Removed the English version. Available in sources.
 ---
 
 # ni li seme
@@ -59,18 +32,17 @@ nanpa awen. sina ken pali e ma kama kepeken nanpa awen lon tenpo ale.
 
 # screenshots / sitelen
 
-![Title Screen / lipu lawa](https://lipu-sona.pona.la/jan_lawa_title.png)
+![lipu lawa](https://lipu-sona.pona.la/jan_lawa_title.png)
 
-![Gameplay / lipu musi](https://lipu-sona.pona.la/jan_lawa_gameplay.png)
+![lipu musi](https://lipu-sona.pona.la/jan_lawa_gameplay.png)
 
-# downloads / o kama jo e musi ni
+# o kama jo e musi ni
 
-* [NES ROM file (v2) / lipu sona pi ilo NES (ante #2)](https://lipu-sona.pona.la/jan_lawa.nes)
+* [lipu sona pi ilo NES (ante #2)](https://lipu-sona.pona.la/jan_lawa.nes)
 
-* [(Very messy) source code / lipu pi nasin pali pi lipu sona](https://lipu-sona.pona.la/jan_lawa_src.tar.gz)
+* [lipu pi nasin pali pi lipu sona](https://lipu-sona.pona.la/jan_lawa_src.tar.gz)
 
 ## ante
 
 * ante #2: lipu pi pini pona li toki e nimi "mi". ona li wile toki e nimi
-  "sina". mi pona e ni. (v2: the ending screen said "mi" instead of "sina", which i
-  fixed.)
+  "sina". mi pona e ni.
