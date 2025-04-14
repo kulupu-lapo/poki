@@ -3,7 +3,8 @@ title: akesi li wile lon nena (kepeken sitelen Lasina)
 authors:
 - kita
 date: 2022-06-14
-sources: https://web.archive.org/2/https://lipu.pona.la/kita/akesi-li-wile-lon-nena-kepeken-sitelen-lasina
+sources:
+- https://web.archive.org/web/2/https://lipu.pona.la/kita/akesi-li-wile-lon-nena-kepeken-sitelen-lasina
 
 ---
 

@@ -3,7 +3,8 @@ title: null
 authors:
 - soweli-iki
 date: 2023-06-18
-sources: https://web.archive.org/2/https://lipu.pona.la/soweli-iki/nasin-kalama-nanpa
+sources:
+- https://web.archive.org/web/2/https://lipu.pona.la/soweli-iki/nasin-kalama-nanpa
 
 ---
 

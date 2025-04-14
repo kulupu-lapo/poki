@@ -3,7 +3,8 @@ title: pali mi nanpa wan
 authors:
 - mimuki
 date: 2022-08-08
-sources: https://web.archive.org/2/https://lipu.pona.la/mimuki/pali-mi-nanpa-wan
+sources:
+- https://web.archive.org/web/2/https://lipu.pona.la/mimuki/pali-mi-nanpa-wan
 
 ---
 

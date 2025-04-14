@@ -3,7 +3,8 @@ title: ken la ilo ni li pona ala
 authors:
 - kita
 date: 2022-08-08
-sources: https://web.archive.org/2/https://lipu.pona.la/kita/ken-la-ilo-ni-li-pona-ala
+sources:
+- https://web.archive.org/web/2/https://lipu.pona.la/kita/ken-la-ilo-ni-li-pona-ala
 
 ---
 

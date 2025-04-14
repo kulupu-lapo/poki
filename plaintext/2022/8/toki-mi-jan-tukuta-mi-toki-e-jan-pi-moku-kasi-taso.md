@@ -3,7 +3,8 @@ title: null
 authors:
 - tuxysta
 date: 2022-08-06
-sources: https://web.archive.org/2/https://lipu.pona.la/tuxysta/toki-mi-jan-tukuta-mi-toki-e-jan-pi-moku-kasi-taso
+sources:
+- https://web.archive.org/web/2/https://lipu.pona.la/tuxysta/toki-mi-jan-tukuta-mi-toki-e-jan-pi-moku-kasi-taso
 
 ---
 
