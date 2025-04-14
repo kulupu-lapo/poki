@@ -23,7 +23,7 @@ const Article = z
       z.string().regex(/^\d{4}-(0[1-9]|1[0-2])$/, "Invalid yyyy-mm format"),
       z.null(),
     ]),
-    tags: z.array(z.string()).nonempty().optional(),
+    tags: z.array(z.string()).nonempty().nullish(), // TODO: nullish -> nullable
     // missing license -> "assume All rights reserved, but
     // its also possible we aren't yet aware of the correct license"
     license: z.string().nullable(), // TODO: SPDX compliance
