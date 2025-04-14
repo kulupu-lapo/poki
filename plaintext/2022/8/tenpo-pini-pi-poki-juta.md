@@ -3,7 +3,8 @@ title: tenpo pini pi poki Juta
 authors:
 - jan-silan
 date: 2022-08-07
-sources: https://web.archive.org/2/https://lipu.pona.la/jan-silan/tenpo-pini-pi-poki-juta
+sources:
+- https://web.archive.org/web/2/https://lipu.pona.la/jan-silan/tenpo-pini-pi-poki-juta
 
 ---
 

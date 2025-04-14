@@ -3,7 +3,8 @@ title: kon Jukidijan en kon pi Jukidijan ala
 authors:
 - jan-silan
 date: 2022-08-11
-sources: https://web.archive.org/2/https://lipu.pona.la/jan-silan/dyljk1l30h
+sources:
+- https://web.archive.org/web/2/https://lipu.pona.la/jan-silan/dyljk1l30h
 
 ---
 
