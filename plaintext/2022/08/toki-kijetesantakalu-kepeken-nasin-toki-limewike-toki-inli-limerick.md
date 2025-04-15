@@ -11,8 +11,8 @@ sources:
 
 toki kijetesantakalu kepeken nasin toki Limewike (toki Inli "Limerick")
 
-kijetesantakalu.
-ona li sona e pu.
-wile mi
-li sama ni:
+kijetesantakalu.  
+ona li sona e pu.  
+wile mi  
+li sama ni:  
 ona li sona e ku!

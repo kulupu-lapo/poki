@@ -9,9 +9,9 @@ sources:
 
 ---
 
-toki a! mi waso Pin
-mi sitelen e lipu tan ni:
-mi lukin e nasin pi ilo ni
+toki a! mi waso Pin  
+mi sitelen e lipu tan ni:  
+mi lukin e nasin pi ilo ni  
 
-mi pini
+mi pini  
 ale o pona!

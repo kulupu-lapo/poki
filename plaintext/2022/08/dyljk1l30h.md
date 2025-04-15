@@ -6,7 +6,7 @@ date: 2022-08-11
 license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/jan-silan/dyljk1l30h
-
+notes: needs a lot of HTML preprocessing
 ---
 
 <img src='https://i.imgur.com/iiMLzrH.png'>

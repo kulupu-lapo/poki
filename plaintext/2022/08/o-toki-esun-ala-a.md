@@ -9,7 +9,7 @@ sources:
 
 ---
 
-ilo li toki esun! ni li ike lili.
+ilo li toki esun! ni li ike lili.  
 mi tawa esun sina ala tan ni: mi wile ala.
 
 (mi sona e ni: ilo li lukin ala e ni. mi musi.)

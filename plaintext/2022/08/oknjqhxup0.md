@@ -9,11 +9,11 @@ sources:
 
 ---
 
-toki. mi toki e ma ni. 
-ma ni li kama ike tan jan ike. 
-jan ike li kama tawa ma ni. 
-jan ni li pali e lipu tan kulupu pali. 
-lipu ni li ike. 
+toki. mi toki e ma ni.  
+ma ni li kama ike tan jan ike.  
+jan ike li kama tawa ma ni.  
+jan ni li pali e lipu tan kulupu pali.  
+lipu ni li ike.  
 nasin seme la ni li weka. mi sona ala.
 
 o tawa pona. 
