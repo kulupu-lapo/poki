@@ -1,0 +1,24 @@
+name: lipu pi jan Lentan
+# One might argue this goes against the principle that authors
+# shouldn't have their own collections, as their works may instead
+# be browsed through author search. I'd argue in this case creating
+# a collection is warranted, because it's specifically those articles
+# by jan Lentan which are stored in one list at lipu sona pona,
+# and allows us to list excluded items.
+sources:
+  - https://lipu-sona.pona.la/lentan/
+items:
+# - https://lipu-sona.pona.la/lentan/phonetic_alphabet          # Excluded: in English and Russian
+# - https://lipu-sona.pona.la/lentan/keyboard                   # Excluded: in English
+  - plaintext/2020/10/musi-pi-jan-lawa-moli.md
+  - plaintext/2020/10/musi-soki.md
+  - plaintext/2020/11/lipu-nasin-pi-musi-lisi-masan.md
+# - https://lipu-sona.pona.la/lentan/supalape                   # Excluded: in English
+  - plaintext/2020/10/ante-toki-tawa-musi-pi-sitelen-tawa.md
+  - plaintext/2020/08/jan-lawa-pi-linja-ilo.md
+# - https://lipu-sona.pona.la/lentan/art_revolution             # Excluded: in English and Russian
+# - https://lipu-sona.pona.la/lentan/city_names                 # Excluded: in English and Russian
+  - plaintext/2021/06/nasin-juni-pi-ilo-kon.md
+  - plaintext/2021/08/o-lawa-e-sona-sina.md
+  - plaintext/2021/09/nasin-tenpo.md
+  - plaintext/2022/10/pilin-pi-kama-pona.md
