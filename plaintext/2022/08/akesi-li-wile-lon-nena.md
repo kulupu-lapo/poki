@@ -4,7 +4,8 @@ description: 'lipu ni li kepeken nasin suwi: kulupu nimi ale la nimi luka taso l
   lon. o kama sona e ni: akesi pona li ken lon nena kepeken nasin seme?'
 authors:
 - jan Kita
-date: 2022-06-14  # on lipu.pona.la; 2022-08-06 on utala.pona.la
+date: 2022-08-06 # on utala.pona.la;
+# 2022-06-14 was stated on lipu.pona.la, but it was set retroactively as the "date written"
 tags:
 - moku li lon
 license: CC0-1.0
