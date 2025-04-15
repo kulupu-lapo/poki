@@ -18,3 +18,4 @@ jan pi moku soweli la ma ale li ike.
 
 jan ale li jan pi moku kasi taso la ma ale li awen. 
 
+
