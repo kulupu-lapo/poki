@@ -1,5 +1,5 @@
 ---
-title: null
+title: o kama sona e mi  # Made up for poki Lapo
 authors:
 - waso-pin
 date: 2022-08-08

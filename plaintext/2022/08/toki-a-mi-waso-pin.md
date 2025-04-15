@@ -1,5 +1,5 @@
 ---
-title: null
+title: mi waso Pin  # Made up for poki Lapo
 authors:
 - waso-pin
 date: 2022-08-07

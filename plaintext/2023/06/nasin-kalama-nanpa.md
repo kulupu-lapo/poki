@@ -1,5 +1,5 @@
 ---
-title: null
+title: nasin kalama nanpa  # Made up for poki Lapo
 authors:
 - soweli-iki
 date: 2023-06-18
