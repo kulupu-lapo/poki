@@ -3,6 +3,7 @@ title: akesi li wile lon nena (kepeken sitelen pona)
 authors:
 - kita
 date: 2022-06-14
+license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/kita/akesi-li-wile-lon-nena-kepeken-sitelen-pona
 

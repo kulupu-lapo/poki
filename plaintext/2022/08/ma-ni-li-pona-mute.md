@@ -3,6 +3,7 @@ title: ma ni li pona mute
 authors:
 - soweli-mokapen
 date: 2022-08-07
+license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/soweli-mokapen/ma-ni-li-pona-mute
 
