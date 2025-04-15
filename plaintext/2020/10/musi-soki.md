@@ -436,7 +436,7 @@ mute la, sitelen ni li loje.
 
 ![sitelen ni li jo e sitelen tu pi ijo musi Soki wan. sitelen #1 li jo e poka
 sewi pi ijo musi "jan utala". sitelen Kansi "歩" pimeja li lon ona. sitelen #2 li jo e
-poka anpa ona. sitelen Kansi "と" loje li lon ona.](shogi_piece.gif)
+poka anpa ona. sitelen Kansi "と" loje li lon ona.](https://lipu-sona.pona.la/shogi_piece.gif)
 
 sitelen ni la, ijo musi "jan utala" li jo e sitelen pi ijo musi "jan utala wawa"
 lon poka anpa ona.
