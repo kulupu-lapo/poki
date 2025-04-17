@@ -1,6 +1,6 @@
 ---
-title: UTMWS 13: a, o lukin e lon ni! [BFDIA 13 in toki pona!]
-original-title: BFDIA 13: Well, Look Who It Is!
+title: "UTMWS 13: a, o lukin e lon ni! [BFDIA 13 in toki pona!]"
+original-title: "BFDIA 13: Well, Look Who It Is!"
 description: |
   o mu tawa jan mu! 
   
