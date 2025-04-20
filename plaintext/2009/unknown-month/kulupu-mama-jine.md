@@ -1,6 +1,11 @@
 ---
 title: kulupu mama Jine
-description: When trying to determine just what it is that makes humanity unique, the topic of language never fails to come up. It is the bond that holds societies together, the skill that allows us to share ideas; it is even the code on which our technologies run. When looking to understand the past, language is the remainder that brings the most reward, for nothing can bring the past back to life as vividly as language.
+description: When trying to determine just what it is that makes humanity unique,
+  the topic of language never fails to come up. It is the bond that holds societies
+  together, the skill that allows us to share ideas; it is even the code on which
+  our technologies run. When looking to understand the past, language is the remainder
+  that brings the most reward, for nothing can bring the past back to life as vividly
+  as language.
 authors:
   - Wolf Blitzer    # jan Muwawa
   - Richard Heene   # jan Wiko Jine

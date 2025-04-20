@@ -1,6 +1,8 @@
 ---
 title: sike pipi
-description: a translation of Lemon Demon’s song Spiral of Ants, into everyone’s favorite conlang with under 200 words. directly inspired by jan Misali’s toki pona translations of various Rhythm Heaven and WarioWare songs.
+description: a translation of Lemon Demon’s song Spiral of Ants, into everyone’s favorite
+  conlang with under 200 words. directly inspired by jan Misali’s toki pona translations
+  of various Rhythm Heaven and WarioWare songs.
 authors:
   - monumentofgranite
 date: 2024-12-16

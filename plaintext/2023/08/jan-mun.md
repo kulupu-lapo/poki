@@ -11,8 +11,7 @@ sources:
   - https://mun.la/lipu/jan-mun.html
   - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/jan-mun.md
   - http://utala.pona.la/toki-en-lipu/lipu-suli/jan-mun.html
-preprocessing:
-  this was taken from an html tag. i've replaced html tags with markdown.
+preprocessing: this was taken from an html tag. i've replaced html tags with markdown.
   lupa ascii art was put in codeblock
 notes: originally in sitelen pona via a ligature font
 ---

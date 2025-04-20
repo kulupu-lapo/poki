@@ -1,8 +1,7 @@
 ---
 title: "Good Omens: S2 E6 (toki pona transcription)"
 original-title: Every Day
-description:
-  toki! An attempted translation of that scene from the end of season 2
+description: toki! An attempted translation of that scene from the end of season 2
   (spoilers ofc). This is my first proper translation attempt, so any and all feedback/corrections
   would be greatly appreciated. I'll be updating as I translate more and fix mistakes
   :)

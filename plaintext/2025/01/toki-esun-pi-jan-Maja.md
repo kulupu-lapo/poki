@@ -1,7 +1,8 @@
 ---
 title: toki esun pi jan Maja
 original-title: Maya's Conversatie
-description: A comic made by Studio Massa for his Ongezellig series, translated by jan Majeka
+description: A comic made by Studio Massa for his Ongezellig series, translated by
+  jan Majeka
 authors:
   - Studio Massa
 translators:

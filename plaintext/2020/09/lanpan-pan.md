@@ -15,7 +15,8 @@ tags:
 license: null
 sources:
   - https://docs.google.com/document/d/1Pz7rvn7LXPJmJZ6AJxEWa6WuOJys8KHioXLtYkj0k-Q/edit
-preprocessing: Removed the gap at the start of paragraphs. Inferred a bullet point not found in the original, likely ommited by mistake. 
+preprocessing: Removed the gap at the start of paragraphs. Inferred a bullet point
+  not found in the original, likely ommited by mistake.
 ---
 
 # lanpan pan

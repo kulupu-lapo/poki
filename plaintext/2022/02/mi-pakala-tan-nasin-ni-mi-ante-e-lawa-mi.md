@@ -1,8 +1,7 @@
 ---
 title: mi pakala tan nasin ni. mi ante e lawa mi.
 original-title: Did I get lost along the way? Lose my mind for a new identity?
-description:
-  "English Speakers - This is a toki pona translation of a fic I wrote
+description: "English Speakers - This is a toki pona translation of a fic I wrote
   last summer. It is entirely in toki pona, and if you don’t speak the language you’d
   be much better off reading the original lol. Also if you have a fic you want me
   to translate to toki pona for some reason I will do it no charge, I love translation
@@ -23,8 +22,7 @@ sources:
   - https://archiveofourown.org/works/37200148
 archives:
   - https://archive.ph/FUGv1
-preprocessing:
-  mi nasin Markdown e lipu open pi nasin HTML · lipu open la sitelen
+preprocessing: mi nasin Markdown e lipu open pi nasin HTML · lipu open la sitelen
   `\n` mute li poka li lon e weka suli · nasin Markdown la ni li ken ala · kin mi
   weka e sitelen jaki Zalgo
 notes: toki Inli li lon lipu ni

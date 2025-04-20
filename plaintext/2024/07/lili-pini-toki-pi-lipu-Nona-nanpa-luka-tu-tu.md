@@ -1,22 +1,18 @@
 ---
 title: lili pini toki pi lipu Nona nanpa luka tu tu
 original-title: Nona the Ninth epilogue
-description:
-  "NTN epilogue, but toki pona my plan so far: - chapter 1 is sitelen lasina
+description: "NTN epilogue, but toki pona my plan so far: - chapter 1 is sitelen lasina
   (ie: plain old ascii characters) - chapter 2 is sitelen pona. it will be an image
   since ao3 doesn't let me use a custom @font-face for fanworks, but other than format
   it's the exact same as chapter 1 - chapter 3 is a shitty backtranslation, for the
   amusement of english-only readers who want to see just how badly KJV english correlates
   to toki pona. - chapter 4 is misc notes on translation. - chapter 5 is me explaining
-  each character's name, and being so normal about it.
-
-  If anyone has grammar corrections PLEASE comment below! Unfortunately, there aren't
-  exactly tokiponist TLT fans coming out of the woodwork eager to proofread. The target
-  audience of this is me and me only, I will be pleasantly surprised if literally
-  anyone else is interested.
-
-  this is the most i will translate, because i am on thin ice with copyright as is,
-  and because i am only somewhat a masochist. if anyone else wants to illegally translate
+  each character's name, and being so normal about it.\nIf anyone has grammar corrections
+  PLEASE comment below! Unfortunately, there aren't exactly tokiponist TLT fans coming
+  out of the woodwork eager to proofread. The target audience of this is me and me
+  only, I will be pleasantly surprised if literally anyone else is interested.\nthis
+  is the most i will translate, because i am on thin ice with copyright as is, and
+  because i am only somewhat a masochist. if anyone else wants to illegally translate
   TLT into a language with no words for numbers above two, i wish them luck, but i'm
   not doing that."
 authors:

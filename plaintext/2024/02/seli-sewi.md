@@ -1,8 +1,7 @@
 ---
 title: seli sewi
 original-title: holy fire
-description:
-  "seli sewi li kipisi e sina. seli sewi li lon oko ona. ante: jan Makalole
+description: "seli sewi li kipisi e sina. seli sewi li lon oko ona. ante: jan Makalole
   li kama sona e jan sewi."
 authors:
   - Wholesome_Soup

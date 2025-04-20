@@ -11,7 +11,7 @@ tags:
   - children's book
   - book
   - animals
-license: # `null` if no or unknown license
+license: null # `null` if no or unknown license
 sources:
   - https://drive.google.com/file/d/1OXasJRYbz5GLNGc0aCL-rr4KCo0JyM1P/view
 preprocessing: Removed illustrations as they are not found separately online.

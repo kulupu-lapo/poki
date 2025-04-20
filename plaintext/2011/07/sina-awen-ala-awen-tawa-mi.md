@@ -1,5 +1,5 @@
 ---
-title: sina awen ala awen tawa mi? 
+title: sina awen ala awen tawa mi?
 authors:
   - jan Mako
 date: 2011-06-01

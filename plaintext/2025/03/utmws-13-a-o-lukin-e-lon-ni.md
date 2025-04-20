@@ -3,7 +3,7 @@ title: "UTMWS 13: a, o lukin e lon ni! [BFDIA 13 in toki pona!]"
 original-title: "BFDIA 13: Well, Look Who It Is!"
 description: |
   o mu tawa jan mu! 
-  
+
   JAN KALAMA:
   - meli Siliwa (mi a!)
   - jan Majeka
@@ -13,9 +13,9 @@ description: |
   - jan Tonalu
   - mun Kekan San
   ↑↑ ona ale li pona mute a!
-  
+
   sitelen open: https://www.youtube.com/watch?v=T2NuWcd0t_U
-  
+
   this is a fandub i do not work for jacknjellify 
   excuse the sound quality half of us have bad mics lol
 authors:
@@ -29,7 +29,8 @@ tags:
 license: null
 sources:
   - https://www.youtube.com/watch?v=uAkbemmXiuo
-preprocessing: merged same-speaker sections, removed asterisks, changed "[kalama moku tu]" to "[kalama moku]"
+preprocessing: merged same-speaker sections, removed asterisks, changed "[kalama moku
+  tu]" to "[kalama moku]"
 ---
 
 KIWEN SUWI:  

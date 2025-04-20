@@ -24,7 +24,7 @@ sources:
   - https://musicbrainz.org/release/03745732-90f3-4346-9fe5-d9834bd6d2e8
   - https://open.spotify.com/album/2fshJlUD4pqQs2xJVhdXCc
   - https://open.spotify.com/track/052Dwmd8nb7JierEdvnnHc
-  
+
   # lyrics:
   - https://www.shazam.com/song/1759796205/-feat-jan-usawi
 ---

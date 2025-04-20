@@ -1,7 +1,7 @@
 ---
 title: o sina olin e mi
 authors:
-  - Augur Key-chain 
+  - Augur Key-chain
 date: 2017-05-01
 tags:
   - music

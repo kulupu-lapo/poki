@@ -5,8 +5,8 @@ authors:
   - jan Asiku
   - kule epiku Atawan
   - cudsys
-  - Deric Jones 
-  - jan Kepe 
+  - Deric Jones
+  - jan Kepe
   - jan Kepi
   - jan Misali
   - jan Sa

@@ -1,8 +1,7 @@
 ---
 title: My Immortal in toki pona
 original-title: My Immortal
-description:
-  exactly what it says on the tin. a fan translation of my immortal, but
+description: exactly what it says on the tin. a fan translation of my immortal, but
   with (hopefully) correct toki pona grammar and spelling.
 authors:
   - Tara Gilesbie

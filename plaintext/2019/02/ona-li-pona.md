@@ -3,8 +3,8 @@ title: ona li pona
 authors:
   - jan Nikoleta
 proofreaders:
-  - jan Nale 
-  - jan Ne 
+  - jan Nale
+  - jan Ne
 date: 2019-02-23
 tags:
   - music

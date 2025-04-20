@@ -7,7 +7,8 @@ license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-lili.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-lili.html
-preprocessing: replaced html with markdown code block for layout. Used latin version, the original is sitelen pona
+preprocessing: replaced html with markdown code block for layout. Used latin version,
+  the original is sitelen pona
 ---
 
 ```

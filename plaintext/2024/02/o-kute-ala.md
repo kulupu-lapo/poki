@@ -28,7 +28,7 @@ sources:
   # lyrics:
   - https://www.deezer.com/album/549040202
   - https://www.shazam.com/song/1731701506/o-kute-ala
-   
+
   # reposts:
   - https://www.iheart.com/artist/nardi-96026/albums/o-kute-ala-256498836/
   - https://soundcloud.com/leo_nardi/o-kute-ala

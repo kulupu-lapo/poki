@@ -1,13 +1,13 @@
 ---
 title: 'SONA SIN #4 | News in Toki Pona'
-description: "mi wile e ni: sitelen tawa ni li pona tawa sina!\n\nsitelen: \nBy PolizeiBerlin\
-  \ - own picture, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=100022285\n\
-  \nBy government.ru - http://static.government.ru/media/photos/orig/W3GA78Q5BQLJARph45cr0ii8CYI93HwA.png,\
-  \ CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=72687127\n\nBy Dim\
-  \ Grits - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=4617984\n\
-  \nBy Carport - own work, usingFile:Saint Vincent and the Grenadines location map.svg\
-  \ by NordNordWest.STRM-3 data for the relief, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23501870\n\
-  \ \nOr creative commons (the flags) or drawn by myself\n\nlipu (sources):\nhttps://edition.cnn.com/2021/04/09/asia/south-korea-iran-tanker-intl-hnk/index.html\n\
+description: "mi wile e ni: sitelen tawa ni li pona tawa sina!\n\nsitelen: \nBy PolizeiBerlin
+  - own picture, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=100022285\n
+  \nBy government.ru - http://static.government.ru/media/photos/orig/W3GA78Q5BQLJARph45cr0ii8CYI93HwA.png,
+  CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=72687127\n\nBy Dim Grits
+  - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=4617984\n
+  \nBy Carport - own work, usingFile:Saint Vincent and the Grenadines location map.svg
+  by NordNordWest.STRM-3 data for the relief, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23501870\n
+  \nOr creative commons (the flags) or drawn by myself\n\nlipu (sources):\nhttps://edition.cnn.com/2021/04/09/asia/south-korea-iran-tanker-intl-hnk/index.html\n\
   https://www.npr.org/2021/04/09/985626157/threat-of-volcanic-eruption-forces-residents-to-flee-st-vincent?t=1617961796006\n\
   https://www.newsweek.com/putin-official-end-ukraine-war-breaks-out-border-russia-1582074\n\
   https://www.tagesschau.de/ausland/asien/myanmar-481.html\nhttps://www.wsj.com/articles/riots-in-northern-ireland-spurred-by-brexit-crime-and-covid-19-restrictions-11617900072,\n\
@@ -19,7 +19,8 @@ license: null
 sources:
 - https://www.youtube.com/watch?v=veG9QBS9_-A
 - https://docs.google.com/document/d/1hy-YMMUgYxrJ_0cCf3YuVwuNvDIKgKute7OrfCiuscI/edit
-notes: marked jan Sose L-S's lines with block quotes, added missing text from video to doc
+notes: marked jan Sose L-S's lines with block quotes, added missing text from video
+  to doc
 ---
 
 toki a! ni li sona sin!

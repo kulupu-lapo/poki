@@ -1,7 +1,6 @@
 ---
 title: toki musi unpa pi linja lon sijelo
-description:
-  In which I continue to learn toki pona by using it as an outlet for my
+description: In which I continue to learn toki pona by using it as an outlet for my
   kinks, for some reason. This one fell victim to my love of ending a story with the
   characters falling asleep.
 authors:

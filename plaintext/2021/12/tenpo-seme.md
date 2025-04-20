@@ -5,7 +5,7 @@ authors:
 proofreaders:
   - jan Inkepa
   - jan Kaje
-  - jan Salan 
+  - jan Salan
 date: 2021-12-17
 tags:
   - music

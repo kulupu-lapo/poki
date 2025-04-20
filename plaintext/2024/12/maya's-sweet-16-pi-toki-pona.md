@@ -1,7 +1,8 @@
 ---
 title: Maya's Sweet 16 pi toki pona
 original-title: Maya's Sweet 16
-description: A comic made by Studio Massa as a part of his Ongezellig series, translated by jan Majeka.
+description: A comic made by Studio Massa as a part of his Ongezellig series, translated
+  by jan Majeka.
 authors:
   - Studio Massa
 translators:

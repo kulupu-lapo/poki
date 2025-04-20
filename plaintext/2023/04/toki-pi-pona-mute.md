@@ -12,8 +12,7 @@ sources:
 archives:
   - https://web.archive.org/web/20240930143722/https://archiveofourown.org/works/46329748
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-notes:
-  jan pali li toki Inli e lipu li toki e lon pi lipu ni sin kepeken toki Inli
+notes: jan pali li toki Inli e lipu li toki e lon pi lipu ni sin kepeken toki Inli
   · mi weka e toki ona ni
 ---
 

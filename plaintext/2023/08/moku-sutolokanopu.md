@@ -1,6 +1,6 @@
 ---
 title: moku Sutolokanopu
-original-title: The Beef Stroganoff Song 
+original-title: The Beef Stroganoff Song
 authors:
   - jan Misali
 date: 2023-08-26

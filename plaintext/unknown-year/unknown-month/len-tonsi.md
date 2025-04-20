@@ -1,6 +1,7 @@
 ---
 title: len tonsi
-description: '"len tonsi" can have a specific double meaning that is profound and freeing to think about.'
+description: '"len tonsi" can have a specific double meaning that is profound and
+  freeing to think about.'
 authors:
   - lipamanka
 date: null
@@ -11,7 +12,8 @@ sources:
 archives:
   - https://web.archive.org/web/20230521211226/https://lipamanka.gay/toki-pona-taso
   - https://web.archive.org/web/20230509011221/https://lipamanka.gay/toki-pona-taso/len-tonsi
-preprocessing: changed sitelen pona to sitelen Lasina, removed the pretty whitespace, removed colored text
+preprocessing: changed sitelen pona to sitelen Lasina, removed the pretty whitespace,
+  removed colored text
 ---
 
 lipamanka li pali e ni  

@@ -1,7 +1,6 @@
 ---
 title: lipu pi musi moli
-description:
-  tenpo pi suli pimeja kama la jan Lajato anpa e jan Elele la, ona li pilin.
+description: tenpo pi suli pimeja kama la jan Lajato anpa e jan Elele la, ona li pilin.
   ma sama ala la, waso sewi Wemu li oko pilin e olin.
 authors:
   - treatster

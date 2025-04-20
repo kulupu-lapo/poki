@@ -1,6 +1,7 @@
 ---
 title: meli en akesi
-description: mi sitelen e ni tawa jan Sonja. lipu ni li pona tawa ona la [mi kama lon lipu pi toki pona](https://tokipona.org/)!
+description: mi sitelen e ni tawa jan Sonja. lipu ni li pona tawa ona la [mi kama
+  lon lipu pi toki pona](https://tokipona.org/)!
 authors:
   - jan Kekan San
 date: 2023-11-10

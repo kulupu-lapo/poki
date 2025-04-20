@@ -1,5 +1,5 @@
 ---
-title: toki pona translation of the Wikipedia article intro on quantum electrodynamics 
+title: toki pona translation of the Wikipedia article intro on quantum electrodynamics
 authors:
   - Contributors to Wikipedia
 translators:

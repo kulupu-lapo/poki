@@ -1,7 +1,6 @@
 ---
 title: mi tu.
-description:
-  kulupu Upi li jan tu li jan Kuki li jan Sato. taso jan ante li sona ala
+description: kulupu Upi li jan tu li jan Kuki li jan Sato. taso jan ante li sona ala
   a! ona li pona e ni.
 authors:
   - dragon_chris

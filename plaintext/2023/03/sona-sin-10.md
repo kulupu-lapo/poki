@@ -1,15 +1,15 @@
 ---
 title: 'SONA SIN #10 | News in Toki Pona'
-description: "#sonasin #semelisin\nlipu/sources/translation:\nhttps://docs.google.com/document/d/1qfK-RLdvcp2hlDrCNlHo_bETaJmPR2uWkLEkBkugHuA/edit?usp=sharing\n\
-  \nImages: \nBy Fingalo - Own work, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=2294353\n\
-  By GerardM - http://www.digischool.nl/bi/onderwaterbiologie/, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=284678\n\
-  By Canonzoom1 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128468629\n\
-  By sjr/horn - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=660479\n\
-  By Ma8thew - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=613938\n\
-  By Robert M. Hunt - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=28384153\n\
-  By Пресс-служба Президента РФ - http://kremlin.ru/events/president/news/70368/photos/70121,\
-  \ CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=128036379\nBy Lybil\
-  \ BER - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=8738221\n\
+description: "#sonasin #semelisin\nlipu/sources/translation:\nhttps://docs.google.com/document/d/1qfK-RLdvcp2hlDrCNlHo_bETaJmPR2uWkLEkBkugHuA/edit?usp=sharing\n
+  \nImages: \nBy Fingalo - Own work, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=2294353\n
+  By GerardM - http://www.digischool.nl/bi/onderwaterbiologie/, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=284678\n
+  By Canonzoom1 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128468629\n
+  By sjr/horn - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=660479\n
+  By Ma8thew - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=613938\n
+  By Robert M. Hunt - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=28384153\n
+  By Пресс-служба Президента РФ - http://kremlin.ru/events/president/news/70368/photos/70121,
+  CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=128036379\nBy Lybil BER
+  - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=8738221\n
   By Minh Nguyen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129577575"
 authors:
 - jan Alonola

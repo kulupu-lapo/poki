@@ -1,7 +1,6 @@
 ---
 title: jan alasa en soweli sona
-description:
-  "jan alasa li wile moku. taso: jan ona li ken ala alasa tan ken tawa
+description: "jan alasa li wile moku. taso: jan ona li ken ala alasa tan ken tawa
   lili ona. soweli sona li pilin musi mute tawa ona. tu li esun. [ A short toki pona
   fable about a fox and a hunter. ]"
 authors:

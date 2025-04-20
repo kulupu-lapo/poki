@@ -1,8 +1,7 @@
 ---
 title: "palisa monsi pi soweli lon tenpo ale: pini pi musi"
 original-title: "Eternal Tails: Game Over"
-description:
-  'utala ale li wile pini. jan pona ale li wile tawa anpa. jan ale li wile
+description: 'utala ale li wile pini. jan pona ale li wile tawa anpa. jan ale li wile
   toki e ni lon tenpo kama: "mi tawa." soweli Mile Powe (Miles Prower) li ante ala.'
 authors:
   - Pantalion

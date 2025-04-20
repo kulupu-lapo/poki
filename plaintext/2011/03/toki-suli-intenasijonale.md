@@ -1,5 +1,5 @@
 ---
-title: toki suli Intenasijonale 
+title: toki suli Intenasijonale
 authors:
   - anonymous
 date: 2011-03-18

@@ -6,7 +6,6 @@ date: 2022-08-06
 license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/telosuwi/sitelen-pi-leko-nasa
-
 ---
 
 sitelen pi leko nasa!

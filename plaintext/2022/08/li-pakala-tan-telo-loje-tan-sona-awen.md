@@ -1,7 +1,6 @@
 ---
 title: li pakala tan telo loje (tan sona awen)
-description:
-  "jan pali ma The Magnus Institute li kama e kulupu pali. jan Jon li musi
+description: "jan pali ma The Magnus Institute li kama e kulupu pali. jan Jon li musi
   jaki e telo loje. jan Jon li toki e sona awen. note: as i reread this i realise
   i’ve made many small translation errors and mistakes! this will probably be changed
   around a bit."
@@ -17,11 +16,9 @@ sources:
   - https://archiveofourown.org/works/40897929
 archives:
   - https://archive.ph/xPphC
-preprocessing:
-  mi nasin Markdown e lipu open pi nasin HTML · nasin Markdown la toki
+preprocessing: mi nasin Markdown e lipu open pi nasin HTML · nasin Markdown la toki
   tu li ken ala weka suli · ni la mi lili e weka suli · weka ale li kama lili sama
-notes:
-  ilo li sona ala e mi la ona li pana ala e nimi pi lipu open · ni la mi sona
+notes: ilo li sona ala e mi la ona li pana ala e nimi pi lipu open · ni la mi sona
   ala e nimi · kin toki Inli lili li lon
 ---
 

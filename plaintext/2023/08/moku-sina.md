@@ -1,7 +1,6 @@
 ---
 title: moku sina
-description:
-  "soweli suli li moku e sina anu: soweli, jan, mi, kala, kijetesantakalu,
+description: "soweli suli li moku e sina anu: soweli, jan, mi, kala, kijetesantakalu,
   monsuta, ona, waso moku sina"
 authors:
   - BR0K3NWA1NUTB50N

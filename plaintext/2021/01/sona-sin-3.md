@@ -1,17 +1,17 @@
 ---
 title: 'SONA SIN #3 | News in Toki Pona'
-description: "nimi: \n\nApapu Mansu Ati (Abdrabbuh Mansur Hadi, عبدربه منصور هادي‎)\n\
-  kulupu Wutijun (ٱلْحُوثِيُّون‎)\n\nsitelen:\n\nBy U.S. Department of State - https://www.flickr.com/photos/statephotos/21149349393/,\
-  \ Public Domain, https://commons.wikimedia.org/w/index.php?curid=43736415\nBy Mbowasport\
-  \ - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95726175\n\
-  By Shealah Craighead - White House, Public Domain, https://commons.wikimedia.org/w/index.php?curid=63768460\n\
-  By United States Department of State - [1], Public Domain, https://commons.wikimedia.org/w/index.php?curid=70332301\n\
-  By Henry Ridgwell (VOA) - Yemen Fighting Intensifies as Fears Grow of Sectarian\
-  \ Conflict, Public Domain, https://commons.wikimedia.org/w/index.php?curid=70173465\n\
-  By U.S Defense Department - https://www.flickr.com/photos/secdef/9401413723/in/photostream/,\
-  \ Public Domain, https://commons.wikimedia.org/w/index.php?curid=75056785\nBy E\n\
-  U2017EE Estonian Presidency - Tallinn Digital Summit. Welcome dinner hosted by HE\
-  \ Donald Tusk. Handshake, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=91603010\n\
+description: "nimi: \n\nApapu Mansu Ati (Abdrabbuh Mansur Hadi, عبدربه منصور هادي‎)\n
+  kulupu Wutijun (ٱلْحُوثِيُّون‎)\n\nsitelen:\n\nBy U.S. Department of State - https://www.flickr.com/photos/statephotos/21149349393/,
+  Public Domain, https://commons.wikimedia.org/w/index.php?curid=43736415\nBy Mbowasport
+  - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95726175\n
+  By Shealah Craighead - White House, Public Domain, https://commons.wikimedia.org/w/index.php?curid=63768460\n
+  By United States Department of State - [1], Public Domain, https://commons.wikimedia.org/w/index.php?curid=70332301\n
+  By Henry Ridgwell (VOA) - Yemen Fighting Intensifies as Fears Grow of Sectarian
+  Conflict, Public Domain, https://commons.wikimedia.org/w/index.php?curid=70173465\n
+  By U.S Defense Department - https://www.flickr.com/photos/secdef/9401413723/in/photostream/,
+  Public Domain, https://commons.wikimedia.org/w/index.php?curid=75056785\nBy E\n
+  U2017EE Estonian Presidency - Tallinn Digital Summit. Welcome dinner hosted by HE
+  Donald Tusk. Handshake, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=91603010\n
   \nlipu: \nhttps://www.tagesschau.de/ausland/afrika/uganda-wahl-107.html\nhttps://www.bbc.com/news/world-middle-east-55661303https://www.bbc.com/news/world-middle-east-55661303\n\
   https://edition.cnn.com/2021/01/14/asia/indonesia-sulawesi-earthquake-intl-hnk/index.html\n\
   https://www.theguardian.com/world/2021/jan/15/dutch-government-resigns-over-child-benefits-scandal\n\

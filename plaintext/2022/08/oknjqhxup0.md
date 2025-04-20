@@ -6,7 +6,6 @@ date: 2022-08-11
 license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/tuxysta/oknjqhxup0
-
 ---
 
 toki. mi toki e ma ni.  

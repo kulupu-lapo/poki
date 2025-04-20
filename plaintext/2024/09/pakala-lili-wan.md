@@ -1,8 +1,7 @@
 ---
 title: pakala lili wan
 original-title: One Little Accident
-description:
-  misa Kimi en misa Emi li musi lon poka pi tomo ona. ona li lukin li kute
+description: misa Kimi en misa Emi li musi lon poka pi tomo ona. ona li lukin li kute
   mute. taso, pakala lili wan li lon. ni li lon ala tan tawa kepeken tenpo lili.
 authors:
   - secretfirefox

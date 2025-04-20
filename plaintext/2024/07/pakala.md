@@ -1,8 +1,7 @@
 ---
 title: "[PAKALA]"
 original-title: Deltarune - THE DEATH
-description:
-  DELTARUNE death screens translated into toki pona. sina moli la, sina
+description: DELTARUNE death screens translated into toki pona. sina moli la, sina
   ken lukin e toki ni.
 authors:
   - Toby Fox

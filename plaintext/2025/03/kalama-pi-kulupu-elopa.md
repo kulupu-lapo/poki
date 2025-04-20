@@ -13,7 +13,8 @@ sources:
   - https://ivaaan.neocities.org/elopa/
 archives:
   - https://web.archive.org/web/0/https://ivaaan.neocities.org/elopa/
-preprocessing: removed formatting characters for SP fonts e.g. square brackets for cartouches, word1 for alt glyph selection
+preprocessing: removed formatting characters for SP fonts e.g. square brackets for
+  cartouches, word1 for alt glyph selection
 ---
 
 jan sama o kute e kalama tan pona  
