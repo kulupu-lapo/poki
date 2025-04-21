@@ -8,7 +8,7 @@ authors:
   - astrodonunt
 original-authors:
   - Stefan Witwicki
-  # music by Fryderyk Chopin
+  # music by Frédéric Chopin
 proofreaders: null
 date: 2014-10-23
 license: null
