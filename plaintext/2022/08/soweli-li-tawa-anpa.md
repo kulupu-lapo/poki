@@ -3,7 +3,7 @@ title: soweli li tawa anpa
 original-title: Кошка падает
 authors:
   - fandom Nastoyashee Sveklo 2022 (Nastoyashee_Sveklo)
-translators:
+original-authors:
   - fandom Nastoyashee Sveklo 2022 (Nastoyashee_Sveklo)
 date: 2022-08-02
 license: null

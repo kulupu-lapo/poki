@@ -1,11 +1,12 @@
 ---
 title: toki pi jan Koele
 original-title: Ecclesiastes
+date: 2001-01-01
+date-precision: none
 authors:
-  - authors of the Bible
-date: null
-translators:
   - Michael F.
+original-authors:
+  - authors of the Bible
 tags:
   - translation
   - prose

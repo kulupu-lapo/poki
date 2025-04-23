@@ -2,9 +2,9 @@
 title: sitelen suwi
 # original-title: Unclear to proofreader
 authors:
-  - Ferenc Szilágyi
-translators:
   - jan Kaja
+original-authors:
+  - Ferenc Szilágyi
 date: 2020-07-26
 license: null
 sources:

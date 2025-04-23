@@ -1,8 +1,10 @@
 ---
 title: ma tomo Pape
 original-title: Tower of Babel
-translators:
+authors:
   - Damian Yerrick  # According to Wikipedia's page history; unclear if this is the actual translator
+original-authors:
+  - unknown  # added automatically during reschema
 date: 2005-07-15
 license: CC BY-SA 3.0  # License from Wikipedia
 sources:

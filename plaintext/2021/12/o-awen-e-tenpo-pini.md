@@ -2,9 +2,9 @@
 title: o awen e tenpo pini  # kalama: o awen e tenpo pini
 original-title: Auld Lang Syne
 authors:
-  - folk origin
-translators:
   - jan Ke Tami
+original-authors:
+  - folk origin
 date: 2021-12-20
 tags:
   - translation

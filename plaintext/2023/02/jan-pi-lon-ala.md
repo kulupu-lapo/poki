@@ -2,9 +2,9 @@
 title: jan pi lon ala
 original-title: Antigonish
 authors:
-- jan Men (William Hughes Mearns)
-translators:
 - jan Kapesi Pake
+original-authors:
+- jan Men (William Hughes Mearns)
 date: 2023-02-06
 tags:
 - poetry

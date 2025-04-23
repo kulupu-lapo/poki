@@ -2,9 +2,9 @@
 title: mama o mi lon
 original-title: Mother, I'm Here
 authors:
-  - Darren Korb
-translators:
   - jan Kekan San
+original-authors:
+  - Darren Korb
 date: 2022-12-28
 license: null
 sources:

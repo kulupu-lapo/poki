@@ -2,7 +2,7 @@
 title: telo tenpo
 authors:
   - jan Nikoleta
-  - jan Kepe 
+  - jan Kepe
 date: 2023-03-31
 tags:
   - music

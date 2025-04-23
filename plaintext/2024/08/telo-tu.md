@@ -7,7 +7,8 @@ license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-lili.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-lili.html
-preprocessing: used the latin version; the original is sitelen pona. Replaced html with markdown.
+preprocessing: used the latin version; the original is sitelen pona. Replaced html
+  with markdown.
 ---
 
 telo li kama la,  

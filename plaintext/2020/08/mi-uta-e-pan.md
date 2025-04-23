@@ -2,9 +2,9 @@
 title: mi uta e pan
 original-title: i lik the bred
 authors:
-  - Sam Garland
-translators:
   - jan Ne
+original-authors:
+  - Sam Garland
 date: 2020-08-25
 tags:
   - poetry

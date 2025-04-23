@@ -7,7 +7,7 @@ tags: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://lipu-sona.pona.la/lentan/shogi
-preprocessing:
+preprocessing: null
 notes: English translation in HTML comments
 ---
 

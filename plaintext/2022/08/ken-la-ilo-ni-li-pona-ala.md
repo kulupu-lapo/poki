@@ -6,7 +6,6 @@ date: 2022-08-08
 license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/kita/ken-la-ilo-ni-li-pona-ala
-
 ---
 
 #meta

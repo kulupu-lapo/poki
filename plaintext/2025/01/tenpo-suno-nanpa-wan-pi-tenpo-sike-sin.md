@@ -1,6 +1,7 @@
 ---
 title: tenpo suno nanpa wan pi tenpo sike sin
-description: 'ona tu li unpa : ona li wile pana e telo unpa lon tenpo sama pi tenpo sike sin'
+description: 'ona tu li unpa : ona li wile pana e telo unpa lon tenpo sama pi tenpo
+  sike sin'
 authors:
   - SkimmerScollace (Skimmed)
 date: 2025-01-01

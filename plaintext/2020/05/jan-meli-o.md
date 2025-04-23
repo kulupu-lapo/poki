@@ -1,8 +1,10 @@
 ---
 title: jan Meli o
 original-title: Ave Maria
-translators:
+authors:
   - Tobias Merkle
+original-authors:
+  - unknown  # added automatically during reschema
 date: 2020-05-09
 license: null
 sources:

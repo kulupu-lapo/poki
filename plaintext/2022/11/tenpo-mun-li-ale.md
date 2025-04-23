@@ -1,7 +1,6 @@
 ---
 title: tenpo mun li ale
-description:
-  jan Jasija Te en jan Julijen Pasi li lape ala. tenpo mun ni la jan tu
+description: jan Jasija Te en jan Julijen Pasi li lape ala. tenpo mun ni la jan tu
   li toki li lukin e tomo sewi lon mun; jan tu li pilin pona mute. jan Julijen li
   pilin olin. (lipu ni li kepeken e nimi ku.)
 authors:

@@ -1,7 +1,6 @@
 ---
 title: suno mi
-description:
-  jan Ikalusu li kama olin e suno. a.k.a. I started learning toki pona
+description: jan Ikalusu li kama olin e suno. a.k.a. I started learning toki pona
   yesterday and wanted to practice, so here’s a ficlet of Icarus falling in love with
   the sun (pun intended).
 authors:

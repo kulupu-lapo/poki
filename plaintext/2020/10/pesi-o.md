@@ -2,9 +2,9 @@
 title: Pesi o
 original-title: Betty
 authors:
-  - Taylor Swift
-translators:
   - kala pona Tonyu
+original-authors:
+  - Taylor Swift
 date: 2020-10-23
 tags:
   - translation

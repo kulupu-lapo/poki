@@ -1,7 +1,6 @@
 ---
 title: ilo sona anu jan
-description:
-  "ilo Peni li sona e ni: ona li ilo. mama Pijeto sona e ni: ni li lon
+description: "ilo Peni li sona e ni: ona li ilo. mama Pijeto sona e ni: ni li lon
   ala."
 authors:
   - dragon_chris

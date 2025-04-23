@@ -5,10 +5,10 @@ description: jan Sanu li suli a la jan Ami li ken ala jo e ona. jan Sanu li lili
   la ona li wan taso li ken ala tawa tomo sona. sina lukin e toki ni la sina lili
   ala lili a? jan li uta e toki ni la sina suli ala suli a? o open o alasa!
 authors:
+- nick
+original-authors:
 - Lavanya Karthik
 # - Lavanya Karthik (illustrator)
-translators:
-- nick
 date: 2022-02-02
 tags:
 - StoryWeaver level 1

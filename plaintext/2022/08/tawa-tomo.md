@@ -1,9 +1,9 @@
 ---
 title: tawa tomo
 authors:
-  - jan Marta Keen
-translators:
   - jan Kekan San
+original-authors:
+  - jan Marta Keen
 date: 2022-08-27
 license: null
 sources:

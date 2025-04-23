@@ -2,9 +2,9 @@
 title: olin ike
 original-title: Bad Romance
 authors:
-  - Lady Gaga
-translators:
   - jan Melon
+original-authors:
+  - Lady Gaga
 date: 2020-09-09
 tags:
   - lyrics

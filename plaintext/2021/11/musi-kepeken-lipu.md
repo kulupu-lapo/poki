@@ -3,10 +3,10 @@ title: musi kepeken lipu
 original-title: Paper Play
 description: lipu li kama tawa jan Manju. jan pona ona la, lipu ni li kama ijo ante.
 authors:
+- Ret Samys
+original-authors:
 - Mala Kumar
 # - Ruchi Shah (illustrator)
-translators:
-- Ret Samys
 date: 2021-11-03
 tags:
 - StoryWeaver level 2

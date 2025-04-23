@@ -2,9 +2,9 @@
 title: linja pi tawa ala
 original-title: The Road Not Taken
 authors:
-  - Robert Frost
-translators:
   - jan Maliku
+original-authors:
+  - Robert Frost
 date: 2017-07-28
 tags:
   - translation

@@ -1,8 +1,11 @@
 ---
 title: toki en sona
-translators:
+authors:
   - jan Nikita
-date: null
+original-authors:
+  - unknown  # added automatically during reschema
+date: 2001-01-01
+date-precision: none
 tags:
   - translation
   - taoism

@@ -2,9 +2,9 @@
 title: tawa pona
 original-title: BELLA CIAO
 authors:
-  - Fonola Band
-translators:
   - soko Sijeni
+original-authors:
+  - Fonola Band
 date: 2025-02-14
 tags:
   - music
@@ -13,7 +13,8 @@ sources:
   - https://ivaaan.neocities.org/tawa-pona/
 archives:
   - https://web.archive.org/web/0/https://ivaaan.neocities.org/tawa-pona/
-preprocessing: removed formatting characters for SP fonts e.g. square brackets for cartouches, word1 for alt glyph selection
+preprocessing: removed formatting characters for SP fonts e.g. square brackets for
+  cartouches, word1 for alt glyph selection
 ---
 
 suno ni la  

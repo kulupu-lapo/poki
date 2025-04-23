@@ -1,15 +1,15 @@
 ---
 title: 'SONA SIN #6 | News in Toki Pona'
-description: "lipu:\nhttps://nur-positive-nachrichten.de/positive-nachrichten/sportler-teilen-sich-gold-medaille\n\
-  https://www.nau.ch/news/ausland/stolen-generations-australien-will-ureinwohner-entschadigen-65976924\n\
-  https://nur-positive-nachrichten.de/positive-nachrichten/laengster-solar-radweg-in-den-niederlanden\n\
-  https://nur-positive-nachrichten.de/positive-nachrichten/saiga-antilopen-erholen-sich-wieder\n\
-  \nsitelen: \nBy Kristy Robinson / Commonwealth of Australia - This photo is the\
-  \ same work as https://www.pmc.gov.au/sites/default/files/styles/minister_photo/public/minister/scott-morrison-portrait-small2.jpg,\
-  \ which was published by the Commonwealth Government under a CC-BY-4.0 licence on\
-  \ the web page https://www.pmc.gov.au/who-we-are/ministers (copyright info)., CC\
-  \ BY 4.0, https://commons.wikimedia.org/w/index.php?curid=57753091\n\nBy Andrey\
-  \ Giljov - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73737597\n\
+description: "lipu:\nhttps://nur-positive-nachrichten.de/positive-nachrichten/sportler-teilen-sich-gold-medaille\n
+  https://www.nau.ch/news/ausland/stolen-generations-australien-will-ureinwohner-entschadigen-65976924\n
+  https://nur-positive-nachrichten.de/positive-nachrichten/laengster-solar-radweg-in-den-niederlanden\n
+  https://nur-positive-nachrichten.de/positive-nachrichten/saiga-antilopen-erholen-sich-wieder\n
+  \nsitelen: \nBy Kristy Robinson / Commonwealth of Australia - This photo is the
+  same work as https://www.pmc.gov.au/sites/default/files/styles/minister_photo/public/minister/scott-morrison-portrait-small2.jpg,
+  which was published by the Commonwealth Government under a CC-BY-4.0 licence on
+  the web page https://www.pmc.gov.au/who-we-are/ministers (copyright info)., CC BY
+  4.0, https://commons.wikimedia.org/w/index.php?curid=57753091\n\nBy Andrey Giljov
+  - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73737597\n
   \nBy JimJones1971 at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31634806"
 authors:
 - jan Alonola

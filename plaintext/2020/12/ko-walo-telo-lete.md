@@ -2,9 +2,9 @@
 title: ko walo telo lete  # musi kalama Schneeflöckchen Weißröckchen
 original-title: Schneeflöckchen Weißröckchen
 authors:
-  - Hedwig Haberkern
-translators:
   - jan Ke Tami
+original-authors:
+  - Hedwig Haberkern
 date: 2020-12-23
 tags:
   - translation

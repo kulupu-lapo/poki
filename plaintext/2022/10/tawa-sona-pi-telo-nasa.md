@@ -1,5 +1,5 @@
 ---
-title: tawa (sona pi telo nasa) 
+title: tawa (sona pi telo nasa)
 authors:
   - jan Usawi
 date: 2022-10-28

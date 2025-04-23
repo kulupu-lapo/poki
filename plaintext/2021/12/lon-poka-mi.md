@@ -4,7 +4,7 @@ authors:
   - jan Nikoleta
 proofreaders:
   - jan Kaje
-  - jan Pike 
+  - jan Pike
   - jan Seku
   - jan Tepan
 date: 2021-12-17

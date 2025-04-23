@@ -2,9 +2,9 @@
 title: kalama pi kulupu Elopa
 original-title: An die Freude
 authors:
-  - Friedrich Schiller
-translators:
   - soko Sijeni
+original-authors:
+  - Friedrich Schiller
 date: 2025-03-22
 tags:
   - music
@@ -13,7 +13,8 @@ sources:
   - https://ivaaan.neocities.org/elopa/
 archives:
   - https://web.archive.org/web/0/https://ivaaan.neocities.org/elopa/
-preprocessing: removed formatting characters for SP fonts e.g. square brackets for cartouches, word1 for alt glyph selection
+preprocessing: removed formatting characters for SP fonts e.g. square brackets for
+  cartouches, word1 for alt glyph selection
 ---
 
 jan sama o kute e kalama tan pona  

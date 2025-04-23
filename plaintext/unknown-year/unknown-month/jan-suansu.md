@@ -1,13 +1,14 @@
 ---
 title: toki tan lipu pi jan Suansu
 original-title: The Book of Chuang Tzu
+date: 2001-01-01
+date-precision: none
 authors:
-  - Zhuang Zhou
-date: null
-translators:
   - Martin Palmer
   - Elizabeth Breuilly
   - Michael F.
+original-authors:
+  - Zhuang Zhou
 tags:
   - translation
   - prose

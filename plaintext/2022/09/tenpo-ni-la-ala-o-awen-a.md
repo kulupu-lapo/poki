@@ -5,10 +5,10 @@ description: 'jan lili pi toki musi ni li wile pali e ijo mute. taso jan suli al
   li toki e ni: "ala! o awen a!" jan li toki e ni tawa sina la, sina pilin ala pilin
   utala?'
 authors:
+- Miles Rodriguez
+original-authors:
 - Rohini Nilekani
 # - Ruchi Shah (illustrator)
-translators:
-- Miles Rodriguez
 date: 2022-09-19
 tags:
 - StoryWeaver level 1

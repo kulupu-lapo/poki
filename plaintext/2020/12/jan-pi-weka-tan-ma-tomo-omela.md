@@ -2,9 +2,9 @@
 title: jan pi weka tan ma tomo Omela
 original-title: The Ones Who Walk Away from Omelas
 authors:
-  - Ursula K. Le Guin
-translators:
   - soweli nata
+original-authors:
+  - Ursula K. Le Guin
 date: 2020-12-08
 tags:
   - translation

@@ -3,7 +3,8 @@ title: jasima
 description: jasima li lon ala lon
 authors:
   - lipamanka
-date: null
+date: 2001-01-01
+date-precision: none
 license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso

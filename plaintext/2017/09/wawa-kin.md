@@ -1,8 +1,10 @@
 ---
 title: wawa kin
 original-title: Stronger than You
-translators:
+authors:
   - jan Minasa
+original-authors:
+  - unknown  # added automatically during reschema
 date: 2017-09-10
 tags:
   - music

@@ -1,11 +1,12 @@
 ---
 title: akesi Jaba
 original-title: Jabberwocky
+date: 2001-01-01
+date-precision: none
 authors:
-  - Lewis Carroll
-date: null
-translators:
   - Michael F.
+original-authors:
+  - Lewis Carroll
 tags:
   - translation
   - poetry

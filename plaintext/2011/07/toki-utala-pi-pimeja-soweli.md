@@ -1,7 +1,9 @@
 ---
 title: toki utala pi pimeja soweli
-translators:
+authors:
   - jan Ote
+original-authors:
+  - unknown  # added automatically during reschema
 date: 2011-06-01
 license: null
 sources:

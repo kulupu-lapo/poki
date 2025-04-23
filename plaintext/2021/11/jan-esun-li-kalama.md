@@ -1,9 +1,10 @@
 ---
 title: jan esun li kalama
-original-title: Soon May the Wellerman Come 
+original-title: Soon May the Wellerman Come
 authors:
   - jan Ke Tami
-date: 
+date: 2001-01-01
+date-precision: none
 tags:
   - music
 license: All Rights Reserved

@@ -1,7 +1,6 @@
 ---
 title: pana e ma pi pimeja
-description:
-  mani ali li mute tenpo ala. lawa insa li toki tenpo ala. pilin li pakalama
+description: mani ali li mute tenpo ala. lawa insa li toki tenpo ala. pilin li pakalama
   tenpo ala. kalama li pana ike tenpo ala. tan sewi en pimeja pana la, sina lon. sina
   pini e sewi walo pi lawa sitelen pi lape. sina poki pi pimeja. sina alasa poki.
 authors:

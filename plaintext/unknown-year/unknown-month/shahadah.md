@@ -1,8 +1,11 @@
 ---
 title: The Shahadah
-translators:
+authors:
   - jan Pije
-date: null
+original-authors:
+  - unknown  # added automatically during reschema
+date: 2001-01-01
+date-precision: none
 tags:
   - translation
   - religion

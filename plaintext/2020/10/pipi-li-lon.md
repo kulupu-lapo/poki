@@ -2,9 +2,9 @@
 title: pipi li lon
 original-title: 虫儿飞
 authors:
-  - Ekin Cheng
-translators:
   - kala pona Tonyu
+original-authors:
+  - Ekin Cheng
 date: 2020-10-09
 tags:
   - translation

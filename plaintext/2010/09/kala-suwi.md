@@ -1,5 +1,5 @@
 ---
-title: kala suwi 
+title: kala suwi
 authors:
   - soweli toki
 date: 2010-09-01

@@ -1,7 +1,9 @@
 ---
 title: toki insa
-translators:
+authors:
   - socks
+original-authors:
+  - unknown  # added automatically during reschema
 date: 2020-08-19
 tags:
   - translation

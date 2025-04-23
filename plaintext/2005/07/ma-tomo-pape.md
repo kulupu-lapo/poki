@@ -1,8 +1,10 @@
 ---
 title: ma tomo Pape
 original-title: Tower of Babel
-translators:
+authors:
   - jan Pije
+original-authors:
+  - unknown  # added automatically during reschema
 date: 2005-07-15
 license: CC BY-SA 3.0    # License from Wikipedia
 sources:

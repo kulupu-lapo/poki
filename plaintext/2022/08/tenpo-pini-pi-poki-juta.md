@@ -7,7 +7,6 @@ license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/jan-silan/tenpo-pini-pi-poki-juta
 preprocessing: converted HTML to Markdown
-
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Original_Utah_Teapot.jpg" style="width:320px;height:240px;">

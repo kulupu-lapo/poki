@@ -2,9 +2,9 @@
 title: ilo toi
 original-title: Телефон
 authors:
-  - Korney Chukovsky
-translators:
   - jan Tepan
+original-authors:
+  - Korney Chukovsky
 date: 2016-09-25
 tags:
   - translation

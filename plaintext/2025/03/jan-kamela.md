@@ -2,9 +2,9 @@
 title: jan Kamela
 original-title: ¡Ay! Carmela
 authors:
-  - Coro Popular Jabalón
-translators:
   - soko Sijeni
+original-authors:
+  - Coro Popular Jabalón
 date: 2025-03-29
 tags:
   - music
@@ -13,7 +13,8 @@ sources:
   - https://ivaaan.neocities.org/jan-kamela/
 archives:
   - https://web.archive.org/web/0/https://ivaaan.neocities.org/jan-kamela/
-preprocessing: removed formatting characters for SP fonts e.g. square brackets for cartouches, word1 for alt glyph selection
+preprocessing: removed formatting characters for SP fonts e.g. square brackets for
+  cartouches, word1 for alt glyph selection
 ---
 
 jan ike lon linja telo  

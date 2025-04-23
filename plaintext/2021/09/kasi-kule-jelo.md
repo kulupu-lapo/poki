@@ -2,9 +2,9 @@
 title: kasi kule jelo
 original-title: I Wandered Lonely as a Cloud
 authors:
-- William Wordsworth
-translators:
 - jan Kuleku Nena
+original-authors:
+- William Wordsworth
 date: 2021-09-02
 tags:
 - poetry

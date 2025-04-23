@@ -1,19 +1,19 @@
 ---
 title: 'SONA SIN #5 | News in Toki Pona'
-description: "suno pi toki pona: https://tp.lcp.su/suno/\n\nmi wile e ni: sitelen\
-  \ tawa ni li pona tawa sina!\n\nlipu (sources):\n\nhttps://sz-magazin.sueddeutsche.de/die-loesung-fuer-alles/aptera-sol-90413\n\
-  https://www.bbc.com/news/world-latin-america-57791618\nhttps://www.dw.com/en/5-things-to-know-about-the-eu-single-use-plastics-ban/a-58109909\n\
-  https://www.theguardian.com/environment/2021/jul/02/study-suggests-bacteria-in-cows-stomach-can-break-down-plastic\n\
-  https://tol.org/client/article/the-return-of-the-polish-wolf.html\n\nsitelen: \n\
-  \nCaroline Bayani/Aptera\nhttps://sz-magazin.sueddeutsche.de/die-loesung-fuer-alles/aptera-sol-90413\n\
-  https://www.aptera.us/\n\nBy Horia Varlan from Bucharest, Romania - Eight drinking\
-  \ straws in rainbow colors, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45899088\n\
-  \nBy Ewloskalw - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25924532\n\
-  \nBy Kim Hansen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7421277\n\
-  \nBy Wolf_Kolmården.jpg: Daniel Mott from Stockholm, Swedenderivative work: Mariomassone\
-  \ - Wolf_Kolmården.jpg, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12423176\n\
-  \nSitelen ante li public domain anu sitelen mi\nThe other pictures are either public\
-  \ domain or my pictures\n\nPlease ask before using anything from this video, thanks!"
+description: "suno pi toki pona: https://tp.lcp.su/suno/\n\nmi wile e ni: sitelen
+  tawa ni li pona tawa sina!\n\nlipu (sources):\n\nhttps://sz-magazin.sueddeutsche.de/die-loesung-fuer-alles/aptera-sol-90413\n
+  https://www.bbc.com/news/world-latin-america-57791618\nhttps://www.dw.com/en/5-things-to-know-about-the-eu-single-use-plastics-ban/a-58109909\n
+  https://www.theguardian.com/environment/2021/jul/02/study-suggests-bacteria-in-cows-stomach-can-break-down-plastic\n
+  https://tol.org/client/article/the-return-of-the-polish-wolf.html\n\nsitelen: \n
+  \nCaroline Bayani/Aptera\nhttps://sz-magazin.sueddeutsche.de/die-loesung-fuer-alles/aptera-sol-90413\n
+  https://www.aptera.us/\n\nBy Horia Varlan from Bucharest, Romania - Eight drinking
+  straws in rainbow colors, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45899088\n
+  \nBy Ewloskalw - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25924532\n
+  \nBy Kim Hansen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7421277\n
+  \nBy Wolf_Kolmården.jpg: Daniel Mott from Stockholm, Swedenderivative work: Mariomassone
+  - Wolf_Kolmården.jpg, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12423176\n
+  \nSitelen ante li public domain anu sitelen mi\nThe other pictures are either public
+  domain or my pictures\n\nPlease ask before using anything from this video, thanks!"
 authors:
 - jan Alonola
 date: 2021-07-11

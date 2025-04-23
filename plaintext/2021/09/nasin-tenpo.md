@@ -8,7 +8,7 @@ tags: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://lipu-sona.pona.la/lentan/nasin_tenpo
-preprocessing:
+preprocessing: null
 ---
 
 # nasin tenpo

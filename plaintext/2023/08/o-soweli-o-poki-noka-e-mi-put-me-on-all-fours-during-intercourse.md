@@ -1,7 +1,6 @@
 ---
 title: o soweli o poki noka e mi (put me on all fours during intercourse)
-description:
-  seli pi jan Kasuki li kama. ona li wile e alupa ona. ona tu li unpa.
+description: seli pi jan Kasuki li kama. ona li wile e alupa ona. ona tu li unpa.
   I wrote this as a joke but then I started caring about it and now here it is.
 authors:
   - not_quite_a_furry

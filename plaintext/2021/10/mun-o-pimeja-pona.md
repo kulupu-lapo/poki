@@ -3,9 +3,9 @@ title: mun o pimeja pona
 original-title: Goodnight Moon
 description: '"Goodnight Moon" in Toki Pona. [Listen here](https://youtu.be/Q2UIw8PZsZ8)!'
 authors:
-  - jan Margaret Wise Brown
-translators:
   - jan Kekan San
+original-authors:
+  - jan Margaret Wise Brown
 date: 2021-10-20
 license: null
 tags:

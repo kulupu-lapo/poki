@@ -16,7 +16,6 @@ sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/jan-nami/toki-a
 - https://web.archive.org/web/2/https://lipu.pona.la/jan-nami/lipu-pona-li-toki-pona-taso-ala-toki-pona-taso
 - https://web.archive.org/web/2/https://lipu.pona.la/kita/2022-08-07-19-41-15
-
 ---
 
 **kijetesantakalu** (2022-08-06):  

@@ -3,10 +3,10 @@ title: kule
 original-title: रंग
 description: 'soweli walo li olin mute e kule. ona li kama olin e kule sin. '
 authors:
-- Priyanka
-translators:
 - Aspen Leigh
 # - Ajanta Guhathakurta (illustrator)
+original-authors:
+- Priyanka
 date: 2021-12-20
 tags:
 - StoryWeaver level 1 (Emergent Readers)

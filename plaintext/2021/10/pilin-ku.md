@@ -1,6 +1,7 @@
 ---
 title: pilin ku
-description: jan Tepo li toki e pilin ona lon lipu ku lon nimi mute ona lon nimi suli ona
+description: jan Tepo li toki e pilin ona lon lipu ku lon nimi mute ona lon nimi suli
+  ona
 authors:
   - jan Tepo
 date: 2021-10-03

@@ -1,5 +1,5 @@
 ---
-title: ma sike laso kalama mun 
+title: ma sike laso kalama mun
 authors:
   - Tokyo Usagi Music # Y△MiY△Mi
 date: 2018-07-25

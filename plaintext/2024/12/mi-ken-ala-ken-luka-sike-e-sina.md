@@ -1,6 +1,7 @@
 ---
 title: mi ken ala ken luka sike e sina?
-description: jan Kata en jan Atowa li lon tomo Tala la ona li pini e tenpo moku, taso...jan Kata li nasa lukin.
+description: jan Kata en jan Atowa li lon tomo Tala la ona li pini e tenpo moku, taso...jan
+  Kata li nasa lukin.
 authors:
   - Hrafninn
 date: 2024-12-04

@@ -1,7 +1,6 @@
 ---
 title: jan Kawin li sona ala e toki pona
-description:
-  "(short little thing i did to practice toki pona; its plotless and short)
+description: "(short little thing i did to practice toki pona; its plotless and short)
   au where gavin wants to learn toki pona and nines speaks it around him lipu ni li
   lon ma suli ante. ni li kama: jan Kawin li wile kama sona e toki pona. jan Nin li
   toki e toki pona tan jan Kawin"

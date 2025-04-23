@@ -12,8 +12,7 @@ sources:
 archives:
   - https://web.archive.org/web/20240927152603/https://archiveofourown.org/works/55421998
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
-notes:
-  lipu open la sitelen `\n` mute li poka li lon e weka suli · nasin Markdown
+notes: lipu open la sitelen `\n` mute li poka li lon e weka suli · nasin Markdown
   la ni li ken ala
 ---
 

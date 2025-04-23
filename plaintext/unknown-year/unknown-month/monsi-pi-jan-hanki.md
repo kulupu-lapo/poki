@@ -1,11 +1,12 @@
 ---
 title: monsi pi jan Hanki
 original-title: Kissing Hank’s Ass
+date: 2001-01-01
+date-precision: none
 authors:
-  - James Huber
-date: null
-translators:
   - Michael F.
+original-authors:
+  - James Huber
 tags:
   - translation
   - prose

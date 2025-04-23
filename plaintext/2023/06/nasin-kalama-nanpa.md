@@ -6,7 +6,6 @@ date: 2023-06-18
 license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/soweli-iki/nasin-kalama-nanpa
-
 ---
 
 nasin kalama nanpa

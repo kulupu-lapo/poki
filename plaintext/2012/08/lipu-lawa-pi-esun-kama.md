@@ -4,7 +4,7 @@ authors:
   - jan Josan
   - jan Mato
 date: 2009-01-01
-# date-precision: year
+date-precision: year
 tags:
   - original
   - artwork

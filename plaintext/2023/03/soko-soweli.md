@@ -2,7 +2,7 @@
 title: soko soweli
 authors:
   - jan Nikoleta
-  - jan Kepe 
+  - jan Kepe
   - jan Sa
   - jan Usawi
 date: 2023-03-31

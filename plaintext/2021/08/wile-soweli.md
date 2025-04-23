@@ -27,7 +27,7 @@ sources:
   # reposts:
   - https://musicat.fm/albums/270cb442-e699-48dc-ab4b-7d748b218064
   - https://www.shazam.com/song/1580312943/wile-soweli
-  
+
   # covers:
   - https://open.spotify.com/track/2o5P3a9TEowpZh7SBbkpEE  # by pata powe
 ---

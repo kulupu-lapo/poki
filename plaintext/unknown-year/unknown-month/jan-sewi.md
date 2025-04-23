@@ -1,11 +1,12 @@
 ---
 title: jan sewi li lon tan seme?
 original-title: Hundreds of Proofs of God’s Existence
+date: 2001-01-01
+date-precision: none
 authors:
-  - Atheists of Silicon Valley
-date: null
-translators:
   - Michael F.
+original-authors:
+  - Atheists of Silicon Valley
 tags:
   - translation
   - prose

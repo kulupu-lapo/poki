@@ -22,7 +22,7 @@ sources:
   - https://musicbrainz.org/release-group/dc10c2ee-2ed1-473c-b61f-97f525aa30ca
   - https://open.spotify.com/track/0pldHhghYtumuPXDTFxZqo
   - https://open.spotify.com/track/7HaCSczNKY5e7BIqfoWCTG
-  
+
   # lyrics:
   - https://www.musixmatch.com/es/letras/Nardi-3/Weka-Ike
   - https://lyricstranslate.com/en/nardi-weka-ike-lyrics.html

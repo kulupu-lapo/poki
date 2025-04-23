@@ -2,9 +2,9 @@
 title: tomo suli pi ma tomo Jejan
 original-title: 岳陽樓記  # Tribute to Yueyang Tower
 authors:
-  - Fan Zhongyan  # 范仲淹
-translators:
   - jan Maku  # ItMarki
+original-authors:
+  - Fan Zhongyan  # 范仲淹
 date: 2022-07-16
 tags:
   - translation

@@ -2,9 +2,9 @@
 title: o lukin e kala
 original-title: LOS PECES EN EL RIO
 authors:
-  - (unknown)
-translators:
   - soko Sijeni
+original-authors:
+  - (unknown)
 date: 2025-02-16
 tags:
   - music
@@ -13,7 +13,8 @@ sources:
   - https://ivaaan.neocities.org/kala/
 archives:
   - https://web.archive.org/web/0/https://ivaaan.neocities.org/kala/
-preprocessing: removed formatting characters for SP fonts e.g. square brackets for cartouches, word1 for alt glyph selection
+preprocessing: removed formatting characters for SP fonts e.g. square brackets for
+  cartouches, word1 for alt glyph selection
 ---
 
 o lukin e kala  

@@ -1,5 +1,5 @@
 ---
-title: akesi poki en soweli pi nena kute suli 
+title: akesi poki en soweli pi nena kute suli
 authors:
   - jan Mato
 date: 2011-06-24

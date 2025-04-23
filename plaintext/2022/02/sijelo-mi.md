@@ -3,12 +3,12 @@ title: sijelo mi
 original-title: My Body
 description: sijelo pi mi ale li pali lon tenpo ale, anu seme?
 authors:
+- Frzzl
+original-authors:
 - Clare Verbeek
 - Thembani Dladla
 - Zanele Buthelezi
 # - Mlungisi Dlamini (illustrator)
-translators:
-- Frzzl
 date: 2022-02-04
 tags:
 - StoryWeaver level 1 (Emergent Readers)

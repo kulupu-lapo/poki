@@ -2,7 +2,8 @@
 title: Haikus
 authors:
   - Michael F.
-date: null
+date: 2001-01-01
+date-precision: none
 tags:
   - original work
   - poetry

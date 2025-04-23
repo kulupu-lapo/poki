@@ -4,10 +4,10 @@ original-title: Can and Can't
 description: sina ken lukin e lipu ni; taso ona li ken ala ike tawa sina a! jan lili
   sina li ken ala lukin e ni la, ona li ken musi e sitelen pona.
 authors:
+- Oreo Créme
+original-authors:
 - Radha HS
 # - Ruchi Shah (illustrator)
-translators:
-- Oreo Créme
 date: 2023-01-19
 tags:
 - StoryWeaver level 1

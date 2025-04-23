@@ -1,7 +1,6 @@
 ---
 title: sitelen lili pi musi Kensin Inpaku
-description:
-  musi Kensin Inpaku la mi pali e sitelen mute lon toki pona. sitelen mi
+description: musi Kensin Inpaku la mi pali e sitelen mute lon toki pona. sitelen mi
   la jan pi musi ni li ken ante suli. wile mi la sitelen ni li pona tawa sina :)
 authors:
   - JDAbadeer

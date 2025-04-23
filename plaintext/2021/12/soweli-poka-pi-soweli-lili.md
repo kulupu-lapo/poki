@@ -5,10 +5,10 @@ description: 'tomo sona li pona ala tawa soweli lili. tomo sona li suli a. sowel
   lili li lili a. taso, ona li kama sona e ni: ona li lon poka pi soweli pona la,
   tomo sona li kama pona.'
 authors:
+- jan Kita
+original-authors:
 - Sudeshna Shome Ghosh
 # - Aratrika Choudhury (illustrator)
-translators:
-- jan Kita
 date: 2021-12-20
 tags:
 - StoryWeaver level 3
