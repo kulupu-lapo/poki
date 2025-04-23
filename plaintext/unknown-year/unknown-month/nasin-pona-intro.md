@@ -2,7 +2,8 @@
 title: toki!
 authors:
   - jan Nikita
-date: null
+date: 2001-01-01
+date-precision: none
 tags:
   - original
 license: CC0 1.0

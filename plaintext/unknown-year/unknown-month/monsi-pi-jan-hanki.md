@@ -1,7 +1,8 @@
 ---
 title: monsi pi jan Hanki
 original-title: Kissing Hank’s Ass
-date: null
+date: 2001-01-01
+date-precision: none
 authors:
   - Michael F.
 original-authors:

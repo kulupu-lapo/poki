@@ -2,7 +2,8 @@
 title: Aliens…
 authors:
   - UnusualEgg
-date: null
+date: 2001-01-01
+date-precision: none
 license: null
 sources:
   - https://ctrl-c.club/~unusualegg/tp_stories.html

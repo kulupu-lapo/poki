@@ -2,7 +2,8 @@
 title: sike tu
 authors:
   - Paul Goguen
-date: null
+date: 2001-01-01
+date-precision: none
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=mkNvlqEM8rk

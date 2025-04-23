@@ -1,7 +1,8 @@
 ---
 title: jan pi weka tan ma tomo Omela
 original-title: The Ones Who Walk Away from Omelas
-date: null
+date: 2001-01-01
+date-precision: none
 authors:
   - soweli nata
 original-authors:

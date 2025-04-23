@@ -1,7 +1,8 @@
 ---
 title: toki tan lipu pi jan Suansu
 original-title: The Book of Chuang Tzu
-date: null
+date: 2001-01-01
+date-precision: none
 authors:
   - Martin Palmer
   - Elizabeth Breuilly

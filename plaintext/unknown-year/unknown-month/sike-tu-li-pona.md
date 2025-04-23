@@ -2,7 +2,8 @@
 title: sike tu li pona
 authors:
   - Paul Goguen
-date: null
+date: 2001-01-01
+date-precision: none
 tags:
   - original
   - lyrics

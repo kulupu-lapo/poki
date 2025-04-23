@@ -1,7 +1,8 @@
 ---
 title: toki pi jan Koele
 original-title: Ecclesiastes
-date: null
+date: 2001-01-01
+date-precision: none
 authors:
   - Michael F.
 original-authors:

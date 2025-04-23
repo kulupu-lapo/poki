@@ -1,7 +1,8 @@
 ---
 title: jan sewi li lon tan seme?
 original-title: Hundreds of Proofs of God’s Existence
-date: null
+date: 2001-01-01
+date-precision: none
 authors:
   - Michael F.
 original-authors:

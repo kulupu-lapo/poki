@@ -5,7 +5,8 @@ authors:
   - jan Sepeku
 original-authors:
   - J.K. Rowling
-date: null  # <2022
+date: 2001-01-01 # <2022
+date-precision: none
 tags:
   - translation
   - story

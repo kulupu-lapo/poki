@@ -3,7 +3,8 @@ title: toki
 description: lipamanka tries (not very hard) to explain what language is in toki pona
 authors:
   - lipamanka
-date: null
+date: 2001-01-01
+date-precision: none
 license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso

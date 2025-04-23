@@ -1,7 +1,8 @@
 ---
 title: toki tan toki pi jan Bokakio
 original-title: Selections from Ecclesiastes
-date: null
+date: 2001-01-01
+date-precision: none
 authors:
   - Michael F.
 original-authors:

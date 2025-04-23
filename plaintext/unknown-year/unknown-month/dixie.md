@@ -5,7 +5,8 @@ authors:
   - jan Pije
 original-authors:
   - unknown  # added automatically during reschema
-date: null
+date: 2001-01-01
+date-precision: none
 tags:
   - translation
   - song

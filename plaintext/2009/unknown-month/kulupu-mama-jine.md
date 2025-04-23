@@ -14,7 +14,7 @@ original-authors:
   - Bradford Heene  # jan Patopa
   - Mayumi Heene    # jan Majumi
 date: 2009-01-01
-# date-precision: year
+date-precision: year
 tags:
   - translation
   - artwork

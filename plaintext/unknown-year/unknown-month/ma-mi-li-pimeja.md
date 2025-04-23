@@ -2,7 +2,8 @@
 title: ma mi li pimeja
 authors:
   - jan Pije
-date: null
+date: 2001-01-01
+date-precision: none
 tags:
   - original
   - poetry

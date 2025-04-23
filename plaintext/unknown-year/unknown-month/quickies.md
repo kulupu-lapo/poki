@@ -6,7 +6,8 @@ original-authors:
   - Samuel Stoddard
   - David J. Parker
   - jan Pije
-date: null
+date: 2001-01-01
+date-precision: none
 tags:
   - original
   - translation

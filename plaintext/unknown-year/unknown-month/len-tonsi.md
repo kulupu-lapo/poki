@@ -4,7 +4,8 @@ description: '"len tonsi" can have a specific double meaning that is profound an
   freeing to think about.'
 authors:
   - lipamanka
-date: null
+date: 2001-01-01
+date-precision: none
 license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
