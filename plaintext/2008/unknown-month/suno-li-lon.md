@@ -12,9 +12,9 @@ date-precision: year
 license: null
 tags:
   - music
-sources: null
-archives:
+sources:
   - 'https://www.youtube.com/watch?v=QlV2RM5AO-8'
+archives: null
 preprocessing: transcribed manually
 accessibility-notes: null
 notes: null
