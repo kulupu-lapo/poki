@@ -13,16 +13,13 @@ const Article = z
     // NOTE: original-title may not exist, e.g. meli en mije li tawa
     "original-title": z.string().optional(),
     description: z.string().optional(),
-    authors: z.array(z.string()).nonempty().optional(),
-    translators: z.array(z.string()).nonempty().optional(),
+    authors: z.array(z.string()).nonempty(),
+    "original-authors": z.array(z.string()).nonempty().optional(),
     proofreaders: z.array(z.string()).nonempty().optional(),
     // Date is required for all except `unknown-year/unknown-month`.
     // Those still have to specify null explicitly
-    date: z.union([
-      z.string().date(),
-      z.string().regex(/^\d{4}-(0[1-9]|1[0-2])$/, "Invalid yyyy-mm format"),
-      z.null(),
-    ]),
+    date: z.string().date(),
+    "date-precision": z.union([z.literal("year"), z.literal("month"), z.literal("none")]).optional(),
     tags: z.array(z.string()).nonempty().nullish(), // TODO: nullable
     // missing license -> "assume All rights reserved, but
     // its also possible we aren't yet aware of the correct license"

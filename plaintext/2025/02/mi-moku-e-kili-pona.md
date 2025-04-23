@@ -2,7 +2,8 @@
 title: mi moku e kili pona  # not the original title; title given for Lapo purposes.
 authors:
   - pan Kamiju
-date: 2025-02
+date: 2025-02-01
+date-precision: month
 tags:
   - original
   - poetry
