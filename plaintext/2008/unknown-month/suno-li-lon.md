@@ -7,7 +7,8 @@ authors:
   - Charlene Daley
 original-authors: null
 proofreaders: null
-date: 2008
+date: 2008-01-01
+date-precision: year
 license: null
 tags:
   - music
