@@ -4,7 +4,7 @@ original-title: Shade
 description: jan Emese li weka sona.
 authors:
   - axiomwitch
-translators:
+original-authors:
   - axiomwitch
 date: 2024-12-16
 tags:

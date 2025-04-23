@@ -2,9 +2,9 @@
 title: jan Ulise
 original-title: Ulysses
 authors:
-  - jan Tenison (Alfred Lord Tennyson)
-translators:
   - jan Lapate
+original-authors:
+  - jan Tenison (Alfred Lord Tennyson)
 date: 2024-10-20
 license: CC-BY-SA 4.0
 sources:

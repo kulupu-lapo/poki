@@ -2,9 +2,9 @@
 title: jan Keta li weka!
 original-title: Gerda malaperis!
 authors:
-  - Claude Piron
-translators:
   - jan Tepo
+original-authors:
+  - Claude Piron
 proofreaders:
   - soweli nata
   - jan Lakuse

@@ -2,11 +2,11 @@
 title: kulupu jan tenpo
 original-title: Dreams of Our Generation
 authors:
-  - Tsunku♂
-  - Kaoru Okubo
-translators:
   - jan Misali
 #   - Jules
+original-authors:
+  - Tsunku♂
+  - Kaoru Okubo
 date: 2020-11-27
 tags:
   - translation

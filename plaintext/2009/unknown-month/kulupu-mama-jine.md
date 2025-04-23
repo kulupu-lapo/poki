@@ -7,12 +7,12 @@ description: When trying to determine just what it is that makes humanity unique
   that brings the most reward, for nothing can bring the past back to life as vividly
   as language.
 authors:
+  - jan Jonan
+original-authors:
   - Wolf Blitzer    # jan Muwawa
   - Richard Heene   # jan Wiko Jine
   - Bradford Heene  # jan Patopa
   - Mayumi Heene    # jan Majumi
-translators:
-  - jan Jonan
 date: 2009-01-01
 # date-precision: year
 tags:

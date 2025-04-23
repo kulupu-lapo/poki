@@ -2,9 +2,9 @@
 title: o lukin e kala
 original-title: LOS PECES EN EL RIO
 authors:
-  - (unknown)
-translators:
   - soko Sijeni
+original-authors:
+  - (unknown)
 date: 2025-02-16
 tags:
   - music

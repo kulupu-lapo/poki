@@ -2,10 +2,10 @@
 title: jan lawa Oliki
 original-title: The Ones Who Walk Away from Omelas
 authors:
-- Alexander Pushkin
-translators:
 - soweli Elepanto
 - jan Pensa
+original-authors:
+- Alexander Pushkin
 date: 2022-10-01
 tags:
 - original work

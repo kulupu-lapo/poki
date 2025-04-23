@@ -2,9 +2,9 @@
 title: jan lawa meli lon kili lili
 original-title: The Princess and the Pea
 authors:
-  - jan Hans Christian Andersen
-translators:
   - jan Kekan San
+original-authors:
+  - jan Hans Christian Andersen
 date: 2022-01-15
 license: null
 sources:

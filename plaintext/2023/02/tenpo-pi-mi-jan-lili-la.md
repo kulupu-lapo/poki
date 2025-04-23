@@ -2,9 +2,9 @@
 title: tenpo pi mi jan lili la...
 original-title: Як дитиною бувало…
 authors:
-- jan Ukwainka (Леся Українка)
-translators:
 - kije Enki
+original-authors:
+- jan Ukwainka (Леся Українка)
 date: 2023-02-06
 tags:
 - poetry

@@ -3,10 +3,10 @@ title: '"kala mi a!" "ala. kala mi a!"'
 original-title: My fish! No, my fish!
 description: musi ni li toki e jan pona e kala sona.
 authors:
+- nick
+original-authors:
 - Suraj J Menon
 # - Soumya Menon (illustrator)
-translators:
-- nick
 date: 2022-02-01
 tags:
 - StoryWeaver level 1

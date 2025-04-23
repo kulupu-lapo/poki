@@ -5,7 +5,7 @@ description: toki pona translation of my another work. please read it (if you kn
   ukrainian)
 authors:
   - not_someone
-translators:
+original-authors:
   - not_someone
 date: 2024-06-08
 license: null

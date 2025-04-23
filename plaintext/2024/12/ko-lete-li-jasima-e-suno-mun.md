@@ -4,7 +4,7 @@ original-title: The Moon on the Snows
 description: jan Mana li lon ma Kalema li kama sona e mun ona.
 authors:
   - axiomwitch
-translators:
+original-authors:
   - axiomwitch
 date: 2024-12-16
 tags:

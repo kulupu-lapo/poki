@@ -2,9 +2,9 @@
 title: wan taso la
 original-title: Solo e pensoso
 authors:
-- jan Petaka
-translators:
 - jan Lapate
+original-authors:
+- jan Petaka
 date: 2024-05-14
 tags:
 - poetry

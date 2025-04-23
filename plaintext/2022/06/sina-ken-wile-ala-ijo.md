@@ -3,9 +3,9 @@ title: sina ken wile ala ijo
 original-title: It's okay to not like things
 description: A cute skit from the early internet, now in Toki Pona. [Listen here](https://youtu.be/iKry3P51SVI)!
 authors:
-  - 8O8X
-translators:
   - jan Kekan San
+original-authors:
+  - 8O8X
 date: 2022-06-01
 license: null
 sources:

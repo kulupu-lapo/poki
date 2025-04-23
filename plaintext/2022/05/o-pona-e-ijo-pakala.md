@@ -5,11 +5,11 @@ description: len pi jan Sijan li kama pakala · ilo pi supa len li pakala kin ·
   li ike · taso · jan Sisa en ona li tawa tomo pi pona ijo · ona la ale li ken kama
   pona
 authors:
+- jan Kita
+original-authors:
 - Himadri Das
 - Veena Prasad
 # - Ankitha Kini (illustrator)
-translators:
-- jan Kita
 date: 2022-05-14
 tags:
 - StoryWeaver level 4

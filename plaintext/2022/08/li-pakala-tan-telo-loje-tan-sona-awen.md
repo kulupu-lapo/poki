@@ -5,9 +5,9 @@ description: "jan pali ma The Magnus Institute li kama e kulupu pali. jan Jon li
   i’ve made many small translation errors and mistakes! this will probably be changed
   around a bit."
 authors:
-  - bonustrack
-translators:
   - orphan_account
+original-authors:
+  - bonustrack
 date: 2022-08-08
 license: null
 tags:

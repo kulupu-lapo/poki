@@ -1,7 +1,9 @@
 ---
 title: o pana wawa e kiwen
-translators:
+authors:
   - jan Ote
+original-authors:
+  - unknown  # added automatically during reschema
 date: 2011-06-15
 license: null
 sources:

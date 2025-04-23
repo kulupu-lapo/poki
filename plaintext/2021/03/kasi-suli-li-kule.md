@@ -2,10 +2,10 @@
 title: kasi suli li kule  # kalama musi “kasi suli li kule”
 original-title: Bunt sind schon die Wälder
 authors:
+  - jan Ke Tami
+original-authors:
   - Johann Gaudenz von Salis-Seewis
   - Johann Friedrich Reichardt
-translators:
-  - jan Ke Tami
 date: 2021-03-11
 tags:
   - translation

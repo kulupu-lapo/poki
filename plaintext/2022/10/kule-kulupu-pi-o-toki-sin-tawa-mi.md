@@ -5,10 +5,10 @@ description: 'tenpo mute la, jan lili pi wile sona li toki tawa mama ona tan ni:
   li lukin e kule e selo la ona li wile sona e ni. kulupu "o toki sin tawa mi" li
   pana e wile sona e toki sin musi.'
 authors:
+- Miles Rodriguez
+original-authors:
 - Madhav Chavan
 # - Rijuta Ghate (illustrator)
-translators:
-- Miles Rodriguez
 date: 2022-10-02
 tags:
 - StoryWeaver level 1

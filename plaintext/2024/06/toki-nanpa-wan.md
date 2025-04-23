@@ -3,9 +3,9 @@ title: "[TOKI NANPA WAN]"
 original-title: Deltarune - CONTACT
 description: CONTACT (Deltarune intro/build-a-vessel sequence in toki pona)
 authors:
-  - Toby Fox
-translators:
   - ijo Kinesin
+original-authors:
+  - Toby Fox
 date: 2024-06-08
 license: null
 tags:

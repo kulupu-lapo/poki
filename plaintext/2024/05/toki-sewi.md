@@ -4,9 +4,9 @@ original-title: The Legend
 description: Translation of the Legend into toki pona :) mi toki ante e toki sewi
   tan musi Tetalun!
 authors:
-  - Toby Fox
-translators:
   - ijo Kinesin
+original-authors:
+  - Toby Fox
 date: 2024-05-19
 license: null
 tags:

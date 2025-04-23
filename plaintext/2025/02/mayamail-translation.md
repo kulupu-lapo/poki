@@ -4,9 +4,9 @@ original-title: mayamail
 description: A fictional diary made by Studio Massa for his Ongezellig series, translated
   by jan Majeka
 authors:
-  - Studio Massa
-translators:
   - jan Majeka
+original-authors:
+  - Studio Massa
 proofreaders:
   - jan Ke Tami
 date: 2025-02-28

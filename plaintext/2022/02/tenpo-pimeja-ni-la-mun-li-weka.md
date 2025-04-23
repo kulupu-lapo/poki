@@ -5,10 +5,10 @@ description: mun li kama ala tan telo suli lon tenpo pimeja wan la jan Majesa en
   Usili li alasa lukin e ona. taso, suno li lon ala la ona li ken lukin kepeken nasin
   seme?
 authors:
+- jan Melon
+original-authors:
 - Shreya Yadav
 # - Sunaina Coelho (illustrator)
-translators:
-- jan Melon
 date: 2022-02-01
 tags:
 - StoryWeaver level 3

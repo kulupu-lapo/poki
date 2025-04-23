@@ -2,9 +2,9 @@
 title: kasi la waso lili  # musi kalama “kasi la waso lili”
 original-title: Auf einem Baum ein Kuckuck
 authors:
-  - folk origin
-translators:
   - jan Ke Tami
+original-authors:
+  - folk origin
 date: 2021-03-12
 tags:
   - translation

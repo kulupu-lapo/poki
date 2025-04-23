@@ -4,7 +4,7 @@ original-title: The Final Night
 description: “tenpo ni li tenpo pini.”
 authors:
   - axiomwitch
-translators:
+original-authors:
   - axiomwitch
 date: 2024-12-15
 tags:

@@ -4,9 +4,9 @@ original-title: Maya's Sweet 16
 description: A comic made by Studio Massa as a part of his Ongezellig series, translated
   by jan Majeka.
 authors:
-  - Studio Massa
-translators:
   - jan Majeka
+original-authors:
+  - Studio Massa
 proofreaders:
   - waso Seko
 date: 2024-12-23

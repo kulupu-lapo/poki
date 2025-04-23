@@ -4,9 +4,9 @@ original-title: One Little Accident
 description: misa Kimi en misa Emi li musi lon poka pi tomo ona. ona li lukin li kute
   mute. taso, pakala lili wan li lon. ni li lon ala tan tawa kepeken tenpo lili.
 authors:
-  - secretfirefox
-translators:
   - Hopeful_Student
+original-authors:
+  - secretfirefox
 date: 2024-09-10
 license: null
 tags:

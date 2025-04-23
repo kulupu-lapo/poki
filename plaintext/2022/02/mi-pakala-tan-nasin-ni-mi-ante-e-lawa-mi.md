@@ -12,7 +12,7 @@ description: "English Speakers - This is a toki pona translation of a fic I wrot
   toki pona // toki Inli. ni la toki Inli li jo e kon sama toki pona. o awen pona!"
 authors:
   - LuxeDeluxe
-translators:
+original-authors:
   - LuxeDeluxe
 date: 2022-02-17
 license: null

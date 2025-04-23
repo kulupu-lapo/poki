@@ -2,9 +2,9 @@
 title: waso
 original-title: The Raven
 authors:
-  - Edgar Alan Poe
-translators:
   - jan Likipi
+original-authors:
+  - Edgar Alan Poe
 date: 2021-02-10
 tags:
   - poetry

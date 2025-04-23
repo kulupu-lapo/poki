@@ -1,10 +1,10 @@
 ---
 title: toki musi tan jan Sapo[^1], tan jan Katulo[^2]
 authors:
+- jan Lapate
+original-authors:
 - Σαπφώ (jan Sapo)
 - C. Valerius Catullus (jan Katulo)
-translators:
-- jan Lapate
 tags:
 - poetry
 date: 2023-12-25

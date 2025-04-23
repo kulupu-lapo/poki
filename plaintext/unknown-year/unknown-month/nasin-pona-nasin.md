@@ -1,7 +1,9 @@
 ---
 title: toki musi en nasin pona
-translators:
+authors:
   - jan Nikita
+original-authors:
+  - unknown  # added automatically during reschema
 date: null
 tags:
   - translation

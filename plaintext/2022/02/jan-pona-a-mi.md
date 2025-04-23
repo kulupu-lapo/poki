@@ -4,10 +4,10 @@ original-title: My Best Friend
 description: 'sina wile jo e jan pona nasa la o lukin e lipu ni. ni la sina ken kama
   pilin e ni: sina jo e jan pona nasa!'
 authors:
+- Simon K
+original-authors:
 - Anupa Lal
 # - Suvidha Mistry (illustrator)
-translators:
-- Simon K
 date: 2022-02-06
 tags:
 - StoryWeaver level 1

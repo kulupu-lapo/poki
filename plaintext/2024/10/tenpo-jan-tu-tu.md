@@ -1,9 +1,9 @@
 ---
 title: tenpo jan tu tu
 authors:
-  - jan Wilijan Pula Je
-translators:
   - jan Kapesi Pake
+original-authors:
+  - jan Wilijan Pula Je
 date: 2024-10-20
 tags:
   - poetry

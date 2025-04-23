@@ -2,9 +2,9 @@
 title: luka tu
 original-title: Seven
 authors:
-  - Taylor Swift
-translators:
   - kala pona Tonyu
+original-authors:
+  - Taylor Swift
 date: 2020-11-27
 tags:
   - translation

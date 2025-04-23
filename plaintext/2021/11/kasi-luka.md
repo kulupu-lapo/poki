@@ -4,10 +4,10 @@ original-title: Palm Tree
 description: 'sina sona ala sona e ni: kasi luka li suli pi mute seme tawa lon jan?
   sina wile sona la o lukin e lipu ni.'
 authors:
+- jan Melon
+original-authors:
 - Simon Ipoo
 # - Rob Owen (illustrator)
-translators:
-- jan Melon
 date: 2021-11-08
 tags:
 - StoryWeaver level 1

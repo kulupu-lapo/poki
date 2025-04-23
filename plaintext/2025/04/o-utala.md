@@ -2,9 +2,9 @@
 title: o utala
 original-title: Els Segadors
 authors:
-  - Emili Guanyavents
-translators:
   - soko Sijeni
+original-authors:
+  - Emili Guanyavents
 date: 2025-04-09
 tags:
   - music

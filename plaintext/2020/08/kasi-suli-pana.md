@@ -2,9 +2,9 @@
 title: kasi suli pana
 original-title: The Giving Tree
 authors:
-  - Shel Silverstein
-translators:
   - kala pona Tonyu
+original-authors:
+  - Shel Silverstein
 date: 2020-08-23
 license: null
 sources:

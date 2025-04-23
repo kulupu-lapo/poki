@@ -16,9 +16,9 @@ description: "NTN epilogue, but toki pona my plan so far: - chapter 1 is sitelen
   TLT into a language with no words for numbers above two, i wish them luck, but i'm
   not doing that."
 authors:
-  - Tamsyn Elizabeth Muir
-translators:
   - gayspacewizard
+original-authors:
+  - Tamsyn Elizabeth Muir
 date: 2024-07-30
 license: null
 tags:

@@ -2,11 +2,11 @@
 title: kasi pi tenpo lete o  # musi kalama O Christmas Tree
 original-title: O Tannenbaum
 authors:
+  - jan Ke Tami
+original-authors:
   - folk origin
   - Melchior Franck
   - Ernst Anschütz
-translators:
-  - jan Ke Tami
 date: 2020-12-23
 tags:
   - translation

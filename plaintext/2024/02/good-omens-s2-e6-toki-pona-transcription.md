@@ -6,10 +6,10 @@ description: toki! An attempted translation of that scene from the end of season
   would be greatly appreciated. I'll be updating as I translate more and fix mistakes
   :)
 authors:
+  - 50ShadesOfWhump
+original-authors:
   - Neil Gaiman
   - John Finnemore
-translators:
-  - 50ShadesOfWhump
 date: 2024-02-04
 license: null
 tags:

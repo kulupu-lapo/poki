@@ -2,9 +2,9 @@
 title: jan Awi Pote en kiwen pi jan sona
 original-title: Harry Potter and the Philosopher's Stone
 authors:
-  - J.K. Rowling
-translators:
   - jan Sepeku
+original-authors:
+  - J.K. Rowling
 date: null  # <2022
 tags:
   - translation

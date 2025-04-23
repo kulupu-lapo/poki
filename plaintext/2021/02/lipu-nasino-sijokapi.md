@@ -2,9 +2,9 @@
 title: lipu Nasino Sijokapi
 original-title: National Geographic
 authors:
-  - National Geographic
-translators:
   - jan Lakuse
+original-authors:
+  - National Geographic
 date: 2021-02-10
 tags:
   - translation

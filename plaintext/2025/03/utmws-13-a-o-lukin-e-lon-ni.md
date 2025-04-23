@@ -19,9 +19,9 @@ description: |
   this is a fandub i do not work for jacknjellify 
   excuse the sound quality half of us have bad mics lol
 authors:
-  - jacknjellify
-translators:
   - meli Siliwa
+original-authors:
+  - jacknjellify
 date: 2025-03-30
 tags:
   - BFDI

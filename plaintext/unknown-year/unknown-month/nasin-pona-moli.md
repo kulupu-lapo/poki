@@ -1,7 +1,9 @@
 ---
 title: tenpo suno kama
-translators:
+authors:
   - jan Nikita
+original-authors:
+  - unknown  # added automatically during reschema
 date: null
 tags:
   - translation

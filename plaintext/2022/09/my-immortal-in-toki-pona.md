@@ -4,9 +4,9 @@ original-title: My Immortal
 description: exactly what it says on the tin. a fan translation of my immortal, but
   with (hopefully) correct toki pona grammar and spelling.
 authors:
-  - Tara Gilesbie
-translators:
   - dragon_chris
+original-authors:
+  - Tara Gilesbie
 date: 2022-09-29
 license: null
 tags:

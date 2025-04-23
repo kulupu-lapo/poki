@@ -2,9 +2,9 @@
 title: kalama Sakijape
 original-title: Säkkijärven polkka
 authors:
-  - (folk song)
-translators:
   - soko Sijeni
+original-authors:
+  - (folk song)
 date: 2025-02-15
 tags:
   - music

@@ -2,9 +2,9 @@
 title: jan esun li kama  # kalama musi “jan esun li kama”
 original-title: Wellerman
 authors:
-  - folk origin
-translators:
   - jan Ke Tami
+original-authors:
+  - folk origin
 date: 2021-03-09
 tags:
   - translation

@@ -3,9 +3,9 @@ title: jan Reinhard li jo e moku
 original-title: Reinhard has a meal
 description: jan Reinhard li jo e moku
 authors:
-  - jan Reinhard li jo e moku
-translators:
   - AngryToasterNoises
+original-authors:
+  - jan Reinhard li jo e moku
 date: 2023-11-28
 license: null
 tags:

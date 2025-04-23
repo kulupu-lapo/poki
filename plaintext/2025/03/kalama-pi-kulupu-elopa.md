@@ -2,9 +2,9 @@
 title: kalama pi kulupu Elopa
 original-title: An die Freude
 authors:
-  - Friedrich Schiller
-translators:
   - soko Sijeni
+original-authors:
+  - Friedrich Schiller
 date: 2025-03-22
 tags:
   - music

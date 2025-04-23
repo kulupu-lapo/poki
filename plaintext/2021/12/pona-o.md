@@ -2,9 +2,9 @@
 title: pona o  # kalama: pona o
 original-title: An die Freude
 authors:
-  - Friedrich Schiller
-translators:
   - jan Ke Tami
+original-authors:
+  - Friedrich Schiller
 date: 2021-12-22
 tags:
   - translation

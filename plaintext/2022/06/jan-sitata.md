@@ -2,9 +2,9 @@
 title: jan Sitata
 original-title: Siddhartha
 authors:
-- Hermann Hesse
-translators:
 - jan Kala
+original-authors:
+- Hermann Hesse
 proofreaders:
 - jan Apikela
 - jan Sonja

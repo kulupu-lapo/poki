@@ -2,9 +2,9 @@
 title: jan olin mi li lon ma weka  # kalama musi “jan olin mi li lon ma weka”
 original-title: My Bonnie is over the Ocean
 authors:
-  - Gerald Feind
-translators:
   - jan Ke Tami
+original-authors:
+  - Gerald Feind
 date: 2021-03-06
 tags:
   - translation
