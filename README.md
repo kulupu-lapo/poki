@@ -16,19 +16,21 @@ title:
 original-title:
 description:
 authors:
-  -
+  - 
+original-authors:
+  - 
 translators:
-  -
+  - 
 proofreaders:
-  -
+  - 
 date: # yyyy-mm-dd
 tags:
-  -
+  - 
 license: # `null` if no or unknown license
 sources:
-  -
+  - 
 archives:
-  -
+  - 
 preprocessing:
 accessibility-notes:
 notes:
