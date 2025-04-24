@@ -10,17 +10,15 @@ const noPath = (val: string) =>
 const Article = z
   .object({
     title: z.string(),
-    // NOTE: original-title may not exist, e.g. meli en mije li tawa
-    "original-title": z.string().nullable(),
     description: z.string().nullable(),
     authors: z.array(z.string()).nullable(),
-    "original-authors": z.array(z.string()).nonempty().nullable(),
     proofreaders: z.array(z.string()).nonempty().nullable(),
     // Date is required for all except `unknown-year/unknown-month`.
     // Those still have to specify null explicitly
     date: z.string().date(),
     "date-precision": z.union([z.literal("year"), z.literal("month"), z.literal("none")]).nullable(),
     original: z.object({
+        // NOTE: original-title may not exist, e.g. meli en mije li tawa
         title: z.string().nullable(),
         authors: z.array(z.string()).nonempty().nullable(),
     }).nullable(),
