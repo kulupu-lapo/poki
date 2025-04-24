@@ -2,10 +2,9 @@
 title: mi lape ala
 description: null
 authors:
-  - jan Kijon
-translators: null
+  - Viking Cow
 proofreaders: null
-date: 2024-01-14
+date: 2022-01-15
 tags:
   - music
 original: null
