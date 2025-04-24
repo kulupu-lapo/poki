@@ -1,14 +1,15 @@
 ---
 title: olin ike
-original-title: Bad Romance
 authors:
   - jan Melon
-original-authors:
-  - Lady Gaga
 date: 2020-09-09
 tags:
   - lyrics
   - translation
+original:
+  title: Bad Romance
+  authors:
+    - Lady Gaga
 license: null
 sources:
   - https://www.reddit.com/r/tokipona/comments/ipgiu1/mi_ante_toki_e_olin_ike_ni_li_kalama_musi_pi_meli/

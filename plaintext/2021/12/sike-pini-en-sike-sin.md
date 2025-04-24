@@ -1,10 +1,7 @@
 ---
 title: tomo awen  # kalama: tomo awen
-original-title: Old Year and New Year
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
 date: 2021-12-21
 tags:
   - translation
@@ -12,6 +9,10 @@ tags:
   - lyrics
   - folk song
   - new year's eve
+original:
+  title: Old Year and New Year
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/21/kalama-sike-pini-en-sike-sin/

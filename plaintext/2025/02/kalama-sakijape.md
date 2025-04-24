@@ -1,13 +1,14 @@
 ---
 title: kalama Sakijape
-original-title: Säkkijärven polkka
 authors:
   - soko Sijeni
-original-authors:
-  - (folk song)
 date: 2025-02-15
 tags:
   - music
+original:
+  title: Säkkijärven polkka
+  authors:
+    - (folk song)
 license: null
 sources:
   - https://ivaaan.neocities.org/kalama-sakijape/

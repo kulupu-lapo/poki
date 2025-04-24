@@ -1,16 +1,17 @@
 ---
 title: Pesi o
-original-title: Betty
 authors:
   - kala pona Tonyu
-original-authors:
-  - Taylor Swift
 date: 2020-10-23
 tags:
   - translation
   - music
   - lyrics
   - pop music
+original:
+  title: Betty
+  authors:
+    - Taylor Swift
 license: null
 sources:
   - https://soundcloud.com/kala-pona/pesi-o

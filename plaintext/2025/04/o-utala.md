@@ -1,13 +1,14 @@
 ---
 title: o utala
-original-title: Els Segadors
 authors:
   - soko Sijeni
-original-authors:
-  - Emili Guanyavents
 date: 2025-04-09
 tags:
   - music
+original:
+  title: Els Segadors
+  authors:
+    - Emili Guanyavents
 license: null
 sources:
   - https://ivaaan.neocities.org/o-utala/

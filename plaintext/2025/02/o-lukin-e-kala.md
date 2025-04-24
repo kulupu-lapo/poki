@@ -1,13 +1,14 @@
 ---
 title: o lukin e kala
-original-title: LOS PECES EN EL RIO
 authors:
   - soko Sijeni
-original-authors:
-  - (unknown)
 date: 2025-02-16
 tags:
   - music
+original:
+  title: LOS PECES EN EL RIO
+  authors:
+    - (unknown)
 license: null
 sources:
   - https://ivaaan.neocities.org/kala/

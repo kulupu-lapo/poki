@@ -1,10 +1,7 @@
 ---
 title: kasi la waso lili  # musi kalama “kasi la waso lili”
-original-title: Auf einem Baum ein Kuckuck
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
 date: 2021-03-12
 tags:
   - translation
@@ -13,6 +10,10 @@ tags:
   - folk song
   - volkslied
   - children's song
+original:
+  title: Auf einem Baum ein Kuckuck
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/03/12/musi-kalama-kasi-la-waso-lili/

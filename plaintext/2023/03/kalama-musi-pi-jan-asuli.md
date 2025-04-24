@@ -1,11 +1,12 @@
 ---
 title: kalama musi pi jan Asuli
-original-title: Ashley's Theme
 authors:
   - jan Misali
 date: 2023-03-07
 tags:
   - music
+original:
+  title: Ashley's Theme
 license: CC BY-NC 4.0
 sources:
   - https://www.youtube.com/watch?v=8ttFEdZ6Nfo

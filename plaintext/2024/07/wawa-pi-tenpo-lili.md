@@ -1,15 +1,16 @@
 ---
 title: wawa pi tenpo lili
-original-title: Big Blast Sonic
 description: Lyrics of Big Blast Sonic by Guilty Gear, translated by jan Majeka
 authors:
   - jan Majeka
-original-authors:
-  - Naoki Hashimoto
-  - Daisuke Ishiwatari
-  - Norichika Sato
-  - Junya C. Motomura
 date: 2024-07-19
+original:
+  title: Big Blast Sonic
+  authors:
+    - Naoki Hashimoto
+    - Daisuke Ishiwatari
+    - Norichika Sato
+    - Junya C. Motomura
 license: null
 sources:
   - https://www.youtube.com/watch?v=P3VE4-R2SEk

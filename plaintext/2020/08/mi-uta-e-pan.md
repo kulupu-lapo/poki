@@ -1,13 +1,14 @@
 ---
 title: mi uta e pan
-original-title: i lik the bred
 authors:
   - jan Ne
-original-authors:
-  - Sam Garland
 date: 2020-08-25
 tags:
   - poetry
+original:
+  title: i lik the bred
+  authors:
+    - Sam Garland
 license: null
 sources:
   - https://www.reddit.com/r/tokipona/comments/ig5je0/comment/g2slqxh/

@@ -1,13 +1,14 @@
 ---
 title: tawa pona
-original-title: BELLA CIAO
 authors:
   - soko Sijeni
-original-authors:
-  - Fonola Band
 date: 2025-02-14
 tags:
   - music
+original:
+  title: BELLA CIAO
+  authors:
+    - Fonola Band
 license: null
 sources:
   - https://ivaaan.neocities.org/tawa-pona/

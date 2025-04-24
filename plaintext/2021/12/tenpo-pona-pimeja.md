@@ -1,10 +1,7 @@
 ---
 title: tenpo pona pimeja  # kalama: tenpo pona pimeja
-original-title: Stille Nacht
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
 date: 2021-12-07
 tags:
   - translation
@@ -13,6 +10,10 @@ tags:
   - folk song
   - christmas
   - carol
+original:
+  title: Stille Nacht
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/07/kalama-musi-tenpo-pona-pimeja/

@@ -2,9 +2,10 @@
 title: toki utala pi pimeja soweli
 authors:
   - jan Ote
-original-authors:
-  - unknown  # added automatically during reschema
 date: 2011-06-01
+original:
+  authors:
+    - unknown # added automatically during reschema
 license: null
 sources:
   - https://olukin.blogspot.com/2011/07/toki-utala-pi-pimeja-soweli.html

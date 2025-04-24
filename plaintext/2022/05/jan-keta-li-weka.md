@@ -1,10 +1,7 @@
 ---
 title: jan Keta li weka!
-original-title: Gerda malaperis!
 authors:
   - jan Tepo
-original-authors:
-  - Claude Piron
 proofreaders:
   - soweli nata
   - jan Lakuse
@@ -16,6 +13,10 @@ tags:
   - book
   - story
   - esperanto
+original:
+  title: Gerda malaperis!
+  authors:
+    - Claude Piron
 license: null
 sources:
   - https://docs.google.com/document/d/e/2PACX-1vTPNbOI0bcy31sRnziHm0urd__61l2-N7952qNG3WXxOTzMn8NAXmouv0uzTY5eiBip4vTA1ThRTxRc/pub

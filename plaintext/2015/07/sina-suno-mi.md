@@ -1,14 +1,15 @@
 ---
 title: Sina Suno Mi
-original-title: You Are My Sunshine
 authors:
   - jan Kulisa # Christa Hansberry 
-original-authors:
-  - Christina Perri
 date: 2015-07-25
 tags:
   - music
   - cover
+original:
+  title: You Are My Sunshine
+  authors:
+    - Christina Perri
 license: null
 sources:
   - https://soundcloud.com/christa-hansberry/sina-suno-mi

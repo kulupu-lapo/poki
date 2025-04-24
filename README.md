@@ -13,7 +13,6 @@ See also the [schema validation code](utils/validate-schemas.ts).
 ```yaml
 ---
 title:
-original-title:
 description:
 authors:
   -
@@ -24,6 +23,10 @@ proofreaders:
 date: # yyyy-mm-dd
 tags:
   -
+original:
+  title:
+  authors:
+    -
 license: # `null` if no or unknown license
 sources:
   -

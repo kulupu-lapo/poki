@@ -1,11 +1,7 @@
 ---
 title: ilo kalama li mu  # kalama: ilo kalama li mu
-original-title: Kling Glöckchen klingelingeling
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
-  - Karl Enslin
 date: 2021-12-06
 tags:
   - translation
@@ -14,6 +10,11 @@ tags:
   - folk song
   - christmas
   - carol
+original:
+  title: Kling Glöckchen klingelingeling
+  authors:
+    - folk origin
+    - Karl Enslin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/06/kalama-musi-ilo-kalama-li-mu/

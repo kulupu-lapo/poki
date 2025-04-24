@@ -1,16 +1,17 @@
 ---
 title: kasi luka
-original-title: Palm Tree
 description: 'sina sona ala sona e ni: kasi luka li suli pi mute seme tawa lon jan?
   sina wile sona la o lukin e lipu ni.'
 authors:
 - jan Melon
-original-authors:
-- Simon Ipoo
-# - Rob Owen (illustrator)
 date: 2021-11-08
 tags:
 - StoryWeaver level 1
+original:
+  title: Palm Tree
+  authors:
+  - Simon Ipoo
+# - Rob Owen (illustrator)
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/348976-kasi-luka

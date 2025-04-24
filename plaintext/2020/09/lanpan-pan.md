@@ -1,10 +1,7 @@
 ---
 title: lanpan pan
-original-title: La Conquête du Pain  # The Conquest of Bread
 authors:
   - jan inwin
-original-authors:
-  - Peter Kropotkin  # jan pijoto popokin
 date: 2020-09-27
 tags:
   - translation
@@ -12,6 +9,10 @@ tags:
   - essay
   - anarchism
   - communism
+original:
+  title: La Conquête du Pain
+  authors:
+    - Peter Kropotkin # jan pijoto popokin
 license: null
 sources:
   - https://docs.google.com/document/d/1Pz7rvn7LXPJmJZ6AJxEWa6WuOJys8KHioXLtYkj0k-Q/edit

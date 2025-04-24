@@ -1,10 +1,11 @@
 ---
 title: pilin pi kama pona
-original-title: La Espero
 authors:
   - jan Lentan
 date: 2021-09-02
 tags: null
+original:
+  title: La Espero
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://lipu-sona.pona.la/lentan/nasin_tenpo

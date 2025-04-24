@@ -1,15 +1,16 @@
 ---
 title: tomo suli pi ma tomo Jejan
-original-title: 岳陽樓記  # Tribute to Yueyang Tower
 authors:
   - jan Maku  # ItMarki
-original-authors:
-  - Fan Zhongyan  # 范仲淹
 date: 2022-07-16
 tags:
   - translation
   - traditional
   - confucianism
+original:
+  title: 岳陽樓記
+  authors:
+    - Fan Zhongyan # 范仲淹
 license: null
 sources:
   - https://drive.google.com/file/d/1qejDEQWzVLWHJNsJxEDvvp8peKeQr4Mi/view

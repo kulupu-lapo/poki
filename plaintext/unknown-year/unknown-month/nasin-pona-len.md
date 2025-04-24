@@ -2,13 +2,14 @@
 title: tawa
 authors:
   - jan Nikita
-original-authors:
-  - unknown  # added automatically during reschema
 date: 2001-01-01
 date-precision: none
 tags:
   - translation
   - taoism
+original:
+  authors:
+    - unknown # added automatically during reschema
 license: CC0 1.0
 sources:
   - http://tokipona.net/tp/janpije/nasinpona-len.php  # dead link

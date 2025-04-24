@@ -1,16 +1,17 @@
 ---
 title: seli sewi
-original-title: holy fire
 description: "seli sewi li kipisi e sina. seli sewi li lon oko ona. ante: jan Makalole
   li kama sona e jan sewi."
 authors:
   - mokutelo_pona (Wholesome_Soup)
-original-authors:
-  - Wholesome_Soup
 date: 2024-02-27
 license: null
 tags:
   - "fan fiction"
+original:
+  title: holy fire
+  authors:
+    - Wholesome_Soup
 sources:
   - https://archiveofourown.org/works/54104698
 archives:

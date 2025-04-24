@@ -1,15 +1,16 @@
 ---
 title: toki pi jan Koele
-original-title: Ecclesiastes
 date: 2001-01-01
 date-precision: none
 authors:
   - Michael F.
-original-authors:
-  - authors of the Bible
 tags:
   - translation
   - prose
+original:
+  title: Ecclesiastes
+  authors:
+    - authors of the Bible
 license: CC BY-NC 3.0
 sources:
   - http://failbluedot.com/toki_pona/ecclesiastes

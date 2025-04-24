@@ -1,11 +1,12 @@
 ---
 title: ma tomo Pape
-original-title: Tower of Babel
 authors:
   - Damian Yerrick  # According to Wikipedia's page history; unclear if this is the actual translator
-original-authors:
-  - unknown  # added automatically during reschema
 date: 2005-07-15
+original:
+  title: Tower of Babel
+  authors:
+    - unknown # added automatically during reschema
 license: CC BY-SA 3.0  # License from Wikipedia
 sources:
   - https://en.wikipedia.org/w/index.php?title=Toki_Pona&oldid=1198391

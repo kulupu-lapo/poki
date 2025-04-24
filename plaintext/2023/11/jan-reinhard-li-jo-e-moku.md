@@ -1,15 +1,16 @@
 ---
 title: jan Reinhard li jo e moku
-original-title: Reinhard has a meal
 description: jan Reinhard li jo e moku
 authors:
   - AngryToasterNoises
-original-authors:
-  - jan Reinhard li jo e moku
 date: 2023-11-28
 license: null
 tags:
   - "fan fiction"
+original:
+  title: Reinhard has a meal
+  authors:
+    - jan Reinhard li jo e moku
 sources:
   - https://archiveofourown.org/works/51895672?view_adult=true
 archives:

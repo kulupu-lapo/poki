@@ -1,13 +1,14 @@
 ---
 title: jaki
-original-title: Toxic
 authors:
   - jan Matejo
-original-authors:
-  - Britney Spears
 date: 2022-11-07
 tags:
   - music
+original:
+  title: Toxic
+  authors:
+    - Britney Spears
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=7JBuWzfkDcE

@@ -1,11 +1,12 @@
 ---
 title: toki suli nanpa luka luka luka pi lipu sewi pi jan Luka
-original-title: Gospel of Luke, chapter 15
 authors:
   - jan Telakoman
-original-authors:
-  - Luke the Evangelist
 date: 2023-10-14
+original:
+  title: Gospel of Luke, chapter 15
+  authors:
+    - Luke the Evangelist
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/lipu-pi-jan-Luka-15_si

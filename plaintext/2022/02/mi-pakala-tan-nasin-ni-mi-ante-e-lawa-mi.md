@@ -1,6 +1,5 @@
 ---
 title: mi pakala tan nasin ni. mi ante e lawa mi.
-original-title: Did I get lost along the way? Lose my mind for a new identity?
 description: "English Speakers - This is a toki pona translation of a fic I wrote
   last summer. It is entirely in toki pona, and if you don’t speak the language you’d
   be much better off reading the original lol. Also if you have a fic you want me
@@ -12,12 +11,14 @@ description: "English Speakers - This is a toki pona translation of a fic I wrot
   toki pona // toki Inli. ni la toki Inli li jo e kon sama toki pona. o awen pona!"
 authors:
   - LuxeDeluxe
-original-authors:
-  - LuxeDeluxe
 date: 2022-02-17
 license: null
 tags:
   - "fan fiction"
+original:
+  title: Did I get lost along the way? Lose my mind for a new identity?
+  authors:
+    - LuxeDeluxe
 sources:
   - https://archiveofourown.org/works/37200148
 archives:

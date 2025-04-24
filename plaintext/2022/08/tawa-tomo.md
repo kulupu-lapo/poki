@@ -2,9 +2,10 @@
 title: tawa tomo
 authors:
   - jan Kekan San
-original-authors:
-  - jan Marta Keen
 date: 2022-08-27
+original:
+  authors:
+    - jan Marta Keen
 license: null
 sources:
   - https://mun.la/lipu/tawa-tomo.html

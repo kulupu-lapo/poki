@@ -1,15 +1,16 @@
 ---
 title: lili. suli.
-original-title: Little and Big
 description: lipu pona lon lili lon suli.
 authors:
 - nick
-original-authors:
-- Carole Bloch
-# - Vian Oelofsen (illustrator)
 date: 2022-02-28
 tags:
 - StoryWeaver level 1 (Emergent Readers)
+original:
+  title: Little and Big
+  authors:
+  - Carole Bloch
+# - Vian Oelofsen (illustrator)
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/424791-lili-suli

@@ -1,15 +1,16 @@
 ---
 title: ijo 055 - [sona ala]
-original-title: SCP-055 - [unknown]
 description: lipu pi ijo 055 lon toki pona.
 authors:
   - axiomwitch
-original-authors:
-  - qntm
-  - CptBellman
 date: 2025-01-20
 tags:
   - 'ao3'
+original:
+  title: SCP-055 - [unknown]
+  authors:
+    - qntm
+    - CptBellman
 license: null
 sources:
   - https://archiveofourown.org/works/62356867

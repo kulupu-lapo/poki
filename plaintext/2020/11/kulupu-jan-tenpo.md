@@ -1,12 +1,8 @@
 ---
 title: kulupu jan tenpo
-original-title: Dreams of Our Generation
 authors:
   - jan Misali
 #   - Jules
-original-authors:
-  - Tsunku♂
-  - Kaoru Okubo
 date: 2020-11-27
 tags:
   - translation
@@ -15,6 +11,11 @@ tags:
   - rhythm heaven fever
   - rhythm heaven
   - post-cringe
+original:
+  title: Dreams of Our Generation
+  authors:
+    - Tsunku♂
+    - Kaoru Okubo
 license: CC BY-NC 3.0  # from Soundcloud
 sources:
   - https://www.youtube.com/watch?v=fWHZz7ZCXqw

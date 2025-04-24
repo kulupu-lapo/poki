@@ -1,13 +1,14 @@
 ---
 title: tenpo pi mi jan lili la...
-original-title: Як дитиною бувало…
 authors:
 - kije Enki
-original-authors:
-- jan Ukwainka (Леся Українка)
 date: 2023-02-06
 tags:
 - poetry
+original:
+  title: Як дитиною бувало…
+  authors:
+  - jan Ukwainka (Леся Українка)
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf

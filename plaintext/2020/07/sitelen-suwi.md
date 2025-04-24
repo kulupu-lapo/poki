@@ -3,9 +3,10 @@ title: sitelen suwi
 # original-title: Unclear to proofreader
 authors:
   - jan Kaja
-original-authors:
-  - Ferenc Szilágyi
 date: 2020-07-26
+original:
+  authors:
+    - Ferenc Szilágyi
 license: null
 sources:
   - https://drive.google.com/file/d/1csNDqOs_yRFZWo_tninZLiS0jf-QO8tb/edit

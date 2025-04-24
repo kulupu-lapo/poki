@@ -2,11 +2,12 @@
 title: o moli ala tawa pimeja pona tenpo
 authors:
   - jan Kapesi Pake
-original-authors:
-  - jan Silan Toma
 date: 2024-10-20
 tags:
   - poetry
+original:
+  authors:
+    - jan Silan Toma
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf

@@ -1,10 +1,7 @@
 ---
 title: jan lawa pona  # kalama: jan lawa pona
-original-title: Good Kind Wenceslas
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
 date: 2021-12-13
 tags:
   - translation
@@ -13,6 +10,10 @@ tags:
   - folk song
   - christmas
   - carol
+original:
+  title: Good Kind Wenceslas
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/13/kalama-jan-lawa-pona/

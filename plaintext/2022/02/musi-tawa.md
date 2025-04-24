@@ -1,16 +1,17 @@
 ---
 title: musi tawa
-original-title: The Race
 description: musi mute la jan mute li wile musi tawa. seme li nanpa wan.
 authors:
 - nick
-original-authors:
-- Kanchan Bannerjee
-# - Kavya Singh (illustrator)
-# - Natasha Mehra (illustrator)
 date: 2022-02-28
 tags:
 - StoryWeaver level 1
+original:
+  title: The Race
+  authors:
+  - Kanchan Bannerjee
+# - Kavya Singh (illustrator)
+# - Natasha Mehra (illustrator)
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/424748-musi-tawa

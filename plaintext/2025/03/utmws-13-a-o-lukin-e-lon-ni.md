@@ -1,6 +1,5 @@
 ---
 title: "UTMWS 13: a, o lukin e lon ni! [BFDIA 13 in toki pona!]"
-original-title: "BFDIA 13: Well, Look Who It Is!"
 description: |
   o mu tawa jan mu! 
 
@@ -20,12 +19,14 @@ description: |
   excuse the sound quality half of us have bad mics lol
 authors:
   - meli Siliwa
-original-authors:
-  - jacknjellify
 date: 2025-03-30
 tags:
   - BFDI
   - fandub
+original:
+  title: "BFDIA 13: Well, Look Who It Is!"
+  authors:
+    - jacknjellify
 license: null
 sources:
   - https://www.youtube.com/watch?v=uAkbemmXiuo

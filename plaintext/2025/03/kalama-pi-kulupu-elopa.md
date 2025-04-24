@@ -1,13 +1,14 @@
 ---
 title: kalama pi kulupu Elopa
-original-title: An die Freude
 authors:
   - soko Sijeni
-original-authors:
-  - Friedrich Schiller
 date: 2025-03-22
 tags:
   - music
+original:
+  title: An die Freude
+  authors:
+    - Friedrich Schiller
 license: null
 sources:
   - https://ivaaan.neocities.org/elopa/

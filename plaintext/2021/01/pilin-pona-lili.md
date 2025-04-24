@@ -1,14 +1,15 @@
 ---
 title: pilin pona lili
-original-title: Das kleine Glück
 authors:
   - jan Ke Tami
-original-authors:
-  - Christine Sinnwell-Backes
 date: 2021-01-17
 tags:
   - translation
   - story
+original:
+  title: Das kleine Glück
+  authors:
+    - Christine Sinnwell-Backes
 license: CC BY 4.0
 sources:
   - https://www.youtube.com/watch?v=5xlck-IL80Q

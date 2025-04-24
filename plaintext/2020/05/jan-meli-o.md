@@ -1,11 +1,12 @@
 ---
 title: jan Meli o
-original-title: Ave Maria
 authors:
   - Tobias Merkle
-original-authors:
-  - unknown  # added automatically during reschema
 date: 2020-05-09
+original:
+  title: Ave Maria
+  authors:
+    - unknown # added automatically during reschema
 license: null
 sources:
   - https://www.jonathangabel.com/2020/ave-maria/

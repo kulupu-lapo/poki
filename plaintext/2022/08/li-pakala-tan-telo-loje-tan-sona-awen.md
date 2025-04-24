@@ -6,12 +6,13 @@ description: "jan pali ma The Magnus Institute li kama e kulupu pali. jan Jon li
   around a bit."
 authors:
   - orphan_account
-original-authors:
-  - bonustrack
 date: 2022-08-08
 license: null
 tags:
   - "fan fiction"
+original:
+  authors:
+    - bonustrack
 sources:
   - https://archiveofourown.org/works/40897929
 archives:

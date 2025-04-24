@@ -1,14 +1,15 @@
 ---
 title: o olin e jan anpa
-original-title: Love The Subhuman Self
 description: Lyrics of Love The Subhuman Self by Guilty Gear, translated by jan Majeka
 authors:
   - jan Majeka
-original-authors:
-  - AISHA
-  - Daisuke Ishiwatari
-  - Jamison Boaz
 date: 2024-04-26
+original:
+  title: Love The Subhuman Self
+  authors:
+    - AISHA
+    - Daisuke Ishiwatari
+    - Jamison Boaz
 license: null
 sources:
   - https://www.youtube.com/watch?v=yygPlIa2mg0

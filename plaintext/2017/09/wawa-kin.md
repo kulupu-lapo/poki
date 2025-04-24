@@ -1,13 +1,14 @@
 ---
 title: wawa kin
-original-title: Stronger than You
 authors:
   - jan Minasa
-original-authors:
-  - unknown  # added automatically during reschema
 date: 2017-09-10
 tags:
   - music
+original:
+  title: Stronger than You
+  authors:
+    - unknown # added automatically during reschema
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=QH3xbq0rFVU

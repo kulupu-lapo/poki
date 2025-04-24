@@ -1,13 +1,14 @@
 ---
 title: jan Kamela
-original-title: ¡Ay! Carmela
 authors:
   - soko Sijeni
-original-authors:
-  - Coro Popular Jabalón
 date: 2025-03-29
 tags:
   - music
+original:
+  title: ¡Ay! Carmela
+  authors:
+    - Coro Popular Jabalón
 license: null
 sources:
   - https://ivaaan.neocities.org/jan-kamela/

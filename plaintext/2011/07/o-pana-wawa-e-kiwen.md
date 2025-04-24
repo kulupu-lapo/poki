@@ -2,9 +2,10 @@
 title: o pana wawa e kiwen
 authors:
   - jan Ote
-original-authors:
-  - unknown  # added automatically during reschema
 date: 2011-06-15
+original:
+  authors:
+    - unknown # added automatically during reschema
 license: null
 sources:
   - https://olukin.blogspot.com/2011/07/o-pana-wawa-e-kiwen.html

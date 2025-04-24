@@ -1,16 +1,17 @@
 ---
 title: "[PAKALA]"
-original-title: Deltarune - THE DEATH
 description: DELTARUNE death screens translated into toki pona. sina moli la, sina
   ken lukin e toki ni.
 authors:
   - ijo Kinesin
-original-authors:
-  - Toby Fox
 date: 2024-07-16
 license: null
 tags:
   - "fan fiction"
+original:
+  title: Deltarune - THE DEATH
+  authors:
+    - Toby Fox
 sources:
   - https://archiveofourown.org/works/57437932/chapters/146128024
 archives:

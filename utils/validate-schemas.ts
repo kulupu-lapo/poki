@@ -20,6 +20,10 @@ const Article = z
     // Those still have to specify null explicitly
     date: z.string().date(),
     "date-precision": z.union([z.literal("year"), z.literal("month"), z.literal("none")]).optional(),
+    original: z.object({
+        title: z.string(),
+        authors: z.array(z.string()).nonempty(),
+    }).optional(),
     tags: z.array(z.string()).nonempty().nullish(), // TODO: nullable
     // missing license -> "assume All rights reserved, but
     // its also possible we aren't yet aware of the correct license"

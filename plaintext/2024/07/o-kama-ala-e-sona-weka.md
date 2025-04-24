@@ -1,16 +1,17 @@
 ---
 title: o kama ala e sona weka
-original-title: Don't Forget
 description: mi lon la, sina taso ala. Don't Forget - toki pona translation
 authors:
   - ijo Kinesin
-original-authors:
-  - Toby Fox
-  - Laura Shigihara
 date: 2024-07-07
 license: null
 tags:
   - "fan fiction"
+original:
+  title: Don't Forget
+  authors:
+    - Toby Fox
+    - Laura Shigihara
 sources:
   - https://archiveofourown.org/works/57201715
 archives:

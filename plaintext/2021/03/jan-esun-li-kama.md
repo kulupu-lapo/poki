@@ -1,10 +1,7 @@
 ---
 title: jan esun li kama  # kalama musi “jan esun li kama”
-original-title: Wellerman
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
 date: 2021-03-09
 tags:
   - translation
@@ -13,6 +10,10 @@ tags:
   - ballad
   - folk song
   - sea shanty
+original:
+  title: Wellerman
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/03/09/kalama-musi-jan-esun-li-kama/

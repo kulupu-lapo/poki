@@ -1,13 +1,14 @@
 ---
 title: jan Osimanta
-original-title: Ozymandias
 authors:
 - jan Kapesi Pake
-original-authors:
-- Percy Bysshe Shelley
 date: 2022-10-17
 tags:
 - poetry
+original:
+  title: Ozymandias
+  authors:
+  - Percy Bysshe Shelley
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf

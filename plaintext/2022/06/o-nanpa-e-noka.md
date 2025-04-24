@@ -1,15 +1,16 @@
 ---
 title: o nanpa e noka
-original-title: Let's Count Legs
 description: o nanpa e noka mute pi soweli mute a
 authors:
 - José L.
-original-authors:
-- All Children Reading Cambodia
-# - Measa Sovonnarea (illustrator)
 date: 2022-06-01
 tags:
 - StoryWeaver level 1 (Emergent Readers)
+original:
+  title: Let's Count Legs
+  authors:
+  - All Children Reading Cambodia
+# - Measa Sovonnarea (illustrator)
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/446414-o-nanpa-e-noka

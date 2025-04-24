@@ -1,12 +1,13 @@
 ---
 title: kalama musi pi jan Peni
-original-title: Penny's Theme
 authors:
   - jan Misali
   - Jules
 date: 2022-12-20
 tags:
   - music
+original:
+  title: Penny's Theme
 license: CC BY-NC 4.0
 sources:
   - https://www.youtube.com/watch?v=e8vNliigiss

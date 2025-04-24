@@ -1,17 +1,18 @@
 ---
 title: kule (kulupu "o toki sin tawa mi")
-original-title: Colours (Tell me now series)
 description: 'tenpo mute la, jan lili pi wile sona li toki tawa mama ona tan ni: ona
   li lukin e kule e selo la ona li wile sona e ni. kulupu "o toki sin tawa mi" li
   pana e wile sona e toki sin musi.'
 authors:
 - Miles Rodriguez
-original-authors:
-- Madhav Chavan
-# - Rijuta Ghate (illustrator)
 date: 2022-10-02
 tags:
 - StoryWeaver level 1
+original:
+  title: Colours (Tell me now series)
+  authors:
+  - Madhav Chavan
+# - Rijuta Ghate (illustrator)
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/471383-kule-kulupu-pi-o-toki-sin-tawa-mi

@@ -1,16 +1,17 @@
 ---
 title: luka tu
-original-title: Seven
 authors:
   - kala pona Tonyu
-original-authors:
-  - Taylor Swift
 date: 2020-11-27
 tags:
   - translation
   - music
   - lyrics
   - pop music
+original:
+  title: Seven
+  authors:
+    - Taylor Swift
 license: null
 sources:
   - https://soundcloud.com/kala-pona/luka-tu

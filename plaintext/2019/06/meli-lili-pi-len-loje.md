@@ -1,11 +1,7 @@
 ---
 title: meli lili pi len loje
-original-title: Little Red Riding Hood
 authors:
   - jan Same
-original-authors:
-  - Jacob Grimm
-  - Wilhelm Grimm
 proofreaders:
   - jan Kipo
   - jan Lope
@@ -19,6 +15,11 @@ tags:
   - children's book
   - story
   - folklore
+original:
+  title: Little Red Riding Hood
+  authors:
+    - Jacob Grimm
+    - Wilhelm Grimm
 license: CC BY-NC-ND 4.0
 sources:
   - https://musilili.net/lipu/meli-lili-pi-len-loje-2/

@@ -1,16 +1,17 @@
 ---
 title: toki sewi
-original-title: The Legend
 description: Translation of the Legend into toki pona :) mi toki ante e toki sewi
   tan musi Tetalun!
 authors:
   - ijo Kinesin
-original-authors:
-  - Toby Fox
 date: 2024-05-19
 license: null
 tags:
   - "fan fiction"
+original:
+  title: The Legend
+  authors:
+    - Toby Fox
 sources:
   - https://archiveofourown.org/works/56008024
 archives:

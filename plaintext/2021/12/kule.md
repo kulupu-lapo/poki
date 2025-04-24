@@ -1,15 +1,16 @@
 ---
 title: kule
-original-title: रंग
 description: 'soweli walo li olin mute e kule. ona li kama olin e kule sin. '
 authors:
 - Aspen Leigh
 # - Ajanta Guhathakurta (illustrator)
-original-authors:
-- Priyanka
 date: 2021-12-20
 tags:
 - StoryWeaver level 1 (Emergent Readers)
+original:
+  title: रंग
+  authors:
+  - Priyanka
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/374180-kule

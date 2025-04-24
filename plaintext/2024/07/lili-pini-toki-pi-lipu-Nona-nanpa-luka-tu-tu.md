@@ -1,6 +1,5 @@
 ---
 title: lili pini toki pi lipu Nona nanpa luka tu tu
-original-title: Nona the Ninth epilogue
 description: "NTN epilogue, but toki pona my plan so far: - chapter 1 is sitelen lasina
   (ie: plain old ascii characters) - chapter 2 is sitelen pona. it will be an image
   since ao3 doesn't let me use a custom @font-face for fanworks, but other than format
@@ -17,12 +16,14 @@ description: "NTN epilogue, but toki pona my plan so far: - chapter 1 is sitelen
   not doing that."
 authors:
   - gayspacewizard
-original-authors:
-  - Tamsyn Elizabeth Muir
 date: 2024-07-30
 license: null
 tags:
   - "fan fiction"
+original:
+  title: Nona the Ninth epilogue
+  authors:
+    - Tamsyn Elizabeth Muir
 sources:
   - https://archiveofourown.org/works/57646951/chapters/146693536
 archives:

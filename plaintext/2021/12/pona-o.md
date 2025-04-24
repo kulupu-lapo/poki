@@ -1,10 +1,7 @@
 ---
 title: pona o  # kalama: pona o
-original-title: An die Freude
 authors:
   - jan Ke Tami
-original-authors:
-  - Friedrich Schiller
 date: 2021-12-22
 tags:
   - translation
@@ -13,6 +10,10 @@ tags:
   - folk song
   - christmas
   - carol
+original:
+  title: An die Freude
+  authors:
+    - Friedrich Schiller
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/22/kalama-pona-o/

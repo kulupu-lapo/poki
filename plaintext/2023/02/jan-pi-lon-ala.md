@@ -1,13 +1,14 @@
 ---
 title: jan pi lon ala
-original-title: Antigonish
 authors:
 - jan Kapesi Pake
-original-authors:
-- jan Men (William Hughes Mearns)
 date: 2023-02-06
 tags:
 - poetry
+original:
+  title: Antigonish
+  authors:
+  - jan Men (William Hughes Mearns)
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf

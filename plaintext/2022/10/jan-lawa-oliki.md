@@ -1,14 +1,15 @@
 ---
 title: jan lawa Oliki
-original-title: The Ones Who Walk Away from Omelas
 authors:
 - soweli Elepanto
 - jan Pensa
-original-authors:
-- Alexander Pushkin
 date: 2022-10-01
 tags:
 - original work
+original:
+  title: The Ones Who Walk Away from Omelas
+  authors:
+  - Alexander Pushkin
 license: CC BY 4.0
 sources:
 - https://wikisource.org/wiki/Jan_lawa_Oliki_(2022)

@@ -1,10 +1,7 @@
 ---
 title: o weka tan ona  # kamala musi: o weka tan ona
-original-title: Leave Her, Johnny, Leave Her
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
 date: 2021-08-26
 tags:
   - translation
@@ -13,6 +10,10 @@ tags:
   - ballad
   - folk song
   - sea shanty
+original:
+  title: Leave Her, Johnny, Leave Her
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/08/26/kalama-musi-o-weka-tan-ona/

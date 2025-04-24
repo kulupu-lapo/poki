@@ -2,9 +2,10 @@
 title: toki pona translation of the Wikipedia article intro on quantum electrodynamics
 authors:
   - u/shy_girl_69
-original-authors:
-  - Contributors to Wikipedia
 date: 2020-09-24
+original:
+  authors:
+    - Contributors to Wikipedia
 license: Unknown license
 sources:
   - https://www.reddit.com/r/tokipona/comments/iyty70/toki_pona_translation_of_the_wikipedia_article/

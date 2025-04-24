@@ -1,13 +1,14 @@
 ---
 title: wan taso la
-original-title: Solo e pensoso
 authors:
 - jan Lapate
-original-authors:
-- jan Petaka
 date: 2024-05-14
 tags:
 - poetry
+original:
+  title: Solo e pensoso
+  authors:
+  - jan Petaka
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0026jaki.pdf

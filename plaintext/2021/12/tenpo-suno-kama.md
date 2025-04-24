@@ -1,10 +1,7 @@
 ---
 title: tenpo suno kama  # kalama: tenpo suno kama
-original-title: Morgen, Kinder, wird's was geben
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
 date: 2021-12-08
 tags:
   - translation
@@ -13,6 +10,10 @@ tags:
   - folk song
   - christmas
   - carol
+original:
+  title: Morgen, Kinder, wird's was geben
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/08/kalama-tenpo-suno-kama/

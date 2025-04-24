@@ -1,11 +1,12 @@
 ---
 title: a! ni li olin ala olin?
-original-title: Thrilling! Is this love? (Fan Club)
 authors:
   - jan Misali
 date: 2023-03-07
 tags:
   - music
+original:
+  title: Thrilling! Is this love? (Fan Club)
 license: CC BY-NC 4.0
 sources:
   - https://www.youtube.com/watch?v=DPwAsKJwLyk

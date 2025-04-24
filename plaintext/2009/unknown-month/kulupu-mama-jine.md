@@ -8,16 +8,17 @@ description: When trying to determine just what it is that makes humanity unique
   as language.
 authors:
   - jan Jonan
-original-authors:
-  - Wolf Blitzer    # jan Muwawa
-  - Richard Heene   # jan Wiko Jine
-  - Bradford Heene  # jan Patopa
-  - Mayumi Heene    # jan Majumi
 date: 2009-01-01
 date-precision: year
 tags:
   - translation
   - artwork
+original:
+  authors:
+    - Wolf Blitzer  # jan Muwawa
+    - Richard Heene # jan Wiko Jine
+    - Bradford Heene # jan Patopa
+    - Mayumi Heene  # jan Majumi
 license: All Rights Reserved
 sources:
   - https://jonathangabel.com/artworks/t47/t47_09_001/

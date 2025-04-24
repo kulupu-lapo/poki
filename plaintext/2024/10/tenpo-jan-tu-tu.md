@@ -2,11 +2,12 @@
 title: tenpo jan tu tu
 authors:
   - jan Kapesi Pake
-original-authors:
-  - jan Wilijan Pula Je
 date: 2024-10-20
 tags:
   - poetry
+original:
+  authors:
+    - jan Wilijan Pula Je
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf

@@ -1,10 +1,7 @@
 ---
 title: ale o pali  # kamala musi: ale o pali
-original-title: Haul Away Joe
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
 date: 2021-08-24
 tags:
   - translation
@@ -13,6 +10,10 @@ tags:
   - ballad
   - folk song
   - sea shanty
+original:
+  title: Haul Away Joe
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/08/24/kalama-musi-ale-o-pali/

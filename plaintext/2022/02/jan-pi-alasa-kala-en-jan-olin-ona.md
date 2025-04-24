@@ -1,11 +1,12 @@
 ---
 title: jan pi alasa kala en jan olin ona
-original-title: The Fisherman and His Wife
 authors:
   - jan Kekan San
-original-authors:
-  - folk tale
 date: 2022-02-28
+original:
+  title: The Fisherman and His Wife
+  authors:
+    - folk tale
 license: null
 sources:
   - https://mun.la/lipu/jan-pi-alasa-kala-en-jan-olin-ona.html

@@ -1,13 +1,14 @@
 ---
 title: poki pi telo Amonsijato
-original-title: The Cask of Amontillado
 authors:
   - jan lili Enta
-original-authors:
-  - Edgar Allan Poe
 date: 2023-05-01
 tags:
   - translation
+original:
+  title: The Cask of Amontillado
+  authors:
+    - Edgar Allan Poe
 license: All Rights Reserved
 sources:
   - https://docs.google.com/document/d/1FDUkWFxzWLlDj9xYIuMXIpC5G59_o_g_hW-bCPTV0hw/edit

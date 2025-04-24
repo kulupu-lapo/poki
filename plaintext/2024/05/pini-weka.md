@@ -2,11 +2,12 @@
 title: pini weka
 authors:
 - jan Nalu
-original-authors:
-- Giacomo Leopardi, 1798–1837 (jan Jakomo Lopate)
 date: 2024-05-14
 tags:
 - poetry
+original:
+  authors:
+  - Giacomo Leopardi, 1798–1837 (jan Jakomo Lopate)
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0026jaki.pdf

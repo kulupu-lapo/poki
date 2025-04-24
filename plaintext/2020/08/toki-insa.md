@@ -2,12 +2,13 @@
 title: toki insa
 authors:
   - socks
-original-authors:
-  - unknown  # added automatically during reschema
 date: 2020-08-19
 tags:
   - translation
   - poetry
+original:
+  authors:
+    - unknown # added automatically during reschema
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/340307145373253642/745501313777008651

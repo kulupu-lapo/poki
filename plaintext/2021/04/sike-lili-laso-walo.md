@@ -1,10 +1,7 @@
 ---
 title: sike lili laso walo
-original-title: The Pale Blue Dot
 authors:
   - jan Emalan
-original-authors:
-  - Carl Sagan
 proofreaders:
   - jan Ke Tami
   - soweli nata
@@ -13,6 +10,10 @@ date: 2021-04-01
 tags:
   - quote
   - translation
+original:
+  title: The Pale Blue Dot
+  authors:
+    - Carl Sagan
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/301380012156911616/827199410945392720

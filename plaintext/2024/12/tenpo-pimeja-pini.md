@@ -1,14 +1,15 @@
 ---
 title: tenpo pimeja pini
-original-title: The Final Night
 description: “tenpo ni li tenpo pini.”
 authors:
-  - axiomwitch
-original-authors:
   - axiomwitch
 date: 2024-12-15
 tags:
   - 'ao3'
+original:
+  title: The Final Night
+  authors:
+    - axiomwitch
 license: null
 sources:
   - https://archiveofourown.org/works/61341418/chapters/156788023

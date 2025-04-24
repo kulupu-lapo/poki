@@ -1,14 +1,15 @@
 ---
 title: jan Sitata
-original-title: Siddhartha
 authors:
 - jan Kala
-original-authors:
-- Hermann Hesse
 proofreaders:
 - jan Apikela
 - jan Sonja
 date: 2022-06-29
+original:
+  title: Siddhartha
+  authors:
+  - Hermann Hesse
 license: CC0
 sources:
 - https://tokipona.org/sitata/

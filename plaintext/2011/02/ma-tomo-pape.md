@@ -1,9 +1,10 @@
 ---
 title: ma tomo Pape
-original-title: Tower of Babel
 authors:
   - jan Pije
 date: 2011-02-04
+original:
+  title: Tower of Babel
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/ma-tomo-pape.html

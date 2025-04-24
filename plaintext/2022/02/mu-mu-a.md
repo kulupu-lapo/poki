@@ -1,15 +1,16 @@
 ---
 title: mu mu a
-original-title: Bow Meow Wow
 description: soweli tu li musi lon lipu kule ni.
 authors:
 - nick
-original-authors:
-- Priya Kuriyan
-# - Priya Kuriyan (illustrator)
 date: 2022-02-28
 tags:
 - StoryWeaver level 1 (Emergent Readers)
+original:
+  title: Bow Meow Wow
+  authors:
+  - Priya Kuriyan
+# - Priya Kuriyan (illustrator)
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/424770-mu-mu-a
