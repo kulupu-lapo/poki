@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2011-05-20
+date-precision: day
 tags: null
 original: null
 license: null

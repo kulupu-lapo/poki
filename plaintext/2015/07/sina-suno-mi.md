@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2015-07-25
+date-precision: day
 tags:
   - music
   - cover

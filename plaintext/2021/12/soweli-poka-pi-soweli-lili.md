@@ -8,6 +8,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2021-12-20
+date-precision: day
 tags:
 - StoryWeaver level 3
 original:

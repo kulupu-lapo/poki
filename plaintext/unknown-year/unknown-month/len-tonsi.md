@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2001-01-01
+date-precision: none
 tags: null
 original: null
 license: null
@@ -20,7 +21,6 @@ preprocessing: changed sitelen pona to sitelen Lasina, removed the pretty whites
   removed colored text
 accessibility-notes: null
 notes: null
-date-precision: none
 ---
 
 lipamanka li pali e ni  

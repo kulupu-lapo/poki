@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2002-10-10
+date-precision: day
 tags:
   - original
   - poetry

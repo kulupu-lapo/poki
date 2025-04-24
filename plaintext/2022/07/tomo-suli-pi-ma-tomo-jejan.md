@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-07-16
+date-precision: day
 tags:
   - translation
   - traditional

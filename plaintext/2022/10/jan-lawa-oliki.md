@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-10-01
+date-precision: day
 tags:
 - original work
 original:

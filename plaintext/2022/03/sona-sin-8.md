@@ -47,6 +47,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-03-11
+date-precision: day
 tags: null
 original: null
 license: null

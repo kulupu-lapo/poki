@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2019-06-07
+date-precision: day
 tags:
 - music
 original: null

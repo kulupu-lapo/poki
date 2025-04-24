@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2020-12-08
+date-precision: day
 tags:
   - translation
   - story

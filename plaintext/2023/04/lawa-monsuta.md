@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2001-01-01
+date-precision: none
 tags: null
 original: null
 license: CC-BY-SA 4.0
@@ -16,7 +17,6 @@ archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
-date-precision: none
 ---
 
 o sona a: moli en pilin ike li lon toki musi ni

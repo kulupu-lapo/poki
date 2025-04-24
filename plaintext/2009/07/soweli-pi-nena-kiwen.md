@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2009-07-01
+date-precision: day
 tags: null
 original: null
 license: CC BY-NC-SA 3.0

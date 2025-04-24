@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-08-06
+date-precision: day
 tags:
 - pipi li ike tawa sijelo
 - insa sijelo

@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-08-06
+date-precision: day
 tags:
 - jan li weka e sona mute
 - moku li lon

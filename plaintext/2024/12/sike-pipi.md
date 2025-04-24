@@ -8,6 +8,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-12-16
+date-precision: day
 tags:
   - 'ao3'
   - 'music'

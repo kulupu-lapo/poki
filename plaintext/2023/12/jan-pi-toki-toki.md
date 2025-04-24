@@ -7,6 +7,7 @@ translators: null
 proofreaders:
   - Various people on Ma Pona pi Toki Pona
 date: 2023-12-31
+date-precision: day
 tags: null
 original:
   title: Storyteller

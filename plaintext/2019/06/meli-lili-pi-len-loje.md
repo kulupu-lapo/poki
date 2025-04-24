@@ -11,6 +11,7 @@ proofreaders:
   - Vaughn Seward  # sitelen pona
   - efofecks       # sitelen telo
 date: 2019-06-04
+date-precision: day
 tags:
   - translation
   - book

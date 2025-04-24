@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2023-08-15
+date-precision: day
 tags:
 - jan pali en ilo ChatGPT li sitelen e lipu ni
 - nimi sin mute pi ku ala

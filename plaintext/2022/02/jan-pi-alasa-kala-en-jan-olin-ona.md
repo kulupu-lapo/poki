@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-02-28
+date-precision: day
 tags: null
 original:
   title: The Fisherman and His Wife

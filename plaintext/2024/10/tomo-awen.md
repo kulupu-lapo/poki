@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-10-31
+date-precision: day
 tags:
   - original
   - music

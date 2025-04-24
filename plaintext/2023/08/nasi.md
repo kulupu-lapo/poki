@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2023-08-15
+date-precision: day
 tags:
 - moku misikeke li nasa e lawa jan
 - moli mute

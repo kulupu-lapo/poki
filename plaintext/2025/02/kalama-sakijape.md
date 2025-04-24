@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2025-02-15
+date-precision: day
 tags:
   - music
 original:

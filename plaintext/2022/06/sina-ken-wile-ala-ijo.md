@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-06-01
+date-precision: day
 tags: null
 original:
   title: It's okay to not like things

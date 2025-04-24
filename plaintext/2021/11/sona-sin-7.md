@@ -40,6 +40,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2021-11-01
+date-precision: day
 tags: null
 original: null
 license: null

@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2018-05-14
+date-precision: day
 tags:
   - music
   - original

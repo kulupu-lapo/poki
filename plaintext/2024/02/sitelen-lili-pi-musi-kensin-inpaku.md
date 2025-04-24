@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-02-19
+date-precision: day
 tags:
   - "fan fiction"
 original: null

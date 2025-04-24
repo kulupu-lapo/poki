@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2020-07-15
+date-precision: day
 tags:
   - original
   - blog

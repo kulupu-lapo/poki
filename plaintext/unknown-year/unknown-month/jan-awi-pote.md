@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2001-01-01 # <2022
+date-precision: none
 tags:
   - translation
   - story
@@ -21,7 +22,6 @@ archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
-date-precision: none
 ---
 
 # jan Awi Pote en kiwen pi jan sona

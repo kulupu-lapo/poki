@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2016-08-14
+date-precision: day
 tags:
 - poetry
 - read-aloud poetry

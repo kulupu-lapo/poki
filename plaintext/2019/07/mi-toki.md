@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2019-07-22
+date-precision: day
 tags:
 - poetry
 - read-aloud poetry

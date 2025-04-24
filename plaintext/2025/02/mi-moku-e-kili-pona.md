@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2025-02-01
+date-precision: month
 tags:
   - original
   - poetry
@@ -18,7 +19,6 @@ archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
-date-precision: month
 ---
 
 mi moku e kili pona,  \

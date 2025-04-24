@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-01-15
+date-precision: day
 tags: null
 original:
   title: The Princess and the Pea

@@ -8,6 +8,7 @@ proofreaders:
   - jan Nale
   - jan Ne
 date: 2019-02-23
+date-precision: day
 tags:
   - music
   - alternative rock

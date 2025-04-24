@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2023-10-14
+date-precision: day
 tags: null
 original:
   title: Gospel of Luke, chapter 15

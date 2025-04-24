@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2023-08-15
+date-precision: day
 tags:
 - pilin pi wan taso
 - utala sijelo ike

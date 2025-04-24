@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-12-09
+date-precision: day
 tags:
 - comic
 original: null

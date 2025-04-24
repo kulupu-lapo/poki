@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-10-11
+date-precision: day
 tags: null
 original: null
 license: null

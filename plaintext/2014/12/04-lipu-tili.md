@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2014-12-17
+date-precision: day
 tags: null
 original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.

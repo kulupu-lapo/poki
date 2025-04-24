@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2021-11-03
+date-precision: day
 tags:
 - StoryWeaver level 2
 original:

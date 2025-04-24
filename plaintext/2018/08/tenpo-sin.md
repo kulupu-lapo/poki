@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2018-07-28
+date-precision: day
 tags: null
 original: null
 license: null

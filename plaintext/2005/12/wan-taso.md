@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2005-12-15         # Added to Wikipedia
+date-precision: day
 tags: null
 original: null
 license: CC BY-SA 3.0    # License from Wikipedia

@@ -8,6 +8,7 @@ translators: null
 proofreaders: null
 date: 2022-08-06 # on utala.pona.la;
 # 2022-06-14 was stated on lipu.pona.la, but it was set retroactively as the "date written"
+date-precision: day
 tags:
 - moku li lon
 original: null

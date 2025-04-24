@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2009-01-01
+date-precision: year
 tags:
   - original
   - artwork
@@ -18,7 +19,6 @@ archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
-date-precision: year
 ---
 
 ## lipu lawa pi esun kama

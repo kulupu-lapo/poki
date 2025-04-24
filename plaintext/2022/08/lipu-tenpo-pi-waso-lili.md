@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-08-06
+date-precision: day
 tags:
 - moli li lon
 - nimi sin mute li lon

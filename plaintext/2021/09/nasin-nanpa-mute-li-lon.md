@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2021-09-21
+date-precision: day
 tags: null
 original: null
 license: CC0

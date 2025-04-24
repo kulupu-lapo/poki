@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2018-02-15
+date-precision: day
 tags:
   - original
   - story

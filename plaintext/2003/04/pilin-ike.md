@@ -8,6 +8,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2003-04-23
+date-precision: day
 tags:
   - original
   - poetry

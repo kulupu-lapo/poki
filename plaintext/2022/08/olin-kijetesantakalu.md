@@ -8,6 +8,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-08-06
+date-precision: day
 tags:
 - moku mute li lon
 - pakala lili sijelo

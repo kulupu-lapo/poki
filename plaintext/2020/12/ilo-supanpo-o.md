@@ -8,6 +8,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2020-12-01
+date-precision: day
 tags:
   - fan fiction
   - discord

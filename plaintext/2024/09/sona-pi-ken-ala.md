@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-09-07
+date-precision: day
 tags: null
 original: null
 license: CC-BY-SA 4.0

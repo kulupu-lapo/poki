@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-05-09
+date-precision: day
 tags:
   - music
   - pop

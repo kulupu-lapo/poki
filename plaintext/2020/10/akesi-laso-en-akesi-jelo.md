@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2020-10-12
+date-precision: day
 tags:
   - translation
   - children's book

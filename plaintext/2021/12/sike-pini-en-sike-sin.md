@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2021-12-21
+date-precision: day
 tags:
   - translation
   - music

@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2021-06-02
+date-precision: day
 tags:
 - 'poetry'
 original: null

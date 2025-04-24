@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2020-08-31
+date-precision: day
 tags:
   - original
   - story

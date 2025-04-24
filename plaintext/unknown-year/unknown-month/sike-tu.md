@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2001-01-01
+date-precision: none
 tags: null
 original: null
 license: All Rights Reserved
@@ -16,7 +17,6 @@ archives:
 preprocessing: null
 accessibility-notes: null
 notes: null
-date-precision: none
 ---
 
 sike tu li pona  \

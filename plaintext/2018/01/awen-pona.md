@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2018-01-10
+date-precision: day
 tags:
   - original
   - poetry

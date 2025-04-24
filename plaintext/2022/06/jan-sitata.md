@@ -8,6 +8,7 @@ proofreaders:
 - jan Apikela
 - jan Sonja
 date: 2022-06-29
+date-precision: day
 tags: null
 original:
   title: Siddhartha

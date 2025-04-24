@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-04-26
+date-precision: day
 tags: null
 original:
   title: Love The Subhuman Self

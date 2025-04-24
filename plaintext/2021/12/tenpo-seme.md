@@ -9,6 +9,7 @@ proofreaders:
   - jan Kaje
   - jan Salan
 date: 2021-12-17
+date-precision: day
 tags:
   - music
   - alternative rock

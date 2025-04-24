@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-08-06
+date-precision: day
 tags:
 - kulupu lili ike pi nasin sewi nasa
 - nasin ike - jan li toki ike e nasin pi jan ante

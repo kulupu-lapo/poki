@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-08-10
+date-precision: day
 tags:
   - jan toki lipu li toki e sona ante lon tenpo ante
   - pakala sijelo

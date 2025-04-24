@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2023-02-06
+date-precision: day
 tags:
 - 'sitelen sitelen'
 - 'poetry'

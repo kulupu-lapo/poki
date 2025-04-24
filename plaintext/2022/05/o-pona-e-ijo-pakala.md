@@ -8,6 +8,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-05-14
+date-precision: day
 tags:
 - StoryWeaver level 4
 original:

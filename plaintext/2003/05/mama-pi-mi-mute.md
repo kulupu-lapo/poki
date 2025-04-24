@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2005-07-15
+date-precision: day
 tags: null
 original:
   title: Lord's Prayer

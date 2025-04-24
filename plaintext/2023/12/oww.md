@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2023-12-24
+date-precision: day
 tags:
   - music
   - pop

@@ -22,6 +22,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2025-03-30
+date-precision: day
 tags:
   - BFDI
   - fandub

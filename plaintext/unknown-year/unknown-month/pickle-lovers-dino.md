@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2001-01-01
+date-precision: none
 tags: null
 original: null
 license: null
@@ -16,7 +17,6 @@ archives:
 preprocessing: changed UCSUR characters to Latin script
 accessibility-notes: null
 notes: toki Inli li lon
-date-precision: none
 ---
 
 kili palisa laso tu li lon  

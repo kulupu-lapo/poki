@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2018-08-03
+date-precision: day
 tags:
 - music
 - tok' apona

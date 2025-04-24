@@ -8,6 +8,7 @@ translators: null
 proofreaders:
   - jan lape pi toki Inli ala
 date: 2025-01-03
+date-precision: day
 tags: null
 original:
   title: Maya's Conversatie

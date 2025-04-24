@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2001-01-01
+date-precision: none
 tags:
   - translation
   - prose
@@ -21,7 +22,6 @@ archives:
 preprocessing: null
 accessibility-notes: null
 notes: null
-date-precision: none
 ---
 
 # Kissing Hank’s Ass

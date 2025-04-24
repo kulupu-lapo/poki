@@ -10,6 +10,7 @@ proofreaders:
   - jan Pensa
   - jan Peton
 date: 2022-05-29
+date-precision: day
 tags:
   - translation
   - book

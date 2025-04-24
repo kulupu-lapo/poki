@@ -33,6 +33,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2023-08-22
+date-precision: day
 tags:
   - music
   - alternative rock

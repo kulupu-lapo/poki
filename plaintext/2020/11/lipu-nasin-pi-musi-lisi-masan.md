@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2020-11-13
+date-precision: day
 tags: null
 original: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0

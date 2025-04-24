@@ -45,6 +45,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2023-12-29
+date-precision: day
 tags: null
 original: null
 license: null

@@ -11,6 +11,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2009-01-01
+date-precision: year
 tags:
   - translation
   - artwork
@@ -35,7 +36,6 @@ archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
-date-precision: year
 ---
 
 <!--  WOLF BLITZER, HOST, GUEST HOST: Tonight, the runaway balloon drama – a 6-year-old boy feared to be on board, maybe plunging to his death out of the swiftly moving craft. The child named Falcon the focus of air and ground search efforts and a captivated nationwide TV audience. The three hour ordeal lived by his desperate family has a happy ending. They’re all here next on LARRY KING LIVE. We want to welcome our viewers in the United States and around the world. I’m Wolf Blitzer sitting in for Larry tonight. -->

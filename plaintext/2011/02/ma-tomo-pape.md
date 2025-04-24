@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2011-02-04
+date-precision: day
 tags: null
 original:
   title: Tower of Babel

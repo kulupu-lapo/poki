@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2017-07-25
+date-precision: day
 tags:
   - poetry
   - discord

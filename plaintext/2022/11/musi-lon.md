@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-09-11
+date-precision: day
 tags:
 - poetry
 - read-aloud poetry

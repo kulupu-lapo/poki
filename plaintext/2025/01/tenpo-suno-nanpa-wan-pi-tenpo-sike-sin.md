@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2025-01-01
+date-precision: day
 tags:
   - 'ao3'
 original: null

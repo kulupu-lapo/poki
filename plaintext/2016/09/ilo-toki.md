@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2016-09-25
+date-precision: day
 tags:
   - translation
   - poetry

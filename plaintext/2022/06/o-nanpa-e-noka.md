@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2022-06-01
+date-precision: day
 tags:
 - StoryWeaver level 1 (Emergent Readers)
 original:

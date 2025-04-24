@@ -10,6 +10,7 @@ proofreaders:
   - jan Seku
   - jan Tepan
 date: 2021-12-17
+date-precision: day
 tags:
   - music
   - alternative rock

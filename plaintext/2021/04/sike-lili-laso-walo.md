@@ -9,6 +9,7 @@ proofreaders:
   - soweli nata
   - jan Sijo
 date: 2021-04-01
+date-precision: day
 tags:
   - quote
   - translation

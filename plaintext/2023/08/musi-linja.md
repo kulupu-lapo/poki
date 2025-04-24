@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2023-08-24
+date-precision: day
 tags:
 - puzzle
 original: null

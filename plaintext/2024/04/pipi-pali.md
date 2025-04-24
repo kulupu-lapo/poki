@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-04-01
+date-precision: day
 tags:
 - 'leko nimi'
 - 'poetry'

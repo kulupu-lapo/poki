@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2020-08-19
+date-precision: day
 tags:
   - translation
   - poetry

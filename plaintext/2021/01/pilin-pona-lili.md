@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2021-01-17
+date-precision: day
 tags:
   - translation
   - story

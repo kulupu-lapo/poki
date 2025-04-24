@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-08-10
+date-precision: day
 tags:
   - moku
   - ma li kama jaki moli tan pali jan

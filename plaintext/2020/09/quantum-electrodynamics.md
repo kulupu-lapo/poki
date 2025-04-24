@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2020-09-24
+date-precision: day
 tags: null
 original:
   title: null

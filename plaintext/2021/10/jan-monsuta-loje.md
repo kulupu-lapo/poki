@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2021-10-28
+date-precision: day
 tags: null
 original:
   title: The Red Oni who Cried

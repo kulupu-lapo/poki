@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2015-12-20
+date-precision: day
 tags: null
 original: null
 license: All Rights Reserved

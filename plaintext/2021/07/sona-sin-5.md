@@ -19,6 +19,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2021-07-11
+date-precision: day
 tags: null
 original: null
 license: null

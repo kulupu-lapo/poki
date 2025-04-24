@@ -7,6 +7,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2023-08-15
+date-precision: day
 tags:
 - utala sijelo
 - ijo tu li toki kepeken kalama ala kepeken lukin ala kepeken nasin nasa lawa

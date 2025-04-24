@@ -8,6 +8,7 @@ translators: null
 proofreaders:
   - jan Ke Tami
 date: 2025-02-28
+date-precision: day
 tags: null
 original:
   title: mayamail

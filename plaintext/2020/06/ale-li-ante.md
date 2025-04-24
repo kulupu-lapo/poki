@@ -11,6 +11,7 @@ proofreaders:
   - jan Jeko
   - jan Seku
 date: 2020-06-28
+date-precision: day
 tags:
   - music
   - alternative rock

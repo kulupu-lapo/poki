@@ -8,6 +8,7 @@ translators: null
 proofreaders:
   - waso Seko
 date: 2024-12-23
+date-precision: day
 tags: null
 original:
   title: Maya's Sweet 16

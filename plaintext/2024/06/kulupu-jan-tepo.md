@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-06-07
+date-precision: day
 tags:
   - derivative
   - parody

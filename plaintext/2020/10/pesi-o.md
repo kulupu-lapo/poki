@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2020-10-23
+date-precision: day
 tags:
   - translation
   - music

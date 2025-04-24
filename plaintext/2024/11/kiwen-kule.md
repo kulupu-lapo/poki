@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2024-11-26
+date-precision: day
 tags:
   - 'ao3'
 original: null

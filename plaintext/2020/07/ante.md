@@ -6,6 +6,7 @@ authors:
 translators: null
 proofreaders: null
 date: 2020-07-11 # Creation date of the document
+date-precision: day
 tags:
   - original
   - story
