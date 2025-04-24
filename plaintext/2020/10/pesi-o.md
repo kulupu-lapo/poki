@@ -1,7 +1,10 @@
 ---
 title: Pesi o
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-10-23
 tags:
   - translation
@@ -15,7 +18,10 @@ original:
 license: null
 sources:
   - https://soundcloud.com/kala-pona/pesi-o
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

@@ -1,14 +1,22 @@
 ---
 title: kon lon
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2022-03-10
 tags:
 - poetry
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0012nimi.pdf
 - https://liputenpo.org/lipu/nanpa-nimi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 kin la jaki ali o lon.  

@@ -1,7 +1,10 @@
 ---
 title: pipi li lon
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-10-09
 tags:
   - translation
@@ -16,6 +19,10 @@ license: null
 sources:
   - https://www.youtube.com/watch?v=sjdAnoGLeF4
   - https://soundcloud.com/kala-pona/pipi-li-kon
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sewi pimeja lon anpa  \

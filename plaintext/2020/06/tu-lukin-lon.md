@@ -1,17 +1,25 @@
 ---
 title: tu lukin lon
+description: null
 authors:
   - jan Lakuse  # jan Sasalin
+translators: null
+proofreaders: null
 date: 2020-06-17
 tags:
   - original
   - story
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/340307145373253642/722970441110781952
   - https://discord.com/channels/301377942062366741/340307145373253642/722970595943514143
   - https://cdn.discordapp.com/attachments/340307145373253642/722970440963850330/tu_lukin_lon__nanpa_2.pdf
   - https://cdn.discordapp.com/attachments/340307145373253642/722970595670622248/tu_lukin_lon_corrections_version.pdf
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo la, kulupu Kalasasi li lon ma kasi. kulupu la, jan wan li lon. ona pi linja loje li toki. ona pi linja jelo li pilin. ona pi linja pimeja li lawa. ona pi linja kapesi li tawa. nasin ni li pona tawa jan mute ni. lon tomo la, toki en pilin en lawa en tawa li kama li weka. taso lon ona li awen. ni li nasin lon.

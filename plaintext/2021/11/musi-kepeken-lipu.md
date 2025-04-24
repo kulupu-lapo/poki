@@ -3,6 +3,8 @@ title: musi kepeken lipu
 description: lipu li kama tawa jan Manju. jan pona ona la, lipu ni li kama ijo ante.
 authors:
 - Ret Samys
+translators: null
+proofreaders: null
 date: 2021-11-03
 tags:
 - StoryWeaver level 2
@@ -14,6 +16,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/347526-musi-kepeken-lipu
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1866/size7/abb5d13f72dd864a0b469e58b88bf0ef.jpg)

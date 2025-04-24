@@ -1,14 +1,22 @@
 ---
 title: nasin Juniko ala la, nasin UCSUR li lon
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2022-09-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0015moku.pdf
   - https://liputenpo.org/lipu/nanpa-moku/
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_sitelen_UCSUR.png
+archives: null
 preprocessing: transcribed text-only images
+accessibility-notes: null
+notes: null
 ---
 
 sina sama mi la, sina wile toki pona kepeken sitelen pona. taso sina wile pana e sitelen pona tan ilo sina tawa ilo ante la, ni li wile e pali. sina wile pana e sitelen pona sina ale lon lipu sitelen. sina ken pana e lipu sin ni tawa ilo ante la, ni li pona tawa ilo ante. nasin sitelen ante la, pali ni li lon ala. nasin sitelen Lasina en nasin sitelen ante mute li wile e sitelen taso e lipu sin ala pi sitelen ale tawa pana. ni li ken ala ken tawa nasin pi sitelen pona? nasin sitelen ante li wile ala e pali mute tan seme?

@@ -1,14 +1,17 @@
 ---
 title: The Shahadah
+description: null
 authors:
   - jan Pije
+translators: null
+proofreaders: null
 date: 2001-01-01
-date-precision: none
 tags:
   - translation
   - religion
   - islamRetro-Translation Back to English
 original:
+  title: null
   authors:
     - unknown # added automatically during reschema
 license: CC0 1.0
@@ -16,6 +19,10 @@ sources:
   - http://tokipona.net/tp/janpije/shahadah.php  # dead link
 archives:
   - https://web.archive.org/web/20151003153536/http://tokipona.net/tp/janpije/shahadah.php
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 <!--

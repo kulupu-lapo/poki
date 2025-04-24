@@ -1,14 +1,23 @@
 ---
 title: tuki tiki li seme?
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2023-11-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0022sin.pdf
 - https://liputenpo.org/lipu/nanpa-sin/
 - https://commons.wikimedia.org/wiki/File:Kati_tiki_tu_lili_-_jan_pi_tuki_tiki.png
 - https://commons.wikimedia.org/wiki/File:Kati_tiki_tu_lili_-_sitelen_pi_tuki_tiki.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![sitelen pi tuki tiki](https://upload.wikimedia.org/wikipedia/commons/c/c7/Kati_tiki_tu_lili_-_sitelen_pi_tuki_tiki.png)

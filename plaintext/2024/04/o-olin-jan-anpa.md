@@ -3,7 +3,10 @@ title: o olin e jan anpa
 description: Lyrics of Love The Subhuman Self by Guilty Gear, translated by jan Majeka
 authors:
   - jan Majeka
+translators: null
+proofreaders: null
 date: 2024-04-26
+tags: null
 original:
   title: Love The Subhuman Self
   authors:
@@ -13,6 +16,10 @@ original:
 license: null
 sources:
   - https://www.youtube.com/watch?v=yygPlIa2mg0
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 o pakala e sina, ona li toki

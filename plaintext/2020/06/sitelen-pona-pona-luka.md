@@ -1,11 +1,20 @@
 ---
 title: sitelen pona pona luka
+description: null
 authors:
   - jan Telakoman
+translators: null
+proofreaders: null
 date: 2020-06-02
+tags: null
+original: null
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 [sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/) li sitelen ante lili tan [sitelen pona](http://tokipona.net/tp/janpije/hieroglyphs.php). taso ona li pona mute tawa mi.

@@ -1,8 +1,13 @@
 ---
 title: sona nimi li mute li nasa li musi
+description: null
 authors:
 - jan Tamalu
+translators: null
+proofreaders: null
 date: 2021-04-05
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0003soweli.pdf
@@ -10,6 +15,10 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_mun.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_pilin.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_suno.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki pona li pona mute a. ona li lili, taso ona li ken toki e sona ali tan ni: ona li jo e sona mute tawa nimi wan.

@@ -1,8 +1,11 @@
 ---
 title: kulupu jan tenpo
+description: null
 authors:
   - jan Misali
 #   - Jules
+translators: null
+proofreaders: null
 date: 2020-11-27
 tags:
   - translation
@@ -34,7 +37,10 @@ sources:
   - https://www.youtube.com/watch?v=ZOk4xkmkTxM  # by TauDudeBlobber
   - https://www.youtube.com/watch?v=NXsa_xkOuyE  # by kala pona Tonyu
   - https://www.youtube.com/watch?v=Bem1XrojM1U  # by UtaUtaUtau
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi]  \

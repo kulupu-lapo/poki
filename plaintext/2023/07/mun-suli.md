@@ -1,14 +1,22 @@
 ---
 title: mun suli
+description: null
 authors:
 - jan Lulu
+translators: null
+proofreaders: null
 date: 2023-07-01
 tags:
 - poetry
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0020nasin.pdf
 - https://liputenpo.org/lipu/nanpa-nasin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 pini. pimeja li lon.  

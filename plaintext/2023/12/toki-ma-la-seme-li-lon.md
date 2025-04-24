@@ -1,13 +1,22 @@
 ---
 title: toki ma la, seme li lon?
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2023-12-25
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0023sewi.pdf
 - https://liputenpo.org/lipu/nanpa-sewi/
 - https://commons.wikimedia.org/wiki/File:Toki_Ma_Prolangs.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![jan pi toki ma](https://upload.wikimedia.org/wikipedia/commons/d/d4/Toki_Ma_Prolangs.png)

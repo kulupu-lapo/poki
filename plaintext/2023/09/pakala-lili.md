@@ -1,17 +1,24 @@
 ---
 title: pakala-lili
+description: null
 authors:
   - Knives
+translators: null
+proofreaders: null
 date: 2023-09-10
-license: null
 tags:
   - poetry
+original: null
+license: null
 sources:
   - https://len.la/lili
   - https://len.la/script.js
 archives:
   - https://web.archive.org/web/20240529132545/https://len.la/lili
   - https://web.archive.org/web/20241004185053/https://len.la/script.js
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi lon ma kiwen ala  

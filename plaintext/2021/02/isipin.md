@@ -1,12 +1,21 @@
 ---
 title: isipin
+description: null
 authors:
 - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2021-02-22
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-22-isipin.md
 - https://lipukule.org/post/2021/02/22/isipin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo ale la, jan mute li pali e nimi sin pi toki pona. jan mute li toki e ni: 'a, mi wile toki e ijo ni lon toki pona! taso mi sona ala e nimi pona tawa ona. ni la mi o pali e nimi sin pi kon ni. a a.' tenpo mute la, nimi sin li musi taso, li kama suli ala. jan mute li sona ala e ona.

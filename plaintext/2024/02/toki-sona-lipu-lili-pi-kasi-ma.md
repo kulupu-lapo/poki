@@ -1,13 +1,22 @@
 ---
 title: 'toki sona: lipu lili pi kasi ma'
+description: null
 authors:
 - jan Lapate
+translators: null
+proofreaders: null
 date: 2024-02-07
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
 - https://liputenpo.org/lipu/nanpa-tenpo/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_jan_Wata_Wiman.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![jan Wata Wiman](https://upload.wikimedia.org/wikipedia/commons/f/f4/Lipu_tenpo_nanpa_tenpo_-_jan_Wata_Wiman.png)

@@ -1,12 +1,21 @@
 ---
 title: sitelen nasa pi ilo Nuwapenta
+description: null
 authors:
 - jan Masu
+translators: null
+proofreaders: null
 date: 2021-12-08
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0010lete.pdf
 - https://liputenpo.org/lipu/nanpa-lete/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ilo Nuwapenta (Neuralblender) li lawa ilo pi pali sitelen. ilo mute sama ona li lon, taso ilo Nuwapenta li ante tan ni: jan ale li ken kepeken ona. jan li toki e kulupu nimi tawa ilo la, ilo li pali e sitelen sin tan nimi ni. pali ni la ona li kepeken nasin ni: jan mute li pali e sitelen pi ijo lon, li pana e nimi tawa ona, li pana e ona tawa ilo. ilo li lukin e sitelen ale, li kama sona e linja tan nimi tawa sitelen. ilo li lukin e sitelen soweli mute la, ona li sona e ni: nimi “soweli” li jo e kon sama sitelen soweli ale. jan li toki e soweli tawa ilo, la ilo li ken pali e sitelen soweli sin.

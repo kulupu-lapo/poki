@@ -1,14 +1,22 @@
 ---
 title: kule mi
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2023-08-05
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/album/toki-gaming
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 o lukin e ale tomo   \

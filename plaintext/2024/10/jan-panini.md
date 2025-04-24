@@ -1,13 +1,22 @@
 ---
 title: jan Panini
+description: null
 authors:
   - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-10-20
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf
   - https://liputenpo.org/lipu/nanpa-jan/
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jan_-_jan_Panini.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![jan Panini](https://upload.wikimedia.org/wikipedia/commons/8/81/Lipu_tenpo_nanpa_jan_-_jan_Panini.png)

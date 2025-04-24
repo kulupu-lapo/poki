@@ -11,28 +11,28 @@ const Article = z
   .object({
     title: z.string(),
     // NOTE: original-title may not exist, e.g. meli en mije li tawa
-    "original-title": z.string().optional(),
-    description: z.string().optional(),
-    authors: z.array(z.string()).nonempty(),
-    "original-authors": z.array(z.string()).nonempty().optional(),
-    proofreaders: z.array(z.string()).nonempty().optional(),
+    "original-title": z.string().nullable(),
+    description: z.string().nullable(),
+    authors: z.array(z.string()).nullable(),
+    "original-authors": z.array(z.string()).nonempty().nullable(),
+    proofreaders: z.array(z.string()).nonempty().nullable(),
     // Date is required for all except `unknown-year/unknown-month`.
     // Those still have to specify null explicitly
     date: z.string().date(),
-    "date-precision": z.union([z.literal("year"), z.literal("month"), z.literal("none")]).optional(),
+    "date-precision": z.union([z.literal("year"), z.literal("month"), z.literal("none")]).nullable(),
     original: z.object({
-        title: z.string(),
-        authors: z.array(z.string()).nonempty(),
-    }).optional(),
-    tags: z.array(z.string()).nonempty().nullish(), // TODO: nullable
+        title: z.string().nullable(),
+        authors: z.array(z.string()).nonempty().nullable(),
+    }).nullable(),
+    tags: z.array(z.string()).nonempty().nullable(),
     // missing license -> "assume All rights reserved, but
     // its also possible we aren't yet aware of the correct license"
     license: z.string().nullable(), // TODO: SPDX compliance
-    sources: z.array(z.string()).nonempty().optional(),
-    archives: z.array(z.string()).nonempty().optional(),
-    preprocessing: z.string().nullish(),
-    "accessibility-notes": z.string().optional(),
-    notes: z.string().optional(),
+    sources: z.array(z.string()).nonempty().nullable(),
+    archives: z.array(z.string()).nonempty().nullable(),
+    preprocessing: z.string().nullable(),
+    "accessibility-notes": z.string().nullable(),
+    notes: z.string().nullable(),
   })
   .strict() // reject additional fields
   // TODO: it just says "Invalid input" when this refine fails to be met

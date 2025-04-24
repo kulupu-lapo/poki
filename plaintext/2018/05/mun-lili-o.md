@@ -1,7 +1,10 @@
 ---
 title: mun lili o
+description: null
 authors:
   - Vacon Sartirani
+translators: null
+proofreaders: null
 date: 2018-05-14
 tags:
   - music
@@ -10,12 +13,17 @@ tags:
   - reggae
   - bass ukelele
   - ukelele
+original: null
 license: CC BY-SA-NC 3.0  # CC BY-SA 4.0 on YouTube
 sources:
   - https://soundcloud.com/vacon-sartirani/mun-lili-o
   - https://www.youtube.com/watch?v=Bjlwov4JiD0   # nanpa wan
   - https://www.youtube.com/watch?v=Jixno7Kbdls   # nanpa tu
   - https://genius.com/Daniele-vacon-sartirani-mun-lili-o-lyrics
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- Music and lyrics: Vacon Sartirani

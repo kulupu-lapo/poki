@@ -1,11 +1,20 @@
 ---
 title: toki tawa sewi
+description: null
 authors:
   - jan Wenato
+translators: null
+proofreaders: null
 date: 2016-03-11
+tags: null
+original: null
 license: null
 sources:
   - https://tokisona.github.io/toki/pona/sewi/2016/03/11/toki-tawa-sewi.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan sewi o.  \

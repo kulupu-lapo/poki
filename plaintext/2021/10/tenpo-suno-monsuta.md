@@ -1,13 +1,22 @@
 ---
 title: tenpo suno monsuta[^1]
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-10-31
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0009moli.pdf
 - https://liputenpo.org/lipu/nanpa-moli/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_kili_pi_tenpo_suno_monsuta.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo sike ale la, jan li wile pilin monsuta. tenpo suno wan la, jan li jo e len monsuta. ni li lon tenpo suno monsuta.[^1]

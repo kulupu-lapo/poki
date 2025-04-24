@@ -1,14 +1,22 @@
 ---
 title: kala mi
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
+date: 2022-10-17
 tags:
 - poetry
-date: 2022-10-17
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pimeja la, mi lon taso  

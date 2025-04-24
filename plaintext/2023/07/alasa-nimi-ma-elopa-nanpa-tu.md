@@ -1,14 +1,22 @@
 ---
 title: 'alasa nimi: ma Elopa (nanpa tu)'
+description: null
 authors:
 - jan Sonatan
+translators: null
+proofreaders: null
 date: 2023-07-01
 tags:
 - puzzle
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0020nasin.pdf
 - https://liputenpo.org/lipu/nanpa-nasin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 .|.|.|.|.|.|.|.|.|.|.|.|.|.|.

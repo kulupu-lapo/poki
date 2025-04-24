@@ -1,14 +1,22 @@
 ---
 title: 'alasa nimi: ma Osejanija'
+description: null
 authors:
 - jan Sonatan
+translators: null
+proofreaders: null
 date: 2023-02-06
 tags:
 - puzzle
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 .|.|.|.|.|.|.|.|.|.|.|.|.|.|.

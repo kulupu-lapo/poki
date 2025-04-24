@@ -3,6 +3,8 @@ title: sijelo mi
 description: sijelo pi mi ale li pali lon tenpo ale, anu seme?
 authors:
 - Frzzl
+translators: null
+proofreaders: null
 date: 2022-02-04
 tags:
 - StoryWeaver level 1 (Emergent Readers)
@@ -16,6 +18,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/407839-sijelo-mi
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/40761/size7/9e00bebb774dbc984ca41d12505ab89b.jpg)

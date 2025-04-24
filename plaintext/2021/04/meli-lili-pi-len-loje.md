@@ -1,12 +1,21 @@
 ---
 title: meli lili pi len loje
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-04-05
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0003soweli.pdf
 - https://liputenpo.org/lipu/nanpa-soweli/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan mute li sona e toki ni: meli lili pi len loje li tawa mama mama meli ona - taso soweli ike li wile moku e ona. tan ni la, soweli ike li toki tawa meli. meli li wile awen lon nasin. taso meli li awen ala lon nasin tan toki soweli. mi jan lili la, mi kama sona e toki ni.

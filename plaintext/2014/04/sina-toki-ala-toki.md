@@ -1,11 +1,20 @@
 ---
 title: sina toki ala toki?
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2014-04-15
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2014/04/sina-toki-ala-toki.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi wile e ni: mi ken pilin kepeken toki pona.

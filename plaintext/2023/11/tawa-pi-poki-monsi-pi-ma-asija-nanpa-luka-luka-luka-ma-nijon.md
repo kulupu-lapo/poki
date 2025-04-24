@@ -1,12 +1,21 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa luka luka luka - ma Nijon
+description: null
 authors:
 - jan Polo
+translators: null
+proofreaders: null
 date: 2023-11-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0022sin.pdf
 - https://liputenpo.org/lipu/nanpa-sin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lipu ni li lipu pini pi kulupu lipu mi ‘tawa pi poki monsi pi ma Asija’. tenpo ni la mi wile toki lon ma Nijon. insa ma pi lipu mi la ma ni li ma pi nasin pi kama suno nanpa wan. ken la ona li ma suli kin nanpa wan tan ni: jan pi ma ale li sona e ma ni. jan mute li tawa ma ni.

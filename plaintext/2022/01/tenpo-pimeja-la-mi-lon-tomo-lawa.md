@@ -1,13 +1,20 @@
 ---
 title: tenpo pimeja la mi lon tomo tawa
+description: null
 authors:
   - Viking Cow
+translators: null
+proofreaders: null
 date: 2022-01-05
 tags:
   - music
+original: null
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=uHnKSFwLL3o
+archives: null
+preprocessing: null
+accessibility-notes: null
 notes: An English translation by the creator is available on the sources
 ---
 

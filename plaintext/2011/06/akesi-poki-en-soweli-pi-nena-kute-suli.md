@@ -1,11 +1,20 @@
 ---
 title: akesi poki en soweli pi nena kute suli
+description: null
 authors:
   - jan Mato
+translators: null
+proofreaders: null
 date: 2011-06-24
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/06/akesi-poki-en-soweli-pi-nena-kute-suli.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![akesi poki li pini e utala](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9effrsZuvRE3AXEKbt1Z-v1MGCTqXRup-EGh8gyIPN3n-dNJFpoqmaC39OBAqcCX3Q12sC0rwfAnW1ko04D3-pI5C5bG79Vu1tKeAdBn1yIkQYYhhBGS9xgppB6AJEVy0PkzCss_zMUC/s320/akesi-poki.jpg)

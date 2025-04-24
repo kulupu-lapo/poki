@@ -3,15 +3,20 @@ title: olin li seme?
 description: "jan Luwi li toki insa e ni: olin li seme?"
 authors:
   - lilymoth
+translators: null
+proofreaders: null
 date: 2023-08-11
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/49285033
 archives:
   - https://web.archive.org/web/20240930141152/https://archiveofourown.org/works/49285033
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

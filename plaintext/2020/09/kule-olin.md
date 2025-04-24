@@ -1,19 +1,26 @@
 ---
 title: kule olin
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-09-20
 tags:
   - original
   - music
   - lyrics
   - album track
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=ArGaIGXJCZE
   - https://soundcloud.com/kala-pona/kule-olin
   - https://open.spotify.com/track/1NVE7FcE67aaFzH7toDjk5
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

@@ -1,12 +1,21 @@
 ---
 title: toki musi pi pana waleja
+description: null
 authors:
 - jan Jonatan
+translators: null
+proofreaders: null
 date: 2022-05-05
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0013pipi.pdf
 - https://liputenpo.org/lipu/nanpa-pipi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki! mi pali e toki musi sin kepeken nasin ni: mi kama jo e nimi tu wan pi ijo ni: nimi nanpa tu li sama pini pi nimi nanpa wan li sama open pi nimi nanpa tu wan. o lukin e ni: ...X X X... nimi tu wan ni li nimi lawa pi toki musi. taso tenpo ale la nimi lawa li jo ala e waleja[^1]. tan ni la mi pali e toki musi pi pana waleja tawa nimi lawa ni.

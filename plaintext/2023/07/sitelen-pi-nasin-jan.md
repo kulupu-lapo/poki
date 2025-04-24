@@ -1,12 +1,21 @@
 ---
 title: sitelen pi nasin jan
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2023-07-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0020nasin.pdf
 - https://liputenpo.org/lipu/nanpa-nasin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo sike 2001 la, jan Wen Pitenten (Wayne Brittenden) li pali e sitelen pi nasin jan. sitelen ni li alasa e pilin pi nasin jan tan jan ali. sitelen ni la, jan Wen Pitenten li pali e wile sona mute mute mute tu (62) kin. jan li pini e wile sona ni la, jan li ken lukin e pilin ona lon sitelen pi nasin jan. toki Inli la, nimi pi sitelen ni li “The Political Compass.” sitelen ni li kepeken leko tu tu lon ona sama. leko[^1] ni li kule ante li sama nasin jan ante. leko pi laso sewi li pana e nasin lawa e nasin mani. leko jelo li pana e nasin ken e nasin mani. (sitelen majuna[^2] li kepeken leko pi loje laso, taso sitelen sin li kepeken leko jelo. kule jelo li pona lukin lon sitelen). leko pi laso kasi li pana e nasin ken e nasin sama. leko loje li pana e nasin lawa e nasin sama.

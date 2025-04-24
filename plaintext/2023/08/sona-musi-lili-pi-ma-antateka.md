@@ -1,13 +1,22 @@
 ---
 title: sona musi lili pi ma Antateka
+description: null
 authors:
 - mije Luke
+translators: null
+proofreaders: null
 date: 2023-08-24
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0021ma.pdf
 - https://liputenpo.org/lipu/nanpa-ma/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_ko_lete_walo.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![ko lete walo](https://upload.wikimedia.org/wikipedia/commons/9/99/Lipu_tenpo_nanpa_sewi_-_ko_lete_walo.png)

@@ -1,11 +1,20 @@
 ---
 title: meli pona
+description: null
 authors:
   - jan Pije
+translators: null
+proofreaders: null
 date: 2011-05-06
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/05/meli-pona.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "Nymph and Satyr" by Jean-Antoine Watteau (https://commons.wikimedia.org/wiki/File:Watteau_Jupiter_und_Antiope_Detail_2.jpg). Public Domain. -->

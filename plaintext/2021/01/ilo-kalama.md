@@ -1,16 +1,24 @@
 ---
 title: ilo kalama
+description: null
 authors:
   - jan Anselo
   - jan pi nimi ala
+translators: null
+proofreaders: null
 date: 2021-01-15
 tags:
   - music
 original:
   title: Jingle Bells
+  authors: null
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=MkaSB7Eyy14
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 Jingle bells, Jingle bells  \

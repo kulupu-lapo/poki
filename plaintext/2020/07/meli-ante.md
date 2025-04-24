@@ -1,14 +1,22 @@
 ---
 title: nasin nasa nanpa luka - meli ante
+description: null
 authors:
   - jan Josan
+translators: null
+proofreaders: null
 date: 2020-07-15
 tags:
   - original
   - blog
+original: null
 license: All Rights Reserved
 sources:
   - https://jonathangabel.com/2020/meli-ante/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 It’s been exactly a year since I [wrote about][previous post] Vacon Sartirani’s web comic nasin nasa, written entirely in sitelen sitelen, so I thought I really should post an update. Episode 5 just made it to my house about a week ago, and what can I say? Every episode since the first has been just as strong, just as weird and just as enjoyable.

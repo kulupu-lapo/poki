@@ -1,12 +1,21 @@
 ---
 title: pu Tosi
+description: null
 authors:
 - jan Juli
+translators: null
+proofreaders: null
 date: 2021-12-20
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vSXG4XS1fH-0GpJJvd79CXfvPXCXi5_Fb-2Grm1cqa0RDoJS54GY6DZvSOFWUpFB3Cn4gUhz0k2qpfL/pub
 - https://wikisource.org/wiki/Kalama_sin/13
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki! mi jan Juli. kalama sin ni la mi pana e sona pi lipu pu Tosi tawa sina. ona li sin mute! lipu pu nanpa wan li kama la sike suno nanpa luka tu li weka. ni la lipu pu Tosi li kama. ona li ante toki nanpa tu pi lipu pu nanpa wan. ante toki nanpa wan la ona li toki Kanse. jan Sonja li pali e ona. taso, lipu pu Tosi li ante lili tan ni: jan Sonja li pali ala e ona. mi pali e ona. jan Sonja li ken e ante toki mi. ni li pona suli tawa mi. ona li ken e pali la mi open e ona lon open pi tenpo mun pini. tenpo mun ni la lipu pu Tosi li lon! jan pi toki Tosi li ken kama sona pona e toki pona kepeken ona.

@@ -1,12 +1,16 @@
 ---
 title: weka ike
+description: null
 authors:
   - Nardi
+translators: null
+proofreaders: null
 date: 2022-06-05
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=iDpFcBKIAV8
@@ -27,6 +31,10 @@ sources:
   - https://www.musixmatch.com/es/letras/Nardi-3/Weka-Ike
   - https://lyricstranslate.com/en/nardi-weka-ike-lyrics.html
   - https://lyrics.lyricfind.com/lyrics/nardi-weka-ike
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 weka ike sina li telo e lawa mi  \

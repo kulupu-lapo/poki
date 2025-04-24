@@ -1,12 +1,20 @@
 ---
 title: tenpo mun monsuta
+description: null
 authors:
 - waso suno Alana
+translators: null
+proofreaders: null
 date: 2021-10-23
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vTXq3OcM8u1_476zrIekPUhZ-biXWhY53_QQZSXp_ADesIdf2Go8PRgIeVvIOOBu5JBG7m9H_jMxDxO/pub
 - https://wikisource.org/wiki/Kalama_sin/5
+archives: null
+preprocessing: null
+accessibility-notes: null
 notes: jan Deni li nimi weka pi waso suno Alana.
 ---
 

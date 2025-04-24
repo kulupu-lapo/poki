@@ -1,12 +1,21 @@
 ---
 title: pan linja en telo pi kili loje
+description: null
 authors:
 - jan Asukata
+translators: null
+proofreaders: null
 date: 2024-07-16
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2024-07-16-pan-linja-en-telo-pi-kili-loje.md
 - https://lipukule.org/post/2024/07/16/pan-linja-en-telo-pi-kili-loje/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 nasin ni li pali e pan linja nanpa wan tawa mi  

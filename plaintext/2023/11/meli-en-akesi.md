@@ -4,12 +4,19 @@ description: mi sitelen e ni tawa jan Sonja. lipu ni li pona tawa ona la [mi kam
   lon lipu pi toki pona](https://tokipona.org/)!
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2023-11-10
+tags: null
+original: null
 license: null
 sources:
   - https://mun.la/lipu/princess-and-the-frog.html
 archives:
   - https://web.archive.org/web/20240223110903/https://mun.la/lipu/princess-and-the-frog.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 meli li open e tomo la, akesi li tawa insa tomo li lape lon len lape meli sama tenpo pimeja pini. ona li lape lon tenpo pimeja ale tawa kama suno. tenpo pimeja nanpa tu wan la akesi li kama li lape sama. taso, meli li weka tan lape lon tenpo suno kama la, ona li pilin wawa a tan ni: ona li lukin ala e akesi. ona li lukin e mije lawa wawa lon poka pi supa lape ona. mije ni li pona a tawa lukin! mije li lukin e ona kepeken lukin suwi. lukin ona li suwi nanpa wan tawa meli.

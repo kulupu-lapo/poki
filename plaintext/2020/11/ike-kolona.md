@@ -1,11 +1,20 @@
 ---
 title: ike Kolona
+description: null
 authors:
 - jan Awi
+translators: null
+proofreaders: null
 date: 2020-11-11
+tags: null
+original: null
 license: null
 sources:
 - https://utala.pona.la/toki-musi-lili/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ike Kolona li pona ala.  

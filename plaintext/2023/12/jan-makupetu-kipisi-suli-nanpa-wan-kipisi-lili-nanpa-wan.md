@@ -1,12 +1,21 @@
 ---
 title: jan Makupetu - kipisi suli nanpa wan - kipisi lili nanpa wan
+description: null
 authors:
 - jan Imi
+translators: null
+proofreaders: null
 date: 2023-12-25
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0023sewi.pdf
 - https://liputenpo.org/lipu/nanpa-sewi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 (ma pi jan ala)

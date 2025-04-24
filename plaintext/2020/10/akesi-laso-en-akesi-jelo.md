@@ -1,7 +1,10 @@
 ---
 title: akesi laso en akesi jelo  # "laso" and "jelo" are proper adjectives, written in cartouches
+description: null
 authors:
   - jan inwin
+translators: null
+proofreaders: null
 date: 2020-10-12
 tags:
   - translation
@@ -15,7 +18,10 @@ original:
 license: null # `null` if no or unknown license
 sources:
   - https://drive.google.com/file/d/1OXasJRYbz5GLNGc0aCL-rr4KCo0JyM1P/view
+archives: null
 preprocessing: Removed illustrations as they are not found separately online.
+accessibility-notes: null
+notes: null
 ---
 
 # akesi laso en akesi jelo

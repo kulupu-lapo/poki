@@ -1,12 +1,21 @@
 ---
 title: lawa pi ma Setona
+description: null
 authors:
 - kule epiku Atawan
+translators: null
+proofreaders: null
 date: 2021-02-19
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-19-lawapimasetona.md
 - https://lipukule.org/post/2021/02/19/lawa-pi-ma-setona/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan mute li sona e ma tomo Setona (Sedona). ona li lon ma Jawapa (Yavapai) pi ma Alisona (Arizona). sina sona e ona, la tan pi sona sina li kiwen loje suli lon ona. ma tomo Setona li pona tawa jan mute tan kiwen suli ni. jan mute li tawa ona tan suwi ma, tan lukin pona. jan li ken tawa nena lon nasin, li ken sona e kasi mute, li ken lukin e ijo pi pona suwi. ma Setona li suwi mute tawa lukin. taso, jan tawa li sona ala e ni: jan lawa li pali e ijo mute tawa ma suwi ni.

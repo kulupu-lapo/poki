@@ -3,8 +3,9 @@ title: o kama ala e sona weka
 description: mi lon la, sina taso ala. Don't Forget - toki pona translation
 authors:
   - ijo Kinesin
+translators: null
+proofreaders: null
 date: 2024-07-07
-license: null
 tags:
   - "fan fiction"
 original:
@@ -12,11 +13,13 @@ original:
   authors:
     - Toby Fox
     - Laura Shigihara
+license: null
 sources:
   - https://archiveofourown.org/works/57201715
 archives:
   - https://web.archive.org/web/20240927145307/https://archiveofourown.org/works/57201715
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

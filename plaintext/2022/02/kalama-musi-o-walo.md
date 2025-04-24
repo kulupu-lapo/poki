@@ -1,13 +1,22 @@
 ---
 title: kalama musi “o walo”
+description: null
 authors:
 - jan Sonatan
+translators: null
+proofreaders: null
 date: 2022-02-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0011walo.pdf
 - https://liputenpo.org/lipu/nanpa-walo/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_ko_walo_jan.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 kalama musi pi toki pona li pona tawa sina anu seme? ona li musi pona tawa mi! pilin mi la jan Nasi [Nardi] li pali e kalama musi pona mute pi toki pona. tenpo ni la ona li pali e kalama musi “o walo”. musi ni li toki e tenpo lete e kon walo. ona li sama seme?

@@ -1,13 +1,22 @@
 ---
 title: toki Polaka
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-12-08
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0010lete.pdf
 - https://liputenpo.org/lipu/nanpa-lete/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_toki_Polaka.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 Dzień dobry! - suno pona!

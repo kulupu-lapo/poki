@@ -1,13 +1,21 @@
 ---
 title: mi lape ala
+description: null
 authors:
   - jan Kijon
+translators: null
+proofreaders: null
 date: 2024-01-14
 tags:
   - music
+original: null
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=xG37VeyXqEU
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi, mi wile lape  \

@@ -1,9 +1,11 @@
 ---
 title: akesi Jaba
-date: 2001-01-01
-date-precision: none
+description: null
 authors:
   - Michael F.
+translators: null
+proofreaders: null
+date: 2001-01-01
 tags:
   - translation
   - poetry
@@ -16,6 +18,10 @@ sources:
   - http://failbluedot.com/toki_pona/jabberwocky
 archives:
   - https://web.archive.org/web/20140305060542/http://failbluedot.com/toki_pona/jabberwocky
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 # Jabberwocky (akesi Jaba)

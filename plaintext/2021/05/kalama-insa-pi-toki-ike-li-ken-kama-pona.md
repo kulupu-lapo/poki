@@ -1,13 +1,22 @@
 ---
 title: kalama insa pi toki ike li ken kama pona
+description: null
 authors:
 - jan Telakoman
+translators: null
+proofreaders: null
 date: 2021-05-07
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf
 - https://liputenpo.org/lipu/nanpa-kasi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_kalama_insa_pona.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 nanpa soweli pi lipu tenpo la mi toki e ni: jan mute li jo e kalama insa pi toki ike. kalama insa pi toki ike li toki sama ni tawa jan: “sina pali ike lon tenpo ale. sina jan ike.” jan li ken weka e kalama insa ni kepeken nasin seme?

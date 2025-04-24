@@ -1,13 +1,17 @@
 ---
 title: akesi
+description: null
 authors:
   - D'Haelo
   - Nardi
+translators: null
+proofreaders: null
 date: 2024-09-08
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=V6prqTZqI3U
@@ -28,6 +32,10 @@ sources:
 
   # reposts:
   - https://www.youtube.com/watch?v=dex_Hzv1ijg
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi tawa li tawa la mi pilin 'a akesi  \

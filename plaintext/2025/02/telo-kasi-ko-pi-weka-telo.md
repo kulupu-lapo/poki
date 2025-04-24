@@ -1,13 +1,21 @@
 ---
 title: telo. kasi. ko pi weka telo.
+description: null
 authors:
   - lipamanka
+translators: null
+proofreaders: null
 date: 2025-02-12
+tags: null
+original: null
 license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso/moku
 archives:
   - https://web.archive.org/web/20250410144603/https://lipamanka.gay/toki-pona-taso/moku
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 kasi li jo e telo mute a! o lukin: mi wile weka e telo, la telo li ken awen. lipu ni li pana e sona ni: kili la seme li telo?

@@ -1,13 +1,22 @@
 ---
 title: ma tomo Pape
+description: null
 authors:
   - jan Pije
+translators: null
+proofreaders: null
 date: 2011-02-04
+tags: null
 original:
   title: Tower of Babel
+  authors: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/ma-tomo-pape.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "The Tower of Babel" by Abel Grimmer (File:'The Tower of Babel' by Abel Grimmer, 1595.jpg). Public Domain. -->

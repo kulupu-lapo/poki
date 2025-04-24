@@ -4,6 +4,8 @@ description: 'soweli walo li olin mute e kule. ona li kama olin e kule sin. '
 authors:
 - Aspen Leigh
 # - Ajanta Guhathakurta (illustrator)
+translators: null
+proofreaders: null
 date: 2021-12-20
 tags:
 - StoryWeaver level 1 (Emergent Readers)
@@ -14,6 +16,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/374180-kule
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/69657/size7/e379c0d826c4177b4dda84a6625b5931.jpg)

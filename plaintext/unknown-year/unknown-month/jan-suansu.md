@@ -1,11 +1,13 @@
 ---
 title: toki tan lipu pi jan Suansu
-date: 2001-01-01
-date-precision: none
+description: null
 authors:
   - Martin Palmer
   - Elizabeth Breuilly
   - Michael F.
+translators: null
+proofreaders: null
+date: 2001-01-01
 tags:
   - translation
   - prose
@@ -18,6 +20,10 @@ sources:
   - http://failbluedot.com/toki_pona/chuang_tzu
 archives:
   - https://web.archive.org/web/20140305064535/http://failbluedot.com/toki_pona/chuang_tzu
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 # toki tan lipu pi jan Suansu

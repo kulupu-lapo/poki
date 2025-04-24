@@ -1,13 +1,22 @@
 ---
 title: telo li monsuta
+description: null
 authors:
   - jan Sonatan
+translators: null
+proofreaders: null
 date: 2025-02-28
+tags: null
+original: null
 license: 'CC BY-SA 4.0'
 sources:
   - https://liputenpo.org/lipu/nanpa-kala/
   - https://liputenpo.org/pdfs/0031kala.pdf
   - https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki/nanpa-kala
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi lon ma. mi sona pona e ma li pali lon ma. ona li pona tawa mi. taso telo suli li ante. ona li pimeja li monsuta tawa mi.

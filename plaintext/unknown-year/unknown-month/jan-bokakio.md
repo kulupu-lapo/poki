@@ -1,9 +1,11 @@
 ---
 title: toki tan toki pi jan Bokakio
-date: 2001-01-01
-date-precision: none
+description: null
 authors:
   - Michael F.
+translators: null
+proofreaders: null
+date: 2001-01-01
 tags:
   - translation
   - prose
@@ -16,6 +18,10 @@ sources:
   - http://failbluedot.com/toki_pona/decameron
 archives:
   - https://web.archive.org/web/20140305064450/http://failbluedot.com/toki_pona/decameron
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 ## toki tan toki pi jan Bokakio

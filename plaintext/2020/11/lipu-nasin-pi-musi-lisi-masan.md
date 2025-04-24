@@ -1,13 +1,19 @@
 ---
 title: lipu nasin pi musi Lisi Masan (Riichi Mahjong) (WIP)
+description: null
 authors:
   - jan Lentan
+translators: null
+proofreaders: null
 date: 2020-11-13
 tags: null
+original: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://lipu-sona.pona.la/lentan/riichi_mahjong
+archives: null
 preprocessing: null
+accessibility-notes: null
 notes: Removed English translation in HTML comments
 ---
 

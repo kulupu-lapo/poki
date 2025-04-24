@@ -1,14 +1,23 @@
 ---
 title: mi la, nimi “kute” li nasa lili
+description: null
 authors:
 - jan Olipija
+translators: null
+proofreaders: null
 date: 2021-02-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0001akesi.pdf
 - https://liputenpo.org/lipu/nanpa-akesi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_len_kule.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_kute.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ante mute la, kulupu lili li toki e ni: “mi kama sona e toki pona tan ni: mi wile ala kama sona e nimi mute. o pali ala e nimi sin!”, “nimi pi pu ala anu tenpo pini li nimi ala tawa mi.”

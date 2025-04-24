@@ -1,11 +1,20 @@
 ---
 title: waso pi noka laso
+description: null
 authors:
   - jan Ote
+translators: null
+proofreaders: null
 date: 2010-09-01
+tags: null
+original: null
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2010/09/waso-pi-noka-waso.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "You Put Your Left Foot In.." by Peter Gene (https://www.flickr.com/photos/59888966@N00/516696480). CC BY-SA 2.0. -->

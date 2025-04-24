@@ -1,15 +1,23 @@
 ---
 title: pilin Weliko
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2021-12-22
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/track/pilin-weliko
   - https://www.youtube.com/watch?v=m-OwgUBjBuw
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki mi la  \

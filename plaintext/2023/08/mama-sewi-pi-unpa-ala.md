@@ -1,16 +1,23 @@
 ---
 title: mama sewi pi unpa ala
+description: null
 authors:
 - jan Lakuse
+translators: null
+proofreaders: null
 date: 2023-08-15
 tags:
 - sewi li nasa e sijelo jan
 - ike nasin pi ma Mewika tawa jan pi ken mama sijelo
 - jan li mama e jan lili lon insa ona li ken ala weka e ona tan lawa
+original: null
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/mama-pi-unpa-ala.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/mama-pi-unpa-ala.html
+archives: null
+preprocessing: null
+accessibility-notes: null
 notes: originally in ucsur sitelen pona, but saved in plaintext for Lapo. text contains
   cartouches meant to be read syllabically
 ---

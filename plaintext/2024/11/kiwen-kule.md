@@ -3,15 +3,20 @@ title: Kiwen Kule
 description: jan Lapis toki e soweli kili ona.
 authors:
   - BoredTurtleNerd
+translators: null
+proofreaders: null
 date: 2024-11-26
 tags:
   - 'ao3'
+original: null
 license: null
 sources:
   - https://archiveofourown.org/works/60850075
 archives:
   - https://web.archive.org/web/20250211123624/https://archiveofourown.org/works/60850075
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

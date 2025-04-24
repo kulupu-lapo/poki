@@ -1,13 +1,22 @@
 ---
 title: kala li ken ala ken waso?
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2025-02-28
+tags: null
+original: null
 license: 'CC BY-SA 4.0'
 sources:
   - https://liputenpo.org/lipu/nanpa-kala/
   - https://liputenpo.org/pdfs/0031kala.pdf
   - https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki/nanpa-kala
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 waso li ken ijo seme? ijo seme li ken waso? nimi Waso li ken toki pona e ijo seme? jan mute li pilin wawa: ni en ni en ni li lon ijo la ijo li waso. jan ante mute kin li pilin wawa: ni ante en ni ante en ni ante li lon ijo la ijo li waso. nasin wan taso ala li lon. taso mi kama wile sona e nasin suli la mi pana e lipu tawa kulupu mute. lipu la sitelen ijo mute li lon li ken waso li ken waso ala. kulupu o toki: seme li ken waso, seme li waso ala? pini la, kulupu li ken toki e nasin ona pi nimi ni.

@@ -14,11 +14,18 @@ description: "mi wile e ni: sitelen tawa ni li pona tawa sina!\n\nsitelen: \nBy 
   https://www.bbc.com/news/uk-northern-ireland-56684571\nhttps://www.nytimes.com/2021/04/09/obituaries/prince-philip-dead.html"
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-04-10
+tags: null
+original: null
 license: null
 sources:
 - https://www.youtube.com/watch?v=veG9QBS9_-A
 - https://docs.google.com/document/d/1hy-YMMUgYxrJ_0cCf3YuVwuNvDIKgKute7OrfCiuscI/edit
+archives: null
+preprocessing: null
+accessibility-notes: null
 notes: marked jan Sose L-S's lines with block quotes, added missing text from video
   to doc
 ---

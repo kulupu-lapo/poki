@@ -1,12 +1,20 @@
 ---
 title: tenpo pini pi poki Juta
+description: null
 authors:
 - jan-silan
+translators: null
+proofreaders: null
 date: 2022-08-07
+tags: null
+original: null
 license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/jan-silan/tenpo-pini-pi-poki-juta
+archives: null
 preprocessing: converted HTML to Markdown
+accessibility-notes: null
+notes: null
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Original_Utah_Teapot.jpg" style="width:320px;height:240px;">

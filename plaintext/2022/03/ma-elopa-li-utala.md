@@ -1,14 +1,22 @@
 ---
 title: ma Elopa li utala
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2022-03-10
 tags:
 - poetry
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0012nimi.pdf
 - https://liputenpo.org/lipu/nanpa-nimi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ma Elopa li utala.  

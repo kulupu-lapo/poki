@@ -1,7 +1,10 @@
 ---
 title: pona o tawa kulupu  # kamala musi: pona o tawa kulupu
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-08-25
 tags:
   - translation
@@ -17,6 +20,10 @@ original:
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/08/25/kalama-musi-pona-o-tawa-kulupu/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan pona mi o kama, o kalama e ni  \

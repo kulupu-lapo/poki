@@ -1,11 +1,20 @@
 ---
 title: toki suli Intenasijonale
+description: null
 authors:
   - anonymous
+translators: null
+proofreaders: null
 date: 2011-03-18
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/toki-suli-intenasijonale.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "File:Red flag II.svg" by Ssolbergj (https://commons.wikimedia.org/wiki/File:Red_flag_II.svg). GDDL. CC BY-SA 3.0. CC BY 2.5. -->

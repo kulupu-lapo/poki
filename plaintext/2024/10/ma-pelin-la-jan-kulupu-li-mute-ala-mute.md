@@ -1,13 +1,22 @@
 ---
 title: ma Pelin la jan kulupu li mute ala mute?
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2024-10-20
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf
   - https://liputenpo.org/lipu/nanpa-jan/
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jan_-_kulupu_Pelin.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![kulupu Pelin](https://upload.wikimedia.org/wikipedia/commons/6/64/Lipu_tenpo_nanpa_jan_-_kulupu_Pelin.png)

@@ -1,7 +1,10 @@
 ---
 title: o tawa e mi  # kalama musi: o tawa e mi
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-08-28
 tags:
   - translation
@@ -18,6 +21,10 @@ license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/08/28/kalama-musi-o-tawa-e-mi/
   - https://www.youtube.com/watch?v=VG03-mCJkjQ
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan wan li kalama  \

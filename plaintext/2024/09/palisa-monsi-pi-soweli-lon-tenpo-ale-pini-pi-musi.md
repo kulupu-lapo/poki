@@ -4,19 +4,22 @@ description: 'utala ale li wile pini. jan pona ale li wile tawa anpa. jan ale li
   toki e ni lon tenpo kama: "mi tawa." soweli Mile Powe (Miles Prower) li ante ala.'
 authors:
   - Hopeful_Student
+translators: null
+proofreaders: null
 date: 2024-09-10
-license: null
 tags:
   - "fan fiction"
 original:
   title: "Eternal Tails: Game Over"
   authors:
     - Pantalion
+license: null
 sources:
   - https://archiveofourown.org/works/58840579
 archives:
   - https://web.archive.org/web/20240927132033/https://archiveofourown.org/works/58840579
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

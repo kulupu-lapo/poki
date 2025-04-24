@@ -1,12 +1,16 @@
 ---
 title: toki ala
+description: null
 authors:
   - Nardi
+translators: null
+proofreaders: null
 date: 2022-12-11
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=Lp-yvBl_VM0
@@ -31,6 +35,10 @@ sources:
 
   # reposts:
   - https://www.youtube.com/watch?v=FDHq51vz6so  # by aimee rivers
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi toki e ala  \

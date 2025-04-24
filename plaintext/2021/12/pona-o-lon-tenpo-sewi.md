@@ -1,7 +1,10 @@
 ---
 title: pona o lon tenpo sewi  # kalama: pona o lon tenpo sewi
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-12-15
 tags:
   - translation
@@ -18,6 +21,10 @@ license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/15/pona-o-lon-tenpo-sewi/
   - https://www.youtube.com/watch?v=GdJCajJ-ovE
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 pona o lon tenpo sewi  \

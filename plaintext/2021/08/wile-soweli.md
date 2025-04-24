@@ -1,12 +1,16 @@
 ---
 title: wile soweli
+description: null
 authors:
   - Nardi
+translators: null
+proofreaders: null
 date: 2021-08-09
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=Dy2JFgtywes
@@ -30,6 +34,10 @@ sources:
 
   # covers:
   - https://open.spotify.com/track/2o5P3a9TEowpZh7SBbkpEE  # by pata powe
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi pini lape  \

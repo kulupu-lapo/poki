@@ -1,12 +1,21 @@
 ---
 title: waso kule pi tawa mute
+description: null
 authors:
 - jan Kuli
+translators: null
+proofreaders: null
 date: 2021-02-28
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-28-wasokule.md
 - https://lipukule.org/post/2021/02/28/waso-kule-pi-tawa-mute/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 waso pi kalama suwi.  

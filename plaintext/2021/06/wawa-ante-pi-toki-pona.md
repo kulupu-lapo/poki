@@ -1,14 +1,23 @@
 ---
 title: wawa ante pi toki pona
+description: null
 authors:
 - jan Telakoman
+translators: null
+proofreaders: null
 date: 2021-06-02
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_si
 - https://liputenpo.org/pdfs/0005pan.pdf
 - https://liputenpo.org/lipu/nanpa-pan/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ante.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lipu tenpo nanpa mun la mi toki e ni: toki pona li sama ala sitelen Sonko li sama sitelen Lasina. ni li tan ni: toki pona li jo ala e nimi tawa ijo ale pi lawa jan. jan li wile toki e sona suli kepeken toki pona la jan li wile kepeken kulupu nimi.

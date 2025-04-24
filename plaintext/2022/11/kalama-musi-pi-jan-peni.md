@@ -1,17 +1,25 @@
 ---
 title: kalama musi pi jan Peni
+description: null
 authors:
   - jan Misali
   - Jules
+translators: null
+proofreaders: null
 date: 2022-12-20
 tags:
   - music
 original:
   title: Penny's Theme
+  authors: null
 license: CC BY-NC 4.0
 sources:
   - https://www.youtube.com/watch?v=e8vNliigiss
   - https://conlangcritic.bandcamp.com/track/kalama-musi-pi-jan-peni
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ona li jo e linja loje  \

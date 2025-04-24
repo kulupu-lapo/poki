@@ -1,18 +1,26 @@
 ---
 title: toki musi tan jan Sapo[^1], tan jan Katulo[^2]
+description: null
 authors:
 - jan Lapate
+translators: null
+proofreaders: null
+date: 2023-12-25
 tags:
 - poetry
 original:
+  title: null
   authors:
   - Σαπφώ (jan Sapo)
   - C. Valerius Catullus (jan Katulo)
-date: 2023-12-25
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0023sewi.pdf
 - https://liputenpo.org/lipu/nanpa-sewi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi sona ala e ona, taso ona li awen lon poka sina, li kute e toki suwi sina, e mu musi sina la—lukin mi la, ona li sama jan sewi.

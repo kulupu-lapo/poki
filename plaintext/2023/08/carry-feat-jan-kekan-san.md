@@ -1,15 +1,23 @@
 ---
 title: carry (feat.) jan kekan san
+description: null
 authors:
   - jan Usawi
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2023-08-05
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/album/toki-gaming
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 carry jan my kekan san  \

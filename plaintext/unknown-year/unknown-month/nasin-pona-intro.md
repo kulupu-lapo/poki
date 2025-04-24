@@ -1,16 +1,23 @@
 ---
 title: toki!
+description: null
 authors:
   - jan Nikita
+translators: null
+proofreaders: null
 date: 2001-01-01
-date-precision: none
 tags:
   - original
+original: null
 license: CC0 1.0
 sources:
   - http://tokipona.net/tp/janpije/nasinpona-intr  # dead link
 archives:
   - https://web.archive.org/web/20151003033718/http://tokipona.net/tp/janpije/nasinpona-intro.php
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 ## toki!

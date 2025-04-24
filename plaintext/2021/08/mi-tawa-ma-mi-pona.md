@@ -1,7 +1,10 @@
 ---
 title: mi tawa ma mi pona  # kamala musi “mi tawa ma mi pona”
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-03-23
 tags:
   - translation
@@ -17,6 +20,10 @@ original:
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/08/23/kalama-musi-mi-tawa-ma-mi-pona/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ma mi li ma pona a  \

@@ -1,12 +1,16 @@
 ---
 title: suno
+description: null
 authors:
   - Nardi
+translators: null
+proofreaders: null
 date: 2022-04-03
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=XOVBXHXl2Vk
@@ -26,6 +30,10 @@ sources:
 
   # reposts:
   - https://www.youtube.com/watch?v=XpjcacZiVig
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 suno o  \

@@ -1,15 +1,23 @@
 ---
 title: omekalikante
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2022-06-29
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/album/omekalikante
   - https://www.youtube.com/watch?v=SBTiQG_NTY4
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 (Ceci n'est pas une guitar  \

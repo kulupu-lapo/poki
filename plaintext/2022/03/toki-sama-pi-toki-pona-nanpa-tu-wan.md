@@ -1,12 +1,21 @@
 ---
 title: toki sama pi toki pona — nanpa tu wan
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2022-03-10
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0012nimi.pdf
 - https://liputenpo.org/lipu/nanpa-nimi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki pona li jo e toki sama mute. ni li lon tan seme? jan li olin wawa e toki pona la, jan li wile kin ante e toki pona tawa pilin ona. toki sama pi toki poma li kama tan pali pi jan Sonja, taso ona li jo e nasin ante e kon ante. o lukin e toki sama sin pi toki pona.

@@ -1,11 +1,20 @@
 ---
 title: mu tu
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2014-12-10
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2014/12/mu-tu.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi lon.

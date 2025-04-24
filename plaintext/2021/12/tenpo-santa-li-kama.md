@@ -1,13 +1,22 @@
 ---
 title: tenpo Santa li kama
+description: null
 authors:
 - jan Itan
 - jan Tepo
+translators: null
+proofreaders: null
 date: 2021-12-28
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/spreadsheets/d/e/2PACX-1vQtasUq60JG-ISBsO1hlEFv5JszjeI57wEyCNEGhnjDq8AeyzKE-tx1qdwWtuMT3FBlyzNcGPvkBntD/pubhtml
 - https://wikisource.org/wiki/Kalama_sin/14
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ijo kute ale, o toki. mi jan Itan li open e kalama sin nanpa Santa. wile mi la tenpo Santa sina li pona mute. a, kalama sin li kalama ni: tenpo Santa la jan Tepo en mi li ante toki e toki musi pi toki Inli tawa toki pona la ni o pona tawa kalama sin ni. nimi ona li "tenpo Santa li kama". o kute pona!

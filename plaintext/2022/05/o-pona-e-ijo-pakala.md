@@ -5,6 +5,8 @@ description: len pi jan Sijan li kama pakala · ilo pi supa len li pakala kin ·
   pona
 authors:
 - jan Kita
+translators: null
+proofreaders: null
 date: 2022-05-14
 tags:
 - StoryWeaver level 4
@@ -17,7 +19,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/442898-o-pona-e-ijo-pakala
+archives: null
 preprocessing: removed manual line breaks
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/88667/size7/ded6ce2c1911598f7210c38daca9b7cb.jpg)

@@ -1,8 +1,12 @@
 ---
 title: kasi suli pana
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-08-23
+tags: null
 original:
   title: The Giving Tree
   authors:
@@ -10,6 +14,10 @@ original:
 license: null
 sources:
   - https://docs.google.com/document/d/1rW-4NETyyfquBCxzb0G4duowrDqDlrhn08ohh3cP-_I/edit?tab=t.0
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo wan la, kasi suli li lon...  \

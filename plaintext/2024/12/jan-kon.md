@@ -3,6 +3,8 @@ title: jan kon
 description: jan Emese li weka sona.
 authors:
   - axiomwitch
+translators: null
+proofreaders: null
 date: 2024-12-16
 tags:
   - 'ao3'
@@ -16,6 +18,7 @@ sources:
 archives:
   - https://web.archive.org/web/20250211125459/https://archiveofourown.org/works/61364728/chapters/156851422
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 

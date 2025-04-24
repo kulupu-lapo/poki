@@ -1,12 +1,21 @@
 ---
 title: toki musi pona
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-06-02
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0005pan.pdf
 - https://liputenpo.org/lipu/nanpa-pan/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki musi pona li lipu tan jan Mimoku. toki en toki lili musi en sona li lon ona. ona li suli ala la, mi kepeken tenpo lili taso tawa ona. open toki ona en pini toki ona li kepeken toki tu wan: toki pona en toki Inli en toki Epelanto.

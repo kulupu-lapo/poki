@@ -1,13 +1,21 @@
 ---
 title: mi lon ilo wawa lukin
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2023-05-06
+tags: null
+original: null
 license: null
 sources:
   - https://mun.la/lipu/mi-lon-ilo.html
 archives:
   - https://web.archive.org/web/20230528103808/https://mun.la/lipu/mi-lon-ilo.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## ilo wawa lukin

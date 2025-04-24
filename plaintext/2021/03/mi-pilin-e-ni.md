@@ -1,12 +1,16 @@
 ---
 title: mi pilin e ni
+description: null
 authors:
   - Nardi
+translators: null
+proofreaders: null
 date: 2021-03-28
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=96PM_jUdS2M
@@ -37,6 +41,10 @@ sources:
   # covers:
   - https://www.youtube.com/watch?v=v0gDE4Aeahc  # by kala pona Tonyu
   - https://open.spotify.com/track/3vPnw7Rzut6bMaSPKG49Yu # by pata powe
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi ken ala sona ala e ni:  \

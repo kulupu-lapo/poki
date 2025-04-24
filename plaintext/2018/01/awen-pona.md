@@ -1,16 +1,23 @@
 ---
 title: (meli mi o) awen pona
+description: null
 authors:
   - jan Tepan
+translators: null
+proofreaders: null
 date: 2018-01-10
 tags:
   - original
   - poetry
+original: null
 license: null
 sources:
   - https://github.com/stefichjo/toki-pona/blob/master/musi/awen-pona.md
 archives:
   - https://web.archive.org/web/20190704121456/https://github.com/stefichjo/toki-pona/blob/master/musi/awen-pona.md
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## (meli mi o) awen pona

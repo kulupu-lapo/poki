@@ -1,13 +1,22 @@
 ---
 title: 'tawa pi poki monsi pi ma Asija nanpa luka luka tu tu: ma Nepali'
+description: null
 authors:
 - jan Polo
+translators: null
+proofreaders: null
 date: 2022-10-17
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_ma_Nepali.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ma Nepali li ma pi suli mute ala. taso ona li jo e ijo mute pi tenpo pini e ma laso jelo epiku[^1]. ona li jo e kulupu nena suli Imalaja e ma pi kama lon pi jan Sitata. jan Sitata li nimi pi jan Puta. namako la ma Nepali li jo e jan pi pona nanpa wan. jan ale li uta pona li pona mute. ma tomo lawa pi ma Nepali li ma tomo Katomantu. ona li musi li pona li lon meso[^2] pi nasin tu ni: nasin pi kama suno en nasin pi suno pini. tenpo pini la ma tomo ni li ma pini pi nasin tawa pi jan Ipi mute. jan Ipi ni li kama tan ma Mewika tan ma Elopa. tan ma Elopa la jan Ipi mute li kama kepeken tomo tawa a! jan Ipi la walo kiwen li kepeken mani mute ike li musi ala. ma Nepali la nasin sewi tu li lon: nasin sewi Palata en nasin sewi Puta. taso nasin sewi Puta pi ma Nepali li nasin sewi Puta pi ma Sipe (Tibet).

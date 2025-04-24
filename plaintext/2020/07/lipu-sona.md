@@ -1,12 +1,20 @@
 ---
 title: lipu sona
+description: null
 authors:
   - jan Likipi
+translators: null
+proofreaders: null
 date: 2020-07-03
+tags: null
+original: null
 license: All Rights Reserved
 sources:
   - https://discord.com/channels/301377942062366741/375591429608570881/728692750043709481
+archives: null
 preprocessing: Wrapped sitelen pona text in square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 kipisi nanpa wan: nasin pi ijo lili

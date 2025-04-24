@@ -1,11 +1,20 @@
 ---
 title: pali mi nanpa wan
+description: null
 authors:
 - mimuki
+translators: null
+proofreaders: null
 date: 2022-08-08
+tags: null
+original: null
 license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/mimuki/pali-mi-nanpa-wan
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini la, mi pali e len kule kepeken linja mute.  linja ni li tan kasi Coton.  ona li pona tawa luka mi a!

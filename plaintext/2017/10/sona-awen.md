@@ -1,12 +1,20 @@
 ---
 title: sona awen
+description: null
 authors:
   - jan Wenato
+translators: null
+proofreaders: null
 date: 2017-10-27
+tags: null
+original: null
 license: null
 sources:
   - https://tokisona.github.io/toki/pona/nasin/2017/10/27/sona-awen.html
+archives: null
 preprocessing: Fixed markdown headers from plain-text number signs
+accessibility-notes: null
+notes: null
 ---
 
 ## sona awen (scientific knowledge)

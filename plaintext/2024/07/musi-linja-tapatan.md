@@ -1,15 +1,23 @@
 ---
 title: musi linja Tapatan
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-07-05
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0027linja.pdf
 - https://liputenpo.org/lipu/nanpa-linja/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_musi_linja_Tapatan_01.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_musi_linja_Tapatan_02.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 musi Tapatan li pona mute. ona li tan ma Pilipina, taso ona li jo e nimi mute li tan ma mute. nimi Tapatan li pona tan ni: ona li nimi pi kalama pona! jan lili en jan suli li ken musi e musi ni.

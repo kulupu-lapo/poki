@@ -1,7 +1,10 @@
 ---
 title: jan olin mi li lon ma weka  # kalama musi “jan olin mi li lon ma weka”
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-03-06
 tags:
   - translation
@@ -16,6 +19,10 @@ sources:
   - https://janketami.wordpress.com/2021/03/06/kalama-musi-jan-olin-mi-li-lon-ma-weka/
   - https://seka.pona.la/w/f71gX7VE3DcAFswTc46Y3i
   - https://www.youtube.com/watch?v=Zrp4yrn6mqs
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan olin mi li lon ma weka.  \

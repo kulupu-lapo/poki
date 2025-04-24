@@ -1,12 +1,21 @@
 ---
 title: ijo tenpo pi toki pona mi
+description: null
 authors:
 - jan Kapan
+translators: null
+proofreaders: null
 date: 2022-02-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0011walo.pdf
 - https://liputenpo.org/lipu/nanpa-walo/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo sike pini la mi olin e toki pona. mi pilin ni: toki pona li sona pona li pona tawa kama jo pi sona ali. mi open kama jo e sona pi toki pona.

@@ -1,14 +1,22 @@
 ---
 title: likujo
+description: null
 authors:
   - jan Peton
+translators: null
+proofreaders: null
 date: 2024-08-10
-license: CC-BY-SA-4.0
 tags:
   - toki moli
+original: null
+license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/likujo.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/likujo.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 o toki tawa mi, *kon* musi o  

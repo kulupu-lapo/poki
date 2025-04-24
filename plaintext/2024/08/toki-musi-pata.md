@@ -1,12 +1,21 @@
 ---
 title: toki musi pata
+description: null
 authors:
   - kapesi Pake
+translators: null
+proofreaders: null
 date: 2024-08-10
+tags: null
+original: null
 license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/toki-musi-pata.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/toki-musi-pata.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <strong>toki musi pi lipu ni:</strong>

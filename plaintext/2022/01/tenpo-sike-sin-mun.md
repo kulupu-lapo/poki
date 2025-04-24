@@ -1,12 +1,21 @@
 ---
 title: tenpo suno pi tenpo sike sin lon nasin tenpo mun li kama a!
+description: null
 authors:
 - jan Epen
+translators: null
+proofreaders: null
 date: 2022-01-31
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-01-31-tenpo-suno-pi-tenpo-sike-sin-lon-nasin-tenpo-mun-li-kama-a.md
 - https://lipukule.org/post/2022/01/31/tenpo-suno-pi-tenpo-sike-sin-lon-nasin-tenpo-mun-li-kama-a/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # ona li seme?

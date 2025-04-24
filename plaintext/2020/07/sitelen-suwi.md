@@ -1,16 +1,24 @@
 ---
 title: sitelen suwi
 # original-title: Unclear to proofreader
+description: null
 authors:
   - jan Kaja
+translators: null
+proofreaders: null
 date: 2020-07-26
+tags: null
 original:
+  title: null
   authors:
     - Ferenc Szilágyi
 license: null
 sources:
   - https://drive.google.com/file/d/1csNDqOs_yRFZWo_tninZLiS0jf-QO8tb/edit
+archives: null
 preprocessing: Transcribed only the Latin script version.
+accessibility-notes: null
+notes: null
 ---
 
 # sitelen suwi

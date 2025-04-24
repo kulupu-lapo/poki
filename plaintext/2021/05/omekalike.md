@@ -1,15 +1,23 @@
 ---
 title: omekalike
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2021-05-03
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/track/omekalike
   - https://www.youtube.com/watch?v=AVqKaVc9U1c
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 monsuta lape mi o  \

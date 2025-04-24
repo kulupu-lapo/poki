@@ -1,12 +1,21 @@
 ---
 title: sitelen tawa lon
+description: null
 authors:
 - jan Poli
+translators: null
+proofreaders: null
 date: 2023-08-15
+tags: null
+original: null
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
 - http://utala.pona.la/toki-en-lipu/toki-lili.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan musi li pali e sitelen tawa.

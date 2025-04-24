@@ -1,14 +1,23 @@
 ---
 title: 'tawa pi poki monsi pi ma Asija nanpa luka wan: ma Tawi en ma Laso (Laos)'
+description: null
 authors:
 - jan Polo
+translators: null
+proofreaders: null
 date: 2022-05-05
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0013pipi.pdf
 - https://liputenpo.org/lipu/nanpa-pipi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_ma_Tawi.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_ma_Laso.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lipu ni la mi toki lon ma tu tan ni: ma Tawi en ma Laso li sama mute. ante suli li tu taso. nanpa wan la ma Tawi li suli. ma Laso li lili. nanpa tu la tenpo pini la ma ala li jo e ma Tawi. taso tenpo pini la ma Kanse li lawa e ma Laso.

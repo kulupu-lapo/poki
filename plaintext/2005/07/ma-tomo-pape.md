@@ -1,8 +1,12 @@
 ---
 title: ma tomo Pape
+description: null
 authors:
   - jan Pije
+translators: null
+proofreaders: null
 date: 2005-07-15
+tags: null
 original:
   title: Tower of Babel
   authors:
@@ -10,6 +14,10 @@ original:
 license: CC BY-SA 3.0    # License from Wikipedia
 sources:
   - https://en.wikipedia.org/w/index.php?title=Toki_Pona&oldid=18194572
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan ali li kepeken e toki sama.  \

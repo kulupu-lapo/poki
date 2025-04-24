@@ -1,14 +1,22 @@
 ---
 title: 'alasa nimi: ma Asija'
+description: null
 authors:
 - jan Sonatan
+translators: null
+proofreaders: null
 date: 2023-08-24
 tags:
 - puzzle
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0021ma.pdf
 - https://liputenpo.org/lipu/nanpa-ma/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 .|.|.|.|.|.|.|.|.|.|.|.|.|.|.

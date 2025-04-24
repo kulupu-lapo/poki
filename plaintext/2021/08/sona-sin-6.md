@@ -13,11 +13,19 @@ description: "lipu:\nhttps://nur-positive-nachrichten.de/positive-nachrichten/sp
   \nBy JimJones1971 at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31634806"
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-08-07
+tags: null
+original: null
 license: null
 sources:
 - https://www.youtube.com/watch?v=PxO2w7-cbd8
 - https://docs.google.com/document/d/1PGWkyFIp38JcZvJvbfIJPCQuWO9QN3M6SGUxC7U-Ii4/edit
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki! ni li sona sin! mi jan Alonola. mi open.

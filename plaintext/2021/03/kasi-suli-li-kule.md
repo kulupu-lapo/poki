@@ -1,7 +1,10 @@
 ---
 title: kasi suli li kule  # kalama musi “kasi suli li kule”
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-03-11
 tags:
   - translation
@@ -20,6 +23,10 @@ sources:
   - https://janketami.wordpress.com/2021/03/11/kalama-musi-kasi-suli-li-kule/
   - https://seka.pona.la/w/aaE35M6SS1VL8YvcD6CgWF
   - https://www.youtube.com/watch?v=Za82TModIk0
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 kasi suli li kule  \

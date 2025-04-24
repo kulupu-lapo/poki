@@ -1,17 +1,23 @@
 ---
 title: mi jo e nimi mute
+description: null
 authors:
   - Skimmed
+translators: null
+proofreaders: null
 date: 2024-10-02
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/59401648
 archives:
   - https://archive.ph/KSxMV
   - https://archive.ph/p9NmG
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 ![[sitelen pona pi lipu]](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ba803b4e-2186-4423-9412-0e2d17086844/dia6ipw-32246ec8-6d99-4154-8ba9-ded0ec62568e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JhODAzYjRlLTIxODYtNDQyMy05NDEyLTBlMmQxNzA4Njg0NFwvZGlhNmlwdy0zMjI0NmVjOC02ZDk5LTQxNTQtOGJhOS1kZWQwZWM2MjU2OGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HxmtiV0SNgBdY5L4wCtQvjJBBYWyHpvbipHkVdYx14M)

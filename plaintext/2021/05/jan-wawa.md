@@ -1,16 +1,24 @@
 ---
 title: jan wawa!
+description: null
 authors:
 - jan Owekano
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-05-07
 tags:
 - 'comic'
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf
 - https://liputenpo.org/lipu/nanpa-kasi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_jan_wawa.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![jan wawa](https://upload.wikimedia.org/wikipedia/commons/6/61/Lipu_tenpo_nanpa_kasi_-_jan_wawa.png)

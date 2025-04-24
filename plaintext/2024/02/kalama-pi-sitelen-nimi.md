@@ -1,8 +1,13 @@
 ---
 title: kalama pi sitelen nimi
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2024-02-07
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
@@ -10,7 +15,10 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_Jan_Losu.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_sitelen_kalama.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_sina_awen_kalama.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 nimi li jo e kalama. taso mi wile pana e kalama nimi ale tawa sina la sina ken sona kepeken nasin seme? mi o kalama seme e kalama lili ni? a, nasin mute li ken. mi ken pana e kalama taso: jan ni li jan Losu – kalama pi nimi ona li ni – L, O, S, U. taso ni li ken ike tawa sona kute. ni la mi o seme. lon la mi ken wawa e kalama. taso nasin ante li lon.

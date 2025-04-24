@@ -1,12 +1,21 @@
 ---
 title: seme li mi?
+description: null
 authors:
   - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-12-29
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0030loje.pdf
   - https://liputenpo.org/lipu/nanpa-loje/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 {{{sitelen "0030_seme-li-mi-kule.png" "seme li mi" "jan Alonola"}}}
 

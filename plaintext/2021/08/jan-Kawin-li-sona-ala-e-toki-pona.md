@@ -6,15 +6,19 @@ description: "(short little thing i did to practice toki pona; its plotless and 
   toki e toki pona tan jan Kawin"
 authors:
   - len_hoshi
+translators: null
+proofreaders: null
 date: 2021-08-08
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/33122965
 archives:
   - https://archive.ph/DSck7
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

@@ -1,14 +1,22 @@
 ---
 title: olin sin
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-04-01
 tags:
 - poetry
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0025.5lili.pdf
 - https://liputenpo.org/lipu/nanpa-lili/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ona suwi li pona li lon poka mi  

@@ -1,7 +1,9 @@
 ---
 title: jan Keta li weka!
+description: null
 authors:
   - jan Tepo
+translators: null
 proofreaders:
   - soweli nata
   - jan Lakuse
@@ -21,8 +23,11 @@ license: null
 sources:
   - https://docs.google.com/document/d/e/2PACX-1vTPNbOI0bcy31sRnziHm0urd__61l2-N7952qNG3WXxOTzMn8NAXmouv0uzTY5eiBip4vTA1ThRTxRc/pub
   - https://www.reddit.com/r/tokipona/comments/v057bl/jan_keta_li_weka_a_translation_of_the_esperanto/
+archives: null
 preprocessing: For dialogue, change the tab between the characters name and speech
   with a colon.
+accessibility-notes: null
+notes: null
 ---
 
 ## jan Keta li weka!

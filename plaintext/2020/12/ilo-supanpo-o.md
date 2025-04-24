@@ -1,17 +1,24 @@
 ---
 title: ilo Supanpo o
+description: null
 authors:
   - jan Ki
   - jan Sijo
   - jan Walo
+translators: null
+proofreaders: null
 date: 2020-12-01
 tags:
   - fan fiction
   - discord
+original: null
 license: null
 sources:
   - https://docs.google.com/document/d/19cxM0qKPf740SQUbqtBFC91mmaBRvvzjEmqcROA0jFI/edit
+archives: null
 preprocessing: Removed colour from transcription.
+accessibility-notes: null
+notes: null
 ---
 
 “Ilo Supanpo o” - an attempt at toki pona collaborative romantic fiction  \

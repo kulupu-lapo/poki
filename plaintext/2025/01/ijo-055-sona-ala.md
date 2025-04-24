@@ -3,6 +3,8 @@ title: ijo 055 - [sona ala]
 description: lipu pi ijo 055 lon toki pona.
 authors:
   - axiomwitch
+translators: null
+proofreaders: null
 date: 2025-01-20
 tags:
   - 'ao3'
@@ -17,6 +19,7 @@ sources:
 archives:
   - https://web.archive.org/web/20250211132123/https://archiveofourown.org/works/62356867?view_full_work=true
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 

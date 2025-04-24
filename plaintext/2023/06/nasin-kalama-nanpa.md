@@ -1,11 +1,20 @@
 ---
 title: nasin kalama nanpa  # Made up for poki Lapo
+description: null
 authors:
 - soweli-iki
+translators: null
+proofreaders: null
 date: 2023-06-18
+tags: null
+original: null
 license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/soweli-iki/nasin-kalama-nanpa
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 nasin kalama nanpa

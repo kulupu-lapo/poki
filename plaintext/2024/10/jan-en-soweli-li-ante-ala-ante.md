@@ -1,12 +1,21 @@
 ---
 title: jan en soweli li ante ala ante?
+description: null
 authors:
   - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-10-20
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf
   - https://liputenpo.org/lipu/nanpa-jan/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 soweli li seme? soweli li ken kalama li ken tawa li ken moku li ken mama e soweli sin. soweli li pakala la ken la ona li ken ala kalama li ken ala tawa li ken ala moku li ken ala mama e soweli sin. mi la nimi «soweli» li jo e kon tu: kon nanpa wan la akesi en kala en pipi en waso li soweli. kon nanpa tu la akesi en kala en pipi en waso li soweli ala. ken la ni li lon tan ni: soweli meli li ken pana e telo mama tawa soweli lili li jo e len li tawa lon ma. mi wile kepeken e kon nanpa wan: akesi en kala en pipi en waso li soweli. taso mi sona ala e ni: jan li soweli ala soweli?

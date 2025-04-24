@@ -1,13 +1,20 @@
 ---
 title: jan lawa pi linja ilo (translation hack)
+description: null
 authors:
   - jan Lentan
+translators: null
+proofreaders: null
 date: 2020-08-23
 tags: null
+original: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://lipu-sona.pona.la/lentan/jan_lawa_pi_linja_ilo
+archives: null
 preprocessing: Removed the English version. Available in sources.
+accessibility-notes: null
+notes: null
 ---
 
 # ni li seme

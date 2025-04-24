@@ -1,7 +1,10 @@
 ---
 title: telo nasa
+description: null
 authors:
   - tobiah
+translators: null
+proofreaders: null
 date: 2013-10-10
 tags:
   - original
@@ -11,9 +14,14 @@ tags:
   - electronica
   - retrowave
   - synth
+original: null
 license: CC BY-SA 3.0
 sources:
   - https://tobiah.bandcamp.com/track/telo-nasa
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 telo nasa li pona.  \

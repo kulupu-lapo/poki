@@ -1,13 +1,19 @@
 ---
 title: musi pi jan lawa moli (rules of chess)
+description: null
 authors:
   - jan Lentan
+translators: null
+proofreaders: null
 date: 2020-10-05
 tags: null
+original: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://lipu-sona.pona.la/lentan/chess
+archives: null
 preprocessing: null
+accessibility-notes: null
 notes: Removed English translation in HTML comments.
 ---
 

@@ -1,13 +1,22 @@
 ---
 title: sona pi ken ala
+description: null
 authors:
 - jan Nikola
+translators: null
+proofreaders: null
 date: 2024-09-07
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0028lawa.pdf
 - https://liputenpo.org/lipu/nanpa-lawa/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_jan_Alan_Tuwin.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ilo sona li kama la, sona suli li kama ken. sina wile sona e ijo la, sina ken toki tawa ilo sona. ni la, ilo sona li ken alasa lon kulupu suli pi ilo sona, anu ona li ken pali e sona sin. ken la, sina wile tawa tomo esun mute. sina wile sona e ni: nasin seme li ken lili e tawa sina? ilo sona li ken pali e sona ni. taso sona ale li ken ala ken? tenpo lili la, sona li ken ala…

@@ -1,11 +1,20 @@
 ---
 title: mun
+description: null
 authors:
   - kulupu kasi
+translators: null
+proofreaders: null
 date: 2018-03-13
+tags: null
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/423151642167345152/423154399121244170
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan li lukin e mun  \

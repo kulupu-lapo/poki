@@ -3,7 +3,10 @@ title: wawa pi tenpo lili
 description: Lyrics of Big Blast Sonic by Guilty Gear, translated by jan Majeka
 authors:
   - jan Majeka
+translators: null
+proofreaders: null
 date: 2024-07-19
+tags: null
 original:
   title: Big Blast Sonic
   authors:
@@ -14,6 +17,10 @@ original:
 license: null
 sources:
   - https://www.youtube.com/watch?v=P3VE4-R2SEk
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 o seli a(!) e soweli lawa!

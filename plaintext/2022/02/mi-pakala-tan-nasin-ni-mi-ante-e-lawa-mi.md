@@ -11,14 +11,16 @@ description: "English Speakers - This is a toki pona translation of a fic I wrot
   toki pona // toki Inli. ni la toki Inli li jo e kon sama toki pona. o awen pona!"
 authors:
   - LuxeDeluxe
+translators: null
+proofreaders: null
 date: 2022-02-17
-license: null
 tags:
   - "fan fiction"
 original:
   title: Did I get lost along the way? Lose my mind for a new identity?
   authors:
     - LuxeDeluxe
+license: null
 sources:
   - https://archiveofourown.org/works/37200148
 archives:
@@ -26,6 +28,7 @@ archives:
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML · lipu open la sitelen
   `\n` mute li poka li lon e weka suli · nasin Markdown la ni li ken ala · kin mi
   weka e sitelen jaki Zalgo
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

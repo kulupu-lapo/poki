@@ -3,12 +3,20 @@ title: o lawa e sona sina!
 description: a small article about the centralization of the internet
 authors:
 - jan Lentan
+translators: null
+proofreaders: null
 date: 2021-08-02
+tags: null
+original: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
 - https://liputenpo.org/pdfs/0006suno.pdf
 - https://liputenpo.org/lipu/nanpa-suno/
 - https://lipu-sona.pona.la/lentan/o_lawa_e_sona_sina/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo ni la, jan mute li kepeken e linluwi[^1] tawa ni: ona li pali, li toki, li musi, li esun, li pali e ijo ante. wawa pona linluwi li suli mute. taso, tenpo sike mute pini la, kulupu esun pi mute lili li kama wawa mute. pilin mi la, ni li ike tawa jan ale.

@@ -1,8 +1,12 @@
 ---
 title: jan Meli o
+description: null
 authors:
   - Tobias Merkle
+translators: null
+proofreaders: null
 date: 2020-05-09
+tags: null
 original:
   title: Ave Maria
   authors:
@@ -10,6 +14,10 @@ original:
 license: null
 sources:
   - https://www.jonathangabel.com/2020/ave-maria/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan Meli o,  \

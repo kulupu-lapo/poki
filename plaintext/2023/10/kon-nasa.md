@@ -1,13 +1,17 @@
 ---
 title: kon nasa (crazy smoke)
+description: null
 authors:
   - Nardi
+translators: null
+proofreaders: null
 date: 2023-10-08
 tags:
   - original
   - music
   - lyrics
   - english
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=6nF2a5gyOgI
@@ -24,6 +28,10 @@ sources:
   # reposts: 
   - https://www.boomplay.com/albums/77764307
   - https://www.boomplay.com/songs/142176026
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 kon nasa la  \

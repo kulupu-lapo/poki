@@ -4,19 +4,23 @@ description: Translation of the Legend into toki pona :) mi toki ante e toki sew
   tan musi Tetalun!
 authors:
   - ijo Kinesin
+translators: null
+proofreaders: null
 date: 2024-05-19
-license: null
 tags:
   - "fan fiction"
 original:
   title: The Legend
   authors:
     - Toby Fox
+license: null
 sources:
   - https://archiveofourown.org/works/56008024
 archives:
   - https://web.archive.org/web/20240927142917/https://archiveofourown.org/works/56008024
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini la, kulupu li toki e toki sewi.  

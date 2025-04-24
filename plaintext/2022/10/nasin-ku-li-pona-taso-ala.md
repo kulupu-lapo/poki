@@ -1,14 +1,23 @@
 ---
 title: nasin ku li pona taso ala
+description: null
 authors:
 - jan pi wile nimi ala
+translators: null
+proofreaders: null
 date: 2022-10-17
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_ku.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_jan_pi_toki_pona.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![ku](https://upload.wikimedia.org/wikipedia/commons/7/71/Lipu_tenpo_nanpa_suno_-_ku.png)

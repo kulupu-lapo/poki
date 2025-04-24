@@ -1,14 +1,22 @@
 ---
 title: suno mi
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2023-05-12
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0019mama.pdf
 - https://liputenpo.org/lipu/nanpa-mama/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_suno.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 ![suno suli a loje en suno suli laso en suno mi jelo en suno lili kapesi](https://upload.wikimedia.org/wikipedia/commons/6/68/Lipu_tenpo_nanpa_mama_-_suno.png)

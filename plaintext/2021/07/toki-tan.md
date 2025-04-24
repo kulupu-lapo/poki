@@ -1,13 +1,21 @@
 ---
 title: toki tan
+description: null
 authors:
   - selo Muna
+translators: null
+proofreaders: null
 date: 2021-07-12
 tags:
   - poetry
+original: null
 license: null
 sources:
   - https://www.reddit.com/r/tokipona/comments/oikpr8/toki_tan_a_creation_story_in_toki_pona_inspired/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "toki tan", a creation story in toki pona (inspired by evolution) + a suggestion for month names in the toki pona lunisolar calendar 

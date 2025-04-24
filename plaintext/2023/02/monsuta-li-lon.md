@@ -1,12 +1,21 @@
 ---
 title: monsuta[^1] li lon
+description: null
 authors:
 - jan Penta
+translators: null
+proofreaders: null
 date: 2023-02-06
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 [^1]: “monsuta” li ijo ike tan ni: ona li wile pakala e sina a

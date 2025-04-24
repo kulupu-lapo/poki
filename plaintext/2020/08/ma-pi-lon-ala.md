@@ -1,15 +1,23 @@
 ---
 title: ma pi lon ala
+description: null
 authors:
   - palisa jelo Natan
+translators: null
+proofreaders: null
 date: 2020-08-31
 tags:
   - original
   - story
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/545467374254555137/749779196733161543
   - https://cdn.discord.com/channels/301377942062366741/545467374254555137/749779196733161543/ma_pi_lon_ala.pdf
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # ma pi lon ala

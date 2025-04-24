@@ -3,15 +3,20 @@ title: lape ala
 description: jan Lan Me li wile lape ala. ni li ike mute tawa jan Weso.
 authors:
   - CAYTION_RAYMEN
+translators: null
+proofreaders: null
 date: 2024-02-08
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/53607739
 archives:
   - https://web.archive.org/web/20240927160554/https://archiveofourown.org/works/53607739
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 tenpo ni li tempo pimeja la jan Lan Me li pali li lape ala. mije ona li lape. jan Weso li pilin ike la, ni li ike tawa jan Lan Me.

@@ -1,16 +1,24 @@
 ---
 title: toki nasa
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-08-02
 tags:
 - 'sitelen sitelen'
 - 'poetry'
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0006suno.pdf
 - https://liputenpo.org/lipu/nanpa-suno/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_sitelen_sitelen.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ma seme li ni?

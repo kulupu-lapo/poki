@@ -1,14 +1,22 @@
 ---
 title: nimi kule pi pu ala
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2022-12-09
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0017musi.pdf
 - https://liputenpo.org/lipu/nanpa-musi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_musi_-_kasi_kule.png
+archives: null
 preprocessing: – wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 toki a! mi toki e nimi kule pi pu ala. lipu pu li pana e nimi kule luka. o lukin e nimi kule ni: ona li nimi “pimeja” li nimi “walo” li nimi “laso” li nimi “jelo” li nimi “loje.” nimi ni li suli li suli tan ni: ona ali li lon lipu pu. (o sona e ni: “pu” en “lipu pu” li ijo ante tu li sama ala). nimi li pu la, jan mute li sona e nimi sama. jan mute li sona e nimi sama la, nimi ni li suli. ni li ike ala ike? mi la, ni li ike ala. nimi kule li pona li ilo li nasin. nimi kule luka ni li pona kin. taso, nimi kule ante li lon.

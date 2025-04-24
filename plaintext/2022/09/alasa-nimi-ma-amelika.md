@@ -1,16 +1,23 @@
 ---
 title: 'alasa nimi: ma Amelika'
+description: null
 authors:
 - jan Sonatan
+translators: null
+proofreaders: null
 date: 2022-09-01
 tags:
 - puzzle
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0015moku.pdf
 - https://liputenpo.org/lipu/nanpa-moku/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_alasa_nimi_(ma_Amelika).png
+archives: null
 preprocessing: fixed a typo, markdown'd the wordlist
+accessibility-notes: null
+notes: null
 ---
 
 ![alasa nimi (ma Amelika)](https://upload.wikimedia.org/wikipedia/commons/5/58/Lipu_tenpo_nanpa_moku_-_alasa_nimi_%28ma_Amelika%29.png)

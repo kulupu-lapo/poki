@@ -1,7 +1,10 @@
 ---
 title: olin ike
+description: null
 authors:
   - jan Melon
+translators: null
+proofreaders: null
 date: 2020-09-09
 tags:
   - lyrics
@@ -13,7 +16,10 @@ original:
 license: null
 sources:
   - https://www.reddit.com/r/tokipona/comments/ipgiu1/mi_ante_toki_e_olin_ike_ni_li_kalama_musi_pi_meli/
+archives: null
 preprocessing: Grouped verses together and removed separating full dots.
+accessibility-notes: null
+notes: null
 ---
 
 O O O. mi lon olin ike.  \

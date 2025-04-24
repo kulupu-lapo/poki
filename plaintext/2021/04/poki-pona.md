@@ -1,11 +1,15 @@
 ---
 title: poki pona
+description: null
 authors:
 - jan Alonola
 - jan Telakoman
+translators: null
+proofreaders: null
 date: 2021-04-05
 tags:
 - 'comic'
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0003soweli.pdf
@@ -14,6 +18,9 @@ sources:
 - https://docs.google.com/document/d/15TKXzknbEGnhgDTQ5TuOZiC0FAIg7FRYDt5M4g9EqCY
 archives:
 - https://archive.ph/qxEiH
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![poki pona](https://upload.wikimedia.org/wikipedia/commons/a/aa/Lipu_tenpo_nanpa_soweli_-_poki_pona.png)

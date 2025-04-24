@@ -1,11 +1,20 @@
 ---
 title: soweli pi poki sinpin
+description: null
 authors:
   - jan Ote
+translators: null
+proofreaders: null
 date: 2010-09-01
+tags: null
+original: null
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2010/09/soweli-pi-poki-sinpin.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "Mother and child" by Robert Parviainen (https://www.flickr.com/photos/rtv/131284943). CC BY-NC-SA 2.0. -->

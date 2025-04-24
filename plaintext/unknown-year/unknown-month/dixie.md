@@ -1,9 +1,11 @@
 ---
 title: Dixie
+description: null
 authors:
   - jan Pije
+translators: null
+proofreaders: null
 date: 2001-01-01
-date-precision: none
 tags:
   - translation
   - song
@@ -19,6 +21,10 @@ sources:
   - http://tokipona.net/tp/janpije/dixie.php  # dead link
 archives:
   - https://web.archive.org/web/20151003033703/http://tokipona.net/tp/janpije/dixie.php
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 <!--

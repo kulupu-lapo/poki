@@ -1,12 +1,21 @@
 ---
 title: toki poki tu
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2023-11-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0022sin.pdf
 - https://liputenpo.org/lipu/nanpa-sin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 o lukin. ni li toki tu. taso nimi li sama.

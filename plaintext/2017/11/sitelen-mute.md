@@ -1,12 +1,20 @@
 ---
 title: sitelen mute
+description: null
 authors:
   - jan Wenato
+translators: null
+proofreaders: null
 date: 2017-11-06
+tags: null
+original: null
 license: null
 sources:
   - https://tokisona.github.io/toki/pona/nasin/2017/11/06/sitelen-mute.html
+archives: null
 preprocessing: Fixed markdown headers from plain-text number signs
+accessibility-notes: null
+notes: null
 ---
 
 ## sitelen mute (various writings)

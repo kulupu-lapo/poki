@@ -1,7 +1,10 @@
 ---
 title: kasi kule jelo
+description: null
 authors:
 - jan Kuleku Nena
+translators: null
+proofreaders: null
 date: 2021-09-02
 tags:
 - poetry
@@ -13,6 +16,10 @@ license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0007kule.pdf
 - https://liputenpo.org/lipu/nanpa-kule/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi tawa ma la  

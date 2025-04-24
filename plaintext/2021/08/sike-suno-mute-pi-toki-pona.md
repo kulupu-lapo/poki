@@ -1,13 +1,22 @@
 ---
 title: sike suno mute pi toki pona
+description: null
 authors:
 - jan Tamalu
+translators: null
+proofreaders: null
 date: 2021-08-02
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0006suno.pdf
 - https://liputenpo.org/lipu/nanpa-suno/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_sike_suno.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 a! tenpo pini la jan Sonja li pali e toki pona. tenpo pi mute seme li tawa tan tenpo ni? mute a! lon, mute li luka luka luka luka la ma li sike mute e suno tan tenpo pi pali ni a!

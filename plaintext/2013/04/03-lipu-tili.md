@@ -1,11 +1,20 @@
 ---
 title: 'lipu Tili: lipu nanpa tu wan'
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2013-04-22
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2013/04/pu-lili-tu-wan.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan Tili li jo e sona utala tan jan Loki. ni li pona tawa ona. jan Tili li jo e sona pi ma moku taso. jan Tili li wile ala e sona mani li jo e sona pi ma moku. ni li pona tawa jan Loki.

@@ -1,17 +1,24 @@
 ---
 title: nasin tawa pi jan Nuton
+description: null
 authors:
   - Michael F.
+translators: null
+proofreaders: null
 date: 2001-01-01
-date-precision: none
 tags:
   - translation
   - prose
+original: null
 license: CC BY-NC 3.0
 sources:
   - http://failbluedot.com/toki_pona/nasin_tawa
 archives:
   - https://web.archive.org/web/20140305061738/http://failbluedot.com/toki_pona/nasin_tawa
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 ## nasin tawa pi jan Nuton

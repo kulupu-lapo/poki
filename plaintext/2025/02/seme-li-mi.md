@@ -1,15 +1,23 @@
 ---
 title: seme li mi
+description: null
 authors:
   - jan Alonola
+translators: null
+proofreaders: null
 date: 2025-02-28
 tags:
   - poetry
+original: null
 license: 'CC BY-SA 4.0'
 sources:
   - https://liputenpo.org/lipu/nanpa-kala/
   - https://liputenpo.org/pdfs/0031kala.pdf
   - https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki/nanpa-kala
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 {{{sitelen "0031_seme_li_mi.png" "sitelen sitelen pi toki ni" "jan Alonola"}}}

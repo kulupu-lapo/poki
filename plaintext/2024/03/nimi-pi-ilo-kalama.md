@@ -1,8 +1,13 @@
 ---
 title: nimi pi ilo kalama
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-03-20
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0025kalama.pdf
@@ -11,7 +16,10 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_kiwen.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ilo_linja.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_kulupu_pi_kalama_musi.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 mi musi lon kulupu pi kalama musi. kulupu ni la, jan mute li kalama kepeken ilo ante mute. mute la, mi pilin e ni: nimi pi ilo ni li seme? ni la, mi wile alasa e nimi ona. nanpa wan la, ilo kalama li ante tan ni: ona li kalama kepeken nasin ante. suli la, nasin tu tu ni li lon:

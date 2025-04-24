@@ -1,16 +1,24 @@
 ---
 title: kalama musi pi jan Asuli
+description: null
 authors:
   - jan Misali
+translators: null
+proofreaders: null
 date: 2023-03-07
 tags:
   - music
 original:
   title: Ashley's Theme
+  authors: null
 license: CC BY-NC 4.0
 sources:
   - https://www.youtube.com/watch?v=8ttFEdZ6Nfo
   - https://conlangcritic.bandcamp.com/track/kalama-musi-pi-jan-asuli
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 seme li meli lon tomo monsuta poka?  \

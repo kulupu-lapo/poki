@@ -16,19 +16,23 @@ description: "NTN epilogue, but toki pona my plan so far: - chapter 1 is sitelen
   not doing that."
 authors:
   - gayspacewizard
+translators: null
+proofreaders: null
 date: 2024-07-30
-license: null
 tags:
   - "fan fiction"
 original:
   title: Nona the Ninth epilogue
   authors:
     - Tamsyn Elizabeth Muir
+license: null
 sources:
   - https://archiveofourown.org/works/57646951/chapters/146693536
 archives:
   - https://web.archive.org/web/20240927135106/https://archiveofourown.org/works/57646951/chapters/146693536
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 ## toki lon sitelen Lasina

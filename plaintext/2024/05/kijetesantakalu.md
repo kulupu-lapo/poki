@@ -3,15 +3,20 @@ title: kijetesantakalu
 description: kijetesantakalu li pali e seme?
 authors:
   - thegreatsoupster
+translators: null
+proofreaders: null
 date: 2024-05-03
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/55640227
 archives:
   - https://web.archive.org/web/20240927152414/https://archiveofourown.org/works/55640227
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 kijetesantakalu li tawa  

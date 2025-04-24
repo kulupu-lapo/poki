@@ -1,13 +1,22 @@
 ---
 title: mun lili pi toki pona
+description: null
 authors:
 - jan Sepa
+translators: null
+proofreaders: null
 date: 2021-08-02
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0006suno.pdf
 - https://liputenpo.org/lipu/nanpa-suno/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_mun_lili.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 « a! mun lili ni li pona mute tawa mi!

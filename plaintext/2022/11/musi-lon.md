@@ -1,17 +1,24 @@
 ---
 title: musi lon
+description: null
 authors:
 - jan Sotan
+translators: null
+proofreaders: null
 date: 2022-09-11
 tags:
 - poetry
 - read-aloud poetry
+original: null
 license: CC BY 4.0
 sources:
 - https://zotn.hu/toki-pona/rap-musi-lon
 - https://www.youtube.com/watch?v=rqkcj3IpnKc
 - https://soundcloud.com/dschorsaanjo/musi-lon
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 [open]

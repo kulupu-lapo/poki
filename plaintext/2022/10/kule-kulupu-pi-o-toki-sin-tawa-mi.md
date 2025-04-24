@@ -5,6 +5,8 @@ description: 'tenpo mute la, jan lili pi wile sona li toki tawa mama ona tan ni:
   pana e wile sona e toki sin musi.'
 authors:
 - Miles Rodriguez
+translators: null
+proofreaders: null
 date: 2022-10-02
 tags:
 - StoryWeaver level 1
@@ -16,6 +18,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/471383-kule-kulupu-pi-o-toki-sin-tawa-mi
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/5965/size7/14a3b7727bfd63a6e9115a8666f19ea9.jpg)

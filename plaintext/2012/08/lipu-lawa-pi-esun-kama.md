@@ -1,16 +1,24 @@
 ---
 title: lipu lawa pi esun kama
+description: null
 authors:
   - jan Josan
   - jan Mato
+translators: null
+proofreaders: null
 date: 2009-01-01
-date-precision: year
 tags:
   - original
   - artwork
+original: null
 license: All Rights Reserved
 sources:
   - https://jonathangabel.com/2012/lipu-lawa-pi-esun-kama/  # Posted 2012-08-02
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: year
 ---
 
 ## lipu lawa pi esun kama

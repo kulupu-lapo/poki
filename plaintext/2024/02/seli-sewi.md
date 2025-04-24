@@ -4,19 +4,23 @@ description: "seli sewi li kipisi e sina. seli sewi li lon oko ona. ante: jan Ma
   li kama sona e jan sewi."
 authors:
   - mokutelo_pona (Wholesome_Soup)
+translators: null
+proofreaders: null
 date: 2024-02-27
-license: null
 tags:
   - "fan fiction"
 original:
   title: holy fire
   authors:
     - Wholesome_Soup
+license: null
 sources:
   - https://archiveofourown.org/works/54104698
 archives:
   - https://web.archive.org/web/20240927154926/https://archiveofourown.org/works/54104698
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 sina pakala.  

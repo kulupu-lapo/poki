@@ -1,12 +1,21 @@
 ---
 title: lipu li kama loje tan seme?
+description: null
 authors:
   - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-12-29
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0030loje.pdf
   - https://liputenpo.org/lipu/nanpa-loje/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 tenpo seli la lipu kasi li laso li pona. taso tenpo lete li open la lipu li kama loje anu jelo li weka tan kasi. ni li lon tan seme?
 

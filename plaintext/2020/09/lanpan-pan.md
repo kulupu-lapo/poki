@@ -1,7 +1,10 @@
 ---
 title: lanpan pan
+description: null
 authors:
   - jan inwin
+translators: null
+proofreaders: null
 date: 2020-09-27
 tags:
   - translation
@@ -16,8 +19,11 @@ original:
 license: null
 sources:
   - https://docs.google.com/document/d/1Pz7rvn7LXPJmJZ6AJxEWa6WuOJys8KHioXLtYkj0k-Q/edit
+archives: null
 preprocessing: Removed the gap at the start of paragraphs. Inferred a bullet point
   not found in the original, likely ommited by mistake.
+accessibility-notes: null
+notes: null
 ---
 
 # lanpan pan

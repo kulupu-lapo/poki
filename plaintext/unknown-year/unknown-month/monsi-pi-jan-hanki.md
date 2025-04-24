@@ -1,9 +1,11 @@
 ---
 title: monsi pi jan Hanki
-date: 2001-01-01
-date-precision: none
+description: null
 authors:
   - Michael F.
+translators: null
+proofreaders: null
+date: 2001-01-01
 tags:
   - translation
   - prose
@@ -16,6 +18,10 @@ sources:
   - http://failbluedot.com/toki_pona/kha
 archives:
   - https://web.archive.org/web/20140305061302/http://failbluedot.com/toki_pona/kha
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 # Kissing Hank’s Ass

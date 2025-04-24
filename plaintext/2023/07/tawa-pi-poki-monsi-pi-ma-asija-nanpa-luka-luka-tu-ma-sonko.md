@@ -1,13 +1,22 @@
 ---
 title: tawa pi poki monsi pi ma Asija nanpa luka luka tu. ma Sonko
+description: null
 authors:
 - jan Polo
+translators: null
+proofreaders: null
 date: 2023-07-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0020nasin.pdf
 - https://liputenpo.org/lipu/nanpa-nasin/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nasin_-_ma_Sonko.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![ma Sonko](https://upload.wikimedia.org/wikipedia/commons/0/09/Lipu_tenpo_nanpa_nasin_-_ma_Sonko.png)

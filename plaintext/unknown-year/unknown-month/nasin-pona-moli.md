@@ -1,13 +1,16 @@
 ---
 title: tenpo suno kama
+description: null
 authors:
   - jan Nikita
+translators: null
+proofreaders: null
 date: 2001-01-01
-date-precision: none
 tags:
   - translation
   - taoism
 original:
+  title: null
   authors:
     - unknown # added automatically during reschema
 license: CC0 1.0
@@ -15,6 +18,10 @@ sources:
   - http://tokipona.net/tp/janpije/nasinpona-moli.php  # dead link
 archives:
   - https://web.archive.org/web/20180212103612/http://tokipona.net/tp/janpije/nasinpona-moli.php
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 ## tenpo suno kama

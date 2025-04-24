@@ -1,13 +1,22 @@
 ---
 title: musi Monopoli li musi ala tan ni
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2022-02-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0011walo.pdf
 - https://liputenpo.org/lipu/nanpa-walo/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_musi_Monopoli.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo mun lete la, jan li ken kama jo e ijo musi sin. ijo wan li suli tawa ni. sina sona e musi Monopoli [Monopoly] anu seme? ona li ijo musi kepeken leko lipu. ona li kepeken nasin mani. ona li open lon tenpo sike nanpa 1935 li tan jan Sala Talo (Charles Darrow). jan Sala Talo li ante e musi tan jan Elisape Maki (Elizabeth Magie). jan li esun e ma pi kule mute li pana e mani tawa jan ante. jan mute li sona li musi e musi Monopoli. taso, musi Monopoli li musi ala. ni li lon tan seme?

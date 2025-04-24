@@ -1,13 +1,16 @@
 ---
 title: moku
+description: null
 authors:
   - jan Nikita
+translators: null
+proofreaders: null
 date: 2001-01-01
-date-precision: none
 tags:
   - translation
   - taoism
 original:
+  title: null
   authors:
     - unknown # added automatically during reschema
 license: CC0 1.0
@@ -15,6 +18,10 @@ sources:
   - http://tokipona.net/tp/janpije/nasinpona-moku.php  # dead link
 archives:
   - https://web.archive.org/web/20180212102858/http://tokipona.net/tp/janpije/nasinpona-moku.php
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 ## moku en lape

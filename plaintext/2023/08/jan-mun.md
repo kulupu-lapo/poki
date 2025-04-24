@@ -1,18 +1,24 @@
 ---
 title: jan mun
+description: null
 authors:
   - mun Kekan San
+translators: null
+proofreaders: null
 date: 2023-08-15
 tags:
   - moli
   - sona wawa pi nasin mun
+original: null
 license: CC-BY-SA-4.0
 sources:
   - https://mun.la/lipu/jan-mun.html
   - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/jan-mun.md
   - http://utala.pona.la/toki-en-lipu/lipu-suli/jan-mun.html
+archives: null
 preprocessing: this was taken from an html tag. i've replaced html tags with markdown.
   lupa ascii art was put in codeblock
+accessibility-notes: null
 notes: originally in sitelen pona via a ligature font
 ---
 

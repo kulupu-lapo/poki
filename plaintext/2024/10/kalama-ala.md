@@ -1,12 +1,21 @@
 ---
 title: kalama ala
+description: null
 authors:
   - soweli Eli
+translators: null
+proofreaders: null
 date: 2024-10-20
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf
   - https://liputenpo.org/lipu/nanpa-jan/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 kalama ala li ken ala ken lon?

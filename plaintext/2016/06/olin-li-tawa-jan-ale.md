@@ -1,14 +1,21 @@
 ---
 title: olin li tawa jan ale
+description: null
 authors:
 - jan Sotan
+translators: null
+proofreaders: null
 date: 2016-06-08
 tags:
 - music
+original: null
 license: All Rights Reserved
 sources:
 - https://www.youtube.com/watch?v=tAepWWMxr2k
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 [musi #1]

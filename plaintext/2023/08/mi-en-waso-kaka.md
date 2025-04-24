@@ -1,7 +1,10 @@
 ---
 title: mi en waso Kaka en monsuta pi ma kasi
+description: null
 authors:
 - jan Pensa
+translators: null
+proofreaders: null
 date: 2023-08-15
 tags:
 - pakala sijelo
@@ -10,10 +13,14 @@ tags:
 - moku li lon
 - utala sijelo
 - nimi ku li mute
+original: null
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.html
+archives: null
+preprocessing: null
+accessibility-notes: null
 notes: this is the second version of the work. The first version used lanpan a lot,
   and is not stored here due to redundancy.
 ---

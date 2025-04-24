@@ -1,7 +1,9 @@
 ---
 title: meli lili pi len loje
+description: null
 authors:
   - jan Same
+translators: null
 proofreaders:
   - jan Kipo
   - jan Lope
@@ -32,6 +34,8 @@ sources:
 archives:
   - https://archive.org/details/meli-lili-pi-len-loje/meli%20lili%20pi%20len%20loje%20-%20Latin%20Alphabet/  # Latin script version
 preprocessing: Replaced formatting for footnotes from asterisks to numbers.
+accessibility-notes: null
+notes: null
 ---
 
 # MELI LILI PI LEN LOJE

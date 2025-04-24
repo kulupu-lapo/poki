@@ -1,7 +1,10 @@
 ---
 title: Sina Suno Mi
+description: null
 authors:
   - jan Kulisa # Christa Hansberry 
+translators: null
+proofreaders: null
 date: 2015-07-25
 tags:
   - music
@@ -13,6 +16,10 @@ original:
 license: null
 sources:
   - https://soundcloud.com/christa-hansberry/sina-suno-mi
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- My translation of "You Are My Sunshine" into Toki Pona. Recorded for demonstration purposes; I don't have glamorous recording equipment!

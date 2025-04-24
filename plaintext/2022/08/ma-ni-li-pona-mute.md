@@ -1,11 +1,20 @@
 ---
 title: ma ni li pona mute
+description: null
 authors:
 - soweli-mokapen
+translators: null
+proofreaders: null
 date: 2022-08-07
+tags: null
+original: null
 license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/soweli-mokapen/ma-ni-li-pona-mute
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi jan pi sike suno tu wan la mi kama sona e nasin sitelen li sitelen e lipu mute. mi kama jan pi lili ala la mi awen sitelen mute e lipu. taso tenpo pini poka la mi pali ala e lipu mute. mi toki insa e ni: "mi o sitelen sin e lipu. tan seme la mi pini?" taso mi awen pali ala.  

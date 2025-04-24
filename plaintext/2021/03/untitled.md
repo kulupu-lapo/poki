@@ -1,15 +1,23 @@
 ---
 title: untitled
+description: null
 authors:
   - mute to
+translators: null
+proofreaders: null
 date: 2021-03-10
 tags:
   - short story
   - original
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/301380012156911616/819255277039779921
   - https://cdn.discordapp.com/attachments/301380012156911616/819255276912902194/kyytdryidr865ich45.txt
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo mute la, mi kute e kalama telo lon poka mi.

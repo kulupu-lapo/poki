@@ -1,13 +1,22 @@
 ---
 title: jan alasa li kulupu lon ma Potuke
+description: null
 authors:
   - waso
+translators: null
+proofreaders: null
 date: 2025-02-28
+tags: null
+original: null
 license: 'CC BY-SA 4.0'
 sources:
   - https://liputenpo.org/lipu/nanpa-kala/
   - https://liputenpo.org/pdfs/0031kala.pdf
   - https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki/nanpa-kala
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 {{{sitelen "0031_len_jan_alasa.png" "len pi jan alasa" "jan Meki"}}}

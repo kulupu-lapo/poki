@@ -1,15 +1,23 @@
 ---
 title: mun ante
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2022-06-22
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/track/mun-ante
   - https://www.youtube.com/watch?v=fedFQIHREMo
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi ken kalama kepeken poki kalama sina  \

@@ -1,16 +1,23 @@
 ---
 title: jan pi kamalawala
+description: null
 authors:
   - jan Sojapoja
+translators: null
+proofreaders: null
+date: 2020-06-13
 tags:
   - original
   - poetry
-date: 2020-06-13
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/340307145373253642/721262364187426836
 archives:
   - https://archive.org/details/jan_pi_kamalawa/mode/2up
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo ni li tenpo pimeja nanpa tu.  \

@@ -1,11 +1,20 @@
 ---
 title: kala akesi kiwen
+description: null
 authors:
   - jan Ote
+translators: null
+proofreaders: null
 date: 2010-09-01
+tags: null
+original: null
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2010/09/kala-akesi-kiwen.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "Limule(dD).jpg" by Didier Descouens (https://commons.wikimedia.org/wiki/File:Limule(dD).jpg). CC BY-SA 4.0. -->

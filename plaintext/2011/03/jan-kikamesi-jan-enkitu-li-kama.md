@@ -1,11 +1,20 @@
 ---
 title: jan Kikamesi. jan Enkitu li kama
+description: null
 authors:
   - jan Ote
+translators: null
+proofreaders: null
 date: 2011-03-04
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/jan-kikamesi-jan-enkitu-li-kama.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ### jan lawa pi ma tomo Uluku

@@ -1,13 +1,21 @@
 ---
 title: ilo lukin pi tenpo kama
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2023-06-03
+tags: null
+original: null
 license: null
 sources:
   - https://mun.la/lipu/ilo-lukin-pi-tenpo-kama.html
 archives:
   - https://web.archive.org/web/20230922145357/https://mun.la/lipu/ilo-lukin-pi-tenpo-kama.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## mi alasa pona e mi kepeken ilo lukin!

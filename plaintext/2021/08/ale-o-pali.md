@@ -1,7 +1,10 @@
 ---
 title: ale o pali  # kamala musi: ale o pali
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-08-24
 tags:
   - translation
@@ -18,6 +21,10 @@ license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/08/24/kalama-musi-ale-o-pali/
   - https://www.youtube.com/watch?v=PyCLrdedtfU
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi jan lili la mama li toki e ni tawa mi:  \

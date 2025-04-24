@@ -1,14 +1,22 @@
 ---
 title: sina pilin oke, anu seme?
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-06-25
 tags:
   - original
   - poetry
+original: null
 license: null
 sources:
   - https://docs.google.com/document/d/1CoACCfXQn31X1NR8_X3q0zXEFUmVHImR9nCqBYiIKPk/edit
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan Tonju

@@ -1,14 +1,22 @@
 ---
 title: nimi open pi toki pona
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2023-02-06
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_tenpo_kama_pi_toki_pona.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 ![sike li toki e tenpo · sitelen pi toki pona li lon monsi ona](https://upload.wikimedia.org/wikipedia/commons/c/c7/Lipu_tenpo_nanpa_soweli_-_tenpo_kama_pi_toki_pona.png)

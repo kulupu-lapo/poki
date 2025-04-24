@@ -1,15 +1,23 @@
 ---
 title: tawa lon linja
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2021-10-11
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/album/lon
   - https://www.youtube.com/watch?v=Kcg8cOU-Eho
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan seme li ken olin  \

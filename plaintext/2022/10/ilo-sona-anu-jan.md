@@ -4,15 +4,19 @@ description: "ilo Peni li sona e ni: ona li ilo. mama Pijeto sona e ni: ni li lo
   ala."
 authors:
   - dragon_chris
+translators: null
+proofreaders: null
 date: 2022-10-07
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/42217296
 archives:
   - https://archive.ph/77tyG
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

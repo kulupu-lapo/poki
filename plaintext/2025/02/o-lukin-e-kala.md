@@ -1,7 +1,10 @@
 ---
 title: o lukin e kala
+description: null
 authors:
   - soko Sijeni
+translators: null
+proofreaders: null
 date: 2025-02-16
 tags:
   - music
@@ -16,6 +19,8 @@ archives:
   - https://web.archive.org/web/0/https://ivaaan.neocities.org/kala/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
+accessibility-notes: null
+notes: null
 ---
 
 o lukin e kala  

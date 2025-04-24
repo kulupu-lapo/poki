@@ -1,14 +1,23 @@
 ---
 title: tenpo pimeja sewi
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2022-02-01
+tags: null
 original:
   title: O Holy Night
+  authors: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0011walo.pdf
 - https://liputenpo.org/lipu/nanpa-walo/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pimeja sewi.  

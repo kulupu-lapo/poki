@@ -1,17 +1,25 @@
 ---
 title: tomo awen  # kalama: tomo awen
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2024-10-31
 tags:
   - original
   - music
   - lyrics
   - halloween
+original: null
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2024/10/31/kalama-tomo-awen/
   - https://www.youtube.com/watch?v=e6tEQ3yRhh8
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 o kama o kama moku li kama  \

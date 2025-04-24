@@ -1,13 +1,17 @@
 ---
 title: o walo
+description: null
 authors:
   - Nardi
+translators: null
+proofreaders: null
 date: "2021-12-29"
 tags:
   - original
   - music
   - lyrics
   - winter
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=CBpk6yb_sxo
@@ -27,6 +31,10 @@ sources:
 
   # covers:
   - https://open.spotify.com/track/5e2kpjCLBHw5P3oO0mq1av  # by pata powe
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina jan  \

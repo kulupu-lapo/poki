@@ -1,15 +1,23 @@
 ---
 title: kulupu jan Tepo
+description: null
 authors:
   - jan Jami
+translators: null
+proofreaders: null
 date: 2024-06-07
 tags:
   - derivative
   - parody
   - humorous
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=xQZkZXHfsoA
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo mute la mi o toki pona.  \

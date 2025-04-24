@@ -1,13 +1,17 @@
 ---
 title: mi ante e mun
+description: null
 authors:
   - jan Nikoleta
   - impasaurus
   - jan Sa
+translators: null
+proofreaders: null
 date: 2023-08-05
 tags:
   - music
   - alternative rock
+original: null
 license: All Rights Reserved
 sources:
   - https://kqakqa.bandcamp.com/track/mi-ante-e-mun
@@ -18,6 +22,10 @@ sources:
   - https://open.spotify.com/album/3w0VGm2ELLYzAvcAFkXOid
   - https://music.apple.com/us/album/jan-kqa-li-kalama-lon-suno-pi-toki-pona-lon-tenpo-sike/1703886265
   - https://youtube.com/watch?v=Gwud3RbfV2Y
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina ante e sina  \

@@ -3,6 +3,8 @@ title: mu mu a
 description: soweli tu li musi lon lipu kule ni.
 authors:
 - nick
+translators: null
+proofreaders: null
 date: 2022-02-28
 tags:
 - StoryWeaver level 1 (Emergent Readers)
@@ -14,6 +16,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/424770-mu-mu-a
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/81597/size7/ca02a8652b76af4f8b184c6796050ca9.jpg)

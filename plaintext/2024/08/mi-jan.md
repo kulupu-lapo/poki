@@ -1,9 +1,11 @@
 ---
 title: mi jan
+description: null
 authors:
   - jan Seko
+translators: null
+proofreaders: null
 date: 2024-08-10
-license: CC-BY-SA-4.0
 tags:
   - moku
   - ma li kama jaki moli tan pali jan
@@ -11,9 +13,15 @@ tags:
   - wan taso
   - utala
   - moli
+original: null
+license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/mi-jan.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/mi-jan.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <style>

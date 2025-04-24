@@ -4,9 +4,11 @@ description: A fictional diary made by Studio Massa for his Ongezellig series, t
   by jan Majeka
 authors:
   - jan Majeka
+translators: null
 proofreaders:
   - jan Ke Tami
 date: 2025-02-28
+tags: null
 original:
   title: mayamail
   authors:
@@ -14,6 +16,10 @@ original:
 license: null
 sources:
   - https://drive.google.com/drive/folders/1tINB8ZdD56Jik7Z8Et61WU9eiPrxBHfL?usp=sharing
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 LIPUMAJA#1

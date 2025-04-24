@@ -6,8 +6,9 @@ description: toki! An attempted translation of that scene from the end of season
   :)
 authors:
   - 50ShadesOfWhump
+translators: null
+proofreaders: null
 date: 2024-02-04
-license: null
 tags:
   - "fan fiction"
 original:
@@ -15,11 +16,14 @@ original:
   authors:
     - Neil Gaiman
     - John Finnemore
+license: null
 sources:
   - https://web.archive.org/web/20240927161351/https://archiveofourown.org/works/53519269
 archives:
   - https://web.archive.org/web/20240927161351/https://archiveofourown.org/works/53519269
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 jan Kowali li toki pi wile sona e ni: “ona li toki e seme?”  

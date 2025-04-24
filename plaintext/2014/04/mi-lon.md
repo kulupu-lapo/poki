@@ -1,11 +1,20 @@
 ---
 title: mi lon!
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2014-04-02
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2014/04/mi-lon.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi wile e ni: mi toki mute kepeken toki pona.

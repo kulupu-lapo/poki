@@ -1,7 +1,10 @@
 ---
 title: poki pi telo Amonsijato
+description: null
 authors:
   - jan lili Enta
+translators: null
+proofreaders: null
 date: 2023-05-01
 tags:
   - translation
@@ -14,6 +17,9 @@ sources:
   - https://docs.google.com/document/d/1FDUkWFxzWLlDj9xYIuMXIpC5G59_o_g_hW-bCPTV0hw/edit
 archives:
   - https://web.archive.org/web/20240625230321/https://docs.google.com/document/d/1FDUkWFxzWLlDj9xYIuMXIpC5G59_o_g_hW-bCPTV0hw/edit
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 pakala ale tan jan Potunato li tawa mi la, mi awen pona, taso ona li pakala toki e nimi mi la, mi o pakala sama e ona. sina sona mute e kon mi la, sina sona e ni: mi toki ala e wile pakala mi. pali li pini ale la mi kama pona sin. ni li lon, taso nasin pali mi li pona mute la pali li ken ala pakala ike. mi pakala e ona la, ike ante o tawa ala mi. ike sama li kama pakala e mi la pali li pini pona ala. jan ike li sona ala e mi pakala la pali li pini pona ala sama.

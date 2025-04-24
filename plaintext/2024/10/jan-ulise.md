@@ -1,8 +1,12 @@
 ---
 title: jan Ulise
+description: null
 authors:
   - jan Lapate
+translators: null
+proofreaders: null
 date: 2024-10-20
+tags: null
 original:
   title: Ulysses
   authors:
@@ -11,6 +15,10 @@ license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf
   - https://liputenpo.org/lipu/nanpa-jan/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi jan lawa pi pali lili, li lon poka pi seli pini,  

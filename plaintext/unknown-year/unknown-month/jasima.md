@@ -3,8 +3,11 @@ title: jasima
 description: jasima li lon ala lon
 authors:
   - lipamanka
+translators: null
+proofreaders: null
 date: 2001-01-01
-date-precision: none
+tags: null
+original: null
 license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
@@ -13,6 +16,9 @@ archives:
   - https://web.archive.org/web/20230521211226/https://lipamanka.gay/toki-pona-taso
   - https://web.archive.org/web/20230419002332/https://lipamanka.gay/toki-pona-taso/jasima
 preprocessing: changed sitelen pona to sitelen Lasina, removed the pretty whitespace
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 lipamanka li pali e ni  

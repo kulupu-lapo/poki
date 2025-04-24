@@ -1,12 +1,21 @@
 ---
 title: toki soweli - nanpa tu
+description: null
 authors:
 - jan Eweni Wako
+translators: null
+proofreaders: null
 date: 2022-03-10
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0012nimi.pdf
 - https://liputenpo.org/lipu/nanpa-nimi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 soweli wawa jelo li lawa e ma, li lawa e soweli ale. taso tenpo wan la, ona li tawa anpa, li kama lon insa lupa lon ma anpa. lupa li poki e ona la, ona li wile pilin sin e ali ona lon sona tan moli kama, taso jan ma li tawa poka.

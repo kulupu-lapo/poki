@@ -1,12 +1,21 @@
 ---
 title: nasin kule pona
+description: null
 authors:
   - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-12-29
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0030loje.pdf
   - https://liputenpo.org/lipu/nanpa-loje/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan li wile toki e kule la ona li kepeken e nimi seme? jan mute pi toki pona li kepeken e kule luka. toki ale en kulupu ale li jo e nasin kule ante. taso nasin ale ante la seme li sama? jan sona tu li toki e ni. toki ale li jo e kule tu ni: pimeja en walo. jan Ke (Kay) en jan Pelin (Berlin) li pali e nasin kule ni: open la toki li jo taso e pimeja e walo. ona li kama e loje. laso anu jelo la ona li kama e kule wan ni. kama la laso en jelo li lon. ni li kule ale pi toki pona: pimeja en walo en loje en jelo en laso. nasin kule ni li ken ike. taso mute la ona li pona li ken ike.

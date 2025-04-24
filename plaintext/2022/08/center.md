@@ -1,11 +1,20 @@
 ---
 title: o kama sona e mi  # Made up for poki Lapo
+description: null
 authors:
 - waso-pin
+translators: null
+proofreaders: null
 date: 2022-08-08
+tags: null
+original: null
 license: null
 sources:
 - https://web.archive.org/web/2/https://lipu.pona.la/waso-pin/center
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <center>

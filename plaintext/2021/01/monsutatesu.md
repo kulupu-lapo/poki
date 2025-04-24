@@ -1,12 +1,21 @@
 ---
 title: monsutatesu
+description: null
 authors:
 - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2021-01-29
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-01-29-monsutatesu.md
 - https://lipukule.org/post/2021/01/29/monsutatesu/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 **o awen**: sina jan sin pi toki pona la, toki ni li ken pona ala a.

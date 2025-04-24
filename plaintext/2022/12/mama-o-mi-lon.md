@@ -1,8 +1,12 @@
 ---
 title: mama o mi lon
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2022-12-28
+tags: null
 original:
   title: Mother, I'm Here
   authors:
@@ -12,6 +16,9 @@ sources:
   - https://mun.la/lipu/mama-o-mi-lon.html
 archives:
   - https://web.archive.org/web/20230325095936/https://mun.la/lipu/mama-o-mi-lon.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi tawa a  

@@ -1,7 +1,10 @@
 ---
 title: jan esun li kama  # kalama musi “jan esun li kama”
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-03-09
 tags:
   - translation
@@ -19,6 +22,10 @@ sources:
   - https://janketami.wordpress.com/2021/03/09/kalama-musi-jan-esun-li-kama/
   - https://seka.pona.la/w/g2VyTnutAaJStBCyZ41a2F
   - https://www.youtube.com/watch?v=_etwTlHjhBI
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ten-po pini-wan-la, tomo-li-lon telo.  \

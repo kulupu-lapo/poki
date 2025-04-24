@@ -1,14 +1,22 @@
 ---
 title: the tokirap (nimi ale lon toki pona)
+description: null
 authors:
   - jan Misali
   - Sapaa
+translators: null
+proofreaders: null
 date: 2021-08-07
 tags:
   - music
+original: null
 license: CC BY-NC 4.0
 sources:
   - https://www.youtube.com/watch?v=U_w0-VUMh2o
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki! ni la mi toki musi e nimi ale pi toki pona!  \

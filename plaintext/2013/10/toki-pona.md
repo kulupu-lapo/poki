@@ -1,7 +1,10 @@
 ---
 title: toki pona
+description: null
 authors:
   - tobiah
+translators: null
+proofreaders: null
 date: 2013-10-10
 tags:
   - original
@@ -11,10 +14,15 @@ tags:
   - electronica
   - retrowave
   - synth
+original: null
 license: CC BY-SA 3.0
 sources:
   - https://tobiah.bandcamp.com/track/toki-pona
   - https://www.youtube.com/watch?v=2jRtYBaZGgQ
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki pona li toki pona.  \

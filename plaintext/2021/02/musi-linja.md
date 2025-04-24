@@ -1,13 +1,22 @@
 ---
 title: musi linja
+description: null
 authors:
   - jan Telakoman
+translators: null
+proofreaders: null
 date: 2021-02-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0001akesi.pdf
   - https://liputenpo.org/lipu/nanpa-akesi/
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_musi_linja.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![musi linja](https://upload.wikimedia.org/wikipedia/commons/d/dd/Lipu_tenpo_nanpa_akesi_-_musi_linja.png)

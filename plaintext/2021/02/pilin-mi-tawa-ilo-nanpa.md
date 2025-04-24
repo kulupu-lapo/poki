@@ -1,12 +1,21 @@
 ---
 title: pilin mi tawa ilo nanpa
+description: null
 authors:
 - jan Ana
+translators: null
+proofreaders: null
 date: 2021-02-13
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-13-pilinmitawailonanpa.md
 - https://lipukule.org/post/2021/02/13/pilin-mi-tawa-ilo-nanpa/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ilo nanpa pi jan Sate li pona mute tawa kulupu pi toki pona. jan Sate li pali e sitelen tawa pi ilo nanpa; ona li musi a! ni la, mi wile kama jo e ilo nanpa.

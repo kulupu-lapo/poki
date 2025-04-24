@@ -1,7 +1,10 @@
 ---
 title: kasi la waso lili  # musi kalama “kasi la waso lili”
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-03-12
 tags:
   - translation
@@ -19,6 +22,10 @@ sources:
   - https://janketami.wordpress.com/2021/03/12/musi-kalama-kasi-la-waso-lili/
   - https://seka.pona.la/w/e4AgGVvF9bE81cR6ZV4tgu
   - https://www.youtube.com/watch?v=6YsXJciKWOE
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 kasi la waso lili  \

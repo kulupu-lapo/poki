@@ -4,14 +4,21 @@ description: mi sona e jan. jan ni taso li lape lon tomo ona, taso jan pona ona 
   li moku lon poka lon tenpo suno ale.
 authors:
 - jan Ontoli
+translators: null
+proofreaders: null
 date: 2022-08-06
 tags:
 - moku
 - jan li weka e jan pona ona
+original: null
 license: null
 sources:
 - https://github.com/raacz/utala/blob/main/lipu-lili/jan-pi-sona-mi-en-jan-pona-ona.md
 - http://utala.pona.la/lipu-lili/jan-pi-sona-mi-en-jan-pona-ona.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi sona e jan. tomo ona la, jan ni taso li lape, li musi, li pali. jan ante ala li lon tomo ona. taso la, tenpo suno ale la, ona li pana moku tawa jan tu. tenpo suno ale la, jan pona li kama tawa tomo jan, li moku. jan pona li pona e jan. kin la, jan sona mi li pona tawa jan pona.

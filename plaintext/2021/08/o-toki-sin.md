@@ -1,16 +1,24 @@
 ---
 title: o toki sin
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2021-08-13
 tags:
   - music
   - pop
   - rap
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/track/o-toki-sin
   - https://www.youtube.com/watch?v=PneVDPe5da4
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 o len ala  \

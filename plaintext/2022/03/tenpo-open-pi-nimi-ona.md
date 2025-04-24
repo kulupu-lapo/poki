@@ -1,13 +1,22 @@
 ---
 title: tenpo open pi nimi “ona”
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2022-03-10
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0012nimi.pdf
 - https://liputenpo.org/lipu/nanpa-nimi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_nimi_ona.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 nimi “ona” li nimi pi jan nanpa tu wan lon toki pona. mi en sina li ken toki e jan ante kepeken nimi “ona.” nimi “ona” li nimi ilo. sona ni li lon ali. taso la, open pi toki pona la, nimi “ona” li lon ala. kon pi nimi “ona” li lon tenpo open. kon pi nimi “ona” li sama. selo pi nimi “ona” li ante. jan Sonja (mama pi toki pona) li pali e toki pona la, ona li kepeken nimi “iki.” nimi “iki” li sama nimi “ona.” taso la, tenpo pini la, jan mute pi toki pona li olin ala e nimi “iki.” jan ni li pilin e ni: nimi “iki” li jo e kalama sama nimi “ike.” nimi “iki” en nimi “ike” li kepeken kon pi ante mute la, nimi tu o kepeken kalama sama ala.

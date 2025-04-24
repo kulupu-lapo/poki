@@ -3,15 +3,19 @@ title: o moku sama soweli
 description: pali suli li wile e moku suli.
 authors:
   - asona
+translators: null
+proofreaders: null
 date: 2024-09-13
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/58920403
 archives:
   - https://web.archive.org/web/20240927131103/https://archiveofourown.org/works/58920403
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

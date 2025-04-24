@@ -1,7 +1,9 @@
 ---
 title: ona li pona
+description: null
 authors:
   - jan Nikoleta
+translators: null
 proofreaders:
   - jan Nale
   - jan Ne
@@ -9,6 +11,7 @@ date: 2019-02-23
 tags:
   - music
   - alternative rock
+original: null
 license: All Rights Reserved
 sources:
   - https://kqakqa.bandcamp.com/track/ona-li-pona
@@ -19,6 +22,9 @@ sources:
   - https://open.spotify.com/album/3w0VGm2ELLYzAvcAFkXOid
   - https://music.apple.com/us/album/jan-kqa-li-kalama-lon-suno-pi-toki-pona-lon-tenpo-sike/1703886265
   - https://youtube.com/watch?v=ZJiK3DKZm2M
+archives: null
+preprocessing: null
+accessibility-notes: null
 notes: An English translation by the creator is available on the sources
 ---
 

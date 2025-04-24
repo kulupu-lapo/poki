@@ -5,6 +5,8 @@ description: jan Sanu li suli a la jan Ami li ken ala jo e ona. jan Sanu li lili
   ala lili a? jan li uta e toki ni la sina suli ala suli a? o open o alasa!
 authors:
 - nick
+translators: null
+proofreaders: null
 date: 2022-02-02
 tags:
 - StoryWeaver level 1
@@ -16,6 +18,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/405798-suli-a-lili-a
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/42853/size7/70fd0452aa6c927e53d76aa9fb3f4ffc.jpg)

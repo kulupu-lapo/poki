@@ -3,15 +3,20 @@ title: moku unpa pona
 description: A vore story written in toki pona.
 authors:
   - jan_sitelen
+translators: null
+proofreaders: null
 date: 2023-10-11
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/50748886
 archives:
   - https://web.archive.org/web/20240930135748/https://archiveofourown.org/works/50748886
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 soweli Pokemon Lukalijo li lon ma pi kasi suli. soweli Lukalijo ni li soweli Nowa. ona li tawa tan musi, li lukin ala e soweli Amepa. soweli Amepa li soweli Pokemon Sanku. tenpo mute la soweli li lukin ala e ona.

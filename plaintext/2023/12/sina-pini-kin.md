@@ -1,14 +1,22 @@
 ---
 title: sina pini kin
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2023-12-25
 tags:
 - poetry
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0023sewi.pdf
 - https://liputenpo.org/lipu/nanpa-sewi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan mi li sona ala.  

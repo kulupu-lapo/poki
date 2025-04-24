@@ -1,14 +1,22 @@
 ---
 title: pilin musi pi lawa toki
+description: null
 authors:
   - anonymous
+translators: null
+proofreaders: null
 date: 2022-12-09
 tags:
   - poetry
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0017musi.pdf
   - https://liputenpo.org/lipu/nanpa-musi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 a sina toki e ni a:  

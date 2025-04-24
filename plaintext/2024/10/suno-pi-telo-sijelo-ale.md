@@ -1,13 +1,21 @@
 ---
 title: suno pi telo sijelo ale
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2024-10-21
+tags: null
+original: null
 license: null
 sources:
   - https://mun.la/lipu/suno-pi-telo-sijelo-ale.html
 archives:
   - https://web.archive.org/web/20241128144312/https://mun.la/lipu/suno-pi-telo-sijelo-ale.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki ni li lon tenpo suno pi telo sijelo ale.

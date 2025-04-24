@@ -4,19 +4,22 @@ description: misa Kimi en misa Emi li musi lon poka pi tomo ona. ona li lukin li
   mute. taso, pakala lili wan li lon. ni li lon ala tan tawa kepeken tenpo lili.
 authors:
   - Hopeful_Student
+translators: null
+proofreaders: null
 date: 2024-09-10
-license: null
 tags:
   - "fan fiction"
 original:
   title: One Little Accident
   authors:
     - secretfirefox
+license: null
 sources:
   - https://archiveofourown.org/works/58839649
 archives:
   - https://web.archive.org/web/20240927133427/https://archiveofourown.org/works/58839649
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

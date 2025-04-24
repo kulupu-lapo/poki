@@ -1,12 +1,21 @@
 ---
 title: tawa o tawa
+description: null
 authors:
 - jan Penta
+translators: null
+proofreaders: null
 date: 2024-05-14
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0026jaki.pdf
 - https://liputenpo.org/lipu/nanpa-jaki/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi pakala taso •

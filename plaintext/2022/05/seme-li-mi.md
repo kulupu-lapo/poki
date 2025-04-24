@@ -1,16 +1,24 @@
 ---
 title: seme li mi?
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2022-05-05
 tags:
 - 'sitelen sitelen'
 - 'poetry'
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0013pipi.pdf
 - https://liputenpo.org/lipu/nanpa-pipi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_sitelen_sitelen.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi jo e poki kiwen  

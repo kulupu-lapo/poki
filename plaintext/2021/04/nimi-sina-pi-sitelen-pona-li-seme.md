@@ -1,8 +1,13 @@
 ---
 title: nimi sina pi sitelen pona li seme?
+description: null
 authors:
 - jan Tamalu
+translators: null
+proofreaders: null
 date: 2021-04-05
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0003soweli.pdf
@@ -11,6 +16,10 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_toki_a_mi_ali_li_utala.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_tomo_anpa_mi_ante_li_uta.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_taso_ali_mu_a_li_unpa.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina kepeken sitelen pona la nimi sina li kepeken sitelen mute. nasin sitelen pi nimi sina li ken mute. mi jan Tamalu. mi kepeken nimi [tenpo ante musi anu lili utala]. ni li pona tawa mi tan ni: mi lukin e ni la mi toki e ni: “tenpo ante musi mute o kama. sina kama ala la mi utala lili tawa sina.” sona ni li ni: mi wile pilin e pilin ante mute e tenpo ante musi mute. mi utala lili tawa alasa pi tenpo ni.

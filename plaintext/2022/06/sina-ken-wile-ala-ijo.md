@@ -3,7 +3,10 @@ title: sina ken wile ala ijo
 description: A cute skit from the early internet, now in Toki Pona. [Listen here](https://youtu.be/iKry3P51SVI)!
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2022-06-01
+tags: null
 original:
   title: It's okay to not like things
   authors:
@@ -13,6 +16,9 @@ sources:
   - https://mun.la/lipu/sina-ken-wile-ala-ijo.html
 archives:
   - https://web.archive.org/web/20230325115537/https://mun.la/lipu/sina-ken-wile-ala-ijo.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina ken  

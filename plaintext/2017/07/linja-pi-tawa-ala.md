@@ -1,7 +1,10 @@
 ---
 title: linja pi tawa ala
+description: null
 authors:
   - jan Maliku
+translators: null
+proofreaders: null
 date: 2017-07-28
 tags:
   - translation
@@ -13,6 +16,10 @@ original:
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/340307145373253642/340307536001368082
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 linja tu li ante lon kulupu kasi pi loje kule  \

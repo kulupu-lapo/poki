@@ -1,12 +1,21 @@
 ---
 title: sina wile pali e ante toki la, o kepeken nasin ni
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2022-12-09
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0017musi.pdf
 - https://liputenpo.org/lipu/nanpa-musi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ante toki li pona mute. lipu mute en pali nimi mute li lon. taso, lipu pi mute ala en pali pi mute ala li kepeken toki pona. lipu sin pi toki pona en pali sin pi toki pona li awen suwi! mi lukin e ni. mi kin li pali e ona. pali sin en ante toki o awen o pona tawa jan pi toki pona. nasin ni li pona tan ni: nanpa wan la, pali pi ante toki li ken wawa e nasin sina pi toki pona. nanpa tu la, ante toki li ken musi tawa jan ali pi toki pona! nanpa tu wan la, jan pi toki pona ala li lukin e ante toki la, ona li wile kama sona e toki pona lon tenpo ni.

@@ -5,6 +5,8 @@ description: mun li kama ala tan telo suli lon tenpo pimeja wan la jan Majesa en
   seme?
 authors:
 - jan Melon
+translators: null
+proofreaders: null
 date: 2022-02-01
 tags:
 - StoryWeaver level 3
@@ -16,6 +18,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/403776-tenpo-pimeja-ni-la-mun-li-weka
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/71935/size7/9037a19eec6eecb03f8e64b53cefe861.jpg)

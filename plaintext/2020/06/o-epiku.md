@@ -1,17 +1,25 @@
 ---
 title: o epiku
+description: null
 authors:
   - jan Sewa
+translators: null
+proofreaders: null
 date: 2020-06-03
 tags:
   - original
   - music
   - lyrics
   - humorous
+original: null
 license: null
 sources:
   - https://discordapp.com/channels/301377942062366741/340307145373253642/717800314732019744
   - https://soundcloud.com/kala-pona/o-epiku
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 o epiku, o epiku  \

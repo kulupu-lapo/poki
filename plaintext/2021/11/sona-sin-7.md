@@ -37,11 +37,19 @@ description: 'lipu:
   (CC BY-NC-ND 2.0)'
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-11-01
+tags: null
+original: null
 license: null
 sources:
 - https://www.youtube.com/watch?v=TwWgvvoP8_k
 - https://docs.google.com/document/d/1hjE5pFyoarezt30gNQXC0dCNkNfkN4DfemvJIu6c24c/edit
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki a! ni li sona sin! tenpo ni la, mi - jan Alonola - li lon. mi jo e ijo mute tawa sina!

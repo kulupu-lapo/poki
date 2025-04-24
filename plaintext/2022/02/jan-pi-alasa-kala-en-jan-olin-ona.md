@@ -1,8 +1,12 @@
 ---
 title: jan pi alasa kala en jan olin ona
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2022-02-28
+tags: null
 original:
   title: The Fisherman and His Wife
   authors:
@@ -12,6 +16,9 @@ sources:
   - https://mun.la/lipu/jan-pi-alasa-kala-en-jan-olin-ona.html
 archives:
   - https://web.archive.org/web/20230325113635/https://mun.la/lipu/jan-pi-alasa-kala-en-jan-olin-ona.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lon tenpo pona la, jan pi alasa kala en jan olin ona li lon. ona tu li lon tomo lili. tomo lili li lon selo pi telo suli a! tenpo suno ale la, jan kala li tawa telo, li jo e ilo alasa, li alasa e kala lon tenpo mute. tenpo suno wan la, jan kala li awen, li kepeken ilo alasa, li lukin e telo pona. ona li awen lon tenpo mute mute.

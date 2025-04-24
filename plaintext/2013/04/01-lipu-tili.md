@@ -1,11 +1,20 @@
 ---
 title: 'lipu Tili: lipu nanpa wan'
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2013-04-18
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2013/04/pu-tili-pi-pu-lili-wan.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lon li ike tawa jan mute. kulupu lawa li lukin e lon pi jan ali li lawa kepeken wawa ali. jan mute li pali mute tan mani lili. taso jan lawa li pali lili li kama mani tan jan mute. ona lawa li jo e kulupu lawa e nasin sewi e mani mute. jan lawa li ike tawa jan mute. jan mute li jo e wawa ala.

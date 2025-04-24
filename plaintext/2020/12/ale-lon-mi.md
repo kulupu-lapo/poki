@@ -1,20 +1,27 @@
 ---
 title: ale lon mi
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-12-27
 tags:
   - original
   - music
   - lyrics
   - album track
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=aYo0X49vyJ8
   - https://www.youtube.com/watch?v=WLgLgCZ-Vo8
   - https://soundcloud.com/kala-pona/ale-lon-mi
   - https://open.spotify.com/track/4h31gOAHxrn0UqSEYEhpNL
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

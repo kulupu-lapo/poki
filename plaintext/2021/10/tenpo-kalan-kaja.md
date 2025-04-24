@@ -1,12 +1,21 @@
 ---
 title: tenpo Kalan Kaja
+description: null
 authors:
 - jan Sose L-S
+translators: null
+proofreaders: null
 date: 2021-10-31
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0009moli.pdf
 - https://liputenpo.org/lipu/nanpa-moli/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo Kalan Kaja (Calan Gaeaf) li tenpo musi lon ma Kunli (Cymru, Wales). ten po pini la, jan li toki e ni: tenpo Kalan Kaja li suno open pi tenpo lete. tenpo pimeja Kalan Kaja (Nos Caelan Gaeaf) la, kon moli en soweli nasa li kama lon ma jan. tenpo Kalan Kaja li lon monsi pi tenpo pimeja Kalan Kaja. jan li pilin e ni: ma anpa (Annwn) li kama lon poka pi ma jan.

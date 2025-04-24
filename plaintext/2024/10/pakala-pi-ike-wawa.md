@@ -1,14 +1,21 @@
 ---
 title: pakala pi ike wawa
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2024-10-13
+tags: null
+original: null
 license: null
 sources:
   - https://mun.la/lipu/pakala-pi-ike-wawa.html
 archives:
   - https://web.archive.org/web/20241128144019/https://mun.la/lipu/pakala-pi-ike-wawa.html
 preprocessing: changed names from nasin-sitelen-kalama-like to sitelen Lasina
+accessibility-notes: null
+notes: null
 ---
 
 jan Jon Sawan li awen. ilo suno li pini li open sin lon sewi tomo.

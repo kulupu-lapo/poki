@@ -4,15 +4,22 @@ description: jan pi kulupu pona li pona. jan pi kulupu ma li ike. ni li nasin, a
   seme? jan pi wile sona li alasa e sona sin.
 authors:
 - palisa jelo Natan
+translators: null
+proofreaders: null
 date: 2022-08-06
 tags:
 - kulupu lili ike pi nasin sewi nasa
 - nasin ike - jan li toki ike e nasin pi jan ante
 - moku li lon
+original: null
 license: null
 sources:
 - https://github.com/raacz/utala/blob/main/lipu-lili/ni-li-nasin.md
 - http://utala.pona.la/lipu-lili/ni-li-nasin.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 open la mu suli li lon. ni li weka e lape mi. mi weka tan supa lape li len kepeken len jelo mi. ale poka li walo walo la jelo ni li namako. ken la tenpo suno ni li ken ante li kama namako tawa mi.  

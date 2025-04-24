@@ -1,12 +1,21 @@
 ---
 title: kulupu pi lanpan nimi ISO tawa toki pona
+description: null
 authors:
 - jan Jan
+translators: null
+proofreaders: null
 date: 2021-06-12
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-06-12-pali_iso.md
 - https://lipukule.org/post/2021/06/12/kulupu-pi-lanpan-nimi-iso-tawa-toki-pona/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo mute la jan li wile kama jo e nimi ISO (ISO-639-3) tawa toki pona.

@@ -5,6 +5,8 @@ description: 'jan lili pi toki musi ni li wile pali e ijo mute. taso jan suli al
   utala?'
 authors:
 - Miles Rodriguez
+translators: null
+proofreaders: null
 date: 2022-09-19
 tags:
 - StoryWeaver level 1
@@ -16,6 +18,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/465770-tenpo-ni-la-ala-o-awen-a
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/339/size7/af14cc9424214ff4a7b8413e00473442.jpg)

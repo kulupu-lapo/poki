@@ -3,15 +3,20 @@ title: kon ike
 description: jan Kije li pilin ike. kon la, jan Kije li pilin ike mute.
 authors:
   - anonymous
+translators: null
+proofreaders: null
 date: 2022-06-03
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/39410088
 archives:
   - https://archive.ph/yK0pV
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

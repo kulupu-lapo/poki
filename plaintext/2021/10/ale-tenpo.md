@@ -1,13 +1,22 @@
 ---
 title: ale tenpo
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-10-31
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0009moli.pdf
 - https://liputenpo.org/lipu/nanpa-moli/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_ale_tenpo.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ale tenpo li tenpo suli a. jan li ken ala ken sona e ona? o kute e toki ni:

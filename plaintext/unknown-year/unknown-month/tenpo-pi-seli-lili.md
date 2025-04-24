@@ -1,17 +1,24 @@
 ---
 title: tenpo pi seli lili
+description: null
 authors:
   - unknown author
+translators: null
+proofreaders: null
 date: 2001-01-01
-date-precision: none
 tags:
   - poetry
   - original
+original: null
 license: null
 sources:
   - https://sitelen.weebly.com/examples-of-toki-pona.html
 archives:
   - https://web.archive.org/web/20160221130902/https://sitelen.weebly.com/examples-of-toki-pona.html
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 tenpo lete li pini.  \

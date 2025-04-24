@@ -1,14 +1,22 @@
 ---
 title: o mama e kasi moku lon tomo sina
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-02-07
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
 - https://liputenpo.org/lipu/nanpa-tenpo/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_ma_kasi_kule.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 ![kasi mute kule li lon tomo](https://upload.wikimedia.org/wikipedia/commons/a/ae/Lipu_tenpo_nanpa_tenpo_-_ma_kasi_kule.png)

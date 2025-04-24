@@ -1,7 +1,10 @@
 ---
 title: wawa kin
+description: null
 authors:
   - jan Minasa
+translators: null
+proofreaders: null
 date: 2017-09-10
 tags:
   - music
@@ -12,6 +15,10 @@ original:
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=QH3xbq0rFVU
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi jan Kane li lon sin.  \

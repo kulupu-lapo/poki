@@ -1,20 +1,27 @@
 ---
 title: o tawa noka
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-09-20
 tags:
   - original
   - music
   - lyrics
   - album track
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=_MIMQeX_-uc
   - https://soundcloud.com/kala-pona/o-tawa-noka
   - https://open.spotify.com/track/4PUtEufP32ZLu5b7H2Rrsz
   - https://open.spotify.com/track/3MTxQ1ri4NOdmkO0wIhCRp  # nightcore
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

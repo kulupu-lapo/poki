@@ -1,16 +1,24 @@
 ---
 title: toki nasa
+description: null
 authors:
   - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-10-06
 tags:
   - 'sitelen sitelen'
   - 'poetry'
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0008toki.pdf
   - https://liputenpo.org/lipu/nanpa-toki/
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_sitelen.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![sitelen sitelen](https://upload.wikimedia.org/wikipedia/commons/8/8b/Lipu_tenpo_nanpa_toki_-_sitelen_sitelen.png)

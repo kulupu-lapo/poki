@@ -1,11 +1,20 @@
 ---
 title: jan pi sona oko
+description: null
 authors:
   - Dave Raftery
+translators: null
+proofreaders: null
 date: 2011-05-27
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/05/jan-pi-sona-oko.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "Eye care/4 one-a-month" by Luz Rivera (https://www.flickr.com/photos/nieve44/525817053/). CC BY 4.0. -->

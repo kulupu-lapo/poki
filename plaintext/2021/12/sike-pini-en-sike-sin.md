@@ -1,7 +1,10 @@
 ---
 title: tomo awen  # kalama: tomo awen
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-12-21
 tags:
   - translation
@@ -17,6 +20,10 @@ license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/21/kalama-sike-pini-en-sike-sin/
   - https://www.youtube.com/watch?v=vMfNJh0I_kk
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ilo tenpo mu li mu  \

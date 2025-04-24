@@ -1,7 +1,10 @@
 ---
 title: tenpo pi mi jan lili la...
+description: null
 authors:
 - kije Enki
+translators: null
+proofreaders: null
 date: 2023-02-06
 tags:
 - poetry
@@ -14,7 +17,10 @@ sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_kalama_insa_ike.svg
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 ![kon ike pimeja li lon jan li anpa e pilin ona](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lipu_tenpo_nanpa_soweli_-_kalama_insa_ike.svg)

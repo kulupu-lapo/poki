@@ -1,13 +1,22 @@
 ---
 title: nasin sona en jan sona li pona e lon pi mi mute
+description: null
 authors:
 - jan Penanto
+translators: null
+proofreaders: null
 date: 2021-09-02
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0007kule.pdf
 - https://liputenpo.org/lipu/nanpa-kule/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kule_-_jan_sona.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 nasin sona li musi, taso ona li pali pi suli mute. tenpo sike luka tu wan pini la, mi jan sona. tenpo lili kama la mi kama jan sona suli. nasin sona li suli tawa lon jan. nasin sona li pana e sona pi ma mi. insa pi nasin sona la, sona pi ijo lon en sona pi ijo lili mute li wile e sona pi pali pi insa soweli. nanpa wan la sona pi ijo lon li sona e soweli e lon e pali lon soweli. nanpa tu la sona pi ijo lili mute li sona e ijo lili e pali ijo e wawa pi ijo lili.

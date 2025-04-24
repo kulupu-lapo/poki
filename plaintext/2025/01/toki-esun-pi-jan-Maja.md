@@ -4,9 +4,11 @@ description: A comic made by Studio Massa for his Ongezellig series, translated 
   jan Majeka
 authors:
   - jan Majeka
+translators: null
 proofreaders:
   - jan lape pi toki Inli ala
 date: 2025-01-03
+tags: null
 original:
   title: Maya's Conversatie
   authors:
@@ -15,6 +17,10 @@ license: null
 sources:
   - https://imgur.com/a/tsjmcwu
   - https://drive.google.com/drive/folders/1ztwAGG2xssQtiseeGlb4zbAKT-tMy6Zc?usp=sharing
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki esun

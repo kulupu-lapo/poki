@@ -1,19 +1,26 @@
 ---
 title: suno nanpa wan
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2021-12-07
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=bLwqfGEJOt4
   - https://www.youtube.com/watch?v=v6TmlFqiZ-M
   - https://www.youtube.com/playlist?list=OLAK5uy_mBCpWW0nBqmBcCHGIYCKCFzTI7whhB4W8
   - https://open.spotify.com/track/5nPDuhUi5LjOnKKcPowXDA
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

@@ -3,8 +3,11 @@ title: supa
 description: what is a supa? an exploration of what supa means in toki pona.
 authors:
   - lipamanka
+translators: null
+proofreaders: null
 date: 2001-01-01
-date-precision: none
+tags: null
+original: null
 license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
@@ -13,6 +16,9 @@ archives:
   - https://web.archive.org/web/20230521211226/https://lipamanka.gay/toki-pona-taso
   - https://web.archive.org/web/20230418161157/https://lipamanka.gay/toki-pona-taso/supa
 preprocessing: changed sitelen pona to sitelen Lasina, removed the pretty whitespace
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 mu

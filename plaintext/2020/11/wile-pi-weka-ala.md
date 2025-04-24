@@ -1,11 +1,20 @@
 ---
 title: wile pi weka ala
+description: null
 authors:
 - jan Mali
+translators: null
+proofreaders: null
 date: 2020-11-11
+tags: null
+original: null
 license: null
 sources:
 - https://utala.pona.la/toki-musi-lili/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sona mi li suli ala. taso mi wile sona  

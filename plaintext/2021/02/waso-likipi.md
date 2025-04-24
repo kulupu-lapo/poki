@@ -1,7 +1,10 @@
 ---
 title: waso
+description: null
 authors:
   - jan Likipi
+translators: null
+proofreaders: null
 date: 2021-02-10
 tags:
   - poetry
@@ -13,6 +16,10 @@ license: null
 sources:
   - https://discord.com/channels/301377942062366741/301380012156911616/808963459101229056
   - https://cdn.discordapp.com/attachments/301380012156911616/808963458838036480/waso.pdf
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # waso

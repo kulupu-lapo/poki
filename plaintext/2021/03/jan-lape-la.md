@@ -1,7 +1,10 @@
 ---
 title: jan lape la  # kamala musi “jan lape la”
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-03-10
 tags:
   - translation
@@ -19,6 +22,10 @@ sources:
   - https://janketami.wordpress.com/2021/03/10/kamala-musi-jan-lape-la/
   - https://seka.pona.la/w/nJjx348aCJAYrYUzzZWz1c
   - https://www.youtube.com/watch?v=mugkCQdk8KQ
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan lape la, mi pali e seme  \

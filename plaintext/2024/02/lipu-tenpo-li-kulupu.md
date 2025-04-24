@@ -1,14 +1,23 @@
 ---
 title: lipu tenpo li kulupu
+description: null
 authors:
 - jan Alonola
 - jan Sonatan
+translators: null
+proofreaders: null
 date: 2024-02-07
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
 - https://liputenpo.org/lipu/nanpa-tenpo/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_lipu.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![lipu](https://upload.wikimedia.org/wikipedia/commons/f/f9/Lipu_tenpo_nanpa_akesi_-_lipu.png)

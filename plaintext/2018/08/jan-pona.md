@@ -1,11 +1,20 @@
 ---
 title: jan pona
+description: null
 authors:
   - jan Kawa
+translators: null
+proofreaders: null
 date: 2018-07-28
+tags: null
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/472856484720410624/472856713003925505
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo ni la mi pilin pona  \

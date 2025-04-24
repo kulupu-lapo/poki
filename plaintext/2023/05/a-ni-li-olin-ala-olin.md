@@ -1,16 +1,24 @@
 ---
 title: a! ni li olin ala olin?
+description: null
 authors:
   - jan Misali
+translators: null
+proofreaders: null
 date: 2023-03-07
 tags:
   - music
 original:
   title: Thrilling! Is this love? (Fan Club)
+  authors: null
 license: CC BY-NC 4.0
 sources:
   - https://www.youtube.com/watch?v=DPwAsKJwLyk
   - https://conlangcritic.bandcamp.com/track/a-ni-li-olin-ala-olin
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lon lon lon! (a a a a!)

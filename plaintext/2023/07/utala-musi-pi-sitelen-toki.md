@@ -1,12 +1,21 @@
 ---
 title: utala musi pi sitelen toki
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2023-07-01
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0020nasin.pdf
 - https://liputenpo.org/lipu/nanpa-nasin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki pona li musi · ijo pi toki pona li musi · pona la jan mute li pali e ijo pi toki pona li pana e musi tawa mi · a · taso ijo pi toki pona la mi sona e ike lili wan · ijo mute li kama ijo pi toki pona li tan ala toki pona lon tenpo open · ijo ni li tan toki ante · ni li awen musi · musi li awen musi · taso ijo li tan toki pona taso la ni li suli e kon musi tawa mi · tan ni la pilin mi li lon · ijo sin o tan toki pona taso tan ala toki ante ·

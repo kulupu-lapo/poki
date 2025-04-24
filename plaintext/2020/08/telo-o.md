@@ -1,14 +1,22 @@
 ---
 title: telo o   # Untitled poem
+description: null
 authors:
   - jan Kapilu
+translators: null
+proofreaders: null
 date: 2020-08-23
 tags:
   - poetry
   - discord
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/340307145373253642/746973633825472592
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 telo o  \

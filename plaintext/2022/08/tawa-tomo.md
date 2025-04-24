@@ -1,9 +1,14 @@
 ---
 title: tawa tomo
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2022-08-27
+tags: null
 original:
+  title: null
   authors:
     - jan Marta Keen
 license: null
@@ -11,6 +16,9 @@ sources:
   - https://mun.la/lipu/tawa-tomo.html
 archives:
   - https://web.archive.org/web/20230325104615/https://mun.la/lipu/tawa-tomo.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lon open suno pona  

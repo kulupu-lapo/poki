@@ -1,11 +1,14 @@
 ---
 title: jan Sitata
+description: null
 authors:
 - jan Kala
+translators: null
 proofreaders:
 - jan Apikela
 - jan Sonja
 date: 2022-06-29
+tags: null
 original:
   title: Siddhartha
   authors:
@@ -16,6 +19,9 @@ sources:
 - https://wikisource.org/wiki/Jan_Sitata
 archives:
 - https://archive.ph/v1Kzh
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # jan Sitata

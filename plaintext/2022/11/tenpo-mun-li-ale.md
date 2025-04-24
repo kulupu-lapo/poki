@@ -5,15 +5,20 @@ description: jan Jasija Te en jan Julijen Pasi li lape ala. tenpo mun ni la jan 
   pilin olin. (lipu ni li kepeken e nimi ku.)
 authors:
   - Palian
+translators: null
+proofreaders: null
 date: 2022-11-26
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/43271809
 archives:
   - https://archive.ph/RsEQG
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

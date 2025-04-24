@@ -1,17 +1,25 @@
 ---
 title: nasin nasa pi jan Mupa
+description: null
 authors:
 - jan Telupiso
 - jan Kiwisin
+translators: null
+proofreaders: null
 date: 2023-08-15
 tags:
 - utala sijelo
 - ijo tu li toki kepeken kalama ala kepeken lukin ala kepeken nasin nasa lawa
 - pakala seli
+original: null
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/nasin-nasa-Mupa.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/nasin-nasa-Mupa.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # lipu open

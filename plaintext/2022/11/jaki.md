@@ -1,7 +1,10 @@
 ---
 title: jaki
+description: null
 authors:
   - jan Matejo
+translators: null
+proofreaders: null
 date: 2022-11-07
 tags:
   - music
@@ -12,6 +15,10 @@ original:
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=7JBuWzfkDcE
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 a o kute e kalama mi  \

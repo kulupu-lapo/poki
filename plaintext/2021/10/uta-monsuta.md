@@ -1,13 +1,22 @@
 ---
 title: uta monsuta[^1]
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-10-31
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0009moli.pdf
 - https://liputenpo.org/lipu/nanpa-moli/
 - https://commons.wikimedia.org/wiki/File:Uta_monsuta_2.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 [^1]: "monsuta" li ijo ni: ona li pana e pilin ike tan ni: ona li wile pakala e sina.

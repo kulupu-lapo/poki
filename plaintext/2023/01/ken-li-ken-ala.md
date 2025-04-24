@@ -4,6 +4,8 @@ description: sina ken lukin e lipu ni; taso ona li ken ala ike tawa sina a! jan 
   sina li ken ala lukin e ni la, ona li ken musi e sitelen pona.
 authors:
 - Oreo Créme
+translators: null
+proofreaders: null
 date: 2023-01-19
 tags:
 - StoryWeaver level 1
@@ -15,6 +17,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/550759-ken-li-ken-ala
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/1638/size7/3f73e6b18d960955e15fdb59a23e45dc.jpg)

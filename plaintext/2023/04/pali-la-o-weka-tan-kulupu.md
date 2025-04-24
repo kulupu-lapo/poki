@@ -1,13 +1,21 @@
 ---
 title: pali la o weka tan kulupu
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2023-04-14
+tags: null
+original: null
 license: null
 sources:
   - https://mun.la/lipu/nasin-pali-pona.html
 archives:
   - https://web.archive.org/web/20231204062719/https://mun.la/lipu/nasin-pali-pona.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo mute la sina wile pali.

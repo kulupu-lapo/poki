@@ -3,6 +3,8 @@ title: lili. suli.
 description: lipu pona lon lili lon suli.
 authors:
 - nick
+translators: null
+proofreaders: null
 date: 2022-02-28
 tags:
 - StoryWeaver level 1 (Emergent Readers)
@@ -14,6 +16,10 @@ original:
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/424791-lili-suli
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/89151/size7/e0d5091b93c06a502f608d7f22019e54.jpg)

@@ -4,15 +4,20 @@ description: 'ona tu li unpa : ona li wile pana e telo unpa lon tenpo sama pi te
   sike sin'
 authors:
   - SkimmerScollace (Skimmed)
+translators: null
+proofreaders: null
 date: 2025-01-01
 tags:
   - 'ao3'
+original: null
 license: null
 sources:
   - https://archiveofourown.org/works/61859437
 archives:
   - https://web.archive.org/web/20250211131216/https://archiveofourown.org/works/61859437
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

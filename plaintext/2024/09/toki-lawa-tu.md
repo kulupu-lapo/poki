@@ -1,14 +1,22 @@
 ---
 title: toki lawa tu
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2024-09-07
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0028lawa.pdf
 - https://liputenpo.org/lipu/nanpa-lawa/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_kijetesantakalu.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 ![kijetesantakalu li pilin e olin insa e pona insa](https://upload.wikimedia.org/wikipedia/commons/4/4c/Lipu_tenpo_nanpa_lawa_-_kijetesantakalu.png)

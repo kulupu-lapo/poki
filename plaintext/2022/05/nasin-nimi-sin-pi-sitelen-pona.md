@@ -1,8 +1,13 @@
 ---
 title: nasin nimi sin pi sitelen pona
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2022-05-05
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0013pipi.pdf
@@ -18,6 +23,10 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Kepeken.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Kijetesantakaluweka.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_Ke_Tami_(nasin_sitelen_kalama).png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sitelen pona li sitelen pona pi toki pona · nimi wan pi toki pona li kepeken sitelen pona wan · taso nimi ijo la sina pana e sitelen pona mute · mi pana e nimi mi la mi sitelen e ni ·

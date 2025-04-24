@@ -1,17 +1,24 @@
 ---
 title: lape mi
+description: null
 authors:
   - Michael F.
+translators: null
+proofreaders: null
 date: 2001-01-01
-date-precision: none
 tags:
   - original work
   - prose
+original: null
 license: CC BY-NC 3.0
 sources:
   - http://failbluedot.com/toki_pona/lape_mi
 archives:
   - https://web.archive.org/web/20140305062349/http://failbluedot.com/toki_pona/lape_mi
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 # lape mi

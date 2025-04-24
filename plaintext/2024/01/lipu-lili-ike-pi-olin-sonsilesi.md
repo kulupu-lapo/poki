@@ -3,15 +3,20 @@ title: lipu lili ike pi olin Sonsilesi
 description: neuvillette is lost so zhongli helps him out
 authors:
   - CAYTION_RAYMEN
+translators: null
+proofreaders: null
 date: 2024-01-10
-license: null
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/52937524
 archives:
   - https://web.archive.org/web/20240930134533/https://archiveofourown.org/works/52937524
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 jan Nusilesi li tawa nasa lon ma tomo Liwe. ona li sona ala e ma tomo la taso pali ala sona. nasa a.

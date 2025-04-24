@@ -1,7 +1,10 @@
 ---
 title: jan lawa pona  # kalama: jan lawa pona
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-12-13
 tags:
   - translation
@@ -18,6 +21,10 @@ license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/13/kalama-jan-lawa-pona/
   - https://www.youtube.com/watch?v=6Qg5PYE_8qI
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan lawa Wasa pona li lukin e ma lete.  \

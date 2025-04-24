@@ -1,11 +1,20 @@
 ---
 title: tenpo pimeja
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2015-01-13
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2015/01/tenpo-pimeja.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi wile toki. taso mi ken toki ala. mi jo e pilin lili.  \

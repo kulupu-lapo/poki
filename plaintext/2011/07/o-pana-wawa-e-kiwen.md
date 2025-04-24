@@ -1,14 +1,23 @@
 ---
 title: o pana wawa e kiwen
+description: null
 authors:
   - jan Ote
+translators: null
+proofreaders: null
 date: 2011-06-15
+tags: null
 original:
+  title: null
   authors:
     - unknown # added automatically during reschema
 license: null
 sources:
   - https://olukin.blogspot.com/2011/07/o-pana-wawa-e-kiwen.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- http://collecties.meermanno.nl/handschriften/showillu?id=10535 -->

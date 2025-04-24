@@ -5,11 +5,14 @@ description: Even angst-ridden, mediocre teenage poetry can be expressed in Toki
   good and bad.
 authors:
   - jan Sonja
+translators: null
+proofreaders: null
 date: 2003-04-23
 tags:
   - original
   - poetry
   - angst
+original: null
 license: All Rights Reserved
 sources:
   - http://www.tokipona.org/lit-angst.php
@@ -17,6 +20,9 @@ archives:
   - https://archive.is/b9Sjt
   - http://web.archive.bibalex.org/web/20030423115357/http://www.tokipona.org/lit-angst.php
   - https://archive.is/o/b9Sjt/web.archive.bibalex.org/web/20030423115357/http://www.tokipona.org/kalama/wantaso.mp3
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # wan taso

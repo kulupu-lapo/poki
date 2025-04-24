@@ -1,8 +1,11 @@
 ---
 title: jan lawa Oliki
+description: null
 authors:
 - soweli Elepanto
 - jan Pensa
+translators: null
+proofreaders: null
 date: 2022-10-01
 tags:
 - original work
@@ -14,6 +17,10 @@ license: CC BY 4.0
 sources:
 - https://wikisource.org/wiki/Jan_lawa_Oliki_(2022)
 - https://eo.wikisource.org/wiki/Tokipono:_La_lingvo_de_bono/Rakonto:_jan_lawa_Oliki
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan lawa ma Oliki li kama tawa utala li tawa kepeken soweli tawa. tenpo wan la ona li kama lukin e jan pi sona mute li toki e ni: “jan sona o toki e ni tawa mi: tenpo kama la mi pilin pona ala pona? mi kama moli tan seme?”

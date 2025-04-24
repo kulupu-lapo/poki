@@ -1,11 +1,20 @@
 ---
 title: waso soweli
+description: null
 authors:
   - jan Mika
+translators: null
+proofreaders: null
 date: 2010-09-01
+tags: null
+original: null
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2010/09/waso-soweli.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- Derived from "Big-eared-townsend-fledermaus.jpg" (https://commons.wikimedia.org/wiki/File:Big-eared-townsend-fledermaus.jpg). PD. -->

@@ -1,13 +1,22 @@
 ---
 title: anu[^1] suli pi ma Tosi
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-10-06
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0008toki.pdf
 - https://liputenpo.org/lipu/nanpa-toki/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_anu_suli_pi_ma_Tosi.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini lili la, jan pi ma Tosi li ken anu e kulupu lawa ona. kulupu ni pi nasin jan li lon:

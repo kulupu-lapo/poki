@@ -1,13 +1,17 @@
 ---
 title: pakala
+description: null
 authors:
   - Nardi
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2021-10-10
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=C5XiCWXs0iA
@@ -22,6 +26,10 @@ sources:
   - https://www.musixmatch.com/lyrics/Nardi-jan-Usawi/pakala
   - https://www.lyrics.com/lyric-lf/6537877/NARDI/pakala+%28feat.+jan+Usawi%29
   - https://lyricstranslate.com/pakala-break.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina ken ala ken tawa tawa  \

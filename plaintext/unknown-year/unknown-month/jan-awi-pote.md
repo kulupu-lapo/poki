@@ -1,9 +1,11 @@
 ---
 title: jan Awi Pote en kiwen pi jan sona
+description: null
 authors:
   - jan Sepeku
+translators: null
+proofreaders: null
 date: 2001-01-01 # <2022
-date-precision: none
 tags:
   - translation
   - story
@@ -15,6 +17,11 @@ original:
 license: null
 sources:
   - https://sites.google.com/view/jan-ali-pote/jan-lili-pi-moli-ala
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
+date-precision: none
 ---
 
 # jan Awi Pote en kiwen pi jan sona

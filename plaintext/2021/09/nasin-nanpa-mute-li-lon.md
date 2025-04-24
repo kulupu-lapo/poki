@@ -1,12 +1,21 @@
 ---
 title: nasin nanpa mute li lon
+description: null
 authors:
 - jan Kita
+translators: null
+proofreaders: null
 date: 2021-09-21
+tags: null
+original: null
 license: CC0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-09-21-nasin_nanpa_mute_li_lon.md
 - https://lipukule.org/post/2021/09/21/nasin-nanpa-mute-li-lon/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 nasin pi toki pona la, ijo pi wile suli ala o weka. nanpa li ijo ni. tenpo mute la, jan li wile sona e ni taso: ijo ala anu wan anu tu anu mute li lon? [kulupu Wapili](https://youtu.be/asM39tfblMQ) li jo e nimi ni taso, li awen lon pona.

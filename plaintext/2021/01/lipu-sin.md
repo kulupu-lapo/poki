@@ -1,12 +1,21 @@
 ---
 title: lipu kule li kama lon
+description: null
 authors:
 - jan Ana
+translators: null
+proofreaders: null
 date: 2021-01-20
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-01-20-lipusin.md
 - https://lipukule.org/post/2021/01/20/lipu-kule-li-kama-lon/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lipu sin pi toki pona li kama lon. nimi ona li ‘lipu tenpo’. jan pali pi lipu tenpo li wile pana e lipu sin lon tenpo mun kama. toki pona la, ona li lipu nanpa wan sama ni.

@@ -4,15 +4,19 @@ description: jan Kata en jan Atowa li lon tomo Tala la ona li pini e tenpo moku,
   Kata li nasa lukin.
 authors:
   - Hrafninn
+translators: null
+proofreaders: null
 date: 2024-12-04
 tags:
   - 'ao3'
+original: null
 license: null
 sources:
   - https://archiveofourown.org/works/61079335?view_full_work=true
 archives:
   - https://web.archive.org/web/20250211124540/https://archiveofourown.org/works/61079335?view_full_work=true
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 

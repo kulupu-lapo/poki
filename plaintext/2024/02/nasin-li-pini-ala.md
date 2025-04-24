@@ -1,13 +1,21 @@
 ---
 title: nasin li pini ala
+description: null
 authors:
   - jan Kijon
+translators: null
+proofreaders: null
 date: 2024-02-24
 tags:
   - music
+original: null
 license: All Rights Reserved
 sources:
   - https://jankijon.bandcamp.com/album/pona-kama
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 suno li kama weka li anpa.  \

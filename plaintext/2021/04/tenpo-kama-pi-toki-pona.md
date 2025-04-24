@@ -1,13 +1,22 @@
 ---
 title: tenpo kama pi toki pona
+description: null
 authors:
 - jan Tamalu
+translators: null
+proofreaders: null
 date: 2021-04-05
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0003soweli.pdf
 - https://liputenpo.org/lipu/nanpa-soweli/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_tenpo_kama_pi_toki_pona.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo kama la kulupu pi toki pona en kon pi toki pona li seme? mi wile toki kama e ni. ken mute la mi toki e lon ala. taso mi toki e lon wan lili la ni li pona. ni li toki kama mi:

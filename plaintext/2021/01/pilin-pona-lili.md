@@ -1,7 +1,10 @@
 ---
 title: pilin pona lili
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-01-17
 tags:
   - translation
@@ -15,6 +18,10 @@ sources:
   - https://www.youtube.com/watch?v=5xlck-IL80Q
   - https://janketami.wordpress.com/2021/01/20/pilin-pona-lili/
   - https://seka.pona.la/w/2y1eMa3D3weZuioX5FLAtK
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- jan pona mi li sitelen e toki kepeken toki Tosi. ona li wile e ni: mi pali e sitelen tawa kepeken toki ona. pali pi sitelen tawa li pini la, jan pona ante mi li wile e ni: mi ante toki e ni kepeken toki Kanse. mi ante toki la, mi ante toki e ni kepeken toki pona kin. -->

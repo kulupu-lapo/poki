@@ -1,16 +1,24 @@
 ---
 title: Ave Maria
+description: null
 authors:
   - jan Josan
   - Tobiah Merkle
+translators: null
+proofreaders: null
 date: 2020-05-09
 tags:
   - original
   - blog
   - artwork
+original: null
 license: All Rights Reserved
 sources:
   - https://jonathangabel.com/2020/ave-maria/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- I have been slow to post examples of sitelen sitelen here that have been sent to me, and I’m hoping to change that, because I’ve seen a lot of great examples lately. Here’s one I really enjoyed. It’s the Ave Maria by Tobias Merkle. I especially like the extra circles in the sewi, opening and closing like [Takashi Murakami eyes](https://www.artsy.net/collection/takashi-murakami-jellyfish-eyes). -->

@@ -19,6 +19,8 @@ description: |
   excuse the sound quality half of us have bad mics lol
 authors:
   - meli Siliwa
+translators: null
+proofreaders: null
 date: 2025-03-30
 tags:
   - BFDI
@@ -30,8 +32,11 @@ original:
 license: null
 sources:
   - https://www.youtube.com/watch?v=uAkbemmXiuo
+archives: null
 preprocessing: merged same-speaker sections, removed asterisks, changed "[kalama moku
   tu]" to "[kalama moku]"
+accessibility-notes: null
+notes: null
 ---
 
 KIWEN SUWI:  
