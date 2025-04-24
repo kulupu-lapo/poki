@@ -21,6 +21,7 @@ translators:
 proofreaders:
   -
 date: # yyyy-mm-dd
+date-precision: # day, month, year, none
 tags:
   -
 original:
