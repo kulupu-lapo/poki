@@ -15,11 +15,9 @@ See also the [schema validation code](utils/validate-schemas.ts).
 title:
 description:
 authors:
-  -
-translators:
-  -
+  - 
 proofreaders:
-  -
+  - 
 date: # yyyy-mm-dd
 date-precision: # day, month, year, none
 tags:
@@ -30,9 +28,9 @@ original:
     -
 license: # `null` if no or unknown license
 sources:
-  -
+  - 
 archives:
-  -
+  - 
 preprocessing:
 accessibility-notes:
 notes:
