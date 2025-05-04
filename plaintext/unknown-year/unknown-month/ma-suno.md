@@ -2,6 +2,8 @@
 title: ma suno
 authors:
   - soko Sijeni
+date: 2001-01-01
+date-precision: none
 license: null
 sources:
   - https://sijeni.neocities.org/ma-suno/
