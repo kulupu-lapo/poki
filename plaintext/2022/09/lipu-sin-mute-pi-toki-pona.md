@@ -1,13 +1,23 @@
 ---
 title: lipu sin mute pi toki pona
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2022-09-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0015moku.pdf
 - https://liputenpo.org/lipu/nanpa-moku/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_lipu_mute.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![lipu mute](https://upload.wikimedia.org/wikipedia/commons/e/ec/Lipu_tenpo_nanpa_moku_-_lipu_mute.png)

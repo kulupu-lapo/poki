@@ -1,15 +1,24 @@
 ---
 title: sina
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2023-07-10
+date-precision: day
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/track/sina
   - https://www.youtube.com/watch?v=EvEzwN35_LU
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 o lon e tenpo pimeja  \

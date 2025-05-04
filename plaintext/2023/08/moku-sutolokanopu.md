@@ -1,15 +1,25 @@
 ---
 title: moku Sutolokanopu
-original-title: The Beef Stroganoff Song
+description: null
 authors:
   - jan Misali
+translators: null
+proofreaders: null
 date: 2023-08-26
+date-precision: day
 tags:
   - music
+original:
+  title: The Beef Stroganoff Song
+  authors: null
 license: CC BY-NC 4.0
 sources:
   - https://www.youtube.com/watch?v=DDgU5ovC7cY
   - https://conlangcritic.bandcamp.com/track/moku-sutolokanopu
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tomo sona moku la mi pali

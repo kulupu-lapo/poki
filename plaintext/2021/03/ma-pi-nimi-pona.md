@@ -1,14 +1,24 @@
 ---
 title: ma pi nimi pona
+description: null
 authors:
 - jan Telakoman
+translators: null
+proofreaders: null
 date: 2021-03-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona_si
 - https://liputenpo.org/pdfs/0002mun.pdf
 - https://liputenpo.org/lipu/nanpa-mun/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ma_pi_nimi_pona.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan lukin o, kama pona lon ma sin. ni li ma pi nimi pona. mi tawa, mi alasa e nimi. o kama lon poka mi, sina ken lukin e nimi pona sama mi!

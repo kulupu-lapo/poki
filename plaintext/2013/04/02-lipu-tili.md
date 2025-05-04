@@ -1,11 +1,21 @@
 ---
 title: 'lipu Tili: lipu nanpa tu'
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2013-04-21
+date-precision: day
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2013/04/pu-tili-pu-lili-tu.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 suno li kama mute li tawa mute. jan Tili li suli li kama wawa li kama sona. jan Loki li weka e wawa. tenpo suno ijo jan Loki li tawa jan Tili li toki e ni: "jan lili mi o kama o kute! tenpo ni la sina jan pi lili ala. sina wile seme kepeken lon sina? mi jo e sona utala li jo e sona mani li jo e sona pi ma moku. o toki tawa mi."

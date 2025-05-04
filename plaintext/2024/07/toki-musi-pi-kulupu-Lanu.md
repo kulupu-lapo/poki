@@ -1,13 +1,23 @@
 ---
 title: toki musi pi kulupu Lanu
+description: null
 authors:
 - jan Kuku
+translators: null
+proofreaders: null
 date: 2024-07-05
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0027linja.pdf
 - https://liputenpo.org/lipu/nanpa-linja/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_jan_utala.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini weka la, jan ale pi kulupu Lanu li lon ma kasi li lon ma tomo mute. taso kulupu Lanu li pona ala tawa kulupu Waka. ni la, kulupu Waka li alasa weka e kulupu Lanu tan ma kasi. ni la, kulupu tu li open utala. taso, utala la, kulupu Waka li nanpa wan. ni la, kulupu Lanu li weka tan ma kasi li open lon ma tomo taso. ona li lon ala ma kasi la, ona li pilin ike li toki e ni tawa kon sewi ona: “kon sewi o! o pana e ma tawa mi mute, o weka e jan ike tan kulupu Waka”.

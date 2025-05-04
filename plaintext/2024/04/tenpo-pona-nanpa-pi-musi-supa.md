@@ -1,20 +1,26 @@
 ---
 title: tenpo pona nanpa pi musi supa
-original-title: The Amazing Digital Game Night
 description: jan pona pi jan Pami li weka e pilin ike ona.
 authors:
   - RandomWordWriter
-original-authors:
-  - RandomWordWriter
+translators: null
+proofreaders: null
 date: 2024-04-07
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original:
+  title: The Amazing Digital Game Night
+  authors:
+    - RandomWordWriter
+license: null
 sources:
   - https://archiveofourown.org/works/54323551
 archives:
   - https://web.archive.org/web/20240927154311/https://archiveofourown.org/works/54323551
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 jan Pami li lukin e len sewi pi supa lape lon tenpo suli. ona li kama sama jan Kapumo.

@@ -1,13 +1,22 @@
 ---
 title: kalama kalama
+description: null
 authors:
   - ilo Eko
+translators: null
+proofreaders: null
 date: 2022-08-21
+date-precision: day
 tags:
   - music
+original: null
 license: CC BY 4.0
 sources:
   - https://echoheo.bandcamp.com/track/kalama-kalama
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ale li kama pini  \

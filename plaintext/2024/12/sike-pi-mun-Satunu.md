@@ -1,12 +1,22 @@
 ---
 title: sike pi mun Satunu
+description: null
 authors:
   - jan Satase
+translators: null
+proofreaders: null
 date: 2024-12-29
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0030loje.pdf
   - https://liputenpo.org/lipu/nanpa-loje/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina sona e mun Satunu la, sina sona e ni: mun Satunu li jo e sike suli. taso sike ni li seme? sike ni li kama tan seme? sona ni li wawa li musi mute. ni la, mi wile toki e sike pi mun Satunu.

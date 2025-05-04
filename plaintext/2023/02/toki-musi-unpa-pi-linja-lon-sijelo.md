@@ -5,15 +5,21 @@ description: In which I continue to learn toki pona by using it as an outlet for
   characters falling asleep.
 authors:
   - janseme
+translators: null
+proofreaders: null
 date: 2023-02-06
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/44841781?view_adult=true
 archives:
   - https://archive.ph/eLs6u
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 jan Pani li lon supa lape la, jan Eka li lon sinpin ona. jan Eka li jo e linja suli. tenpo pini la, tan wile pi jan Pani la, telo li lon unpa ona. tenpo ni la, wile pi jan Eka li lon. wile ona li ni: linja li lon sijelo pi jan Pani. kin la, jan Eka li lawa e jan Pani.

@@ -1,13 +1,23 @@
 ---
 title: mi lukin e nimi “open”
+description: null
 authors:
 - jan Winko Palisona
+translators: null
+proofreaders: null
 date: 2021-04-05
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0003soweli.pdf
 - https://liputenpo.org/lipu/nanpa-soweli/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_open.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # o open e lukin sina

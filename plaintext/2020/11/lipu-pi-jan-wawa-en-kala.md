@@ -1,11 +1,21 @@
 ---
 title: lipu pi jan wawa en kala
+description: null
 authors:
 - jan Kawa
+translators: null
+proofreaders: null
 date: 2020-11-11
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
 - https://utala.pona.la/toki-musi-lili/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini la, ali li lon ala.  

@@ -1,11 +1,21 @@
 ---
 title: sama oko en oko ante
+description: null
 authors:
 - jan Naso
+translators: null
+proofreaders: null
 date: 2020-11-11
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
 - https://utala.pona.la/toki-musi-lili/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ken la ale li utala ala lon utala:  

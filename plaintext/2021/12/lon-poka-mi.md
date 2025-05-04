@@ -1,16 +1,20 @@
 ---
 title: lon poka mi (lpk. pi kule epiku Atawan)
+description: null
 authors:
   - jan Nikoleta
+translators: null
 proofreaders:
   - jan Kaje
   - jan Pike
   - jan Seku
   - jan Tepan
 date: 2021-12-17
+date-precision: day
 tags:
   - music
   - alternative rock
+original: null
 license: All Rights Reserved
 sources:
   - https://kqakqa.bandcamp.com/album/kalama-pi-tenpo-suli
@@ -21,6 +25,9 @@ sources:
   - https://open.spotify.com/album/3w0VGm2ELLYzAvcAFkXOid
   - https://music.apple.com/us/album/jan-kqa-li-kalama-lon-suno-pi-toki-pona-lon-tenpo-sike/1703886265
   - https://youtube.com/watch?v=9NXAE-zsSkE
+archives: null
+preprocessing: null
+accessibility-notes: null
 notes: An English translation by the creator is available on the sources
 ---
 

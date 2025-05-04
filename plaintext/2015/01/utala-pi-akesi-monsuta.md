@@ -1,11 +1,21 @@
 ---
 title: utala pi akesi monsuta
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2015-01-13
+date-precision: day
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2015/01/utala-pi-akesi-monsuta.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ni li sitelen lili sin.

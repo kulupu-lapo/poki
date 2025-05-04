@@ -1,13 +1,22 @@
 ---
 title: lipu jaki pi nimi ilo pi toki Losupan
+description: null
 authors:
   - jan Tepan
+translators: null
+proofreaders: null
 date: 2021-05-05
+date-precision: day
 tags:
   - original
+original: null
 license: null
 sources:
   - https://github.com/stefichjo/toki-pona/blob/master/musi/lipu-jaki-pi-nimi-ilo-pi-toki-losupan.md
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## lipu jaki pi nimi ilo pi toki Losupan

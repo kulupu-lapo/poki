@@ -1,14 +1,22 @@
 ---
 title: jan pi ma Nu Olin
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2023-10-21
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://mun.la/lipu/jan-pi-ma-nu-olin.html
 archives:
   - https://web.archive.org/web/20231204063727/https://mun.la/lipu/jan-pi-ma-nu-olin.html
 preprocessing: changed [nasa utala] [olin :] to Nu Olin
+accessibility-notes: null
+notes: null
 ---
 
 tenpo weka suli la, jan li lon ma Nu Olin li moli e jan mute kepeken ilo ni: sina moli e kasi suli kepeken ona.

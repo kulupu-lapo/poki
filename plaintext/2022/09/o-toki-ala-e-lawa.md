@@ -3,7 +3,12 @@ title: o toki ala e lawa
 description: musi lipu ni li nanpa wan tawa mi la mi toki pona e lawa ona
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2022-09-18
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://mun.la/lipu/musi-lawa.html
@@ -11,6 +16,7 @@ archives:
   - https://web.archive.org/web/20230325102449/https://mun.la/lipu/musi-lawa.html
 preprocessing: removed table of contents
 accessibility-notes: uses anchor links, which might not work in your markdown viewer
+notes: null
 ---
 
 musi lipu ni li nanpa wan tawa mi la mi toki pona e lawa ona

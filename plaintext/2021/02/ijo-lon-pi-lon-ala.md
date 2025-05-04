@@ -1,13 +1,23 @@
 ---
 title: ijo lon pi lon ala
+description: null
 authors:
 - kulupu En
+translators: null
+proofreaders: null
 date: 2021-02-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-01-ijolonpilonala.md
 - https://lipukule.org/post/2021/02/01/ijo-lon-pi-lon-ala/
 - https://i.imgur.com/QcA5qgC.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo mute la, jan li kepeken nasin tawa sona pi ijo lon. nasin ni la, jan li ken sona e ijo lon, li ken pali e ijo kepeken sona, li ken kama e sona sin. tenpo mute la, ni li lon: ijo li lon, anu ijo li powe. ona tu li ken ala lon tenpo sama. ni li nasin sona pi tenpo mute.

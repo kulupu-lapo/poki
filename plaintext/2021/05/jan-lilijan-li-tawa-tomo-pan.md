@@ -1,13 +1,23 @@
 ---
 title: jan Lilijan li tawa tomo pan
+description: null
 authors:
 - jan Anlu Isa
+translators: null
+proofreaders: null
 date: 2021-05-07
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf
 - https://liputenpo.org/lipu/nanpa-kasi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_pan_suwi.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan Anlu Isa li jan pi jan lili pi toki pona.

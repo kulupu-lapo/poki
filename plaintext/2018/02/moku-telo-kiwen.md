@@ -1,14 +1,23 @@
 ---
 title: moku telo kiwen
+description: null
 authors:
   - jan Tomen
+translators: null
+proofreaders: null
 date: 2018-02-15
+date-precision: day
 tags:
   - original
   - story
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/340307145373253642/413499195417296916
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini pi suli mute la, ma tomo lili li lon.

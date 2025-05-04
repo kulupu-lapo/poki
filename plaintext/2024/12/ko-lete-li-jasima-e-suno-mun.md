@@ -1,20 +1,25 @@
 ---
 title: ko lete li jasima e suno mun
-original-title: The Moon on the Snows
 description: jan Mana li lon ma Kalema li kama sona e mun ona.
 authors:
   - axiomwitch
-original-authors:
-  - axiomwitch
+translators: null
+proofreaders: null
 date: 2024-12-16
+date-precision: day
 tags:
   - 'ao3'
+original:
+  title: The Moon on the Snows
+  authors:
+    - axiomwitch
 license: null
 sources:
   - https://archiveofourown.org/works/61370020/chapters/156866092
 archives:
   - https://web.archive.org/web/20250211130006/https://archiveofourown.org/works/61370020/chapters/156866092
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 

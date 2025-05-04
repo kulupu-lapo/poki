@@ -1,19 +1,27 @@
 ---
 title: sina taso
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-09-20
+date-precision: day
 tags:
   - original
   - music
   - lyrics
   - album track
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=CA8IDSsdj_Y
   - https://soundcloud.com/kala-pona/sina-taso
   - https://open.spotify.com/track/58oeR88mUK3V2Pta6CFecn
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

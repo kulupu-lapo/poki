@@ -1,15 +1,24 @@
 ---
 title: oww
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2023-12-24
+date-precision: day
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/track/oww
   - https://www.youtube.com/watch?v=zZNhdiWBp0M
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sitelen taso la linja selo pi ijo ale li lon  \

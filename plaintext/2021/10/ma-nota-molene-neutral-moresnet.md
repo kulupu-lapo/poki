@@ -1,13 +1,23 @@
 ---
 title: ma Nota-Molene (Neutral-Moresnet)
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-10-31
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0009moli.pdf
 - https://liputenpo.org/lipu/nanpa-moli/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_len_pi_ma_Nota-Molene.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini la, ma Nota-Molene li lon. lawa pi ma tomo Win (Wien, Vienna) li toki e ni: ma seme li jo e ma seme. taso, lawa ni li nasa. ma Pojesen (Preußen, Prussia) li toki e ni: ma Nota-Molene li ma mi. taso, ma Netelan li toki e ni: ma Nota-Molene li ma mi!

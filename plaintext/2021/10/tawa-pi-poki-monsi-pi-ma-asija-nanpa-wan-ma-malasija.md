@@ -1,13 +1,23 @@
 ---
 title: 'tawa pi poki monsi pi ma Asija: nanpa wan. ma Malasija'
+description: null
 authors:
 - jan Polo
+translators: null
+proofreaders: null
 date: 2021-10-06
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0008toki.pdf
 - https://liputenpo.org/lipu/nanpa-toki/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_ma_Malasija.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi jan pi ma Italija, taso mi awen li pali lon ma Asija lon tenpo sike luka luka luka. ma Asija li pona mute tawa mi. jan en sona kulupu en nasin lon en nasin sewi pi kama suno li pona mute tawa mi. lon tenpo ni la mi tawa mute lon ma mute. mi tawa lon ma Malasija lon ma Pulune (Brunei) lon ma Sinkapo lon ma Intonesija lon ma Pilipina lon ma Mijama lon ma Tawi lon ma Laso (Laos) lon ma Kanpusi lon ma Wije lon ma Sonko lon ma Onkon lon ma Omun (Macao) lon ma Anku lon ma Nijon lon ma Palata lon ma Nepa lon ma Lanka. tan nanpa ni pi lipu tenpo la mi wile toki lili lon ma ale ni. mi wile e ni: sina tawa lili lon poka mi. mi wile open tan ma Malasija tan ni: tenpo ni la mi awen li pali lon ma ni.

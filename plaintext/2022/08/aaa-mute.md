@@ -4,16 +4,24 @@ description: jan sona li poki e ijo pi nasa mute li alasa e sona tan ona. ijo na
   ni li wawa seme li tan seme?
 authors:
 - jan Alesa
+translators: null
+proofreaders: null
 date: 2022-08-06
+date-precision: day
 tags:
 - ijo li ken ala weka tan poki
 - ijo monsuta
 - ijo li lawa e lawa jan
 - misikeke nasa en ike sijelo
+original: null
 license: null
 sources:
 - https://github.com/raacz/utala/blob/main/lipu-lili/AAAmute.md
 - http://utala.pona.la/lipu-lili/AAAmute.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## ni li lipu "AAA-mute" tan kulupu "awen, awen, awen".

@@ -1,19 +1,28 @@
 ---
 title: telo suli li supa  # kalama musi “telo suli li supa”
-original-title: La Mar Esteba Serena
+description: null
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
+translators: null
+proofreaders: null
 date: 2021-03-13
+date-precision: day
 tags:
   - translation
   - music
   - lyrics
   - children's song
+original:
+  title: La Mar Esteba Serena
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/03/13/kalama-musi-telo-suli-li-supa/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 telo suli li supa  \

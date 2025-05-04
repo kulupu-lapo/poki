@@ -1,14 +1,24 @@
 ---
 title: kasi suli pana
-original-title: The Giving Tree
+description: null
 authors:
   - kala pona Tonyu
-original-authors:
-  - Shel Silverstein
+translators: null
+proofreaders: null
 date: 2020-08-23
+date-precision: day
+tags: null
+original:
+  title: The Giving Tree
+  authors:
+    - Shel Silverstein
 license: null
 sources:
   - https://docs.google.com/document/d/1rW-4NETyyfquBCxzb0G4duowrDqDlrhn08ohh3cP-_I/edit?tab=t.0
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo wan la, kasi suli li lon...  \

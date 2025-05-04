@@ -1,13 +1,18 @@
 ---
 title: kalama Sakijape
-original-title: Säkkijärven polkka
+description: null
 authors:
   - soko Sijeni
-original-authors:
-  - (folk song)
+translators: null
+proofreaders: null
 date: 2025-02-15
+date-precision: day
 tags:
   - music
+original:
+  title: Säkkijärven polkka
+  authors:
+    - (folk song)
 license: null
 sources:
   - https://ivaaan.neocities.org/kalama-sakijape/
@@ -15,6 +20,8 @@ archives:
   - https://web.archive.org/web/0/https://ivaaan.neocities.org/kalama-sakijape/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
+accessibility-notes: null
+notes: null
 ---
 
 li pilin taso en ma Kalija  

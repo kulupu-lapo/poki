@@ -1,13 +1,23 @@
 ---
 title: nasin Tama li seme?
+description: null
 authors:
 - jan Sose L-S
+translators: null
+proofreaders: null
 date: 2021-03-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0002mun.pdf
 - https://liputenpo.org/lipu/nanpa-mun/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_nasin_Tama.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 nasin Tama (toki Inli: Buddhism, toki Sanki: Dharma) li nasin sewi. ni li kama tan ma Palata pi tenpo pini mute (500-400 BCE). nasin ni li kama tan jan sewi Sitata Kutama. jan ni li jo e nimi ante: sewi Tatakata (toki Sanki: Tathagata). tan ni la, nasin Tama li nimi ante kepeken nasin Tatakata. jan pi nasin Tatakata la jan ante pi nasin sama li pilin ante tawa ijo sama. taso, jan ale pi nasin Tatakata li pali e ni:

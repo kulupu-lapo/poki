@@ -1,12 +1,22 @@
 ---
 title: o moku e kasi unu
+description: null
 authors:
   - jan Kasape
+translators: null
+proofreaders: null
 date: 2024-12-29
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0030loje.pdf
   - https://liputenpo.org/lipu/nanpa-loje/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 kasi mute li unu¹ · ken la sina moku e ona · taso ona li unu tan seme · kin² ona li pona seme e jan ·

@@ -5,12 +5,20 @@ description: nasin sitelen pona mute li lon. taso ala li jo e kon sama linja Int
   poka a!
 authors:
 - jan pali pi lipu kule
+translators: null
+proofreaders: null
 date: 2024-03-11
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2024-03-11-linja-insa.md
 - https://lipukule.org/post/2024/03/11/linja-insa-nasin-sitelen-sin-pi-lipu-kule/
+archives: null
+preprocessing: null
 accessibility-notes: UCSUR characters, HTML
+notes: null
 ---
 
 nasin sitelen pona mute li lon. taso ala li jo e kon sama linja Inter.

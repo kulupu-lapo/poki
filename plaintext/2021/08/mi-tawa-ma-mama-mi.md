@@ -1,13 +1,23 @@
 ---
 title: mi tawa ma mama mi
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-08-02
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0006suno.pdf
 - https://liputenpo.org/lipu/nanpa-suno/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_ma_Selonka.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ma Posuka (Poland) li ma pi mama mi. ike la, mi lon ala ma Posuka. pona la, mi ken tawa ma Posuka. mi toki e toki Posuka. taso, toki Posuka mi li ike tawa jan Posuka. mi toki e toki lili Selonka (Silesian ethnolect) pi toki Posuka. ni li ike tawa jan Posuka mute. tenpo pini la, mi tawa ma Posuka. tenpo esun wan la, mi lon ona. ma Posuka li pona ala pona?

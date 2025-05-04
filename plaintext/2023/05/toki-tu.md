@@ -1,12 +1,22 @@
 ---
 title: toki tu
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2023-05-12
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0019mama.pdf
 - https://liputenpo.org/lipu/nanpa-mama/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 o lukin - sitelen ni li pana e toki tu - nasin pi toki nanpa wan la sitelen lili 「,」 li pini e toki wan li open e toki sin - o lukin ala e sitelen lili 「‘」 - nasin pi toki nanpa tu la sitelen lili 「‘」 li pini e toki wan li open e toki sin - o lukin ala e sitelen lili 「,」 - ni pi nasin tu li musi ala musi tawa sina

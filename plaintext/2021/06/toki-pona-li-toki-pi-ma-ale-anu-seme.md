@@ -1,13 +1,23 @@
 ---
 title: toki pona li toki pi ma ale anu seme?
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-06-02
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0005pan.pdf
 - https://liputenpo.org/lipu/nanpa-pan/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_ma_ale.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan mute li wile ilo e toki pona sama toki pi ma ale. jan li toki kepeken toki pi ma ale tan ni: ona li wile toki tawa jan pi toki ante. en la, ona li toki ala e toki Inli.

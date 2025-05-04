@@ -3,8 +3,12 @@ title: kon pan
 description: a traditional jewish story I grew up with told from memory in toki pona
 authors:
   - lipamanka
+translators: null
+proofreaders: null
 date: 2001-01-01
 date-precision: none
+tags: null
+original: null
 license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
@@ -13,6 +17,8 @@ archives:
   - https://web.archive.org/web/20230521211226/https://lipamanka.gay/toki-pona-taso
   - https://web.archive.org/web/20230415160315/https://lipamanka.gay/toki-pona-taso/kon-pan
 preprocessing: changed sitelen pona to sitelen Lasina, removed the pretty whitespace
+accessibility-notes: null
+notes: null
 ---
 
 lipamanka li pali e ni  

@@ -1,16 +1,25 @@
 ---
 title: seme li mi
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-07-05
-license: CC-BY-SA 4.0
+date-precision: day
 tags:
 - 'sitelen sitelen'
 - 'poetry'
+original: null
+license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0027linja.pdf
 - https://liputenpo.org/lipu/nanpa-linja/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_sitelen_sitelen.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![sitelen sitelen](https://upload.wikimedia.org/wikipedia/commons/6/67/Lipu_tenpo_nanpa_linja_-_sitelen_sitelen.png)

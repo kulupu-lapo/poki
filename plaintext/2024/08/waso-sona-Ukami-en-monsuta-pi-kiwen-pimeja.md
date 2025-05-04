@@ -1,15 +1,24 @@
 ---
 title: waso sona Ukami en monsuta pi kiwen pimeja
+description: null
 authors:
   - jan Jowi
+translators: null
+proofreaders: null
 date: 2024-08-10
-license: CC-BY-SA-4.0
+date-precision: day
 tags:
   - moli mute
   - nimi pi pu ala
+original: null
+license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo mute la waso sona Ukami li toki e ni: “lape la leko pi mute ike li kama wan pona.”

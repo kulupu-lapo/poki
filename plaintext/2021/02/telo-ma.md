@@ -1,13 +1,23 @@
 ---
 title: telo li lon ma mi
+description: null
 authors:
 - waso pimeja
 - jan Nijo
+translators: null
+proofreaders: null
 date: 2021-02-09
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-09-teloma.md
 - https://lipukule.org/post/2021/02/09/telo-li-lon-ma-mi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 telo li lon ma mi

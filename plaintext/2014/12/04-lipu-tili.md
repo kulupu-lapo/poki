@@ -1,11 +1,21 @@
 ---
 title: 'lipu Tili: lipu nanpa tu tu'
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2014-12-17
+date-precision: day
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2014/12/lipu-tili-lipu-lili-tu-tu.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan Tili li tawa esun pi ma tomo Liliti. ona li lukin e jan mute. ona li tawa e jan esun. jan esun ni li suli li kepeken ilo kiwen li pali e ilo ante.

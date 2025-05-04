@@ -1,15 +1,24 @@
 ---
 title: nasin Puta
+description: null
 authors:
 - jan Lakuse
 - kala Salan
 - jan Tepo
+translators: null
+proofreaders: null
 date: 2022-06-06
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vRv-rQ14NCsZYIjcBpP-u9xGRwnF-gRDebj6lO5lsHKq5UmeO3ePooYk8BYlz1CJWjiMRoADfH05dQV/pub
 - https://wikisource.org/wiki/Kalama_sin/21
+archives: null
 preprocessing: replaced unusual "j., k." abbreviations with the full names
+accessibility-notes: null
+notes: null
 ---
 
 **jan Lakuse:** toki! jan ale o.

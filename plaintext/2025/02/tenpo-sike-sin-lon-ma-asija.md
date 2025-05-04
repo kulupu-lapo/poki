@@ -1,13 +1,23 @@
 ---
 title: tenpo sike sin li lon ma Asija
+description: null
 authors:
   - jan Alonola
+translators: null
+proofreaders: null
 date: 2025-02-28
+date-precision: day
+tags: null
+original: null
 license: 'CC BY-SA 4.0'
 sources:
   - https://liputenpo.org/lipu/nanpa-kala/
   - https://liputenpo.org/pdfs/0031kala.pdf
   - https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki/nanpa-kala
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 {{{sitelen "0031_tenpo_sike_sin_sonko.png" "moku pi tenpo sike sin" "jan Meki"}}}

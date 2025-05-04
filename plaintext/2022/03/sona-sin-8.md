@@ -44,11 +44,20 @@ description: 'lipu:
   (flikr), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=94652167'
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2022-03-11
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
 - https://www.youtube.com/watch?v=tmQvXaR2pX0
 - https://docs.google.com/document/d/1rvXYIcInQlR8CWg6FFomPh7xE77R9u9EeN-rAU1cF6w/edit
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki a! ni li sona sin! tenpo ni la, mi - jan Alonola - li lon. mi jo e ijo mute tawa sina!

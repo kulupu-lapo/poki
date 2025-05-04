@@ -1,12 +1,22 @@
 ---
 title: pipi waso pi lili nanpa wan
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2022-05-05
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0013pipi.pdf
 - https://liputenpo.org/lipu/nanpa-pipi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi pilin e ni: soweli li lili la, ona li suwi.

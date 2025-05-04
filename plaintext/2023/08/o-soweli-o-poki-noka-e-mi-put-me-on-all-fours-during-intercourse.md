@@ -4,15 +4,20 @@ description: seli pi jan Kasuki li kama. ona li wile e alupa ona. ona tu li unpa
   I wrote this as a joke but then I started caring about it and now here it is.
 authors:
   - not_quite_a_furry
+translators: null
+proofreaders: null
 date: 2023-08-22
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/49551514
 archives:
   - https://web.archive.org/web/20240930140713/https://archiveofourown.org/works/49551514
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML · mi nasa ala e toki Epelanto
+accessibility-notes: null
 notes: toki Inli li lon toki poka · toki Epelanto li lon toki
 ---
 

@@ -6,18 +6,24 @@ description: "jan pali ma The Magnus Institute li kama e kulupu pali. jan Jon li
   around a bit."
 authors:
   - orphan_account
-original-authors:
-  - bonustrack
+translators: null
+proofreaders: null
 date: 2022-08-08
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original:
+  title: null
+  authors:
+    - bonustrack
+license: null
 sources:
   - https://archiveofourown.org/works/40897929
 archives:
   - https://archive.ph/xPphC
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML · nasin Markdown la toki
   tu li ken ala weka suli · ni la mi lili e weka suli · weka ale li kama lili sama
+accessibility-notes: null
 notes: ilo li sona ala e mi la ona li pana ala e nimi pi lipu open · ni la mi sona
   ala e nimi · kin toki Inli lili li lon
 ---

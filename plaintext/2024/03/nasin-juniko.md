@@ -1,12 +1,22 @@
 ---
 title: nasin Juniko pi sitelen pona
+description: null
 authors:
 - jan Jan
+translators: null
+proofreaders: null
 date: 2024-03-16
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2024-03-16-nasin-juniko.md
 - https://lipukule.org/post/2024/03/16/nasin-juniko-pi-sitelen-pona/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## tenpo ni

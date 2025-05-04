@@ -1,12 +1,22 @@
 ---
 title: mi wile e sona sin
+description: null
 authors:
   - jan Sepulon
+translators: null
+proofreaders: null
 date: 2024-08-10
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/mi-wile-e-sona-sin.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/mi-wile-e-sona-sin.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## mi moku

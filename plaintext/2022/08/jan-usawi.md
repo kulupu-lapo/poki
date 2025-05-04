@@ -4,16 +4,24 @@ description: jan Kasona li wile kama sona e ijo wawa nasa sin li wile weka tan m
   mama ona. seme li kama?
 authors:
 - jan Kepe
+translators: null
+proofreaders: null
 date: 2022-08-06
+date-precision: day
 tags:
 - pakala sijelo
 - moli
 - pali jan li ike
 - nimi sin mute li lon
+original: null
 license: null
 sources:
 - https://github.com/raacz/utala/blob/main/lipu-lili/jan-usawi.md
 - http://utala.pona.la/lipu-lili/jan-usawi.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pi lon ala la, kulupu jan li lon ma lili Akepa. kulupu ni li kulupu lili, li ken ala pali e <abbr title="ijo wawa kepeken nasin pi nasa mute, sama ni: mi tawa ma pi weka mute kepeken tenpo ala">usawi</abbr>.

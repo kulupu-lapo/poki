@@ -1,11 +1,21 @@
 ---
 title: tawa weka
+description: null
 authors:
   - jan Ote
+translators: null
+proofreaders: null
 date: 2011-06-08
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/07/tawa-weka.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "AutumnFog.jpg" by Kószó József (https://commons.wikimedia.org/wiki/File:AutumnFog.jpg). GFDL, CC BY-SA 3.0 Unported, CC BY-SA 2.5, 2.0, 1.0 Generic. -->

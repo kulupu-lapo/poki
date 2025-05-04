@@ -4,15 +4,21 @@ description: musi Kensin Inpaku la mi pali e sitelen mute lon toki pona. sitelen
   la jan pi musi ni li ken ante suli. wile mi la sitelen ni li pona tawa sina :)
 authors:
   - JDAbadeer
+translators: null
+proofreaders: null
 date: 2024-02-19
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/53909767?view_full_work=true
 archives:
   - https://web.archive.org/web/20240927155641/https://archiveofourown.org/works/53909767?view_full_work=true
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

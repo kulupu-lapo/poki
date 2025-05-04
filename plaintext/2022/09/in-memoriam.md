@@ -1,16 +1,25 @@
 ---
 title: In Memoriam
+description: null
 authors:
 - jan Sotan
+translators: null
+proofreaders: null
 date: 2022-09-11
+date-precision: day
 tags:
 - poetry
 - read-aloud poetry
+original: null
 license: CC BY 4.0
 sources:
 - https://zotn.hu/toki-pona/poem-in-memoriam
 - https://www.youtube.com/watch?v=b6b3mpzN94w
 - https://soundcloud.com/dschorsaanjo/in-memoriam
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 [thoughts]

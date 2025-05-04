@@ -1,12 +1,22 @@
 ---
 title: sitelen tawa Nomalan
+description: null
 authors:
 - jan Pije
+translators: null
+proofreaders: null
 date: 2021-06-02
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0005pan.pdf
 - https://liputenpo.org/lipu/nanpa-pan/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 **jan Kalowi-Sa (Chloé Zhao) li kama jo e sijelo jelo Asaka (Oscar) tan sitelen tawa sin ona Nomalan.**

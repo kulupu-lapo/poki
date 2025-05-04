@@ -1,18 +1,27 @@
 ---
 title: jan lawa Oliki
-original-title: The Ones Who Walk Away from Omelas
+description: null
 authors:
 - soweli Elepanto
 - jan Pensa
-original-authors:
-- Alexander Pushkin
+translators: null
+proofreaders: null
 date: 2022-10-01
+date-precision: day
 tags:
 - original work
+original:
+  title: The Ones Who Walk Away from Omelas
+  authors:
+  - Alexander Pushkin
 license: CC BY 4.0
 sources:
 - https://wikisource.org/wiki/Jan_lawa_Oliki_(2022)
 - https://eo.wikisource.org/wiki/Tokipono:_La_lingvo_de_bono/Rakonto:_jan_lawa_Oliki
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan lawa ma Oliki li kama tawa utala li tawa kepeken soweli tawa. tenpo wan la ona li kama lukin e jan pi sona mute li toki e ni: “jan sona o toki e ni tawa mi: tenpo kama la mi pilin pona ala pona? mi kama moli tan seme?”

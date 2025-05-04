@@ -1,15 +1,22 @@
 ---
 title: kili
+description: null
 authors:
 - jan Simiman
+translators: null
+proofreaders: null
 date: 2023-08-15
+date-precision: day
 tags:
 - nimi ku li lon
+original: null
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/kili.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/kili.html
+archives: null
 preprocessing: includes HTML
+accessibility-notes: null
 notes: awkward markdown. reformat maybe?
 ---
 

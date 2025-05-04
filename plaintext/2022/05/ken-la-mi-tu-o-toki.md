@@ -3,15 +3,20 @@ title: ken la mi tu o toki
 description: jan Pesi li alasa sitelen lon tenpo sin.
 authors:
   - asona
+translators: null
+proofreaders: null
 date: 2022-05-26
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/39233625
 archives:
   - https://archive.ph/YFiqx
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

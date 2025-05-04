@@ -1,20 +1,28 @@
 ---
 title: jan pi toki toki
-original-title: Storyteller
 description: Lyrics of Storyteller by Guilty Gear, translated by jan Majeka
 authors:
   - jan Majeka
-original-authors:
-  - Naoki Hashimoto
-  - Daisuke Ishiwatari
-  - Norichika Sato
-  - Junya C. Motomura
+translators: null
 proofreaders:
   - Various people on Ma Pona pi Toki Pona
 date: 2023-12-31
+date-precision: day
+tags: null
+original:
+  title: Storyteller
+  authors:
+    - Naoki Hashimoto
+    - Daisuke Ishiwatari
+    - Norichika Sato
+    - Junya C. Motomura
 license: null
 sources:
   - https://www.youtube.com/watch?v=z_4vjcGRGLA
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo suno la, o pilin pona

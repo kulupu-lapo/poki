@@ -1,12 +1,22 @@
 ---
 title: nasin kulupu li seme?
+description: null
 authors:
 - kulupu Aponi
+translators: null
+proofreaders: null
 date: 2021-02-25
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-25-nasinkulupu.md
 - https://lipukule.org/post/2021/02/25/nasin-kulupu-li-seme/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki. mi kulupu Aponi. jan mute li sona ala e ‘kulupu’ ni; mi wile pana e sona pi nasin ni mi.

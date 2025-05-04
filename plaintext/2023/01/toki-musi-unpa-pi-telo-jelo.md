@@ -5,15 +5,21 @@ description: Did not expect there to be a day in my life where I write pissfic i
   I just smashed together some syllables and boom done.
 authors:
   - janseme
+translators: null
+proofreaders: null
 date: 2023-01-09
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/44143593
 archives:
   - https://archive.ph/0LE5u
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 jan Eka en jan Pani li lon tomo ona. jan Eka li jan olin pi jan Pani. tenpo pini lili la, ona li kama sona e ni: telo jelo li pona unpa tawa jan Pani. tan ni la, ona li wile pana e telo jelo. ona li wile e pilin pona pi jan Pani. ken la... ni li pona unpa tawa jan Eka kin.

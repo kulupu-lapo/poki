@@ -4,15 +4,20 @@ description: hey ao3 user, do you ever want to read genshin porn in a Constructe
   language that the author butchered? well here you go
 authors:
   - 4d6_Psychic_Damage
+translators: null
+proofreaders: null
 date: 2022-06-14
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/39630540
 archives:
   - https://archive.ph/VK5Bn
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli lili li lon
 ---
 

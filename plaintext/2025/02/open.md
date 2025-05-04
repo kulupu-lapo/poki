@@ -1,13 +1,22 @@
 ---
 title: open
+description: null
 authors:
   - lipamanka
+translators: null
+proofreaders: null
 date: 2025-02-06
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso/moku
 archives:
   - https://web.archive.org/web/20250410144603/https://lipamanka.gay/toki-pona-taso/moku
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 moku a! mi lipamanka. mi tan ma Newa Jo. ni li lipu mi moku pi toki pona taso. toki moku li lon, taso ni kin li lon: jan li pali e moku, la seme li kama tan seme? suli la moku li ijo lili mute. sina seli e moku, la ijo lili ni li kama ante. mi toki e ijo lili e ijo suli.

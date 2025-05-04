@@ -1,5 +1,6 @@
 ---
 title: mi jaki
+description: null
 authors:
   - jan Nikoleta
   - jan Asiku
@@ -15,10 +16,14 @@ authors:
   - jan Sonja
   - kala pona Tonyu
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2023-03-31
+date-precision: day
 tags:
   - music
   - alternative rock
+original: null
 license: All Rights Reserved
 sources:
   - https://kqakqa.bandcamp.com/album/kon-kalama
@@ -29,6 +34,10 @@ sources:
   - https://open.spotify.com/album/3w0VGm2ELLYzAvcAFkXOid
   - https://music.apple.com/us/album/jan-kqa-li-kalama-lon-suno-pi-toki-pona-lon-tenpo-sike/1703886265
   - https://youtube.com/watch?v=IdjgBq4RAZk
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi wile weka  \

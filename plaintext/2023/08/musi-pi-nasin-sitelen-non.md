@@ -1,8 +1,14 @@
 ---
 title: musi pi nasin sitelen Non
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2023-08-24
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0021ma.pdf
@@ -14,7 +20,10 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(kala).png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(pipi).png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_sitelen_Non_(waso).png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 mi tawa kepeken tomo kulupu tawa la tawa li wile e tenpo. tawa la mi wile e ijo musi. mi kama sona e musi. mi kama kepeken ona lon tenpo tawa mute. mi kama wile pali e musi ni pi toki pona.

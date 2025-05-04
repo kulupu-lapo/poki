@@ -1,16 +1,25 @@
 ---
 title: jan lawa meli lon kili lili
-original-title: The Princess and the Pea
+description: null
 authors:
   - jan Kekan San
-original-authors:
-  - jan Hans Christian Andersen
+translators: null
+proofreaders: null
 date: 2022-01-15
+date-precision: day
+tags: null
+original:
+  title: The Princess and the Pea
+  authors:
+    - jan Hans Christian Andersen
 license: null
 sources:
   - https://mun.la/lipu/jan-lawa-meli-lon-kili-lili.html
 archives:
   - https://web.archive.org/web/20241128131859/https://mun.la/lipu/jan-lawa-meli-lon-kili-lili.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lon tenpo pona la, jan lawa mije li lon. ona li wile wan olin e jan lawa meli. taso, jan meli ni li lawa lon ala la, mije lawa li olin ala e ona. mije lawa li tawa ma ale, li alasa e meli pi lawa lon! taso, lon ma ale la, mije lawa li ken ala alasa e meli pi lawa lon. jan lawa meli li lon ma ale! taso, mije lawa li sona ala e ni: meli ni li lawa lon anu seme? mije lawa li lukin e meli la, ona li lukin e meli pi lawa lon ala. tan ni la, mije lawa li pini e alasa, li tawa tomo ona, li pilin ike. ona li wile e meli pi lawa lon.

@@ -1,11 +1,21 @@
 ---
 title: lipu tawa kama sona
+description: null
 authors:
   - jan Wenato
+translators: null
+proofreaders: null
 date: 2016-03-12
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://tokisona.github.io/toki/pona/2016/03/12/lipu-tawa-kama-sona.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan wile ala wile kama sona e toki pona?  \

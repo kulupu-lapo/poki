@@ -1,15 +1,24 @@
 ---
 title: musi linja
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2023-08-24
+date-precision: day
 tags:
 - puzzle
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0021ma.pdf
 - https://liputenpo.org/lipu/nanpa-ma/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_musi_linja.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![musi linja](https://upload.wikimedia.org/wikipedia/commons/4/42/Lipu_tenpo_nanpa_ma_-_musi_linja.png)

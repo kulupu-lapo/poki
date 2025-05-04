@@ -42,11 +42,19 @@ description: 'https://liputenpo.org/
   By User:Exec8 - Own work by the uploader, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=90750978'
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2023-12-29
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
 - https://www.youtube.com/watch?v=ljZfGt7PDxk
 - https://docs.google.com/document/d/1LkzMkdf_y8Rt797Lmf5KS2105tKO_L2XD5TWeaOB7bw/edit
+archives: null
+preprocessing: null
+accessibility-notes: null
 notes: '"nanpa moku" typo changed to "nanpa sewi" to match audio'
 ---
 

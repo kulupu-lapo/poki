@@ -1,21 +1,26 @@
 ---
 title: My Immortal in toki pona
-original-title: My Immortal
 description: exactly what it says on the tin. a fan translation of my immortal, but
   with (hopefully) correct toki pona grammar and spelling.
 authors:
   - dragon_chris
-original-authors:
-  - Tara Gilesbie
+translators: null
+proofreaders: null
 date: 2022-09-29
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original:
+  title: My Immortal
+  authors:
+    - Tara Gilesbie
+license: null
 sources:
   - https://archiveofourown.org/works/42023853
 archives:
   - https://archive.ph/fyAra
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

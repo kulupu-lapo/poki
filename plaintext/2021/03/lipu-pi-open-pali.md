@@ -1,13 +1,21 @@
 ---
 title: lipu pi open pali
+description: null
 authors:
   - jan Telakoman
+translators: null
+proofreaders: null
 date: 2021-03-06
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/lipu-pi-open-pali_si
   - https://joelthomastr.github.io/tokipona/lipu-pi-open-pali_LANGCODE
+archives: null
 preprocessing: fixed the sitelen Lasina version based on the source version
+accessibility-notes: null
 notes: internal page, not linked to from anywhere
 ---
 

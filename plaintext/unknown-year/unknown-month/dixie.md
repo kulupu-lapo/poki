@@ -1,10 +1,10 @@
 ---
 title: Dixie
-original-title: Dixie
+description: null
 authors:
   - jan Pije
-original-authors:
-  - unknown  # added automatically during reschema
+translators: null
+proofreaders: null
 date: 2001-01-01
 date-precision: none
 tags:
@@ -13,11 +13,18 @@ tags:
   - lyrics
   - united states
   - confederacy
+original:
+  title: Dixie
+  authors:
+    - unknown # added automatically during reschema
 license: CC0 1.0
 sources:
   - http://tokipona.net/tp/janpije/dixie.php  # dead link
 archives:
   - https://web.archive.org/web/20151003033703/http://tokipona.net/tp/janpije/dixie.php
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!--

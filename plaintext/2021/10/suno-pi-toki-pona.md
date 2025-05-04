@@ -1,11 +1,21 @@
 ---
 title: toki mi lon suno pi toki pona
+description: null
 authors:
   - jan Telakoman
+translators: null
+proofreaders: null
 date: 2021-10-10
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/suno-pi-toki-pona_si
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # toki mi lon suno pi toki pona

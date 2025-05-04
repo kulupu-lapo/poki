@@ -1,13 +1,21 @@
 ---
 title: ante toki tawa musi pi sitelen tawa (video game translations)
+description: null
 authors:
   - jan Lentan
+translators: null
+proofreaders: null
 date: 2020-10-10
+date-precision: day
 tags: null
+original: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://lipu-sona.pona.la/lentan/game_patches
+archives: null
 preprocessing: Removed the English introduction. Available in sources.
+accessibility-notes: null
+notes: null
 ---
 
 # toki pona

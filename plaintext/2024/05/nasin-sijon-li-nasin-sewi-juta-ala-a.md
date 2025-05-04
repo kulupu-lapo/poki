@@ -1,12 +1,22 @@
 ---
 title: nasin Sijon li nasin sewi Juta ala a!
+description: null
 authors:
 - jan Polo
+translators: null
+proofreaders: null
 date: 2024-05-14
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0026jaki.pdf
 - https://liputenpo.org/lipu/nanpa-jaki/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi sitelen e lipu lili ni tawa ni: mi wile toki e ijo suli tawa kulupu. ijo suli li ni: nasin Sijon en nasin sewi Juta li ante mute. tan ni la jan li ken toki e ni: kulupu lawa pi ma Isale li ike mute. taso nasin sewi Juta li ike ala! lon la ma Isale li ike tawa jan mute kin pi nasin sewi Juta. pilin mi la jan lawa Netanjaku pi ma Isale li ike mute. tenpo ni la jan mute pi ma Isale li moli la jan mute mute pi ma Pilasin li moli a. jan lili mute kin pi ma Pilasin li moli.

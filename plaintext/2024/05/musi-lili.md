@@ -1,16 +1,24 @@
 ---
 title: musi lili
+description: null
 authors:
 - jan Tesu
+translators: null
+proofreaders: null
 date: 2024-05-14
+date-precision: day
 tags:
 - poetry
 - 'UCSUR'
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0026jaki.pdf
 - https://liputenpo.org/lipu/nanpa-jaki/
+archives: null
 preprocessing: changed UCSUR to Latin script
+accessibility-notes: null
+notes: null
 ---
 
 awen en lete  

@@ -1,9 +1,12 @@
 ---
 title: kasi utala pi ma Tokono
+description: null
 authors:
   - jan Wilo
+translators: null
+proofreaders: null
 date: 2024-08-10
-license: CC-BY-SA-4.0
+date-precision: day
 tags:
   - moli
   - pilin ike suli
@@ -11,10 +14,15 @@ tags:
   - pakala sijelo
   - weka moku en weka telo
   - wan taso
+original: null
+license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-lili.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-lili.html
+archives: null
 preprocessing: replaced html with markdown
+accessibility-notes: null
+notes: null
 ---
 
 ike la, mi awen lon tomo misikeke. awen la, kasi kule walo li lon poka pi supa lape misikeke mi. ale ante li walo li laso lon tomo ni. kule walo li ike tawa mi. kon li sama ala tawa kon utala - kon pi tomo ni li ike ala, li pona ala, li suwi ala li ma ala. taso ma Tokono la, kon li kon pi ma telo lon tenpo ale. pona la, mi lon ala ma Tokono. ike la, mi weka tan jan utala pona mi. mi ken ala awen e ona. ona li awen ala e mi.

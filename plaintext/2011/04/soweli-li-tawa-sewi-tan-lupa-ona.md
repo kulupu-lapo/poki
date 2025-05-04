@@ -1,11 +1,21 @@
 ---
 title: tan jan Eloto. jan pi ma seme li jan nanpa wan?
+description: null
 authors:
   - Dave Raftery
+translators: null
+proofreaders: null
 date: 2011-04-29
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/soweli-li-tawa-sewi-tan-lupa-ona.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "img_1923.jpg" by elPadawan (https://www.flickr.com/photos/elpadawan/2102792694/). CC BY -->

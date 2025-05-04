@@ -5,15 +5,21 @@ description: mani ali li mute tenpo ala. lawa insa li toki tenpo ala. pilin li p
   pini e sewi walo pi lawa sitelen pi lape. sina poki pi pimeja. sina alasa poki.
 authors:
   - jan_Tansi (tanzytechgem)
+translators: null
+proofreaders: null
 date: 2022-10-19
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/42478797
 archives:
   - https://archive.ph/24pLW
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 ## ma pi pimeja

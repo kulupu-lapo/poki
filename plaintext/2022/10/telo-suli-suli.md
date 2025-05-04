@@ -1,14 +1,23 @@
 ---
 title: telo suli suli
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2022-10-17
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_telo_suli_suli.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 telo suli luka li lon. telo ni li telo suli suli (anu telo suli **Pasipi**), li telo suli **Alansi**, li telo suli **Palata**, li telo suli **Asika**, li telo suli **Antasika**. telo suli ale la, telo suli Pasipi li suli a. ni la, mi pana e nimi “toki suli suli” tawa ona.

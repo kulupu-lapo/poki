@@ -3,15 +3,20 @@ title: jan Kiwino li pakala e akesi laso.
 description: jan Kiwino li pali e kiwen telo.
 authors:
   - thegreatsoupster
+translators: null
+proofreaders: null
 date: 2023-10-08
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/50661025
 archives:
   - https://web.archive.org/web/20240930140307/https://archiveofourown.org/works/50661025
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu
 ---
 

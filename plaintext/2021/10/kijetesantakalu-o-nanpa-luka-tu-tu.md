@@ -3,9 +3,13 @@ title: kijetesantakalu o! nanpa luka tu tu
 description: kijetesantakalu en waso li sike lon nasin sama li sike lon nasin sama
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-10-31
+date-precision: day
 tags:
 - comic
+original: null
 license: CC-BY 4.0
 sources:
 - https://liputenpo.org/lipu/nanpa-moli
@@ -13,6 +17,10 @@ sources:
 - https://kijetesantakalu-o.tumblr.com/post/671804939709890560
 - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep09.png
 - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep09_(sitelen_pona).png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![kijetesantakalu li toki: tan seme la sina lon nasin? waso li toki: mi wile tawa pini nasin. kijetesantakalu li toki: sina wile tawa pini nasin tan seme? waso li toki: mi lon nasin la mi wile tawa](https://upload.wikimedia.org/wikipedia/commons/0/0a/Kijetesantakalu_o%21_-_ep09.png)

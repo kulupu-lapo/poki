@@ -1,12 +1,22 @@
 ---
 title: ilo sitelen
+description: null
 authors:
 - lipamanka
+translators: null
+proofreaders: null
 date: 2021-10-10
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vTPBeABxXHIWTk_i-4csAasUVFdKaAXGUcMi_R0ETo7zs4hW17AoZDA9JmRfJUr1fEiW_aovAGmrpsQ/pub
 - https://wikisource.org/wiki/Kalama_sin/3
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki. mi lipamanka. mi tan ma pona pi toki pona. mi wile toki e ilo sitelen mi.

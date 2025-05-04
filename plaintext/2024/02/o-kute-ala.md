@@ -1,12 +1,17 @@
 ---
 title: O KUTE ALA
+description: null
 authors:
   - Nardi
+translators: null
+proofreaders: null
 date: 2024-02-19
+date-precision: day
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=G0ASV68Z-GI
@@ -32,6 +37,10 @@ sources:
   # reposts:
   - https://www.iheart.com/artist/nardi-96026/albums/o-kute-ala-256498836/
   - https://soundcloud.com/leo_nardi/o-kute-ala
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina kute ala la  \

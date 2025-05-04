@@ -1,12 +1,22 @@
 ---
 title: sitelen pi lipu tenpo lon nasin Juniko
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2023-07-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0020nasin.pdf
 - https://liputenpo.org/lipu/nanpa-nasin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 “lipu tenpo” li nimi pi lipu ni. jan lawa pi lipu tenpo li wile e ni: toki ante la, nimi ona li sama “Die Zeit” anu “The Times.” nasin nimi ni li ilo pona anu seme tawa sina?

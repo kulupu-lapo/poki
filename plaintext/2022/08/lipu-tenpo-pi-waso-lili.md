@@ -4,14 +4,22 @@ description: ijo sin li kama tawa waso lili. jan laso nasa li kama lon poka! was
   lili li sitelen e pilin ona lon lipu...
 authors:
 - jan Sepi (pi mute to)
+translators: null
+proofreaders: null
 date: 2022-08-06
+date-precision: day
 tags:
 - moli li lon
 - nimi sin mute li lon
+original: null
 license: null
 sources:
 - https://github.com/raacz/utala/blob/main/lipu-lili/lipu-tenpo-pi-waso-lili.md
 - http://utala.pona.la/lipu-lili/lipu-tenpo-pi-waso-lili.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 **tenpo suno**

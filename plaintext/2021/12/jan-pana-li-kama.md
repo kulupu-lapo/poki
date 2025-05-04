@@ -1,11 +1,12 @@
 ---
 title: jan pana li kama  # kalama: jan pana li kama
-original-title: Morgen kommt der Weihnachtsmann
+description: null
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
+translators: null
+proofreaders: null
 date: 2021-12-14
+date-precision: day
 tags:
   - translation
   - music
@@ -13,10 +14,18 @@ tags:
   - folk song
   - christmas
   - carol
+original:
+  title: Morgen kommt der Weihnachtsmann
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/14/jan-pana-li-kama/
   - https://www.youtube.com/watch?v=kAeIhMwz6g8
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan pana li pana lon  \

@@ -1,14 +1,23 @@
 ---
 title: kulupu esun Patakonija
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2022-10-17
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_kulupu_esun_Patakonija.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini mute la, jan Ipon Kuwina (Yvon Chuinard) li open e kulupu esun Patakonija. tenpo pini la, jan Ipon Kuwina li tawa sewi lon nena suli. ni la, kulupu esun Patakonija li pali e len tawa ni: jan li tawa sewi lon nena suli.

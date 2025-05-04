@@ -1,20 +1,28 @@
 ---
 title: akesi laso en akesi jelo  # "laso" and "jelo" are proper adjectives, written in cartouches
-original-title: Frog and Toad
+description: null
 authors:
   - jan inwin
-original-authors:
-  - Arnold Lobel  # jan ano lope
+translators: null
+proofreaders: null
 date: 2020-10-12
+date-precision: day
 tags:
   - translation
   - children's book
   - book
   - animals
+original:
+  title: Frog and Toad
+  authors:
+    - Arnold Lobel # jan ano lope
 license: null # `null` if no or unknown license
 sources:
   - https://drive.google.com/file/d/1OXasJRYbz5GLNGc0aCL-rr4KCo0JyM1P/view
+archives: null
 preprocessing: Removed illustrations as they are not found separately online.
+accessibility-notes: null
+notes: null
 ---
 
 # akesi laso en akesi jelo

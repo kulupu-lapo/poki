@@ -1,11 +1,21 @@
 ---
 title: '"sina kepeken toki Inli sama jan nasa tan seme?"'
+description: null
 authors:
   - jan Telakoman
+translators: null
+proofreaders: null
 date: 2020-05-31
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki mama mi li toki Inli. mi ken kepeken toki Inli lon nasin pona. taso kulupu lipu ni la mi wile pali e ijo ante. mi wile pana e lukin ni tawa jan ale: jan li kepeken toki pona tawa ale la seme li kama lon?

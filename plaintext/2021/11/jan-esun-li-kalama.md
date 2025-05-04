@@ -1,15 +1,24 @@
 ---
 title: jan esun li kalama
-original-title: Soon May the Wellerman Come
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2001-01-01
 date-precision: none
 tags:
   - music
+original:
+  title: Soon May the Wellerman Come
+  authors: null
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=_etwTlHjhBI
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini wan la, tomo li lon telo.  \

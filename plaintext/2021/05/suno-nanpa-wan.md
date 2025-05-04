@@ -1,12 +1,17 @@
 ---
 title: suno nanpa wan
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2021-05-11
+date-precision: day
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=rr3ufODuIts
@@ -14,7 +19,10 @@ sources:
   - https://www.youtube.com/playlist?list=OLAK5uy_nu3ln2q76DXwTOybvpZNAf5n5fuIW9J28
   - https://soundcloud.com/kala-pona/suno-nanpa-wan
   - https://open.spotify.com/track/18xjmoUgomC5mbshTO7yeZ
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

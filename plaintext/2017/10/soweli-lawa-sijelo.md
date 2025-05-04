@@ -1,12 +1,21 @@
 ---
 title: soweli, lawa, sijelo, sewi, kon
+description: null
 authors:
   - jan Wenato
+translators: null
+proofreaders: null
 date: 2016-03-11
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://tokisona.github.io/toki/pona/sitelen/2017/10/27/soweli-lawa-sijelo.html
+archives: null
 preprocessing: Fixed markdown headers from plain-text number signs
+accessibility-notes: null
+notes: null
 ---
 
 ## olin li unpa ali

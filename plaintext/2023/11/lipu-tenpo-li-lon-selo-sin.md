@@ -1,13 +1,23 @@
 ---
 title: lipu tenpo li lon selo sin
+description: null
 authors:
 - jan Kasape
+translators: null
+proofreaders: null
 date: 2023-11-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0022sin.pdf
 - https://liputenpo.org/lipu/nanpa-sin/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sin_-_selo_sin.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![selo sin](https://upload.wikimedia.org/wikipedia/commons/d/d4/Lipu_tenpo_nanpa_sin_-_selo_sin.png)

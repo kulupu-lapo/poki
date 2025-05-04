@@ -4,15 +4,20 @@ description: tenpo pi suli pimeja kama la jan Lajato anpa e jan Elele la, ona li
   ma sama ala la, waso sewi Wemu li oko pilin e olin.
 authors:
   - treatster
+translators: null
+proofreaders: null
 date: 2024-01-28
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/53348932/chapters/135018496
 archives:
   - https://web.archive.org/web/20240927162819/https://archiveofourown.org/works/53348932/chapters/135018496
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

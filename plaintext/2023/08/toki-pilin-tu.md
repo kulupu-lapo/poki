@@ -1,12 +1,22 @@
 ---
 title: toki pilin tu
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2023-08-24
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0021ma.pdf
 - https://liputenpo.org/lipu/nanpa-ma/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 **o lukin. ni li toki tu. taso nimi li sama.**

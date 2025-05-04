@@ -1,12 +1,22 @@
 ---
 title: ma ilo Wijasa
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2023-02-06
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ken la, sina wan en sina ante pi toki pona li wile kama lon ma sama li wile kama kulupu. taso sina wan taso li lon ma sina la, ni li ike. sina wile tawa ma weka la, sina wile e mani, e tenpo kin. ken la, ni li pana e pilin ike tawa sina. wile kulupu li ken ala kama e kulupu pi toki pona lon tenpo mute. ike a. tan ni la, sina awen toki pona kepeken ilo taso lon ala ma sama. sina kama ala lukin e sijelo pi toki pona e tawa pi toki pona e pilin sinpin e ma kulupu e kulupu suli e musi mute.

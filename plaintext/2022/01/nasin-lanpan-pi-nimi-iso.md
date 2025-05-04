@@ -1,12 +1,22 @@
 ---
 title: nasin lanpan pi nimi iso
+description: null
 authors:
 - jan Jan
+translators: null
+proofreaders: null
 date: 2022-01-17
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-01-17-nasin-lanpan-pi-nimi-iso.md
 - https://lipukule.org/post/2022/01/17/nasin-lanpan-pi-nimi-iso/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pi pini lili la, kulupu SIL li toki e ni:

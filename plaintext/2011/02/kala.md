@@ -1,11 +1,21 @@
 ---
 title: kala
+description: null
 authors:
   - jan Kanso
+translators: null
+proofreaders: null
 date: 2011-02-18
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/03/kala.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![kala suli en kala lili](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmAWgGNFrHxIY0W5z39HjmnjEwMgl-Q34Lo5ER7MHOhGaJYX1YsS1PQYQ2FomOca0gtxuw_5ilupXvGjO06FNuitxaWbthb4itfCo5dF9ax2AOTLft7PkN2iL6GdFSrsdoGWEshWqb3VPT/s1600/kala-suli.png)

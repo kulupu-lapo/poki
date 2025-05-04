@@ -1,12 +1,22 @@
 ---
 title: toki soweli - nanpa wan
+description: null
 authors:
 - jan Eweni Wako
+translators: null
+proofreaders: null
 date: 2022-02-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0011walo.pdf
 - https://liputenpo.org/lipu/nanpa-walo/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 soweli walo pimeja en soweli loje li tawa lon ma li lukin e soweli tawa lili. ona tu li wile moku mute. tan ni la ona tu li kama wile moku e ona. soweli walo pimeja li toki tawa soweli tawa lili:

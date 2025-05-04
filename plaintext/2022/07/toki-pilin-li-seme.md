@@ -1,13 +1,23 @@
 ---
 title: toki pilin li seme?
+description: null
 authors:
 - jan Kalin
+translators: null
+proofreaders: null
 date: 2022-07-04
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0014seli.pdf
 - https://liputenpo.org/lipu/nanpa-seli/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_toki_nasa.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki la, seme li kama? kalama li kama tan uta. ante la luka li tawa mute. jan li linja e pilin ona, li pana e pilin ni tawa jan ante. jan li ken sitelen kin e toki ona. taso, sitelen musi li pana e pilin la ona li toki ala toki? kalama musi li toki ala toki? mi wile open toki e ijo pi toki pilin.

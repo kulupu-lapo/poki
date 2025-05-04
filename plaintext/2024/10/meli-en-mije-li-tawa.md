@@ -1,13 +1,22 @@
 ---
 title: meli en mije li tawa
-date: 2024-10-13
-license: null
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
+date: 2024-10-13
+date-precision: day
+tags: null
+original: null
+license: null
 sources:
   - https://mun.la/lipu/meli-en-mije-li-tawa.html
 archives:
   - https://web.archive.org/web/20241128143848/https://mun.la/lipu/meli-en-mije-li-tawa.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 meli en mije li lon ilo tawa li tawa mute lon tenpo pimeja pi mun suli suno.

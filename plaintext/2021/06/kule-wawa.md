@@ -1,16 +1,24 @@
 ---
 title: kule wawa
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2021-06-12
+date-precision: day
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=_YwKInK1HPY
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

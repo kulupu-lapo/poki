@@ -1,16 +1,25 @@
 ---
 title: ilo sitelen wawa
+description: null
 authors:
 - nasa utala
+translators: null
+proofreaders: null
 date: 2023-08-15
+date-precision: day
 tags:
 - pilin pi wan taso
 - utala sijelo ike
 - ilo nasa li ante e sijelo jan
+original: null
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-sitelen-wawa.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-sitelen-wawa.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ***

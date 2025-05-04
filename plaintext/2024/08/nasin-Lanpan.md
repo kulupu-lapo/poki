@@ -1,9 +1,12 @@
 ---
 title: nasin Lanpan
+description: null
 authors:
   - kapesi Pake
+translators: null
+proofreaders: null
 date: 2024-08-10
-license: CC-BY-SA-4.0
+date-precision: day
 tags:
   - jan toki lipu li toki e sona ante lon tenpo ante
   - pakala sijelo
@@ -16,9 +19,15 @@ tags:
   - nanpa li lon
   - nasin sewi
   - lipu li pana e nasin tawa lipu ilo
+original: null
+license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/nasin-Lanpan.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/nasin-Lanpan.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 <style>
   p {

@@ -1,11 +1,21 @@
 ---
 title: toki ante li lipu sewi
+description: null
 authors:
   - jan Wenato
+translators: null
+proofreaders: null
 date: 2016-03-11
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://tokisona.github.io/toki/pona/sewi/2016/03/11/toki-ante-li-lipu-sewi.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 “mi ale li tawa ike lon nasin mute.  \

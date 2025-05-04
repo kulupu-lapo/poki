@@ -1,8 +1,14 @@
 ---
 title: musi pi pipi linja
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2022-05-05
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0013pipi.pdf
@@ -13,6 +19,10 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_04.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_05.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_06.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi wile pana e musi sin · jan wan anu jan mute li ken lon musi ni · open la o kepeken lipu walo wan · o sitelen e sike lili pimeja mute lon lipu · sike lili ni li moku pona a ·

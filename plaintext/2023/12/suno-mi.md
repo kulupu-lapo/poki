@@ -5,15 +5,21 @@ description: jan Ikalusu li kama olin e suno. a.k.a. I started learning toki pon
   the sun (pun intended).
 authors:
   - FeatherlessBiped
+translators: null
+proofreaders: null
 date: 2023-12-27
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/52567966
 archives:
   - https://web.archive.org/web/20240930134751/https://archiveofourown.org/works/52567966
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 “sina sona ala sona e toki mi?” jan Dedalusu li toki, kepeken kalama moli.

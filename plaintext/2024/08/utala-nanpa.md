@@ -1,12 +1,22 @@
 ---
 title: utala nanpa
+description: null
 authors:
   - nasa utala
+translators: null
+proofreaders: null
 date: 2024-08-10
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/utala-nanpa.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/utala-nanpa.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan pi ma ni li ken utala kepeken nanpa. lukin la nanpa li sama ni: 0 1 2 3 4 5 6 7 8 9. jan li kama e nanpa tan kon li tawa e ona lon kon tawa jan ante li pakala suli e jan. sijelo pi nanpa ni li kiwen pakala la ona li ilo moli pi suli mute. taso, nanpa ni li kulupu ala la ona li pakala ala e sijelo jan. nanpa li kulupu sama ni: 123 456 789. nanpa li suli la nanpa li ken ilo moli.

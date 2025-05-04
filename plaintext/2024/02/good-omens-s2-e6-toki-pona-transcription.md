@@ -1,24 +1,30 @@
 ---
 title: "Good Omens: S2 E6 (toki pona transcription)"
-original-title: Every Day
 description: toki! An attempted translation of that scene from the end of season 2
   (spoilers ofc). This is my first proper translation attempt, so any and all feedback/corrections
   would be greatly appreciated. I'll be updating as I translate more and fix mistakes
   :)
 authors:
   - 50ShadesOfWhump
-original-authors:
-  - Neil Gaiman
-  - John Finnemore
+translators: null
+proofreaders: null
 date: 2024-02-04
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original:
+  title: Every Day
+  authors:
+    - Neil Gaiman
+    - John Finnemore
+license: null
 sources:
   - https://web.archive.org/web/20240927161351/https://archiveofourown.org/works/53519269
 archives:
   - https://web.archive.org/web/20240927161351/https://archiveofourown.org/works/53519269
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 jan Kowali li toki pi wile sona e ni: “ona li toki e seme?”  

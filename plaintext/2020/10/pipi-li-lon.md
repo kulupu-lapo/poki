@@ -1,20 +1,29 @@
 ---
 title: pipi li lon
-original-title: 虫儿飞
+description: null
 authors:
   - kala pona Tonyu
-original-authors:
-  - Ekin Cheng
+translators: null
+proofreaders: null
 date: 2020-10-09
+date-precision: day
 tags:
   - translation
   - music
   - lyrics
   - lullaby
+original:
+  title: 虫儿飞
+  authors:
+    - Ekin Cheng
 license: null
 sources:
   - https://www.youtube.com/watch?v=sjdAnoGLeF4
   - https://soundcloud.com/kala-pona/pipi-li-kon
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sewi pimeja lon anpa  \

@@ -1,13 +1,23 @@
 ---
 title: wile pi sike pan li kama lon
+description: null
 authors:
 - jan Tamalu
+translators: null
+proofreaders: null
 date: 2021-06-02
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0005pan.pdf
 - https://liputenpo.org/lipu/nanpa-pan/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_kasi_pan.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo wan la kasi pi pan sike walo li lon. ona li lon telo mute li wile alasa e suno. tan ni la ona li kama suli. jan li sona e ni. tan ni la jan li pana e telo mute la kasi li kama suli mute mute kepeken tenpo lili. tenpo li tawa la ona li suli e ijo walo tawa unpa. ona li open e suli pi kili ona. tenpo kama la sike pi kasi pan ni li lon a! ona li kili li lili mute li lon insa pi sike laso kasi.

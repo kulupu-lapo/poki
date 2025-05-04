@@ -1,11 +1,21 @@
 ---
 title: nasin pi sitelen ma pi jan Ekite ala
+description: null
 authors:
   - jan Telakoman
+translators: null
+proofreaders: null
 date: 2021-07-07
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/jan-ekite-ala_si
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi toki e ni: [jan li ken pana e sona ale kepeken toki pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_si). taso sina ken toki e ni: "jan ala li pana e sona suli kepeken toki pona. ni la, mi ken ala sona e ni: toki sina li lon anu seme?"

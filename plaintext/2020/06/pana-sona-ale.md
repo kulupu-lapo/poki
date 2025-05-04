@@ -1,12 +1,21 @@
 ---
 title: jan li ken pana e sona ale kepeken toki pona
+description: null
 authors:
   - jan Telakoman
+translators: null
+proofreaders: null
 date: 2020-06-19
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/pana-sona-ale_si
+archives: null
 preprocessing: removed table of contents
+accessibility-notes: null
+notes: null
 ---
 
 > mi en jan Kapu (Gabriel Mizrahi) li pona e lipu ni.

@@ -1,17 +1,26 @@
 ---
 title: lipu Nasino Sijokapi
-original-title: National Geographic
+description: null
 authors:
   - jan Lakuse
-original-authors:
-  - National Geographic
+translators: null
+proofreaders: null
 date: 2021-02-10
+date-precision: day
 tags:
   - translation
+original:
+  title: National Geographic
+  authors:
+    - National Geographic
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/301380012156911616/809167697614733383
   - https://cdn.discordapp.com/attachments/301380012156911616/809167697388109934/Natgeo_Book_-_Google_Docs.pdf
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## lipu Nasino Sijokapi:

@@ -1,19 +1,26 @@
 ---
 title: mun o pimeja pona
-original-title: Goodnight Moon
 description: '"Goodnight Moon" in Toki Pona. [Listen here](https://youtu.be/Q2UIw8PZsZ8)!'
 authors:
   - jan Kekan San
-original-authors:
-  - jan Margaret Wise Brown
+translators: null
+proofreaders: null
 date: 2021-10-20
-license: null
+date-precision: day
 tags:
   - poetry
+original:
+  title: Goodnight Moon
+  authors:
+    - jan Margaret Wise Brown
+license: null
 sources:
   - https://mun.la/lipu/mun-o-pimeja-pona.html
 archives:
   - https://web.archive.org/web/20241128131532/https://mun.la/lipu/mun-o-pimeja-pona.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lon tomo suli laso la

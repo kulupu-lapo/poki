@@ -1,13 +1,23 @@
 ---
 title: o kepeken e nimi pi poka pi nimi pali
+description: null
 authors:
 - jan Tamalu
+translators: null
+proofreaders: null
 date: 2021-05-07
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf
 - https://liputenpo.org/lipu/nanpa-kasi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_soweli_musi.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan li kepeken nasin mute pi toki pona. toki pona li ken mute. taso jan mute li kepeken lili e ijo wan pi toki pona: nimi pi poka pi nimi pali. ni li seme? ni li ni: mi pali **pona**. mi lape **lili**. mi moku **mute**. jan mute li kepeken e nimi "pona" e nimi "lili" e nimi "mute" e nimi "suli" sama nimi pi poka pi nimi pali. taso sina ken kepeken nimi ali tawa pali ni. o kepeken a! ni li ijo pona mute pi toki pona, taso jan li kepeken lili mute.

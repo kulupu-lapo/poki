@@ -1,13 +1,23 @@
 ---
 title: toki sama pi toki pona
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2021-02-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0001akesi.pdf
 - https://liputenpo.org/lipu/nanpa-akesi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_toki_Pon_Wen.svg
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini la, jan Sonja li pali e toki pona. jan mute la, toki pona li toki pi pilin pona mute. tan ni la, jan mute li sona e toki pona. taso jan mute kin li pali e toki sin tan toki pona.

@@ -1,11 +1,21 @@
 ---
 title: mi musi ala.
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2015-01-07
+date-precision: day
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2015/01/mi-musi-ala.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi lon esun Jinko. 

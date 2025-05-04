@@ -1,8 +1,14 @@
 ---
 title: nimi kijetesantakalu
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2021-05-07
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf
@@ -14,6 +20,9 @@ sources:
 archives:
 - http://web.archive.org/web/*/https://sona.pona.la/wiki/File:kijetesantakalu_spp.png
 - http://web.archive.org/web/*/https://sona.pona.la/wiki/File:kijetesantakalu_elemenopi.png
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # soweli

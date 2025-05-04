@@ -1,15 +1,21 @@
 ---
 title: Aliens…
+description: null
 authors:
   - UnusualEgg
+translators: null
+proofreaders: null
 date: 2001-01-01
 date-precision: none
+tags: null
+original: null
 license: null
 sources:
   - https://ctrl-c.club/~unusualegg/tp_stories.html
 archives:
   - https://web.archive.org/web/20230603221502/https://ctrl-c.club/~unusualegg/tp_stories.html
 preprocessing: changed UCSUR characters to Latin script
+accessibility-notes: null
 notes: toki Inli li lon
 ---
 

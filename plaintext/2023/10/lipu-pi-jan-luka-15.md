@@ -1,14 +1,24 @@
 ---
 title: toki suli nanpa luka luka luka pi lipu sewi pi jan Luka
-original-title: Gospel of Luke, chapter 15
+description: null
 authors:
   - jan Telakoman
-original-authors:
-  - Luke the Evangelist
+translators: null
+proofreaders: null
 date: 2023-10-14
+date-precision: day
+tags: null
+original:
+  title: Gospel of Luke, chapter 15
+  authors:
+    - Luke the Evangelist
 license: null
 sources:
   - https://joelthomastr.github.io/tokipona/lipu-pi-jan-Luka-15_si
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 > sina sona ala e lipu pi jan Luka la mi o pana e sona lili tawa sina. jan Luka li jan pi kulupu pi jan Jesu Kiso, li sitelen e lipu tawa ni: lipu ni li pana e sona pi jan Jesu tawa jan ale.

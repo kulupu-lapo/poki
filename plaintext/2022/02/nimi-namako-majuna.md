@@ -1,12 +1,22 @@
 ---
 title: nimi namako majuna[^1]
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2022-02-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0011walo.pdf
 - https://liputenpo.org/lipu/nanpa-walo/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki pona li kepeken nimi pi nanpa seme? 120? 123? 125? 137? wile sona ni li ike lili. jan ala li sona pona e nanpa nimi pi toki pona. ante la, jan o kepeken lipu pu kepeken lipu ku tawa ni. taso, nimi mute pi toki pona li pu ala li ku ala. sina sona ala sona e ni? ona li nimi namako. jan pi nanpa lili li kepeken nimi namako, taso nimi namako li awen lon.

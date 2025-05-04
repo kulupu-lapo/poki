@@ -1,14 +1,19 @@
 ---
 title: pona ike (bad friend)
+description: null
 authors:
   - Nardi
+translators: null
+proofreaders: null
 date: 2023-05-21
+date-precision: day
 tags:
   - original
   - music
   - lyrics
   - english
   - spanish
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=q1SMCTsPNrE
@@ -28,6 +33,10 @@ sources:
 
   # lyrics:
   - https://lyricstranslate.com/pona-ike-bad-friend.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi jan pona  \

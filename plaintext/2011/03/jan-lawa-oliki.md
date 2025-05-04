@@ -1,11 +1,21 @@
 ---
 title: jan lawa Oliki
+description: null
 authors:
   - jan Elepanto
+translators: null
+proofreaders: null
 date: 2011-03-25
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/jan-lawa-oliki.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "Arrival of Rurik to Ladoga" by Viktor Vasnetsov. Public Domain. -->

@@ -1,8 +1,14 @@
 ---
 title: jan poka mi li tawa
+description: null
 authors:
   - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-10-20
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf
@@ -10,7 +16,10 @@ sources:
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jan_-_soweli_en_poki_01.png
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jan_-_soweli_en_poki_02.png
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jan_-_soweli_en_poki_03.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 ![soweli lili li lukin e poki suli](https://upload.wikimedia.org/wikipedia/commons/4/41/Lipu_tenpo_nanpa_jan_-_soweli_en_poki_01.png)

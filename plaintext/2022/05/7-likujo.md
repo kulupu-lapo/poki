@@ -1,15 +1,24 @@
 ---
 title: 7 (likujo)
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2022-05-09
+date-precision: day
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/album/7-8
   - https://www.youtube.com/watch?v=VOSvCudF5A0
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 nanpa wan la kala ike en monsuta  \

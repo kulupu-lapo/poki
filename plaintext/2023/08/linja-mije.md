@@ -1,12 +1,22 @@
 ---
 title: linja mije
+description: null
 authors:
 - kulupu kala
+translators: null
+proofreaders: null
 date: 2023-08-15
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
 - http://utala.pona.la/toki-en-lipu/toki-lili.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 linja lawa li ijo nasa. ona li ken toki e mute li ken toki e lon sina. taso ona li ken toki e powe.

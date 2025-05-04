@@ -1,21 +1,26 @@
 ---
 title: jan ala o sona a!
-original-title: Та ніхто не буде знати!
 description: toki pona translation of my another work. please read it (if you know
   ukrainian)
 authors:
   - not_someone
-original-authors:
-  - not_someone
+translators: null
+proofreaders: null
 date: 2024-06-08
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original:
+  title: Та ніхто не буде знати!
+  authors:
+    - not_someone
+license: null
 sources:
   - https://archiveofourown.org/works/52700236?view_full_work=true
 archives:
   - https://web.archive.org/web/20240927151727/https://archiveofourown.org/works/52700236?view_full_work=true
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Nijon li lon lipu ni
 ---
 

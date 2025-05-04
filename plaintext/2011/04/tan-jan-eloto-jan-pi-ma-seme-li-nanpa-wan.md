@@ -1,11 +1,21 @@
 ---
 title: tan jan Eloto. jan pi ma seme li jan nanpa wan?
+description: null
 authors:
   - jan Ote
+translators: null
+proofreaders: null
 date: 2011-04-22
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/meli-anu-mije.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![jan li pana e jan lili](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi7NSWWVDvKLtouxMcV3lzYI3bwh2XnD7XzbGHOsmTS2iklEz7cJOgcy4gKg3fofPc_WJ_RuX7W0VsICzYwQCIStwv8gaEz9CNPjgErY_d3YapHjAD3gXV24xP_hVGX1WJU6WvMqDzoHqY/s320/jan-lili-tu.gif)

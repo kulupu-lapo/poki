@@ -1,12 +1,22 @@
 ---
 title: kijetesantakalu loje li kijetesantakalu ala kijetesantakalu?
+description: null
 authors:
   - jan Alonola
+translators: null
+proofreaders: null
 date: 2024-12-29
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0030loje.pdf
   - https://liputenpo.org/lipu/nanpa-loje/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki pona la nimi suli wan li lon: kijetesantakalu. mi lukin e soweli la mi ken sona kepeken nasin seme e ni: ona li kijetesantakalu ala kijetesantakalu. pilin mi la nasin tu li lon.

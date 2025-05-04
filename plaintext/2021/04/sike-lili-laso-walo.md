@@ -1,22 +1,30 @@
 ---
 title: sike lili laso walo
-original-title: The Pale Blue Dot
+description: null
 authors:
   - jan Emalan
-original-authors:
-  - Carl Sagan
+translators: null
 proofreaders:
   - jan Ke Tami
   - soweli nata
   - jan Sijo
 date: 2021-04-01
+date-precision: day
 tags:
   - quote
   - translation
+original:
+  title: The Pale Blue Dot
+  authors:
+    - Carl Sagan
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/301380012156911616/827199410945392720
   - https://cdn.discordapp.com/attachments/301380012156911616/827199410454134824/sike_lili_laso_walo.pdf
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo sike 1990 la ilo Ojase nanpa wan li pali e sitelen ni tan wile pi jan Ka Sekan. jan Ka Sekan li jan pi sona mun li jan pi sitelen lipu. tenpo pali pi sitelen ni la ilo Ojase nanpa wan li weka mute mute tan ma jan. sitelen ni la ma jan li sike lili lili walo lon linja suno.

@@ -1,19 +1,27 @@
 ---
 title: kasi li toki
+description: null
 authors:
   - kapesi Pake
+translators: null
+proofreaders: null
 date: 2024-08-10
-license: CC-BY-SA-4.0
+date-precision: day
 tags:
   - kasi li moli
   - kasi li ken toki
   - pilin ike
   - ike pi nasin kulupu
   - nimi wan pi pu ala
+original: null
+license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/kasi-li-toki.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/kasi-li-toki.html
+archives: null
 preprocessing: Used latin version, the original is sitelen pona
+accessibility-notes: null
+notes: null
 ---
 
 ---

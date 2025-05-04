@@ -1,12 +1,22 @@
 ---
 title: ilo wawa
+description: null
 authors:
 - jan Sepulon
+translators: null
+proofreaders: null
 date: 2023-08-15
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
 - http://utala.pona.la/toki-en-lipu/toki-lili.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 pimeja li lon sinpin pi jan utala ale, li len e ma ko. kalama ala li lon. jan utala ni li sama kiwen laso: ona li tawa ala, li awen. jan ante ala li lukin e ona. waso en pipi en soweli li kalama ala. ma ale li lape lon pimeja pi pilin musi ala.

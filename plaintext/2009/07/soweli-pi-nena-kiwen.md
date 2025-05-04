@@ -1,11 +1,21 @@
 ---
 title: soweli pi nena kiwen
+description: null
 authors:
   - jan Mika
+translators: null
+proofreaders: null
 date: 2009-07-01
+date-precision: day
+tags: null
+original: null
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2009/07/soweli-pi-nena-kiwen.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "Scaly Anteater" by David Brosard (https://www.flickr.com/photos/string_bass_dave/8152835443/). CC BY-SA 2.0. -->

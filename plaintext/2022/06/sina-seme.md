@@ -1,13 +1,18 @@
 ---
 title: sina seme
+description: null
 authors:
   - Nardi
   - Pata Powe
+translators: null
+proofreaders: null
 date: 2022-06-09
+date-precision: day
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=DdJgTcZwW_c
@@ -25,6 +30,10 @@ sources:
   - https://www.lyrics.com/lyric-lf/7939767/NARDI/sina+seme%3F
   - https://lyricstranslate.com/en/nardi-sina-seme-lyrics.html
   - https://sonichits.com/video/NARDI/sina_seme%3F
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina seme lon pini?  \

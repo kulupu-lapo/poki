@@ -1,13 +1,22 @@
 ---
 title: "ma, telo, kon, seli: ijo tu tu pi lon ale"
+description: null
 authors:
   - soweli Lapate
+translators: null
+proofreaders: null
 date: 2024-08-10
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-lili.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-lili.html
+archives: null
 preprocessing: Converted html table to markdown code block for layout.
+accessibility-notes: null
+notes: null
 ---
 
 ```

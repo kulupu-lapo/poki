@@ -1,17 +1,27 @@
 ---
 title: toki insa
+description: null
 authors:
   - socks
-original-authors:
-  - unknown  # added automatically during reschema
+translators: null
+proofreaders: null
 date: 2020-08-19
+date-precision: day
 tags:
   - translation
   - poetry
+original:
+  title: null
+  authors:
+    - unknown # added automatically during reschema
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/340307145373253642/745501313777008651
   - https://cdn.discordapp.net/attachments/340307145373253642/745501313650917436/20200819_003211.jpg
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki insa li sama kon tawa anu lipu kasi

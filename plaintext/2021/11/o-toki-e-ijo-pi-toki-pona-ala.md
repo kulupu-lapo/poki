@@ -1,15 +1,24 @@
 ---
 title: o toki e ijo pi toki pona ala!
+description: null
 authors:
 - jan Itan
 - jan Lakuse
 - jan Tepo
+translators: null
+proofreaders: null
 date: 2021-11-22
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vQGpr6ea_ImXRK25SkR6Q82f6CDvZlagunuSYPpaGVC9-QbfV3Z8_BNgKOlJM23vNrPJcUploq7HETa/pub
 - https://wikisource.org/wiki/Kalama_sin/9
+archives: null
 preprocessing: replaced unusual "j." abbreviation with the full names
+accessibility-notes: null
+notes: null
 ---
 
 **jan Itan:** jan ale o, toki. sina kute e kalama sin nanpa luka tu tu. mi jan Itan, li wile toki e ni tawa sina: kalama sin ni la, nasa mute li lon. jan Tepo en jan Lakuse en mi li kama kulupu taso, mi ale li sona ale e ijo toki! tan ni la, pona la, jan Lakuse li open e kalama sin ni, lon tenpo lili, lon wawa mute. taso pakala la, ilo nanpa li awen ala pona e ni. tan ni la, mi wile toki e ni tawa sina ale: o kute pona e kalama sin ni.

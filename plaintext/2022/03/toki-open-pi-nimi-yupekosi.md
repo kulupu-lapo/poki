@@ -1,12 +1,22 @@
 ---
 title: toki open pi nimi "yupekosi"
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2022-03-10
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0012nimi.pdf
 - https://liputenpo.org/lipu/nanpa-nimi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo sike nanpa 2019 la, jan Sonja (mama pi toki pona) li pilin insa e ni: mi wile musi. ni la, o pali e nimi sin pi musi taso tawa toki pona.

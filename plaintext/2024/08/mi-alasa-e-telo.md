@@ -1,16 +1,25 @@
 ---
 title: mi alasa telo
+description: null
 authors:
   - ijo Wen
+translators: null
+proofreaders: null
 date: 2024-08-10
-license: CC-BY-SA-4.0
+date-precision: day
 tags:
   - monsuta
   - ijo li ken ala e tawa jan
   - pilin pi kama moli
+original: null
+license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/mi-alasa-e-telo.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/mi-alasa-e-telo.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 olin en mi li tawa ma pi poka telo. suno li utala wawa e selo mi. tawa la mi pana e telo tan selo. mi lukin e kasi. kasi suli mute li luka e sewi laso. lipu ona li sama linja, li tawa lili lon kon. 

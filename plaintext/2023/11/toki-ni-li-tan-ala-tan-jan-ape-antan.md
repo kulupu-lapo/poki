@@ -1,12 +1,22 @@
 ---
 title: toki ni li tan ala tan jan Ape Antan?
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2023-11-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0022sin.pdf
 - https://liputenpo.org/lipu/nanpa-sin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina pu la, sina ken kama lukin e toki ni: “sina ken ala toki e ijo lon toki pona la sina sona pona ala e ona”

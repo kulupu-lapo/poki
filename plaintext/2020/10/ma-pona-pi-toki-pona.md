@@ -1,15 +1,24 @@
 ---
 title: ma pona pi toki pona
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-10-05
+date-precision: day
 tags:
   - original
   - poetry
   - story
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/340307145373253642/762572218173095946
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- i was studying for literature and since the current topic i'm learning in school is singlit i thought hey what if we had ma pona lit and then i was in such a poetry vibe i zoomed out something real quick >.> -->

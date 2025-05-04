@@ -1,12 +1,22 @@
 ---
 title: poka sina o lon jan
+description: null
 authors:
 - jan Kasape
+translators: null
+proofreaders: null
 date: 2024-03-20
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0025kalama.pdf
 - https://liputenpo.org/lipu/nanpa-kalama/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan Sonja li pali e lipu lili · ona li nimi e ona ali kepeken kalama · lipu ‹pu› li kama · ona li kama e lipu ‹ku› · jan li ken awen sona e ni ·

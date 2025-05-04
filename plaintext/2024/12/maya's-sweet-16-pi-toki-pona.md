@@ -1,19 +1,27 @@
 ---
 title: Maya's Sweet 16 pi toki pona
-original-title: Maya's Sweet 16
 description: A comic made by Studio Massa as a part of his Ongezellig series, translated
   by jan Majeka.
 authors:
   - jan Majeka
-original-authors:
-  - Studio Massa
+translators: null
 proofreaders:
   - waso Seko
 date: 2024-12-23
+date-precision: day
+tags: null
+original:
+  title: Maya's Sweet 16
+  authors:
+    - Studio Massa
 license: null
 sources:
   - https://www.tumblr.com/jan-majeka-yaps/770611193848250368/i-translated-mayas-sweet-16-into-toki-pona
   - https://drive.google.com/drive/folders/16FCrsFBgMR34bHuL1GreECymdcQpoDMw?usp=sharing
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 maya's sweet 16 pi toki pona

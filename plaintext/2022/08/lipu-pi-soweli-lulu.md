@@ -4,13 +4,21 @@ description: soweli Lulu li soweli pona li olin mute. taso soweli ale li olin al
   olin e ona?
 authors:
 - jan Non
+translators: null
+proofreaders: null
 date: 2022-08-06
+date-precision: day
 tags:
 - moku li lon
+original: null
 license: null
 sources:
 - https://github.com/raacz/utala/blob/main/lipu-lili/lipu-pi-soweli-lulu.md
 - http://utala.pona.la/lipu-lili/lipu-pi-soweli-lulu.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini la soweli lili Lulu li lon.  

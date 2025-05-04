@@ -1,13 +1,22 @@
 ---
 title: ilo li kama kalama
+description: null
 authors:
   - jan Kekan San
+translators: null
+proofreaders: null
 date: 2024-10-11
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://mun.la/lipu/ilo-li-kama-kalama.html
 archives:
   - https://web.archive.org/web/20241128143618/https://mun.la/lipu/ilo-li-kama-kalama.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina lon poka pi olin sina li uta suwi mute.

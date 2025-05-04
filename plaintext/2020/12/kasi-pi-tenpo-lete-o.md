@@ -1,13 +1,12 @@
 ---
 title: kasi pi tenpo lete o  # musi kalama O Christmas Tree
-original-title: O Tannenbaum
+description: null
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
-  - Melchior Franck
-  - Ernst Anschütz
+translators: null
+proofreaders: null
 date: 2020-12-23
+date-precision: day
 tags:
   - translation
   - music
@@ -16,10 +15,20 @@ tags:
   - christmas
   - winter
   - carol
+original:
+  title: O Tannenbaum
+  authors:
+    - folk origin
+    - Melchior Franck
+    - Ernst Anschütz
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2020/12/23/musi-kalama-schneeflockchen-weisrockchen/
   - https://www.youtube.com/watch?v=K7ArP6vr3vo
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 kasi pi tenpo lete o,  \

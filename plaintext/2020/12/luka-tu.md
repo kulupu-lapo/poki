@@ -1,20 +1,28 @@
 ---
 title: luka tu
-original-title: Seven
+description: null
 authors:
   - kala pona Tonyu
-original-authors:
-  - Taylor Swift
+translators: null
+proofreaders: null
 date: 2020-11-27
+date-precision: day
 tags:
   - translation
   - music
   - lyrics
   - pop music
+original:
+  title: Seven
+  authors:
+    - Taylor Swift
 license: null
 sources:
   - https://soundcloud.com/kala-pona/luka-tu
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

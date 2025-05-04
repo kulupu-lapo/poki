@@ -1,13 +1,23 @@
 ---
 title: o pali e telo kili jelo
+description: null
 authors:
 - jan Nowa
+translators: null
+proofreaders: null
 date: 2024-09-07
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0028lawa.pdf
 - https://liputenpo.org/lipu/nanpa-lawa/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_telo_kili_jelo.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![telo kili jelo](https://upload.wikimedia.org/wikipedia/commons/1/15/Lipu_tenpo_nanpa_lawa_-_telo_kili_jelo.png)

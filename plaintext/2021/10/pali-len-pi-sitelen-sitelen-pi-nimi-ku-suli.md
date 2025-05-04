@@ -1,8 +1,14 @@
 ---
 title: pali len pi sitelen sitelen pi nimi ku suli
+description: null
 authors:
 - lon Jawin
+translators: null
+proofreaders: null
 date: 2021-10-06
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0008toki.pdf
@@ -28,6 +34,10 @@ sources:
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_1.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_2.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_3.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sitelen sitelen anu sitelen suwi li sitelen pi toki pona. ona li sama lukin e sitelen Majan; mama pi sitelen sitelen li wile e ni. tenpo pini la sitelen sitelen li jo e nimi pu taso… taso tenpo ni la ona li jo e mute. tenpo pini lili la mama pi toki pona li pana e lipu ku. lipu ku li jo e nimi sin. tan ni la mi en kulupu pi sitelen sitelen taso li lon ilo Telekan (Telegram) li alasa pali e sitelen pi nimi ku suli. mi en ona li pali mute la mi pini. sitelen ni li lon ni:

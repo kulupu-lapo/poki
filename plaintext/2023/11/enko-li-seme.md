@@ -1,12 +1,22 @@
 ---
 title: enko li seme?
+description: null
 authors:
 - jan Lapate
+translators: null
+proofreaders: null
 date: 2023-11-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0022sin.pdf
 - https://liputenpo.org/lipu/nanpa-sin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 kon pi nimi sin “enko” li seme? ijo ale li suli anu lili. ken la, ijo nanpa wan la, ijo nanpa tu li suli. sina ken wile sona e ni: suli pi ijo nanpa wan li seme? suli pi ijo nanpa tu li seme? sina ken nanpa e suli pi ijo ni tu. suli pi ijo ale li wile e nanpa tu wan. nanpa tu wan ni li nanpa e enko ijo. taso ni li nasa: sina weka e ijo la, enko ijo li kama ala weka, li awen. taso tenpo ni la, ijo ala anu kon taso li lon insa pi enko ijo.

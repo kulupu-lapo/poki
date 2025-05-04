@@ -1,12 +1,22 @@
 ---
 title: pilin mi tan "lipu pi nasin sona"
+description: null
 authors:
 - jan Telakoman
+translators: null
+proofreaders: null
 date: 2021-10-31
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0009moli.pdf
 - https://liputenpo.org/lipu/nanpa-moli/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki pona la nimi “pona” li pana e kon tu. kon nanpa wan li pilin pona. kon nanpa tu li ni: ijo li jo ala e ijo lili mute lon insa ona li nasa ala e lawa jan la ijo ni li pona. ala la ijo ni li ike.

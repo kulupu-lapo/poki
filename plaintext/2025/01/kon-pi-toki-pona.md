@@ -1,14 +1,23 @@
 ---
 title: sitelen sitelen - kon pi toki pona
+description: null
 authors:
   - akesi Ejan
+translators: null
+proofreaders: null
 date: 2025-01-10
+date-precision: day
 tags:
   - original
   - blog
+original: null
 license: CC BY 4.0
 sources:
   - https://evannave.com/sitelen/2025-01-10-sitelen-sitelen-li-suli/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 pilin mi

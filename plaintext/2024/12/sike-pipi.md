@@ -5,16 +5,22 @@ description: a translation of Lemon Demon’s song Spiral of Ants, into everyone
   of various Rhythm Heaven and WarioWare songs.
 authors:
   - monumentofgranite
+translators: null
+proofreaders: null
 date: 2024-12-16
+date-precision: day
 tags:
   - 'ao3'
   - 'music'
+original: null
 license: null
 sources:
   - https://archiveofourown.org/works/61372846
 archives:
   - https://web.archive.org/web/20250211130352/https://archiveofourown.org/works/61372846
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

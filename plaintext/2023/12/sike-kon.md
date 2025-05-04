@@ -1,13 +1,23 @@
 ---
 title: sike kon
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2023-12-25
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0023sewi.pdf
 - https://liputenpo.org/lipu/nanpa-sewi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_sike_kon.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![sike kon](https://upload.wikimedia.org/wikipedia/commons/3/32/Lipu_tenpo_nanpa_sewi_-_sike_kon.png)

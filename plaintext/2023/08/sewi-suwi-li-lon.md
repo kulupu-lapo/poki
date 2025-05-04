@@ -1,5 +1,6 @@
 ---
 title: sewi suwi li lon
+description: null
 authors:
   - jan Nikoleta
   - powe Apen
@@ -29,16 +30,24 @@ authors:
   - jan Tesi
   - jan Usawi
   - Yam
+translators: null
+proofreaders: null
 date: 2023-08-22
+date-precision: day
 tags:
   - music
   - alternative rock
+original: null
 license: All Rights Reserved
 sources:
   - https://kqakqa.bandcamp.com/album/jan-kqa-li-kalama-lon-suno-pi-toki-pona-lon-tenpo-sike-nanpa-2023
   - https://open.spotify.com/album/3w0VGm2ELLYzAvcAFkXOid
   - https://music.apple.com/us/album/jan-kqa-li-kalama-lon-suno-pi-toki-pona-lon-tenpo-sike/1703886265
   - https://youtube.com/watch?v=590ppBkeaVg
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi kala taso  \

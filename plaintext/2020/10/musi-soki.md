@@ -1,13 +1,20 @@
 ---
 title: musi Soki (rules of shogi) (wip)
+description: null
 authors:
   - jan Lentan
+translators: null
+proofreaders: null
 date: 2020-10-06
+date-precision: day
 tags: null
+original: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://lipu-sona.pona.la/lentan/shogi
+archives: null
 preprocessing: null
+accessibility-notes: null
 notes: English translation in HTML comments
 ---
 

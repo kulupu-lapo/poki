@@ -1,14 +1,23 @@
 ---
 title: leko nimi
+description: null
 authors:
 - jan Ali
+translators: null
+proofreaders: null
 date: 2021-03-01
+date-precision: day
 tags:
 - 'poetry'
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0002mun.pdf
 - https://liputenpo.org/lipu/nanpa-mun/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 leko nimi toki pona

@@ -1,15 +1,24 @@
 ---
 title: sona pi ijo lili a
+description: null
 authors:
 - jan Kekan San
+translators: null
+proofreaders: null
 date: 2022-10-17
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://mun.la/lipu/sona-pi-ijo-lili-a.html
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_ijo_lili.png
+archives: null
 preprocessing: – wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 sina suli. sina lukin e ijo la, ijo li wan tawa lukin. sina wan tawa lukin! taso, o sona: ijo mute mute li lon insa ijo, li lon insa sina! lon la, ijo ale li jo e ijo mute lon insa ona. ijo wan taso li suli ala li pali lili a. sina ken ala lukin e ijo lili. taso, sina ken lukin e ijo suli. sina lukin e ijo lili tan ni. ijo lili li kama kulupu li kama wan la sina en ijo suli li kama lon!

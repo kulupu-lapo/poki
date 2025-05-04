@@ -1,12 +1,21 @@
 ---
 title: ale ala li pona tawa mi
+description: null
 authors:
 - jan Sotan
+translators: null
+proofreaders: null
 date: 2015-12-20
+date-precision: day
+tags: null
+original: null
 license: All Rights Reserved
 sources:
 - https://www.youtube.com/watch?v=JMn71HY0Z-Q
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[open]  \

@@ -1,13 +1,23 @@
 ---
 title: toki luka pi ma Nikalawa li toki sin, taso jan li pali ala e ona
+description: null
 authors:
 - jan Olipija
+translators: null
+proofreaders: null
 date: 2021-05-07
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf
 - https://liputenpo.org/lipu/nanpa-kasi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_luka_Nikalawa.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 **[o sona e ni - sitelen ni li toki e ni: jan li pali e ike tawa jan pi kute ala]**

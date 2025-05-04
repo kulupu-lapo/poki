@@ -4,8 +4,12 @@ description: '"len tonsi" can have a specific double meaning that is profound an
   freeing to think about.'
 authors:
   - lipamanka
+translators: null
+proofreaders: null
 date: 2001-01-01
 date-precision: none
+tags: null
+original: null
 license: null
 sources:
   - https://lipamanka.gay/toki-pona-taso
@@ -15,6 +19,8 @@ archives:
   - https://web.archive.org/web/20230509011221/https://lipamanka.gay/toki-pona-taso/len-tonsi
 preprocessing: changed sitelen pona to sitelen Lasina, removed the pretty whitespace,
   removed colored text
+accessibility-notes: null
+notes: null
 ---
 
 lipamanka li pali e ni  

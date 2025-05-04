@@ -1,11 +1,10 @@
 ---
 title: Quickies
+description: null
 authors:
   - jan Pije
-original-authors:
-  - Samuel Stoddard
-  - David J. Parker
-  - jan Pije
+translators: null
+proofreaders: null
 date: 2001-01-01
 date-precision: none
 tags:
@@ -13,12 +12,21 @@ tags:
   - translation
   - derivative
   - humorous
+original:
+  title: null
+  authors:
+    - Samuel Stoddard
+    - David J. Parker
+    - jan Pije
 license: CC0 1.0
 sources:
   - http://tokipona.net/tp/janpije/quickies.php  # dead link
 archives:
   - https://web.archive.org/web/20151003153551/http://tokipona.net/tp/janpije/quickies.php
   - https://wikisource.org/wiki/Quickies
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!--

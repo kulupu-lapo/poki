@@ -1,11 +1,21 @@
 ---
 title: kala suwi
+description: null
 authors:
   - soweli toki
+translators: null
+proofreaders: null
 date: 2010-09-01
+date-precision: day
+tags: null
+original: null
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2010/09/kala-suwi.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- https://picasaweb.google.com/lh/photo/v8UVdVu4xeT8fxTfQDIQsw -->

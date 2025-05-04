@@ -1,11 +1,21 @@
 ---
 title: soweli pi uta waso
+description: null
 authors:
   - jan Mika
+translators: null
+proofreaders: null
 date: 2010-09-01
+date-precision: day
+tags: null
+original: null
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2010/09/soweli-pi-uta-waso.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- Philip Bethge. (https://commons.wikimedia.org/wiki/File:Ornithorhynchus.jpg). GDFL, CC BY-SA 4.0, 3.0, 2.5, 2.0, 1.0. -->

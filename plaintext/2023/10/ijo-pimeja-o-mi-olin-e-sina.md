@@ -1,16 +1,22 @@
 ---
 title: ijo Pimeja o, mi olin e sina.
+description: null
 authors:
   - thegreatsoupster
+translators: null
+proofreaders: null
 date: 2023-10-11
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/50758468
 archives:
   - https://web.archive.org/web/20240930135420/https://archiveofourown.org/works/50758468
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 

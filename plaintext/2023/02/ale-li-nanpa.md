@@ -1,15 +1,24 @@
 ---
 title: ale li nanpa
+description: null
 authors:
 - jan Kekan San
+translators: null
+proofreaders: null
 date: 2023-02-06
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://mun.la/lipu/ale-li-nanpa.html
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tu_-_ilo.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 ![ilo li poki e ma li pana lukin e ona lon sinpin](https://upload.wikimedia.org/wikipedia/commons/1/16/Lipu_tenpo_nanpa_tu_-_ilo.png)

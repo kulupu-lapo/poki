@@ -3,15 +3,21 @@ title: mu! mu!
 description: jan Jon en jan Linan li toki utala musi.
 authors:
   - thegreatsoupster
+translators: null
+proofreaders: null
 date: 2024-01-19
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/53143324
 archives:
   - https://web.archive.org/web/20240930134301/https://archiveofourown.org/works/53143324
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 soweli Opi li toki suli, “mu, mu, mu!” soweli Opi li toki tawa jan Linan.

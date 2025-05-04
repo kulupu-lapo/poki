@@ -1,14 +1,23 @@
 ---
 title: ale li awen lon nena   # Untitled poem
+description: null
 authors:
   - jan Lute
+translators: null
+proofreaders: null
 date: 2017-07-25
+date-precision: day
 tags:
   - poetry
   - discord
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/301377942062366741/339963297329840138
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ale li awen lon nena.  \

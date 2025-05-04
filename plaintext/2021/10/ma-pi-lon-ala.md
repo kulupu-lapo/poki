@@ -1,15 +1,24 @@
 ---
 title: ma pi lon ala
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2021-10-11
+date-precision: day
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/album/lon
   - https://www.youtube.com/watch?v=Pnbd0-4rUGE
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lon lawa la sina jo e sitelen ni  \

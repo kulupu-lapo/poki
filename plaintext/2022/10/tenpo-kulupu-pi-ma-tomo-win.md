@@ -1,13 +1,23 @@
 ---
 title: tenpo kulupu pi ma tomo Win
+description: null
 authors:
 - jan Sonatan
+translators: null
+proofreaders: null
 date: 2022-10-17
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_kulupu_pi_ma_Win.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan Ke Tami li jan suli pi toki pona. tenpo mute la ona li pali e toki e sitelen e kalama tawa toki pona. kin la ona li pali e sitelen e toki pi lipu tenpo li lawa e lipu Wesi pi toki pona. tenpo sike ni la ona li kama pilin e ni: "mi wile kulupu lon poka pi jan ante pi toki pona". ona li sona e ni: ma tomo Win la tomo sona pi toki Epelanto li lon. kin la ma tomo ni li lon insa pi ma Elopa. ni la jan Ke Tami li toki e ni tawa jan pi toki pona: "sina wile e ni la jan pi ma Elopa o kulupu lon poka mi lon ma tomo Win." jan mute li lukin e toki ni li pilin pona tawa kulupu. ni la tenpo kulupu li kama lon.

@@ -1,16 +1,24 @@
 ---
 title: 'alasa nimi: ma Apika'
+description: null
 authors:
 - jan Sonatan
+translators: null
+proofreaders: null
 date: 2022-10-17
+date-precision: day
 tags:
 - puzzle
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0016kulupu.pdf
 - https://liputenpo.org/lipu/nanpa-kulupu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_alasa_nimi_(ma_Apika).png
+archives: null
 preprocessing: markdown'd the wordlist
+accessibility-notes: null
+notes: null
 ---
 
 ![alasa nimi (ma Apika)](https://upload.wikimedia.org/wikipedia/commons/f/f7/Lipu_tenpo_nanpa_kulupu_-_alasa_nimi_%28ma_Apika%29.png)

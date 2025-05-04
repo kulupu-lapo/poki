@@ -1,13 +1,23 @@
 ---
 title: toki kala tu
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2025-02-28
+date-precision: day
+tags: null
+original: null
 license: 'CC BY-SA 4.0'
 sources:
   - https://liputenpo.org/lipu/nanpa-kala/
   - https://liputenpo.org/pdfs/0031kala.pdf
   - https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki/nanpa-kala
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 telo li laso lon sewi la,

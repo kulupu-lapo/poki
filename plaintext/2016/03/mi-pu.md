@@ -1,11 +1,21 @@
 ---
 title: mi pu
+description: null
 authors:
   - jan Wenato
+translators: null
+proofreaders: null
 date: 2016-03-11
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://tokisona.github.io/toki/pona/2016/03/11/mi-pu.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lipo lawa (tan jan Sonja) li pona mute.

@@ -1,14 +1,23 @@
 ---
 title: toki linja tu
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2024-07-05
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0027linja.pdf
 - https://liputenpo.org/lipu/nanpa-linja/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_toki_linja_tu.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 ![jan pi lawa linja en jan pi linja ala](https://upload.wikimedia.org/wikipedia/commons/0/00/Lipu_tenpo_nanpa_linja_-_toki_linja_tu.png)

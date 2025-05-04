@@ -1,19 +1,27 @@
 ---
 title: ilo toi
-original-title: Телефон
+description: null
 authors:
   - jan Tepan
-original-authors:
-  - Korney Chukovsky
+translators: null
+proofreaders: null
 date: 2016-09-25
+date-precision: day
 tags:
   - translation
   - poetry
+original:
+  title: Телефон
+  authors:
+    - Korney Chukovsky
 license: null
 sources:
   - https://github.com/stefichjo/toki-pona/blob/master/musi/ilo-toki.md
 archives:
   - https://web.archive.org/web/20191109180014/https://github.com/stefichjo/toki-pona/blob/master/musi/ilo-toki.md
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## ilo toki

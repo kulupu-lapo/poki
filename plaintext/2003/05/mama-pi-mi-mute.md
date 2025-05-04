@@ -1,14 +1,24 @@
 ---
 title: mama pi mi mute
-original-title: Lord's Prayer
+description: null
 authors:
   - Damian Yerrick  # According to Wikipedia's page history; unclear if this is the actual translator
-original-authors:
-  - unknown  # added automatically during reschema
+translators: null
+proofreaders: null
 date: 2005-07-15
+date-precision: day
+tags: null
+original:
+  title: Lord's Prayer
+  authors:
+    - unknown # added automatically during reschema
 license: CC BY-SA 3.0  # License from Wikipedia
 sources:
   - https://en.wikipedia.org/w/index.php?title=Toki_Pona&oldid=1198391
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mama pi mi mute o,  \

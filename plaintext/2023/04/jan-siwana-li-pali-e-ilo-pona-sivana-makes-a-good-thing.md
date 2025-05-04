@@ -3,15 +3,20 @@ title: jan Siwana li pali e ilo pona (Sivana Makes a Good Thing)
 description: Doctor Sivana creates a device with unintended consequences.
 authors:
   - blue_bees
+translators: null
+proofreaders: null
 date: 2023-04-02
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/46183306/chapters/116266990
 archives:
   - https://web.archive.org/web/20240930144237/https://archiveofourown.org/works/46183306/chapters/116266990
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli en toki pona li lon lipu · mi weka e toki Inli
 ---
 

@@ -1,14 +1,23 @@
 ---
 title: pilin mi pi nasin nanpa pona
+description: null
 authors:
   - jan Momo
+translators: null
+proofreaders: null
 date: 2024-03-20
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0025kalama.pdf
   - https://liputenpo.org/lipu/nanpa-kalama/
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_pilin_mi_pi_nasin_nanpa_pona.png
+archives: null
 preprocessing: wrote text descriptions of the lil inline comics
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/10/Lipu_tenpo_nanpa_kalama_-_pilin_mi_pi_nasin_nanpa_pona.png)

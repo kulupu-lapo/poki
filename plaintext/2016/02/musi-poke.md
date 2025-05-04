@@ -1,14 +1,22 @@
 ---
 title: musi Poke
+description: null
 authors:
 - jan Sotan
+translators: null
+proofreaders: null
 date: 2016-02-19
+date-precision: day
 tags:
 - music
+original: null
 license: All Rights Reserved
 sources:
 - https://www.youtube.com/watch?v=d2wlHMWuWnQ
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 [musi #1]

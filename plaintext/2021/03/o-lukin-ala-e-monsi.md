@@ -1,15 +1,24 @@
 ---
 title: o lukin ala e monsi
+description: null
 authors:
 - jan Juli
 - jan Nijo
+translators: null
+proofreaders: null
 date: 2021-03-14
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-03-14-o%20lukin%20ala%20e%20monsi.md
 - https://lipukule.org/post/2021/03/14/o-lukin-ala-e-monsi/
 - https://github.com/lipukule/site/blob/main/static/images/olukinalaemonsi.jpg
 - https://wikisource.org/wiki/Kalama_sin/6
+archives: null
+preprocessing: null
+accessibility-notes: null
 notes: originally published on lipu kule in March. In November, recited on kalama
   sin by jan Juli.
 ---

@@ -1,12 +1,22 @@
 ---
 title: monsuta lon ma pi kasi suli
+description: null
 authors:
 - jan Tekinowi
+translators: null
+proofreaders: null
 date: 2021-05-07
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf
 - https://liputenpo.org/lipu/nanpa-kasi/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina lon ma tomo Patu (Flatwoods) lon ma Wewesinja (West Virginia) la sina ken lukin e sitelen monsuta[^1] lon ijo mute. nimi ona li monsuta Patu. jan ale pi tomo ni li kute e nimi ona. ni li toki jan pi ma tomo.

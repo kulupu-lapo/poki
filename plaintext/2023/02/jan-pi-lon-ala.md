@@ -1,17 +1,26 @@
 ---
 title: jan pi lon ala
-original-title: Antigonish
+description: null
 authors:
 - jan Kapesi Pake
-original-authors:
-- jan Men (William Hughes Mearns)
+translators: null
+proofreaders: null
 date: 2023-02-06
+date-precision: day
 tags:
 - poetry
+original:
+  title: Antigonish
+  authors:
+  - jan Men (William Hughes Mearns)
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini lon leko[^1] la  

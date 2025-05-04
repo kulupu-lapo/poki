@@ -1,11 +1,12 @@
 ---
 title: jan esun li kama  # kalama musi “jan esun li kama”
-original-title: Wellerman
+description: null
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
+translators: null
+proofreaders: null
 date: 2021-03-09
+date-precision: day
 tags:
   - translation
   - music
@@ -13,11 +14,19 @@ tags:
   - ballad
   - folk song
   - sea shanty
+original:
+  title: Wellerman
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/03/09/kalama-musi-jan-esun-li-kama/
   - https://seka.pona.la/w/g2VyTnutAaJStBCyZ41a2F
   - https://www.youtube.com/watch?v=_etwTlHjhBI
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ten-po pini-wan-la, tomo-li-lon telo.  \

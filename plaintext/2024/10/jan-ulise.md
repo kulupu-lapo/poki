@@ -1,15 +1,25 @@
 ---
 title: jan Ulise
-original-title: Ulysses
+description: null
 authors:
   - jan Lapate
-original-authors:
-  - jan Tenison (Alfred Lord Tennyson)
+translators: null
+proofreaders: null
 date: 2024-10-20
+date-precision: day
+tags: null
+original:
+  title: Ulysses
+  authors:
+    - jan Tenison (Alfred Lord Tennyson)
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf
   - https://liputenpo.org/lipu/nanpa-jan/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi jan lawa pi pali lili, li lon poka pi seli pini,  

@@ -1,21 +1,30 @@
 ---
 title: o awen e tenpo pini  # kalama: o awen e tenpo pini
-original-title: Auld Lang Syne
+description: null
 authors:
   - jan Ke Tami
-original-authors:
-  - folk origin
+translators: null
+proofreaders: null
 date: 2021-12-20
+date-precision: day
 tags:
   - translation
   - music
   - lyrics
   - folk song
   - new year's eve
+original:
+  title: Auld Lang Syne
+  authors:
+    - folk origin
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2021/12/20/kalama-o-awen-e-tenpo-pini/
   - https://www.youtube.com/watch?v=dfrBfNq6ujk
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan pi tenpo mi o weka tan sona anu seme?  \

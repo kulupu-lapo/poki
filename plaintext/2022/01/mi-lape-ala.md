@@ -1,13 +1,22 @@
 ---
 title: mi lape ala
+description: null
 authors:
   - Viking Cow
+translators: null
+proofreaders: null
 date: 2022-01-15
+date-precision: day
 tags:
   - music
+original: null
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=xG37VeyXqEU
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi, mi wile lape  \

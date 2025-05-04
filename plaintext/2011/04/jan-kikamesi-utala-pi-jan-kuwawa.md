@@ -1,11 +1,21 @@
 ---
 title: jan Kikamesi. utala pi jan Kuwawa
+description: null
 authors:
   - jan Ote
+translators: null
+proofreaders: null
 date: 2011-04-15
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/jan-kikamesi-utala-pi-jan-kuwawa.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 *jan Kikamesi li jan lawa pi ma tomo Uluku. jan Enkitu li kama tan ma nena. jan Enkitu li jan pona tawa jan Kikamesi. ona li jan sama. ona li wawa mute.*

@@ -1,14 +1,24 @@
 ---
 title: sike mama waso en telo mama soweli li pona ala tan seme?
+description: null
 authors:
 - jan Tanije
+translators: null
+proofreaders: null
 date: 2021-02-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0001akesi.pdf
 - https://liputenpo.org/lipu/nanpa-akesi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_telo_mama_soweli.png
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_sike_mama_waso.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo ni la jan mute li kama lon nasin pi moku soweli ala. ona li wile ala pana e ike tawa soweli li wile ala moku e ona. jan pi nasin ni li pilin e ni: soweli li ijo ala. sama jan la soweli li jo e pilin li wile lon. jan sama li pilin e ni: telo mama soweli anu sike mama waso li ike ala tan ni: soweli anu waso li moli ala.

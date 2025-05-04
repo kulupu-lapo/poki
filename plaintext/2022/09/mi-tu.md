@@ -4,15 +4,21 @@ description: kulupu Upi li jan tu li jan Kuki li jan Sato. taso jan ante li sona
   a! ona li pona e ni.
 authors:
   - dragon_chris
+translators: null
+proofreaders: null
 date: 2022-09-12
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/41662281?view_full_work=true
 archives:
   - https://archive.ph/C4Pl2
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

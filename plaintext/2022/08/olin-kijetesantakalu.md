@@ -5,14 +5,22 @@ description: kijetesantakalu li kama sona e kijetesantakalu sin. pilin sin ni li
 authors:
 - jan Kiwisin
 - jan Telupiso
+translators: null
+proofreaders: null
 date: 2022-08-06
+date-precision: day
 tags:
 - moku mute li lon
 - pakala lili sijelo
+original: null
 license: null
 sources:
 - https://github.com/raacz/utala/blob/main/lipu-lili/olin-kijetesantakalu.md
 - http://utala.pona.la/lipu-lili/olin-kijetesantakalu.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## lipu open:

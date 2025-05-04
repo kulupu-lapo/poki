@@ -1,15 +1,24 @@
 ---
 title: tawa suli soweli
+description: null
 authors:
 - jan pi nimi ala
+translators: null
+proofreaders: null
 date: 2023-08-15
+date-precision: day
 tags:
 - jan pali en ilo ChatGPT li sitelen e lipu ni
 - nimi sin mute pi ku ala
+original: null
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/tawa-suli-soweli.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/tawa-suli-soweli.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ***

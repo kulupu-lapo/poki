@@ -1,18 +1,26 @@
 ---
 title: pini
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2021-02-28
+date-precision: day
 tags:
   - translation
   - music
   - lyrics
   - poetry
   - minecraft
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=VHLoVd_AikE
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

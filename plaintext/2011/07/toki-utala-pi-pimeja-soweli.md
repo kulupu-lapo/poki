@@ -1,13 +1,24 @@
 ---
 title: toki utala pi pimeja soweli
+description: null
 authors:
   - jan Ote
-original-authors:
-  - unknown  # added automatically during reschema
+translators: null
+proofreaders: null
 date: 2011-06-01
+date-precision: day
+tags: null
+original:
+  title: null
+  authors:
+    - unknown # added automatically during reschema
 license: null
 sources:
   - https://olukin.blogspot.com/2011/07/toki-utala-pi-pimeja-soweli.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "Donkey Shadow.jpg" by Metteo Castelli (https://www.flickr.com/photos/travalicando/132043463). CC BY-NC 2.0. -->

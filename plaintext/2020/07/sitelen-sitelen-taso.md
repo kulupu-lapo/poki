@@ -1,14 +1,23 @@
 ---
 title: sitelen sitelen taso
+description: null
 authors:
   - jan Josan
+translators: null
+proofreaders: null
 date: 2020-07-15
+date-precision: day
 tags:
   - original
   - blog
+original: null
 license: All Rights Reserved
 sources:
   - https://jonathangabel.com/2020/sitelen-sitelen-taso/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- Do you all already know about [sitelen sitelen taso][Telegram] on Telegram? I’ve been wanting to do a post about this for a while now, but I couldn’t figure out how to present a good selection of the artworks because there are so many. I’m just going to throw one screen shot below and encourage you to go on and see for yourself. Telegram holds past posts in history so you should be able to scroll back up and see them all. -->

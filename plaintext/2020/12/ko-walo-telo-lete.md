@@ -1,11 +1,12 @@
 ---
 title: ko walo telo lete  # musi kalama Schneeflöckchen Weißröckchen
-original-title: Schneeflöckchen Weißröckchen
+description: null
 authors:
   - jan Ke Tami
-original-authors:
-  - Hedwig Haberkern
+translators: null
+proofreaders: null
 date: 2020-12-23
+date-precision: day
 tags:
   - translation
   - music
@@ -14,10 +15,18 @@ tags:
   - christmas
   - winter
   - carol
+original:
+  title: Schneeflöckchen Weißröckchen
+  authors:
+    - Hedwig Haberkern
 license: CC BY 4.0
 sources:
   - https://janketami.wordpress.com/2020/12/23/musi-kalama-schneeflockchen-weisrockchen/
   - https://www.youtube.com/watch?v=BODg77IKqZw
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ko walo telo lete  \

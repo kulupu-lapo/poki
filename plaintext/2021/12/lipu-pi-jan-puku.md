@@ -1,20 +1,28 @@
 ---
 title: lipu pi jan Puku
-original-title: A Book for Puchku
 description: jan Puku li jo ala e lipu. ona li lukin e lipu mute lon sewi pi poki
   lipu. taso, jan Puku li lili. poki lipu li suli. ona li kama jo e lipu ona kepeken
   seme a?
 authors:
 - Aspen Leigh
-original-authors:
-- Deepanjana Pal
-# - Rajiv Eipe (illustrator)
+translators: null
+proofreaders: null
 date: 2021-12-20
+date-precision: day
 tags:
 - StoryWeaver level 3
+original:
+  title: A Book for Puchku
+  authors:
+  - Deepanjana Pal
+# - Rajiv Eipe (illustrator)
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/374149-lipu-pi-jan-puku
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/53340/size7/50ddf388680dcbcca181f4bd928da414.jpg)

@@ -1,12 +1,22 @@
 ---
 title: mijomi telo[^1]
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2022-07-04
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0014seli.pdf
 - https://liputenpo.org/lipu/nanpa-seli/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo sike pini la kulupu pi toki pona li wile e musi sin. ni la ona li kama e utala musi lon ma pona pi toki pona. utala musi ni la toki suli musi sin o kama a. toki suli ni o musi ni: jan musi o ken toki sama jan pi toki ni o ken pali sama jan pi toki ni o ken pana e tenpo musi pona tawa kulupu lukin. toki suli tu tu wan li kama. mi wile toki e toki suli ni wan. nimi ona li mijomi telo[^1]. jan Kawa en jan Inwin en jan Sewa li pali e ona.

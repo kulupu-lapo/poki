@@ -1,12 +1,22 @@
 ---
 title: nena seli pi ma Isilan
+description: null
 authors:
   - jan Kanso
   - Dave Raftery
+translators: null
+proofreaders: null
 date: 2011-05-20
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/05/nena-seli-pi-ma-isilan.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "Fimmvorduhals second fissure 2010 04 02.JPG" by Boaworm. (https://commons.wikimedia.org/wiki/File:Fimmvorduhals_second_fissure_2010_04_02.JPG) CC BY 3.0.-->

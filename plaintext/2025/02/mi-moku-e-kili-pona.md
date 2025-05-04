@@ -1,16 +1,24 @@
 ---
 title: mi moku e kili pona  # not the original title; title given for Lapo purposes.
+description: null
 authors:
   - pan Kamiju
+translators: null
+proofreaders: null
 date: 2025-02-01
 date-precision: month
 tags:
   - original
   - poetry
   - artwork
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/1218670232785391757/1344341463948988527
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi moku e kili pona,  \

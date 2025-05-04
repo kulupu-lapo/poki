@@ -1,17 +1,26 @@
 ---
 title: wawa pona
-original-title: Strong in the Real Way
+description: null
 authors:
   - jan Kawa
   - jan Minasa
-original-authors:
-  - unknown  # added automatically during reschema
+translators: null
+proofreaders: null
 date: 2017-11-01
+date-precision: day
 tags:
   - music
+original:
+  title: Strong in the Real Way
+  authors:
+    - unknown # added automatically during reschema
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=d8RR9O_FQdg
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ona li jo e wawa seme?  \

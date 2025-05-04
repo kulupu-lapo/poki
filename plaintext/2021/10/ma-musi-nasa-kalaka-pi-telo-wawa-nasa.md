@@ -1,13 +1,23 @@
 ---
 title: ma musi nasa Kalaka pi telo wawa nasa
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2021-10-06
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0008toki.pdf
 - https://liputenpo.org/lipu/nanpa-toki/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_ma_musi_nasa_Kalaka.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini la, ma tomo Kalaka la, jan lawa li wile pali e tomo pi pali wawa. tomo ni li pali e wawa mute kepeken kiwen ike. tomo pi pali wawa ni li ike tawa jan mute pi ma tomo Kalaka. jan mute li tawa utala. ona li wile ala e tomo pi pali wawa ni. ni la, jan lawa li pini ala e tomo pi pali wawa. pona, tomo ni li pini. taso, ona li open ala e ona. tenpo pini la, tomo ni li ken pali e wawa mute, taso ona li open ala pali e wawa mute.

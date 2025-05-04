@@ -1,17 +1,26 @@
 ---
 title: waso
-original-title: The Raven
+description: null
 authors:
   - jan Likipi
-original-authors:
-  - Edgar Alan Poe
+translators: null
+proofreaders: null
 date: 2021-02-10
+date-precision: day
 tags:
   - poetry
+original:
+  title: The Raven
+  authors:
+    - Edgar Alan Poe
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/301380012156911616/808963459101229056
   - https://cdn.discordapp.com/attachments/301380012156911616/808963458838036480/waso.pdf
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # waso

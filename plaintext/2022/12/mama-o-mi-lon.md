@@ -1,16 +1,25 @@
 ---
 title: mama o mi lon
-original-title: Mother, I'm Here
+description: null
 authors:
   - jan Kekan San
-original-authors:
-  - Darren Korb
+translators: null
+proofreaders: null
 date: 2022-12-28
+date-precision: day
+tags: null
+original:
+  title: Mother, I'm Here
+  authors:
+    - Darren Korb
 license: null
 sources:
   - https://mun.la/lipu/mama-o-mi-lon.html
 archives:
   - https://web.archive.org/web/20230325095936/https://mun.la/lipu/mama-o-mi-lon.html
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi tawa a  

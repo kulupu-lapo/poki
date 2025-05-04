@@ -3,15 +3,21 @@ title: jan pi olin ala
 description: jan Sasali li olin ala e jan Semila
 authors:
   - dragon_chris
+translators: null
+proofreaders: null
 date: 2023-02-10
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/44930653
 archives:
   - https://archive.ph/ITV54
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

@@ -1,15 +1,23 @@
 ---
 title: mi lon
+description: null
 authors:
 - kule epiku Atawan
+translators: null
+proofreaders: null
 date: 2020-06-24
+date-precision: day
 tags:
 - original work
+original: null
 license: All Rights Reserved
 sources:
 - https://docs.google.com/document/d/1FwKYb31Bx30o7FYUe1r9UjhR4dLXRR2yHNDJS7JBoV4/edit
 archives:
 - https://web.archive.org/web/20230521064955/https://docs.google.com/document/d/1FwKYb31Bx30o7FYUe1r9UjhR4dLXRR2yHNDJS7JBoV4/edit
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi lon. mi lon e tomo mi e ma tomo e ma. ma li lon e sike suno. suno li lon e ale. tenpo ni la mi kepeken lawa e ni: tenpo ni li lon. lawa mi li jo e ijo mute tan toki mi li lon ma pona pi toki pona. jan ante li lon, kin. mi ken toki tawa jan mute tan jan mute li lon. mi sona e ni.

@@ -1,8 +1,12 @@
 ---
 title: Nasi
+description: null
 authors:
 - jan Kepe
+translators: null
+proofreaders: null
 date: 2023-08-15
+date-precision: day
 tags:
 - moku misikeke li nasa e lawa jan
 - moli mute
@@ -15,11 +19,14 @@ tags:
 - toki Inli
 - nimi ku mute
 - poki li ken ala e tawa jan
+original: null
 license: CC-BY-SA-4.0
 sources:
 - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/nasi.md
 - http://utala.pona.la/toki-en-lipu/lipu-suli/nasi.html
+archives: null
 preprocessing: a lot is required
+accessibility-notes: null
 notes: Nasi is heavily reliant on fancy HTML. It has been uploaded unedited, except
   for removing the utala.pona.la header. Realistically this won't show up correctly
   on your device, so use source links.

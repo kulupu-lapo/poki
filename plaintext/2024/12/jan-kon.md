@@ -1,20 +1,25 @@
 ---
 title: jan kon
-original-title: Shade
 description: jan Emese li weka sona.
 authors:
   - axiomwitch
-original-authors:
-  - axiomwitch
+translators: null
+proofreaders: null
 date: 2024-12-16
+date-precision: day
 tags:
   - 'ao3'
+original:
+  title: Shade
+  authors:
+    - axiomwitch
 license: null
 sources:
   - https://archiveofourown.org/works/61364728/chapters/156851422
 archives:
   - https://web.archive.org/web/20250211125459/https://archiveofourown.org/works/61364728/chapters/156851422
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 

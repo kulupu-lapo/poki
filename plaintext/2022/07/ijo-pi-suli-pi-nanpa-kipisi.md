@@ -1,8 +1,14 @@
 ---
 title: ijo pi suli pi nanpa kipisi
+description: null
 authors:
   - jan Simo
+translators: null
+proofreaders: null
 date: 2022-07-04
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0014seli.pdf
@@ -10,8 +16,11 @@ sources:
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_linja_nanpa.svg
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_leko_nanpa.svg
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_ijo_pi_linja_tu_wan_pi_jan_Sipinsiki.svg
+archives: null
 preprocessing: transcribed images that contained only text; wrote alt text for other
   images
+accessibility-notes: null
+notes: null
 ---
 
 mi wile toki e ijo musi tan sona nanpa. mi wile pana e sona pi ijo pi suli pi nanpa kipisi.

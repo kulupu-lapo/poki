@@ -1,14 +1,23 @@
 ---
 title: jan Eto li alasa e pipi
+description: null
 authors:
   - lipamanka
+translators: null
+proofreaders: null
 date: 2024-08-10
-license: CC-BY-SA-4.0
+date-precision: day
 tags:
   - toki sona pi nasin pipi
+original: null
+license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/jan-Eto-li-alasa-e-pipi.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/jan-Eto-li-alasa-e-pipi.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- [![](sitelen-Eto.svg){: style="width: 100%"}](https://raw.githubusercontent.com/raacz/utala/refs/heads/main/mamtt/lipu-musi/lipu-suli/sitelen-Eto.svg) -->

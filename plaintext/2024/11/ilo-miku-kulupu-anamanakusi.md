@@ -1,22 +1,28 @@
 ---
 title: Ilo Miku - kulupu Anamanakusi
-original-title: Miku
 description: Translation of the song "Miku" by Anamanaguchi into toki pona! mi ante
   toki e kalama musi「Miku」tawa toki pona!
 authors:
   - ijo Kinesin
-original-authors:
-  - Anamanaguchi
+translators: null
+proofreaders: null
 date: 2024-11-13
+date-precision: day
 tags:
   - 'ao3'
   - 'music'
+original:
+  title: Miku
+  authors:
+    - Anamanaguchi
 license: null
 sources:
   - https://archiveofourown.org/works/60539194
 archives:
   - https://web.archive.org/web/20250211122213/https://archiveofourown.org/works/60539194
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

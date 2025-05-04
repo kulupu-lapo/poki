@@ -1,19 +1,27 @@
 ---
 title: jan pona a mi
-original-title: My Best Friend
 description: 'sina wile jo e jan pona nasa la o lukin e lipu ni. ni la sina ken kama
   pilin e ni: sina jo e jan pona nasa!'
 authors:
 - Simon K
-original-authors:
-- Anupa Lal
-# - Suvidha Mistry (illustrator)
+translators: null
+proofreaders: null
 date: 2022-02-06
+date-precision: day
 tags:
 - StoryWeaver level 1
+original:
+  title: My Best Friend
+  authors:
+  - Anupa Lal
+# - Suvidha Mistry (illustrator)
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/410253-jan-pona-a-mi
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/12939/size7/26f3c562e8fcf285da64ace4885497a2.jpg)

@@ -1,14 +1,23 @@
 ---
 title: ali li ale - namako
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2024-02-07
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0024tenpo.pdf
 - https://liputenpo.org/lipu/nanpa-tenpo/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_ali_li_ale.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 tenpo mun pini la, mi sitelen e lipu musi lili. nimi ona li “ali li ale.” ona li tawa “utala musi pi ma pona.” taso, mi ante lili e nimi pi nanpa lili lon lipu. sina ken lukin e pali pini lon lipu ni: https://tinyurl.com/ali-li-ale-a

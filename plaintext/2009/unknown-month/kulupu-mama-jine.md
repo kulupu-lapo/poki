@@ -8,16 +8,20 @@ description: When trying to determine just what it is that makes humanity unique
   as language.
 authors:
   - jan Jonan
-original-authors:
-  - Wolf Blitzer    # jan Muwawa
-  - Richard Heene   # jan Wiko Jine
-  - Bradford Heene  # jan Patopa
-  - Mayumi Heene    # jan Majumi
+translators: null
+proofreaders: null
 date: 2009-01-01
 date-precision: year
 tags:
   - translation
   - artwork
+original:
+  title: null
+  authors:
+    - Wolf Blitzer  # jan Muwawa
+    - Richard Heene # jan Wiko Jine
+    - Bradford Heene # jan Patopa
+    - Mayumi Heene  # jan Majumi
 license: All Rights Reserved
 sources:
   - https://jonathangabel.com/artworks/t47/t47_09_001/
@@ -28,6 +32,10 @@ sources:
   - https://jonathangabel.com/artworks/t47/t47_09_006/
   - https://jonathangabel.com/artworks/t47/t47_09_007/
   - https://jonathangabel.com/artworks/t47/t47_09_008/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!--  WOLF BLITZER, HOST, GUEST HOST: Tonight, the runaway balloon drama – a 6-year-old boy feared to be on board, maybe plunging to his death out of the swiftly moving craft. The child named Falcon the focus of air and ground search efforts and a captivated nationwide TV audience. The three hour ordeal lived by his desperate family has a happy ending. They’re all here next on LARRY KING LIVE. We want to welcome our viewers in the United States and around the world. I’m Wolf Blitzer sitting in for Larry tonight. -->

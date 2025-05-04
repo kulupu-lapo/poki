@@ -1,13 +1,23 @@
 ---
 title: sitelen pona o lon ala nasin Juniko
+description: null
 authors:
   - jan Kasape
+translators: null
+proofreaders: null
 date: 2024-10-20
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf
   - https://liputenpo.org/lipu/nanpa-jan/
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_nasin_Juniko.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![jan li lon ilo nimi · ilo li pana e nimi mute](https://upload.wikimedia.org/wikipedia/commons/b/b0/Lipu_tenpo_nanpa_tenpo_-_nasin_Juniko.png)

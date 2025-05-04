@@ -1,20 +1,25 @@
 ---
 title: tenpo pimeja pini
-original-title: The Final Night
 description: “tenpo ni li tenpo pini.”
 authors:
   - axiomwitch
-original-authors:
-  - axiomwitch
+translators: null
+proofreaders: null
 date: 2024-12-15
+date-precision: day
 tags:
   - 'ao3'
+original:
+  title: The Final Night
+  authors:
+    - axiomwitch
 license: null
 sources:
   - https://archiveofourown.org/works/61341418/chapters/156788023
 archives:
   - https://web.archive.org/web/20250211124952/https://archiveofourown.org/works/61341418/chapters/156788023
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 

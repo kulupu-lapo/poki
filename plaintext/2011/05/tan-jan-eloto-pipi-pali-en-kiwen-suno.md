@@ -1,11 +1,21 @@
 ---
 title: tan jan Eloto. pipi pali en kiwen suno
+description: null
 authors:
   - jan Ote
+translators: null
+proofreaders: null
 date: 2011-05-13
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/05/tan-jan-eloto-pipi-pali-en-kiwen-suno.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- Derived from <https://franpritchett.com/00generallinks/munster/india/page1082.jpg> -->

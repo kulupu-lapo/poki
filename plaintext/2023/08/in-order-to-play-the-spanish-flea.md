@@ -1,14 +1,23 @@
 ---
 title: in order to play the spanish flea
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2023-08-05
+date-precision: day
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/album/toki-gaming
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 There was a little Spanish flea   \

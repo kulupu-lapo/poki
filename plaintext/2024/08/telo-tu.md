@@ -1,14 +1,23 @@
 ---
 title: telo tu
+description: null
 authors:
   - jan Pontu
+translators: null
+proofreaders: null
 date: 2024-08-10
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-lili.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-lili.html
+archives: null
 preprocessing: used the latin version; the original is sitelen pona. Replaced html
   with markdown.
+accessibility-notes: null
+notes: null
 ---
 
 telo li kama la,  

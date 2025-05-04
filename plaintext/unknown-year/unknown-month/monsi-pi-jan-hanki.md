@@ -1,20 +1,27 @@
 ---
 title: monsi pi jan Hanki
-original-title: Kissing Hank’s Ass
-date: 2001-01-01
-date-precision: none
+description: null
 authors:
   - Michael F.
-original-authors:
-  - James Huber
+translators: null
+proofreaders: null
+date: 2001-01-01
+date-precision: none
 tags:
   - translation
   - prose
+original:
+  title: Kissing Hank’s Ass
+  authors:
+    - James Huber
 license: CC BY-NC 3.0
 sources:
   - http://failbluedot.com/toki_pona/kha
 archives:
   - https://web.archive.org/web/20140305061302/http://failbluedot.com/toki_pona/kha
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # Kissing Hank’s Ass

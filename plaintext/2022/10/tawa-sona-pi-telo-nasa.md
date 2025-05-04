@@ -1,15 +1,24 @@
 ---
 title: tawa (sona pi telo nasa)
+description: null
 authors:
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2022-10-28
+date-precision: day
 tags:
   - music
   - pop
+original: null
 license: CC BY-SA-NC 4.0
 sources:
   - https://janusawi.bandcamp.com/album/utala-ni-li-pona-a
   - https://www.youtube.com/watch?v=nsDLoDw9qp0
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina jan sona

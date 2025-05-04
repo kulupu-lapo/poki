@@ -1,16 +1,25 @@
 ---
 title: suno pi toki pona
+description: null
 authors:
 - jan Kepe
 - jan Lakuse
 - soweli nata
 - jan Tepo
+translators: null
+proofreaders: null
 date: 2022-09-29
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://docs.google.com/document/d/e/2PACX-1vT5TjC0KHzqi5vz7UI8xnHAVbypdSHlMCyfa6tmSb3rmfVT6oyUI5yGFU3Z3BpY2MBPFeYBG6alQ9Yf/pub
 - https://wikisource.org/wiki/Kalama_sin/25
+archives: null
 preprocessing: replaced unusual abbreviations with the full names
+accessibility-notes: null
+notes: null
 ---
 
 **jan Lakuse:** ijo ale, soweli ale,

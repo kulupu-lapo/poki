@@ -1,14 +1,23 @@
 ---
 title: ma anpa pi ma tomo Paki
+description: null
 authors:
 - kiki Kijana
+translators: null
+proofreaders: null
 date: 2023-12-25
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0023sewi.pdf
 - https://liputenpo.org/lipu/nanpa-sewi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_ma_anpa_pi_ma_tomo_Paki.png
+archives: null
 preprocessing: wrote alt text
+accessibility-notes: null
+notes: null
 ---
 
 ![jan li suno tawa ma pimeja kepeken ilo · lawa moli jan li lon noka ona](https://upload.wikimedia.org/wikipedia/commons/1/12/Lipu_tenpo_nanpa_sewi_-_ma_anpa_pi_ma_tomo_Paki.png)

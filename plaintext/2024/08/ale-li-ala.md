@@ -1,13 +1,18 @@
 ---
 title: ∞ ᐳ ×
+description: null
 authors:
   - Nardi
   - jan Usawi
+translators: null
+proofreaders: null
 date: 2024-08-10
+date-precision: day
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=nbCfvO9wRO4
@@ -27,6 +32,10 @@ sources:
 
   # lyrics:
   - https://www.shazam.com/song/1759796205/-feat-jan-usawi
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 lon tenpo sin  \

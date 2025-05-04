@@ -1,12 +1,22 @@
 ---
 title: tomo lape pi Pocatello
+description: null
 authors:
   - anonymous # jan Lakuse li toki e ni: "jan pali li wile len e nimi ona"
+translators: null
+proofreaders: null
 date: 2024-08-10
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA-4.0
 sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-lili.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-lili.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 \[telo suli la sina kute e ni: nena telo li kalama suwi. sina kute e mu kin pi waso telo walo lon sewi weka.]

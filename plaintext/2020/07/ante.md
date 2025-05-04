@@ -1,14 +1,23 @@
 ---
 title: ante
+description: null
 authors:
   - jan Melako
+translators: null
+proofreaders: null
 date: 2020-07-11 # Creation date of the document
+date-precision: day
 tags:
   - original
   - story
+original: null
 license: null
 sources:
   - https://docs.google.com/document/d/1k1WC0xiNZDWbSshOb-fo03RzdnRboAdmtbe-lZMjuRQ/edit?tab=t.0
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 # ante

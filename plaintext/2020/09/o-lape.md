@@ -1,12 +1,17 @@
 ---
 title: o lape
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-09-26
+date-precision: day
 tags:
   - original
   - music
   - lyrics
+original: null
 license: null
 sources:
   # original by kala pona Tonyu:
@@ -24,7 +29,10 @@ sources:
   # covers:
   - https://www.youtube.com/watch?v=SeSNgWu1yNA            # by jan Ke Tami
   - https://seka.pona.la/w/8aiASAdAWF8iCjR2WnbhhB          # by jan Ke Tami
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[sike]  \

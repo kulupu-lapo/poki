@@ -1,13 +1,23 @@
 ---
 title: nasin sewi Puta
+description: null
 authors:
 - jan Palo
+translators: null
+proofreaders: null
 date: 2021-06-02
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0005pan.pdf
 - https://liputenpo.org/lipu/nanpa-pan/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_nasin_Tama.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan ale pi ma Elopa en ma Mewika li sona pona e nasin sewi Kolisu e nasin sewi Jawatu (יהדות/ Yahadut). ken la jan mute li sona e nasin sewi Silami kin. taso jan mute li sona ala e nasin sewi Puta, anu ona li sona lili. tan ni la mi sitelen e lipu lili ni.

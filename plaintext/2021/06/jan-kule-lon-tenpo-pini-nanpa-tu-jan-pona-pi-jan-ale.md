@@ -1,13 +1,23 @@
 ---
 title: jan kule lon tenpo pini - nanpa tu - jan pona pi jan ale
+description: null
 authors:
 - jan Olipija
+translators: null
+proofreaders: null
 date: 2021-06-02
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0005pan.pdf
 - https://liputenpo.org/lipu/nanpa-pan/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_jan_pona_pi_jan_ale.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini lili la, jan li lon ma Mewika lon kulupu Kuwaka. nimi ona li jan pona pi jan ale (toki Inli la, nimi ‘Public Universal Friend’ anu nimi ‘PUF’). ona li mije ala li meli ala. tenpo ni la, toki Inli li jo ala e nimi sama nimi tonsi. ken la, ona li lon tenpo ni la, ona li tonsi!

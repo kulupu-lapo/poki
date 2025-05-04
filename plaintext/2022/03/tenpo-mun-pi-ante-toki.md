@@ -1,13 +1,23 @@
 ---
 title: tenpo mun pi ante toki
+description: null
 authors:
 - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2022-03-10
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0012nimi.pdf
 - https://liputenpo.org/lipu/nanpa-nimi/
 - https://commons.wikimedia.org/wiki/File:Icon_of_mun_pi_ante_toki.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ma pona pi toki pona li kulupu suli pi toki pona lon tenpo ni la, seme li sin lon ma pona pi toki pona? a, ona li wile e tenpo kulupu. tenpo kulupu ni la, jan mute li ken pali, li ken pali e pali sama, li ken pali e pali pi jan wan taso kin. tenpo kulupu ni li tenpo mun pi ante toki. tenpo pi ante toki li seme? ken la, lipu en musi en ilo en kalama en sitelen li pona a tawa sina, taso ijo ni li kepeken ala toki pona. ni la, jan li ken ante e toki pi ijo ni tawa toki pona.

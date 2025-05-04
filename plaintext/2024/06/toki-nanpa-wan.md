@@ -1,20 +1,25 @@
 ---
 title: "[TOKI NANPA WAN]"
-original-title: Deltarune - CONTACT
 description: CONTACT (Deltarune intro/build-a-vessel sequence in toki pona)
 authors:
   - ijo Kinesin
-original-authors:
-  - Toby Fox
+translators: null
+proofreaders: null
 date: 2024-06-08
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original:
+  title: Deltarune - CONTACT
+  authors:
+    - Toby Fox
+license: null
 sources:
   - https://archiveofourown.org/works/56501026/chapters/143589478
 archives:
   - https://web.archive.org/web/20240927141449/https://archiveofourown.org/works/56501026/chapters/143589478
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon lipu ni; lipu open la sitelen `\n` mute li poka li lon e weka
   suli · nasin Markdown la ni li ken ala
 ---

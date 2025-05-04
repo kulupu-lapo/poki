@@ -1,11 +1,21 @@
 ---
 title: soweli li toki e soweli.
+description: null
 authors:
   - soweli Peka
+translators: null
+proofreaders: null
 date: 2014-04-03
+date-precision: day
+tags: null
+original: null
 license: null    # mi pana e sitelen ali mi tawa jan ale.
 sources:
   - https://tokisoweli.blogspot.com/2014/04/soweli-li-toki-e-toki-soweli.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi wile e ni: mi toki pona e toki pona.

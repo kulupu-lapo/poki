@@ -1,12 +1,22 @@
 ---
 title: sike mun tu
+description: null
 authors:
   - melrose9843
   - sami
+translators: null
+proofreaders: null
 date: 2018-03-13
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/423151642167345152/423154399121244170
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo suno wan la mi pilin ike.  \

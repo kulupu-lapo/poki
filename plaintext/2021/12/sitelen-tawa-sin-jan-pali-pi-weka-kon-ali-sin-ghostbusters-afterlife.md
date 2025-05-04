@@ -1,13 +1,23 @@
 ---
 title: sitelen tawa sin jan pali pi weka kon - ali sin [Ghostbusters - Afterlife]
+description: null
 authors:
 - jan Pije
+translators: null
+proofreaders: null
 date: 2021-12-08
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0010lete.pdf
 - https://liputenpo.org/lipu/nanpa-lete/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_sitelen_tawa.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 tenpo mun ni la sitelen tawa sin li kama: jan pali pi weka kon: ali sin [Ghostbusters: Afterlife]. jan mute li wile lukin e ona!

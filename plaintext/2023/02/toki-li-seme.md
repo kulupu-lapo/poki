@@ -1,13 +1,23 @@
 ---
 title: toki li seme?
+description: null
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2023-02-06
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0018tu.pdf
 - https://liputenpo.org/lipu/nanpa-tu/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tu_-_jan_Make_Wajenlake.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ni la, mi wile toki e ni: “toki” li ijo seme? mi toki taso e toki sama toki Tosi anu toki Losi anu toki pona. o awen. toki pona li toki ala toki?

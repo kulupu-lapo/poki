@@ -1,14 +1,23 @@
 ---
 title: toki poki pi lon ante
+description: null
 authors:
   - akesi Ejan
+translators: null
+proofreaders: null
 date: 2025-02-04
+date-precision: day
 tags:
   - original
   - blog
+original: null
 license: CC BY 4.0
 sources:
   - https://evannave.com/sitelen/2025-02-04-toki-pi-lon-ante/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 toki poki pi lon ante.

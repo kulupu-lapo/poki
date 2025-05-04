@@ -13,19 +13,19 @@ See also the [schema validation code](utils/validate-schemas.ts).
 ```yaml
 ---
 title:
-original-title:
 description:
 authors:
-  - 
-original-authors:
-  - 
-translators:
   - 
 proofreaders:
   - 
 date: # yyyy-mm-dd
+date-precision: # day, month, year, none
 tags:
-  - 
+  -
+original:
+  title:
+  authors:
+    -
 license: # `null` if no or unknown license
 sources:
   - 

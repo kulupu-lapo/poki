@@ -1,12 +1,22 @@
 ---
 title: nasin sin pi selo toki
+description: null
 authors:
   - jan Ke Tami
+translators: null
+proofreaders: null
 date: 2024-12-29
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0030loje.pdf
   - https://liputenpo.org/lipu/nanpa-loje/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 sina lukin o, sina ken sona e nasin musi toki wan. mi en jan ante kin li kepeken ona lon lipu tenpo. nimi ona li Leko Nimi. nimi mute li lon la sina ken lukin pi nasin tu e ona. nasin lukin nanpa wan la o lukin tan poka wan tawa poka ante. nasin lukin nanpa tu la o lukin tan sewi tawa anpa. nimi li awen sama. taso toki tu li lon a! musi pona.
 

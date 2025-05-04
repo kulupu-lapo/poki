@@ -1,20 +1,28 @@
 ---
 title: luka sina
+description: null
 authors:
   - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2020-12-27
+date-precision: day
 tags:
   - original
   - music
   - lyrics
   - album track
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=CA8IDSsdj_Y
   - https://www.youtube.com/watch?v=ElSgWkww_Qo
   - https://soundcloud.com/kala-pona/luka-sike
   - https://open.spotify.com/track/485NBaEzTIG6FfPvtVKTV2
+archives: null
 preprocessing: Section headers are wrapped inside square brackets.
+accessibility-notes: null
+notes: null
 ---
 
 \[musi #1]  \

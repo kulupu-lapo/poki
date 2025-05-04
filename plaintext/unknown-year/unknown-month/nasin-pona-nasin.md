@@ -1,19 +1,27 @@
 ---
 title: toki musi en nasin pona
+description: null
 authors:
   - jan Nikita
-original-authors:
-  - unknown  # added automatically during reschema
+translators: null
+proofreaders: null
 date: 2001-01-01
 date-precision: none
 tags:
   - translation
   - taoism
+original:
+  title: null
+  authors:
+    - unknown # added automatically during reschema
 license: CC0 1.0
 sources:
   - http://tokipona.net/tp/janpije/nasinpona-nasin.php  # dead link
 archives:
   - https://web.archive.org/web/20170731111941/http://tokipona.net/tp/janpije/nasinpona-nasin.php
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## toki musi pi nasin pona

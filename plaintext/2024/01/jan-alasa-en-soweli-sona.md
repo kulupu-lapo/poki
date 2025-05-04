@@ -5,15 +5,21 @@ description: "jan alasa li wile moku. taso: jan ona li ken ala alasa tan ken taw
   fable about a fox and a hunter. ]"
 authors:
   - Palian
+translators: null
+proofreaders: null
 date: 2024-01-02
-license: null
+date-precision: day
 tags:
   - "fan fiction"
+original: null
+license: null
 sources:
   - https://archiveofourown.org/works/52757521
 archives:
   - https://web.archive.org/web/20240930134634/https://archiveofourown.org/works/52757521
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 jan alasa en soweli sona li utala kin!

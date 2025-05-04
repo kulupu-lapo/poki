@@ -1,15 +1,25 @@
 ---
 title: tenpo kama la pona lukin
-original-title: Beautiful One Day (Remix 9)
+description: null
 authors:
   - jan Misali
+translators: null
+proofreaders: null
 date: 2023-03-07
+date-precision: day
 tags:
   - music
+original:
+  title: Beautiful One Day (Remix 9)
+  authors: null
 license: CC BY-NC 4.0
 sources:
   - https://www.youtube.com/watch?v=0XoJzPsjZRQ
   - https://conlangcritic.bandcamp.com/track/tenpo-kama-la-pona-lukin
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan li toki e ni: ni li ma mije  \

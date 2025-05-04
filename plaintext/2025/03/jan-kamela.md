@@ -1,13 +1,18 @@
 ---
 title: jan Kamela
-original-title: ¡Ay! Carmela
+description: null
 authors:
   - soko Sijeni
-original-authors:
-  - Coro Popular Jabalón
+translators: null
+proofreaders: null
 date: 2025-03-29
+date-precision: day
 tags:
   - music
+original:
+  title: ¡Ay! Carmela
+  authors:
+    - Coro Popular Jabalón
 license: null
 sources:
   - https://ivaaan.neocities.org/jan-kamela/
@@ -15,6 +20,8 @@ archives:
   - https://web.archive.org/web/0/https://ivaaan.neocities.org/jan-kamela/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
+accessibility-notes: null
+notes: null
 ---
 
 jan ike lon linja telo  

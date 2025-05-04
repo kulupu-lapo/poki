@@ -1,12 +1,22 @@
 ---
 title: sowejoki
+description: null
 authors:
 - kala pona Tonyu
+translators: null
+proofreaders: null
 date: 2021-02-16
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2021-02-16-sowejoki.md
 - https://lipukule.org/post/2021/02/16/sowejoki/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 sina sona ala sona e toki musi '[Jabberwocky](https://www.poetryfoundation.org/poems/42916/jabberwocky)' tan jan Luwikalo (Lewis Carroll)? ona li toki musi pi wawa mute. jan mute li sona e ona, taso ona li sama ala pi toki musi ante.

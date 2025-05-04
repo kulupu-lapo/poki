@@ -1,11 +1,21 @@
 ---
 title: pipi pi moli luka
+description: null
 authors:
   - jan Mika
+translators: null
+proofreaders: null
 date: 2010-09-01
+date-precision: day
+tags: null
+original: null
 license: CC BY-NC-SA 3.0
 sources:
   - https://soweli.blogspot.com/2010/09/pipi-pi-moli-luka.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "Praying Mantis Pose 5617" by CatDancing (https://www.flickr.com/photos/catdancing/1437017456/). CC BY-NC 2.0. -->

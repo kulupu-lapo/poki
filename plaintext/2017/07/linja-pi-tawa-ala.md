@@ -1,17 +1,26 @@
 ---
 title: linja pi tawa ala
-original-title: The Road Not Taken
+description: null
 authors:
   - jan Maliku
-original-authors:
-  - Robert Frost
+translators: null
+proofreaders: null
 date: 2017-07-28
+date-precision: day
 tags:
   - translation
   - poetry
+original:
+  title: The Road Not Taken
+  authors:
+    - Robert Frost
 license: null
 sources:
   - https://discord.com/channels/301377942062366741/340307145373253642/340307536001368082
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 linja tu li ante lon kulupu kasi pi loje kule  \

@@ -1,13 +1,23 @@
 ---
 title: musi Kasi li lili li suwi li pona
+description: null
 authors:
 - jan Olipija
+translators: null
+proofreaders: null
 date: 2021-05-07
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0004kasi.pdf
 - https://liputenpo.org/lipu/nanpa-kasi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_musi_Kasi.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 musi Kasi li musi lon ilo sona. jan Kilaki li jan pi toki pona li pali e ona. esun Sima (Steam) la, jan li ken esun e mani pi mute lili e musi ni. nimi ona li lon toki pona. kin la, jan li pona lon musi la, toki li kama la, toki ni li lon toki pona. taso toki pona li lon insa ala pi musi ni tan ni: toki ala li lon musi ni. lipu pi pini musi taso la, toki li lon.

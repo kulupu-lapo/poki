@@ -1,11 +1,21 @@
 ---
 title: sike wan
+description: null
 authors:
   - jan Pije
+translators: null
+proofreaders: null
 date: 2011-02-11
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/03/sike-wan.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 <!-- "File:Unico Anello.png" by Xander. Public Domain. -->

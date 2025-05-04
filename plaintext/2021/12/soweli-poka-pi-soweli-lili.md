@@ -1,20 +1,28 @@
 ---
 title: soweli poka pi soweli lili
-original-title: A Friend for Little Goat
 description: 'tomo sona li pona ala tawa soweli lili. tomo sona li suli a. soweli
   lili li lili a. taso, ona li kama sona e ni: ona li lon poka pi soweli pona la,
   tomo sona li kama pona.'
 authors:
 - jan Kita
-original-authors:
-- Sudeshna Shome Ghosh
-# - Aratrika Choudhury (illustrator)
+translators: null
+proofreaders: null
 date: 2021-12-20
+date-precision: day
 tags:
 - StoryWeaver level 3
+original:
+  title: A Friend for Little Goat
+  authors:
+  - Sudeshna Shome Ghosh
+# - Aratrika Choudhury (illustrator)
 license: CC-BY-4.0
 sources:
 - https://storyweaver.org.in/en/stories/374174-soweli-poka-pi-soweli-lili
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ![](https://storage.googleapis.com/static.storyweaver.org.in/illustration_crops/56603/size7/b2b323012179be1f5327a39cbaa1a192.jpg)

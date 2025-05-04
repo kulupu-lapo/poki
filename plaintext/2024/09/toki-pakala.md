@@ -1,12 +1,22 @@
 ---
 title: toki pakala
+description: null
 authors:
 - jan Kasape
+translators: null
+proofreaders: null
 date: 2024-09-07
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0028lawa.pdf
 - https://liputenpo.org/lipu/nanpa-lawa/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 jan li wile toki la ken la ona li toki e wile ona ala · kulupu li toki pona lon ma Pelin la mi kute e toki ni mute pakala · jan Toma li toki e ni : ‹tono tomo sona› · kin[^1] jan Ke Tami li toki e ni : ‹mi ken ala luka pona jo pona e lipu› · pakala ni li musi · taso seme li pali e ona ·

@@ -1,12 +1,22 @@
 ---
 title: jan pali li ken ala ken kama lawa e nasin pali?
+description: null
 authors:
 - jan Kapesi Pake
+translators: null
+proofreaders: null
 date: 2023-07-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0020nasin.pdf
 - https://liputenpo.org/lipu/nanpa-nasin/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ni li toki pi nasin jan. o sona e ni: lipu ni la, mi toki e nasin jan mute e nasin lawa mute. mi toki lili e pakala jan e moli jan. ni li ken ike, taso ona li sona suli kin.

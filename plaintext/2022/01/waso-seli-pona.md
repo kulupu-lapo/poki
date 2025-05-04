@@ -1,12 +1,22 @@
 ---
 title: waso seli pona
+description: null
 authors:
 - jan Jan
+translators: null
+proofreaders: null
 date: 2022-01-20
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://github.com/lipukule/site/blob/main/content/post/2022-01-20-waso-seli-pona.md
 - https://lipukule.org/post/2022/03/01/waso-seli-pona/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 ## ijo wile

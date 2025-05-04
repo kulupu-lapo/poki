@@ -49,10 +49,18 @@ description: 'lipu:
   4.0, https://commons.wikimedia.org/w/index.php?curid=115506141'
 authors:
 - jan Alonola
+translators: null
+proofreaders: null
 date: 2022-09-18
+date-precision: day
+tags: null
+original: null
 license: null
 sources:
 - https://www.youtube.com/watch?v=HzQia3rn-pk
+archives: null
+preprocessing: null
+accessibility-notes: null
 notes: reformatted manually
 ---
 

@@ -1,13 +1,23 @@
 ---
 title: luka pona li seme?
+description: null
 authors:
 - jan Olipija
+translators: null
+proofreaders: null
 date: 2021-02-01
+date-precision: day
+tags: null
+original: null
 license: CC-BY-SA 4.0
 sources:
 - https://liputenpo.org/pdfs/0001akesi.pdf
 - https://liputenpo.org/lipu/nanpa-akesi/
 - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_luka_pona.png
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi kama tawa kulupu pi toki pona la, pu li toki e ni: “toki pona li jo e toki pona luka. sina ken toki e toki pona kepeken luka.” ni la, mi pilin pona tan ni: mi toki kepeken toki luka pi ma Juke. kin la, mi ken kute, taso kute mi li pona ala. toki mi la, mi jan pi kute meso[^1].
