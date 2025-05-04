@@ -26,6 +26,6 @@ jobs:
 
       - name: Run validate
         run: |
-          cd utils
+          cd utils/validate
           yarn install
           yarn run validate

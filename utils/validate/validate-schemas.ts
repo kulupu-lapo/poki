@@ -75,10 +75,10 @@ function validateCollection(filepath: string) {
 }
 
 async function validate() {
-  for (let filepath of await glob("../collections/**/*.yaml")) {
+  for (let filepath of await glob("../../collections/**/*.yaml")) {
     validateCollection(filepath);
   }
-  for (let filepath of await glob("../plaintext/**/*.md")) {
+  for (let filepath of await glob("../../plaintext/**/*.md")) {
     // this can be parallelised, but meh
     await validateMarkdown(filepath);
   }
