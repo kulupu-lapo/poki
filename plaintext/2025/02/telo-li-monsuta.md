@@ -3,7 +3,6 @@ title: telo li monsuta
 description: null
 authors:
   - jan Sonatan
-translators: null
 proofreaders: null
 date: 2025-02-28
 date-precision: day

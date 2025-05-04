@@ -2,20 +2,19 @@
 title: ilo wawa pi ma Toli
 description: null
 authors:
-- jan Peli
-translators: null
+  - jan Peli
 proofreaders: null
 date: 2023-08-15
 date-precision: day
 tags:
-- utala pi kulupu ma
-- pakala sijelo
-- poki li ken ala e tan jan
+  - utala pi kulupu ma
+  - pakala sijelo
+  - poki li ken ala e tan jan
 original: null
 license: CC-BY-SA-4.0
 sources:
-- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.md
-- http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.html
+  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.md
+  - http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.html
 archives: null
 preprocessing: includes HTML
 accessibility-notes: null

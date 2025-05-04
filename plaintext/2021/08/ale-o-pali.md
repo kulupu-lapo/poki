@@ -3,7 +3,6 @@ title: ale o pali  # kamala musi: ale o pali
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-08-24
 date-precision: day

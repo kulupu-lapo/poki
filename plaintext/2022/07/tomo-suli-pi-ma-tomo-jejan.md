@@ -3,7 +3,6 @@ title: tomo suli pi ma tomo Jejan
 description: null
 authors:
   - jan Maku  # ItMarki
-translators: null
 proofreaders: null
 date: 2022-07-16
 date-precision: day

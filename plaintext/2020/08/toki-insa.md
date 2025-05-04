@@ -3,7 +3,6 @@ title: toki insa
 description: null
 authors:
   - socks
-translators: null
 proofreaders: null
 date: 2020-08-19
 date-precision: day

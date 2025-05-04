@@ -2,8 +2,7 @@
 title: nimi kijetesantakalu
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2021-05-07
 date-precision: day
@@ -11,15 +10,15 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0004kasi.pdf
-- https://liputenpo.org/lipu/nanpa-kasi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_kijetesantakalu.png
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_-_linja_pona.svg
-- https://sona.pona.la/wiki/File:kijetesantakalu_spp.png
-- https://sona.pona.la/wiki/File:kijetesantakalu_elemenopi.png
+  - https://liputenpo.org/pdfs/0004kasi.pdf
+  - https://liputenpo.org/lipu/nanpa-kasi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_kijetesantakalu.png
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_-_linja_pona.svg
+  - https://sona.pona.la/wiki/File:kijetesantakalu_spp.png
+  - https://sona.pona.la/wiki/File:kijetesantakalu_elemenopi.png
 archives:
-- http://web.archive.org/web/*/https://sona.pona.la/wiki/File:kijetesantakalu_spp.png
-- http://web.archive.org/web/*/https://sona.pona.la/wiki/File:kijetesantakalu_elemenopi.png
+  - http://web.archive.org/web/*/https://sona.pona.la/wiki/File:kijetesantakalu_spp.png
+  - http://web.archive.org/web/*/https://sona.pona.la/wiki/File:kijetesantakalu_elemenopi.png
 preprocessing: null
 accessibility-notes: null
 notes: null

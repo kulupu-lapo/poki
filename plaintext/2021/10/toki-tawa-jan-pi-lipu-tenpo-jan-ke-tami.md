@@ -2,8 +2,7 @@
 title: toki tawa jan pi lipu tenpo - jan Ke Tami
 description: null
 authors:
-- jan Sonatan
-translators: null
+  - jan Sonatan
 proofreaders: null
 date: 2021-10-06
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0008toki.pdf
-- https://liputenpo.org/lipu/nanpa-toki/
+  - https://liputenpo.org/pdfs/0008toki.pdf
+  - https://liputenpo.org/lipu/nanpa-toki/
 archives: null
 preprocessing: null
 accessibility-notes: null

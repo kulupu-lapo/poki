@@ -3,7 +3,6 @@ title: toki musi pi nasin tu
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2022-03-10
 date-precision: day

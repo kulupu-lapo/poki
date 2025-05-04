@@ -6,7 +6,6 @@ description: "jan pali ma The Magnus Institute li kama e kulupu pali. jan Jon li
   around a bit."
 authors:
   - orphan_account
-translators: null
 proofreaders: null
 date: 2022-08-08
 date-precision: day

@@ -3,7 +3,6 @@ title: o toki ala e lawa
 description: musi lipu ni li nanpa wan tawa mi la mi toki pona e lawa ona
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2022-09-18
 date-precision: day

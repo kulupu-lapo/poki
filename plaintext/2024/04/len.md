@@ -3,7 +3,6 @@ title: len
 description: len pi jan Linan li pakala.
 authors:
   - thegreatsoupster
-translators: null
 proofreaders: null
 date: 2024-04-23
 date-precision: day

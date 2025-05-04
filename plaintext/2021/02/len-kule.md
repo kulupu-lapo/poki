@@ -2,8 +2,7 @@
 title: len kule
 description: null
 authors:
-- jan Nijo
-translators: null
+  - jan Nijo
 proofreaders: null
 date: 2021-02-11
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-02-11-lenkule.md
-- https://lipukule.org/post/2021/02/11/len-kule/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-02-11-lenkule.md
+  - https://lipukule.org/post/2021/02/11/len-kule/
 archives: null
 preprocessing: null
 accessibility-notes: null

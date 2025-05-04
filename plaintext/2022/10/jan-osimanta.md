@@ -2,22 +2,21 @@
 title: jan Osimanta
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2022-10-17
 date-precision: day
 tags:
-- poetry
+  - poetry
 original:
   title: Ozymandias
   authors:
-  - Percy Bysshe Shelley
+    - Percy Bysshe Shelley
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0016kulupu.pdf
-- https://liputenpo.org/lipu/nanpa-kulupu/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_jan_Osimanta.png
+  - https://liputenpo.org/pdfs/0016kulupu.pdf
+  - https://liputenpo.org/lipu/nanpa-kulupu/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_jan_Osimanta.png
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

@@ -4,7 +4,6 @@ description: jan Tepo en jan Tesa li toki e nasin pi toki Wijosa
 authors:
   - jan Tepo
   - jan Tesa
-translators: null
 proofreaders: null
 date: 2022-01-18
 date-precision: day

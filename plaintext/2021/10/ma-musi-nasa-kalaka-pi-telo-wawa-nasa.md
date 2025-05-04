@@ -2,8 +2,7 @@
 title: ma musi nasa Kalaka pi telo wawa nasa
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2021-10-06
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0008toki.pdf
-- https://liputenpo.org/lipu/nanpa-toki/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_ma_musi_nasa_Kalaka.png
+  - https://liputenpo.org/pdfs/0008toki.pdf
+  - https://liputenpo.org/lipu/nanpa-toki/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_ma_musi_nasa_Kalaka.png
 archives: null
 preprocessing: null
 accessibility-notes: null

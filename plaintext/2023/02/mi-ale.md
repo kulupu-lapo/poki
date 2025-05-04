@@ -2,18 +2,17 @@
 title: mi ale
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2023-02-06
 date-precision: day
 tags:
-- poetry
+  - poetry
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0018tu.pdf
-- https://liputenpo.org/lipu/nanpa-tu/
+  - https://liputenpo.org/pdfs/0018tu.pdf
+  - https://liputenpo.org/lipu/nanpa-tu/
 archives: null
 preprocessing: null
 accessibility-notes: null

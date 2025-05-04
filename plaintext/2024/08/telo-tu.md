@@ -3,7 +3,6 @@ title: telo tu
 description: null
 authors:
   - jan Pontu
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

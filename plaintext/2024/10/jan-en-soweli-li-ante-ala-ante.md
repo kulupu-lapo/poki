@@ -3,7 +3,6 @@ title: jan en soweli li ante ala ante?
 description: null
 authors:
   - jan Alonola
-translators: null
 proofreaders: null
 date: 2024-10-20
 date-precision: day

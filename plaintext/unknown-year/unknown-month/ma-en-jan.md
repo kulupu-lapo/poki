@@ -3,7 +3,6 @@ title: ma en jan
 description: jan li lon ma. ma li lon jan. seme li kama?
 authors:
   - lipamanka
-translators: null
 proofreaders: null
 date: 2001-01-01
 date-precision: none

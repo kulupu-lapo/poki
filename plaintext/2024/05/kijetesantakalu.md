@@ -3,7 +3,6 @@ title: kijetesantakalu
 description: kijetesantakalu li pali e seme?
 authors:
   - thegreatsoupster
-translators: null
 proofreaders: null
 date: 2024-05-03
 date-precision: day

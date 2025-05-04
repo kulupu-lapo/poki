@@ -3,7 +3,6 @@ title: meli anu mije?
 description: null
 authors:
   - jan Mika
-translators: null
 proofreaders: null
 date: 2011-04-11
 date-precision: day

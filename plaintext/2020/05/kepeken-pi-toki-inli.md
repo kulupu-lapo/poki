@@ -3,7 +3,6 @@ title: '"sina kepeken toki Inli sama jan nasa tan seme?"'
 description: null
 authors:
   - jan Telakoman
-translators: null
 proofreaders: null
 date: 2020-05-31
 date-precision: day

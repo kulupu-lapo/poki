@@ -3,7 +3,6 @@ title: ante toki tawa musi pi sitelen tawa (video game translations)
 description: null
 authors:
   - jan Lentan
-translators: null
 proofreaders: null
 date: 2020-10-10
 date-precision: day

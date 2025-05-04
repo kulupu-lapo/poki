@@ -3,7 +3,6 @@ title: sike wan
 description: null
 authors:
   - jan Pije
-translators: null
 proofreaders: null
 date: 2011-02-11
 date-precision: day

@@ -3,7 +3,6 @@ title: tenpo pimeja
 description: null
 authors:
   - soweli Peka
-translators: null
 proofreaders: null
 date: 2015-01-13
 date-precision: day

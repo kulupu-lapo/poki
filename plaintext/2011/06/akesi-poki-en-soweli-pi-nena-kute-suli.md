@@ -3,7 +3,6 @@ title: akesi poki en soweli pi nena kute suli
 description: null
 authors:
   - jan Mato
-translators: null
 proofreaders: null
 date: 2011-06-24
 date-precision: day

@@ -2,18 +2,17 @@
 title: ale ala sin li pona tawa mi
 description: null
 authors:
-- jan Sotan
-translators: null
+  - jan Sotan
 proofreaders: null
 date: 2024-04-18
 date-precision: day
 tags:
-- music
+  - music
 original: null
 license: CC BY 4.0
 sources:
-- https://zotn.hu/toki-pona/rap-ale-ala-sin-li-pona-tawa-mi
-- https://www.youtube.com/watch?v=tMpowCvGUF0
+  - https://zotn.hu/toki-pona/rap-ale-ala-sin-li-pona-tawa-mi
+  - https://www.youtube.com/watch?v=tMpowCvGUF0
 archives: null
 preprocessing: null
 accessibility-notes: null

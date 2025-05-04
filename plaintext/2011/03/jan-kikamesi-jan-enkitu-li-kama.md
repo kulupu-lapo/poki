@@ -3,7 +3,6 @@ title: jan Kikamesi. jan Enkitu li kama
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2011-03-04
 date-precision: day

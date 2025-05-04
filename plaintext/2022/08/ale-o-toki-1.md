@@ -2,8 +2,7 @@
 title: ale o toki!
 description: null
 authors:
-- jan-tewan
-translators: null
+  - jan-tewan
 proofreaders: null
 date: 2022-08-07
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://web.archive.org/web/2/https://lipu.pona.la/jan-tewan/ale-o-toki
+  - https://web.archive.org/web/2/https://lipu.pona.la/jan-tewan/ale-o-toki
 archives: null
 preprocessing: null
 accessibility-notes: null

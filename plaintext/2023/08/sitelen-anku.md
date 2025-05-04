@@ -2,8 +2,7 @@
 title: sitelen Anku
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2023-08-24
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0021ma.pdf
-- https://liputenpo.org/lipu/nanpa-ma/
+  - https://liputenpo.org/pdfs/0021ma.pdf
+  - https://liputenpo.org/lipu/nanpa-ma/
 archives: null
 preprocessing: null
 accessibility-notes: null

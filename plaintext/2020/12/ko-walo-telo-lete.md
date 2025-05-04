@@ -3,7 +3,6 @@ title: ko walo telo lete  # musi kalama Schneeflöckchen Weißröckchen
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2020-12-23
 date-precision: day

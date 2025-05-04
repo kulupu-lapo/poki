@@ -3,7 +3,6 @@ title: lipu nasin pi musi Lisi Masan (Riichi Mahjong) (WIP)
 description: null
 authors:
   - jan Lentan
-translators: null
 proofreaders: null
 date: 2020-11-13
 date-precision: day

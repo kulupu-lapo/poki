@@ -3,7 +3,6 @@ title: kalama ala
 description: null
 authors:
   - soweli Eli
-translators: null
 proofreaders: null
 date: 2024-10-20
 date-precision: day

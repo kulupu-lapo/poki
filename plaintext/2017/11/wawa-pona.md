@@ -4,7 +4,6 @@ description: null
 authors:
   - jan Kawa
   - jan Minasa
-translators: null
 proofreaders: null
 date: 2017-11-01
 date-precision: day

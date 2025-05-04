@@ -4,7 +4,6 @@ description: null
 authors:
   - Nardi
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

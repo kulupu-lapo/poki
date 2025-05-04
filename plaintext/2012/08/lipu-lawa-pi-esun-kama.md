@@ -4,7 +4,6 @@ description: null
 authors:
   - jan Josan
   - jan Mato
-translators: null
 proofreaders: null
 date: 2009-01-01
 date-precision: year

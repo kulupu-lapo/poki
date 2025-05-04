@@ -4,7 +4,6 @@ description: "seli sewi li kipisi e sina. seli sewi li lon oko ona. ante: jan Ma
   li kama sona e jan sewi."
 authors:
   - mokutelo_pona (Wholesome_Soup)
-translators: null
 proofreaders: null
 date: 2024-02-27
 date-precision: day

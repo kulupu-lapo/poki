@@ -2,8 +2,7 @@
 title: ilo tawa li tawa mun loje
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2021-03-01
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0002mun.pdf
-- https://liputenpo.org/lipu/nanpa-mun/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ilo_mun.png
+  - https://liputenpo.org/pdfs/0002mun.pdf
+  - https://liputenpo.org/lipu/nanpa-mun/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ilo_mun.png
 archives: null
 preprocessing: null
 accessibility-notes: null

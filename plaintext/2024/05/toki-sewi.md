@@ -4,7 +4,6 @@ description: Translation of the Legend into toki pona :) mi toki ante e toki sew
   tan musi Tetalun!
 authors:
   - ijo Kinesin
-translators: null
 proofreaders: null
 date: 2024-05-19
 date-precision: day

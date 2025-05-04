@@ -3,7 +3,6 @@ title: Sina Suno Mi
 description: null
 authors:
   - jan Kulisa # Christa Hansberry 
-translators: null
 proofreaders: null
 date: 2015-07-25
 date-precision: day

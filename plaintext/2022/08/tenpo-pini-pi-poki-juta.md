@@ -2,8 +2,7 @@
 title: tenpo pini pi poki Juta
 description: null
 authors:
-- jan-silan
-translators: null
+  - jan-silan
 proofreaders: null
 date: 2022-08-07
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://web.archive.org/web/2/https://lipu.pona.la/jan-silan/tenpo-pini-pi-poki-juta
+  - https://web.archive.org/web/2/https://lipu.pona.la/jan-silan/tenpo-pini-pi-poki-juta
 archives: null
 preprocessing: converted HTML to Markdown
 accessibility-notes: null

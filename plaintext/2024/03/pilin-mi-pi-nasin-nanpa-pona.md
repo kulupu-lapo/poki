@@ -3,7 +3,6 @@ title: pilin mi pi nasin nanpa pona
 description: null
 authors:
   - jan Momo
-translators: null
 proofreaders: null
 date: 2024-03-20
 date-precision: day

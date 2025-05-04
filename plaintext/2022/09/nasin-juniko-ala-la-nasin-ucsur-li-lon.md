@@ -3,7 +3,6 @@ title: nasin Juniko ala la, nasin UCSUR li lon
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2022-09-01
 date-precision: day

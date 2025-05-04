@@ -2,8 +2,7 @@
 title: jan pi toki pona li kulupu lon ma tomo Mase
 description: null
 authors:
-- jan Sonatan
-translators: null
+  - jan Sonatan
 proofreaders: null
 date: 2023-08-24
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0021ma.pdf
-- https://liputenpo.org/lipu/nanpa-ma/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_kulupu_pi_ma_Mase.png
+  - https://liputenpo.org/pdfs/0021ma.pdf
+  - https://liputenpo.org/lipu/nanpa-ma/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_ma_-_kulupu_pi_ma_Mase.png
 archives: null
 preprocessing: null
 accessibility-notes: null

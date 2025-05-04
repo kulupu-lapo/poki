@@ -2,8 +2,7 @@
 title: kule pi insa mi
 description: null
 authors:
-- jan Palo
-translators: null
+  - jan Palo
 proofreaders: null
 date: 2020-11-11
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://utala.pona.la/toki-musi-lili/
+  - https://utala.pona.la/toki-musi-lili/
 archives: null
 preprocessing: null
 accessibility-notes: null

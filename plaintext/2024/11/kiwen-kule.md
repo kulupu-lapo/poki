@@ -3,7 +3,6 @@ title: Kiwen Kule
 description: jan Lapis toki e soweli kili ona.
 authors:
   - BoredTurtleNerd
-translators: null
 proofreaders: null
 date: 2024-11-26
 date-precision: day

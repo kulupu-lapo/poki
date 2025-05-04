@@ -2,8 +2,7 @@
 title: wile pi sike pan li kama lon
 description: null
 authors:
-- jan Tamalu
-translators: null
+  - jan Tamalu
 proofreaders: null
 date: 2021-06-02
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0005pan.pdf
-- https://liputenpo.org/lipu/nanpa-pan/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_kasi_pan.png
+  - https://liputenpo.org/pdfs/0005pan.pdf
+  - https://liputenpo.org/lipu/nanpa-pan/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_kasi_pan.png
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -2,18 +2,17 @@
 title: kijetesantakalu o! nanpa mute luka tu wan
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2024-09-07
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY 4.0
 sources:
-- https://liputenpo.org/lipu/nanpa-lawa/
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep28.png
+  - https://liputenpo.org/lipu/nanpa-lawa/
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep28.png
 archives: null
 preprocessing: null
 accessibility-notes: null

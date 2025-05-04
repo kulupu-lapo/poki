@@ -3,7 +3,6 @@ title: o pana wawa e kiwen
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2011-06-15
 date-precision: day

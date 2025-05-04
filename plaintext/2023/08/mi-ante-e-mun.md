@@ -5,7 +5,6 @@ authors:
   - jan Nikoleta
   - impasaurus
   - jan Sa
-translators: null
 proofreaders: null
 date: 2023-08-05
 date-precision: day

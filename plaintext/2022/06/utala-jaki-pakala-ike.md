@@ -3,7 +3,6 @@ title: utala jaki pakala ike
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2022-06-13
 date-precision: day

@@ -3,7 +3,6 @@ title: nimi nasa
 description: null
 authors:
   - ilo Tani
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

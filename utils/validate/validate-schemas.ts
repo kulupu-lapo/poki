@@ -12,7 +12,6 @@ const Article = z
     title: z.string(),
     description: z.string().nullable(),
     authors: z.array(z.string()).nullable(),
-    translators: z.null().optional(), // deprecated field!!!!
     proofreaders: z.array(z.string()).nonempty().nullable(),
     // Date is required for all except `unknown-year/unknown-month`.
     // Those still have to specify null explicitly

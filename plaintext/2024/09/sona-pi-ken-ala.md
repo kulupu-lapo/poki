@@ -2,8 +2,7 @@
 title: sona pi ken ala
 description: null
 authors:
-- jan Nikola
-translators: null
+  - jan Nikola
 proofreaders: null
 date: 2024-09-07
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0028lawa.pdf
-- https://liputenpo.org/lipu/nanpa-lawa/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_jan_Alan_Tuwin.png
+  - https://liputenpo.org/pdfs/0028lawa.pdf
+  - https://liputenpo.org/lipu/nanpa-lawa/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_jan_Alan_Tuwin.png
 archives: null
 preprocessing: null
 accessibility-notes: null

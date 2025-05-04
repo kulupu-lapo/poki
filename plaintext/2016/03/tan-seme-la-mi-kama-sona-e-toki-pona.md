@@ -3,7 +3,6 @@ title: tan seme la mi kama sona e toki pona?
 description: null
 authors:
   - jan Wenato
-translators: null
 proofreaders: null
 date: 2016-03-11
 date-precision: day

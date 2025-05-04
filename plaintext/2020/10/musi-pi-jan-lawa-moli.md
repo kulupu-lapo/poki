@@ -3,7 +3,6 @@ title: musi pi jan lawa moli (rules of chess)
 description: null
 authors:
   - jan Lentan
-translators: null
 proofreaders: null
 date: 2020-10-05
 date-precision: day

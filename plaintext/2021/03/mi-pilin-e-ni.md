@@ -3,7 +3,6 @@ title: mi pilin e ni
 description: null
 authors:
   - Nardi
-translators: null
 proofreaders: null
 date: 2021-03-28
 date-precision: day

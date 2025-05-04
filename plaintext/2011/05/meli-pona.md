@@ -3,7 +3,6 @@ title: meli pona
 description: null
 authors:
   - jan Pije
-translators: null
 proofreaders: null
 date: 2011-05-06
 date-precision: day

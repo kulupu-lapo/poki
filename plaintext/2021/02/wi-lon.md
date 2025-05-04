@@ -2,8 +2,7 @@
 title: wi lon
 description: null
 authors:
-- jan Sitowapu
-translators: null
+  - jan Sitowapu
 proofreaders: null
 date: 2021-02-08
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: null
 sources:
-- https://utala.pona.la/lipu-kalama-tawa/
-- https://docs.google.com/document/d/1xl5osTAdUfP96ILzYaHpEnSDcxdDVKZ4t01Y8j9ul7w/edit
+  - https://utala.pona.la/lipu-kalama-tawa/
+  - https://docs.google.com/document/d/1xl5osTAdUfP96ILzYaHpEnSDcxdDVKZ4t01Y8j9ul7w/edit
 archives: null
 preprocessing: null
 accessibility-notes: null

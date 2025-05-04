@@ -2,8 +2,7 @@
 title: o kama jo e nimi Iso
 description: null
 authors:
-- jan Nowa
-translators: null
+  - jan Nowa
 proofreaders: null
 date: 2022-03-10
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0012nimi.pdf
-- https://liputenpo.org/lipu/nanpa-nimi/
+  - https://liputenpo.org/pdfs/0012nimi.pdf
+  - https://liputenpo.org/lipu/nanpa-nimi/
 archives: null
 preprocessing: null
 accessibility-notes: null

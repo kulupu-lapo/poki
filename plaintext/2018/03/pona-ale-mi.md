@@ -3,7 +3,6 @@ title: pona ale mi
 description: null
 authors:
   - jan Kawa
-translators: null
 proofreaders: null
 date: 2018-03-13
 date-precision: day

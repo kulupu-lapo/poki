@@ -4,7 +4,6 @@ description: mi sitelen e ni tawa jan Sonja. lipu ni li pona tawa ona la [mi kam
   lon lipu pi toki pona](https://tokipona.org/)!
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2023-11-10
 date-precision: day

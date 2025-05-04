@@ -3,7 +3,6 @@ title: mi tawa
 description: null
 authors:
   - akesi Nu
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

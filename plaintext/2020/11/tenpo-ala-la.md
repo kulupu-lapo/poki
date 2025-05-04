@@ -2,8 +2,7 @@
 title: tenpo ala la
 description: null
 authors:
-- jan Asuta
-translators: null
+  - jan Asuta
 proofreaders: null
 date: 2020-11-11
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://utala.pona.la/toki-musi-lili/
+  - https://utala.pona.la/toki-musi-lili/
 archives: null
 preprocessing: null
 accessibility-notes: null

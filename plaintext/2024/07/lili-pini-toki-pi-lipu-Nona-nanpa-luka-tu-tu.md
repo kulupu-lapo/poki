@@ -16,7 +16,6 @@ description: "NTN epilogue, but toki pona my plan so far: - chapter 1 is sitelen
   not doing that."
 authors:
   - gayspacewizard
-translators: null
 proofreaders: null
 date: 2024-07-30
 date-precision: day

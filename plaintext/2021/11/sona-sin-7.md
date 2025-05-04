@@ -36,8 +36,7 @@ description: 'lipu:
   Pictur by Prashanth Vishwanathan (IWMI). Contact s.gunawardena@cgiar.org from https://www.flickr.com/photos/iwmi/15818091379
   (CC BY-NC-ND 2.0)'
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2021-11-01
 date-precision: day
@@ -45,8 +44,8 @@ tags: null
 original: null
 license: null
 sources:
-- https://www.youtube.com/watch?v=TwWgvvoP8_k
-- https://docs.google.com/document/d/1hjE5pFyoarezt30gNQXC0dCNkNfkN4DfemvJIu6c24c/edit
+  - https://www.youtube.com/watch?v=TwWgvvoP8_k
+  - https://docs.google.com/document/d/1hjE5pFyoarezt30gNQXC0dCNkNfkN4DfemvJIu6c24c/edit
 archives: null
 preprocessing: null
 accessibility-notes: null

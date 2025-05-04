@@ -3,7 +3,6 @@ title: suno lili moli
 description: null
 authors:
   - jan Tumu
-translators: null
 proofreaders: null
 date: 2024-12-29
 date-precision: day

@@ -3,7 +3,6 @@ title: toki utala pi pimeja soweli
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2011-06-01
 date-precision: day

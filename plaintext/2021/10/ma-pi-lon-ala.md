@@ -3,7 +3,6 @@ title: ma pi lon ala
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2021-10-11
 date-precision: day

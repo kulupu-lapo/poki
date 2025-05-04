@@ -2,8 +2,7 @@
 title: nasin Sinto
 description: null
 authors:
-- jan Sose L-S
-translators: null
+  - jan Sose L-S
 proofreaders: null
 date: 2021-04-05
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0003soweli.pdf
-- https://liputenpo.org/lipu/nanpa-soweli/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_nasin_Sinto.png
+  - https://liputenpo.org/pdfs/0003soweli.pdf
+  - https://liputenpo.org/lipu/nanpa-soweli/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_nasin_Sinto.png
 archives: null
 preprocessing: null
 accessibility-notes: null

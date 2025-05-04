@@ -2,8 +2,7 @@
 title: lawa monsuta
 description: null
 authors:
-- jan Juli
-translators: null
+  - jan Juli
 proofreaders: null
 date: 2001-01-01
 date-precision: none
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2023-04-14-lawa-monsuta.md
-- https://lipukule.org/post/2023/04/10/lawa-monsuta/
+  - https://github.com/lipukule/site/blob/main/content/post/2023-04-14-lawa-monsuta.md
+  - https://lipukule.org/post/2023/04/10/lawa-monsuta/
 archives: null
 preprocessing: null
 accessibility-notes: null

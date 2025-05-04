@@ -3,7 +3,6 @@ title: ilo toi
 description: null
 authors:
   - jan Tepan
-translators: null
 proofreaders: null
 date: 2016-09-25
 date-precision: day

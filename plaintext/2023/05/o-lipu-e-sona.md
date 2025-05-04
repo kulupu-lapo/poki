@@ -2,8 +2,7 @@
 title: o lipu e sona
 description: null
 authors:
-- jan Kekan San
-translators: null
+  - jan Kekan San
 proofreaders: null
 date: 2023-05-12
 date-precision: day
@@ -11,10 +10,10 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://mun.la/lipu/o-lipu-e-sona.html
-- https://liputenpo.org/pdfs/0019mama.pdf
-- https://liputenpo.org/lipu/nanpa-mama/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_lipu.png
+  - https://mun.la/lipu/o-lipu-e-sona.html
+  - https://liputenpo.org/pdfs/0019mama.pdf
+  - https://liputenpo.org/lipu/nanpa-mama/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_lipu.png
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

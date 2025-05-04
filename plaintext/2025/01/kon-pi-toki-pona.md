@@ -3,7 +3,6 @@ title: sitelen sitelen - kon pi toki pona
 description: null
 authors:
   - akesi Ejan
-translators: null
 proofreaders: null
 date: 2025-01-10
 date-precision: day

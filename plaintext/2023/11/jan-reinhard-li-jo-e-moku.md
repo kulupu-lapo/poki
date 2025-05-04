@@ -3,7 +3,6 @@ title: jan Reinhard li jo e moku
 description: jan Reinhard li jo e moku
 authors:
   - AngryToasterNoises
-translators: null
 proofreaders: null
 date: 2023-11-28
 date-precision: day

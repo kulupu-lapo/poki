@@ -3,7 +3,6 @@ title: tu lukin lon
 description: null
 authors:
   - jan Lakuse  # jan Sasalin
-translators: null
 proofreaders: null
 date: 2020-06-17
 date-precision: day

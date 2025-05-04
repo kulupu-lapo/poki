@@ -2,8 +2,7 @@
 title: mi jan Tukuta  # Made up for poki Lapo
 description: null
 authors:
-- tuxysta
-translators: null
+  - tuxysta
 proofreaders: null
 date: 2022-08-06
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://web.archive.org/web/2/https://lipu.pona.la/tuxysta/toki-mi-jan-tukuta-mi-toki-e-jan-pi-moku-kasi-taso
+  - https://web.archive.org/web/2/https://lipu.pona.la/tuxysta/toki-mi-jan-tukuta-mi-toki-e-jan-pi-moku-kasi-taso
 archives: null
 preprocessing: null
 accessibility-notes: null

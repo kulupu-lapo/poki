@@ -3,7 +3,6 @@ title: lanpan pan
 description: null
 authors:
   - jan inwin
-translators: null
 proofreaders: null
 date: 2020-09-27
 date-precision: day

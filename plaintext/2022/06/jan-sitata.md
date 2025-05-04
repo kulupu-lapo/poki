@@ -2,24 +2,23 @@
 title: jan Sitata
 description: null
 authors:
-- jan Kala
-translators: null
+  - jan Kala
 proofreaders:
-- jan Apikela
-- jan Sonja
+  - jan Apikela
+  - jan Sonja
 date: 2022-06-29
 date-precision: day
 tags: null
 original:
   title: Siddhartha
   authors:
-  - Hermann Hesse
+    - Hermann Hesse
 license: CC0
 sources:
-- https://tokipona.org/sitata/
-- https://wikisource.org/wiki/Jan_Sitata
+  - https://tokipona.org/sitata/
+  - https://wikisource.org/wiki/Jan_Sitata
 archives:
-- https://archive.ph/v1Kzh
+  - https://archive.ph/v1Kzh
 preprocessing: null
 accessibility-notes: null
 notes: null

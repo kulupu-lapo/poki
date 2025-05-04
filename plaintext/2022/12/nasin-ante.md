@@ -3,7 +3,6 @@ title: nasin ante
 description: null
 authors:
   - jan Kapesi Pake
-translators: null
 proofreaders: null
 date: 2022-12-09
 date-precision: day

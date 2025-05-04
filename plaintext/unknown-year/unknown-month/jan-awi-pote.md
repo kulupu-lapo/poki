@@ -3,7 +3,6 @@ title: jan Awi Pote en kiwen pi jan sona
 description: null
 authors:
   - jan Sepeku
-translators: null
 proofreaders: null
 date: 2001-01-01 # <2022
 date-precision: none

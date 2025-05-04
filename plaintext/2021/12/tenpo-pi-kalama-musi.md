@@ -2,8 +2,7 @@
 title: tenpo pi kalama musi
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2021-12-08
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0010lete.pdf
-- https://liputenpo.org/lipu/nanpa-lete/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_kapesi_Pake.png
+  - https://liputenpo.org/pdfs/0010lete.pdf
+  - https://liputenpo.org/lipu/nanpa-lete/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_kapesi_Pake.png
 archives: null
 preprocessing: null
 accessibility-notes: null

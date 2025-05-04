@@ -4,7 +4,6 @@ description: 'utala ale li wile pini. jan pona ale li wile tawa anpa. jan ale li
   toki e ni lon tenpo kama: "mi tawa." soweli Mile Powe (Miles Prower) li ante ala.'
 authors:
   - Hopeful_Student
-translators: null
 proofreaders: null
 date: 2024-09-10
 date-precision: day

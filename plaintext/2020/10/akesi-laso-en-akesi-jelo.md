@@ -3,7 +3,6 @@ title: akesi laso en akesi jelo  # "laso" and "jelo" are proper adjectives, writ
 description: null
 authors:
   - jan inwin
-translators: null
 proofreaders: null
 date: 2020-10-12
 date-precision: day

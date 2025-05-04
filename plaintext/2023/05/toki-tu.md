@@ -2,8 +2,7 @@
 title: toki tu
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2023-05-12
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0019mama.pdf
-- https://liputenpo.org/lipu/nanpa-mama/
+  - https://liputenpo.org/pdfs/0019mama.pdf
+  - https://liputenpo.org/lipu/nanpa-mama/
 archives: null
 preprocessing: null
 accessibility-notes: null

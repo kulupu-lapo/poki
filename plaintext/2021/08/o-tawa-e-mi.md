@@ -3,7 +3,6 @@ title: o tawa e mi  # kalama musi: o tawa e mi
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-08-28
 date-precision: day

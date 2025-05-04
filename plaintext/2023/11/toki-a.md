@@ -3,7 +3,6 @@ title: toki a!
 description: null
 authors:
   - soweli Niko
-translators: null
 proofreaders: null
 date: 2023-11-30
 date-precision: day

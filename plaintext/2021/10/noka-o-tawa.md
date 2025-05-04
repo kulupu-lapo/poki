@@ -2,18 +2,17 @@
 title: noka o tawa
 description: null
 authors:
-- jan Nowa
-translators: null
+  - jan Nowa
 proofreaders: null
 date: 2021-10-06
 date-precision: day
 tags:
-- poetry
+  - poetry
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0008toki.pdf
-- https://liputenpo.org/lipu/nanpa-toki/
+  - https://liputenpo.org/pdfs/0008toki.pdf
+  - https://liputenpo.org/lipu/nanpa-toki/
 archives: null
 preprocessing: null
 accessibility-notes: null

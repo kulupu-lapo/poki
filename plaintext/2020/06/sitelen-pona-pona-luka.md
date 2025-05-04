@@ -3,7 +3,6 @@ title: sitelen pona pona luka
 description: null
 authors:
   - jan Telakoman
-translators: null
 proofreaders: null
 date: 2020-06-02
 date-precision: day

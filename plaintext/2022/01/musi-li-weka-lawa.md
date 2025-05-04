@@ -2,8 +2,7 @@
 title: musi li weka lawa
 description: null
 authors:
-- waso Wilo
-translators: null
+  - waso Wilo
 proofreaders: null
 date: 2022-01-13
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2022-01-13-musi-li-weka-lawa.md
-- https://lipukule.org/post/2022/01/13/musi-li-weka-lawa/
+  - https://github.com/lipukule/site/blob/main/content/post/2022-01-13-musi-li-weka-lawa.md
+  - https://lipukule.org/post/2022/01/13/musi-li-weka-lawa/
 archives: null
 preprocessing: null
 accessibility-notes: null

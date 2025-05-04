@@ -3,18 +3,17 @@ title: waso Mumu li mu ala
 description: waso sama ale pi waso Mumu li mu. taso waso Mumu li wile toki! o alasa
   lon poka pi waso Mumu e ijo pi ken toki!
 authors:
-- jan Atelin
-translators: null
+  - jan Atelin
 proofreaders: null
 date: 2022-08-06
 date-precision: day
 tags:
-- akesi linja pi noka ala
+  - akesi linja pi noka ala
 original: null
 license: null
 sources:
-- https://github.com/raacz/utala/blob/main/lipu-lili/waso-mumu-li-mu-ala.md
-- http://utala.pona.la/lipu-lili/waso-mumu-li-mu-ala.html
+  - https://github.com/raacz/utala/blob/main/lipu-lili/waso-mumu-li-mu-ala.md
+  - http://utala.pona.la/lipu-lili/waso-mumu-li-mu-ala.html
 archives: null
 preprocessing: null
 accessibility-notes: null

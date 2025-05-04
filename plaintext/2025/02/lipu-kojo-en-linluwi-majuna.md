@@ -3,7 +3,6 @@ title: lipu Kojo en linluwi majuna
 description: null
 authors:
   - kije Weku
-translators: null
 proofreaders: null
 date: 2025-02-28
 date-precision: day

@@ -3,7 +3,6 @@ title: ilo kalama li mu  # kalama: ilo kalama li mu
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-12-06
 date-precision: day

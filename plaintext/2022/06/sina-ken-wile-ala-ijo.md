@@ -3,7 +3,6 @@ title: sina ken wile ala ijo
 description: A cute skit from the early internet, now in Toki Pona. [Listen here](https://youtu.be/iKry3P51SVI)!
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2022-06-01
 date-precision: day

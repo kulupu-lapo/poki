@@ -3,7 +3,6 @@ title: waso sona Ukami en monsuta pi kiwen pimeja
 description: null
 authors:
   - jan Jowi
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

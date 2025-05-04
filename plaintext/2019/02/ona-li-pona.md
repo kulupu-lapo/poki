@@ -3,7 +3,6 @@ title: ona li pona
 description: null
 authors:
   - jan Nikoleta
-translators: null
 proofreaders:
   - jan Nale
   - jan Ne

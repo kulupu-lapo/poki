@@ -3,7 +3,6 @@ title: pona o tawa kulupu  # kamala musi: pona o tawa kulupu
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-08-25
 date-precision: day

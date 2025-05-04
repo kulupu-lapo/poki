@@ -3,21 +3,20 @@ title: akesi li wile lon nena
 description: 'lipu ni li kepeken nasin suwi: kulupu nimi ale la nimi luka taso li
   lon. o kama sona e ni: akesi pona li ken lon nena kepeken nasin seme?'
 authors:
-- jan Kita
-translators: null
+  - jan Kita
 proofreaders: null
 date: 2022-08-06 # on utala.pona.la;
 # 2022-06-14 was stated on lipu.pona.la, but it was set retroactively as the "date written"
 date-precision: day
 tags:
-- moku li lon
+  - moku li lon
 original: null
 license: CC0-1.0
 sources:
-- https://github.com/raacz/utala/blob/main/lipu-lili/akesi-li-wile-lon-nena.md
-- http://utala.pona.la/lipu-lili/akesi-li-wile-lon-nena.html
-- https://web.archive.org/web/2/https://lipu.pona.la/kita/akesi-li-wile-lon-nena-kepeken-sitelen-lasina
-- https://web.archive.org/web/2/https://lipu.pona.la/kita/akesi-li-wile-lon-nena-kepeken-sitelen-pona
+  - https://github.com/raacz/utala/blob/main/lipu-lili/akesi-li-wile-lon-nena.md
+  - http://utala.pona.la/lipu-lili/akesi-li-wile-lon-nena.html
+  - https://web.archive.org/web/2/https://lipu.pona.la/kita/akesi-li-wile-lon-nena-kepeken-sitelen-lasina
+  - https://web.archive.org/web/2/https://lipu.pona.la/kita/akesi-li-wile-lon-nena-kepeken-sitelen-pona
 archives: null
 preprocessing: Originally available in sitelen pona and sitelen Lasina. Best viewed
   in sitelen pona. Only sitelen Lasina provided below.

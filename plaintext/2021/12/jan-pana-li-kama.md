@@ -3,7 +3,6 @@ title: jan pana li kama  # kalama: jan pana li kama
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-12-14
 date-precision: day

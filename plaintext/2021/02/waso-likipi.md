@@ -3,7 +3,6 @@ title: waso
 description: null
 authors:
   - jan Likipi
-translators: null
 proofreaders: null
 date: 2021-02-10
 date-precision: day

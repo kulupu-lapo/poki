@@ -2,8 +2,7 @@
 title: omekapo
 description: null
 authors:
-- kala pona Tonyu
-translators: null
+  - kala pona Tonyu
 proofreaders: null
 date: 2021-01-23
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-01-23-omekapo.md
-- https://lipukule.org/post/2021/01/23/omekapo/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-01-23-omekapo.md
+  - https://lipukule.org/post/2021/01/23/omekapo/
 archives: null
 preprocessing: null
 accessibility-notes: null

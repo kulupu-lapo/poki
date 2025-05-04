@@ -2,21 +2,20 @@
 title: kijetesantakalu o! nanpa luka luka tu wan
 description: pipi li wile sona e ijo suli
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2022-05-05
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY 4.0
 sources:
-- https://liputenpo.org/lipu/nanpa-pipi
-- https://janketami.wordpress.com/2022/06/23/kijetesantakalu-o-nanpa-luka-luka-tu-2/
-- https://kijetesantakalu-o.tumblr.com/post/687838441381183488
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep13.png
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep13_(sitelen_pona).png
+  - https://liputenpo.org/lipu/nanpa-pipi
+  - https://janketami.wordpress.com/2022/06/23/kijetesantakalu-o-nanpa-luka-luka-tu-2/
+  - https://kijetesantakalu-o.tumblr.com/post/687838441381183488
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep13.png
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep13_(sitelen_pona).png
 archives: null
 preprocessing: null
 accessibility-notes: null

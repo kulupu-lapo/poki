@@ -2,8 +2,7 @@
 title: toki mun tu
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2023-12-25
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0023sewi.pdf
-- https://liputenpo.org/lipu/nanpa-sewi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_toki_mun_tu.png
+  - https://liputenpo.org/pdfs/0023sewi.pdf
+  - https://liputenpo.org/lipu/nanpa-sewi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_toki_mun_tu.png
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

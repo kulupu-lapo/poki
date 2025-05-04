@@ -4,7 +4,6 @@ description: null
 authors:
   - jan Anselo
   - jan pi nimi ala
-translators: null
 proofreaders: null
 date: 2021-01-15
 date-precision: day

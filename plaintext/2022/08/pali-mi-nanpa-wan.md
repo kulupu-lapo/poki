@@ -2,8 +2,7 @@
 title: pali mi nanpa wan
 description: null
 authors:
-- mimuki
-translators: null
+  - mimuki
 proofreaders: null
 date: 2022-08-08
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://web.archive.org/web/2/https://lipu.pona.la/mimuki/pali-mi-nanpa-wan
+  - https://web.archive.org/web/2/https://lipu.pona.la/mimuki/pali-mi-nanpa-wan
 archives: null
 preprocessing: null
 accessibility-notes: null

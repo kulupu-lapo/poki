@@ -3,7 +3,6 @@ title: kalama musi utala
 description: null
 authors:
   - jan Leni
-translators: null
 proofreaders: null
 date: 2018-07-28
 date-precision: day

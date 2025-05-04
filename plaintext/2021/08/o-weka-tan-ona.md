@@ -3,7 +3,6 @@ title: o weka tan ona  # kamala musi: o weka tan ona
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-08-26
 date-precision: day

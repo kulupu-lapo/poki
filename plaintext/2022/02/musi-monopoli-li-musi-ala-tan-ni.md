@@ -2,8 +2,7 @@
 title: musi Monopoli li musi ala tan ni
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2022-02-01
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0011walo.pdf
-- https://liputenpo.org/lipu/nanpa-walo/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_musi_Monopoli.png
+  - https://liputenpo.org/pdfs/0011walo.pdf
+  - https://liputenpo.org/lipu/nanpa-walo/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_musi_Monopoli.png
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -3,7 +3,6 @@ title: len
 description: null
 authors:
   - kulupu kasi
-translators: null
 proofreaders: null
 date: 2018-07-28
 date-precision: day

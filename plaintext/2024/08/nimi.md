@@ -3,7 +3,6 @@ title: nimi
 description: null
 authors:
   - jan Walasa
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

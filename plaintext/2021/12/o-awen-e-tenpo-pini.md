@@ -3,7 +3,6 @@ title: o awen e tenpo pini  # kalama: o awen e tenpo pini
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-12-20
 date-precision: day

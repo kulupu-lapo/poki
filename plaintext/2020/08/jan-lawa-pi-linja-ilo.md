@@ -3,7 +3,6 @@ title: jan lawa pi linja ilo (translation hack)
 description: null
 authors:
   - jan Lentan
-translators: null
 proofreaders: null
 date: 2020-08-23
 date-precision: day

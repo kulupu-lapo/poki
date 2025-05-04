@@ -2,28 +2,27 @@
 title: Nasi
 description: null
 authors:
-- jan Kepe
-translators: null
+  - jan Kepe
 proofreaders: null
 date: 2023-08-15
 date-precision: day
 tags:
-- moku misikeke li nasa e lawa jan
-- moli mute
-- utala suli pi kulupu ma tu
-- sitelen nimi li kule suno li tawa wawa
-- nanpa mute
-- jan li moku li toki e pona moku
-- kulupu lawa ike
-- pali ike li kepeken ilo nanpa
-- toki Inli
-- nimi ku mute
-- poki li ken ala e tawa jan
+  - moku misikeke li nasa e lawa jan
+  - moli mute
+  - utala suli pi kulupu ma tu
+  - sitelen nimi li kule suno li tawa wawa
+  - nanpa mute
+  - jan li moku li toki e pona moku
+  - kulupu lawa ike
+  - pali ike li kepeken ilo nanpa
+  - toki Inli
+  - nimi ku mute
+  - poki li ken ala e tawa jan
 original: null
 license: CC-BY-SA-4.0
 sources:
-- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/nasi.md
-- http://utala.pona.la/toki-en-lipu/lipu-suli/nasi.html
+  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/nasi.md
+  - http://utala.pona.la/toki-en-lipu/lipu-suli/nasi.html
 archives: null
 preprocessing: a lot is required
 accessibility-notes: null

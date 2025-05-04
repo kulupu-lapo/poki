@@ -3,7 +3,6 @@ title: pakala-lili
 description: null
 authors:
   - Knives
-translators: null
 proofreaders: null
 date: 2023-09-10
 date-precision: day

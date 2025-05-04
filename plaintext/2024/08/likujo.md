@@ -3,7 +3,6 @@ title: likujo
 description: null
 authors:
   - jan Peton
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

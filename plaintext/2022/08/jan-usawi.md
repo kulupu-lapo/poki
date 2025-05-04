@@ -3,21 +3,20 @@ title: jan usawi
 description: jan Kasona li wile kama sona e ijo wawa nasa sin li wile weka tan ma
   mama ona. seme li kama?
 authors:
-- jan Kepe
-translators: null
+  - jan Kepe
 proofreaders: null
 date: 2022-08-06
 date-precision: day
 tags:
-- pakala sijelo
-- moli
-- pali jan li ike
-- nimi sin mute li lon
+  - pakala sijelo
+  - moli
+  - pali jan li ike
+  - nimi sin mute li lon
 original: null
 license: null
 sources:
-- https://github.com/raacz/utala/blob/main/lipu-lili/jan-usawi.md
-- http://utala.pona.la/lipu-lili/jan-usawi.html
+  - https://github.com/raacz/utala/blob/main/lipu-lili/jan-usawi.md
+  - http://utala.pona.la/lipu-lili/jan-usawi.html
 archives: null
 preprocessing: null
 accessibility-notes: null

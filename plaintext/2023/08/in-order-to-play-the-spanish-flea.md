@@ -3,7 +3,6 @@ title: in order to play the spanish flea
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2023-08-05
 date-precision: day

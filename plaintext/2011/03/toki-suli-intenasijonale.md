@@ -3,7 +3,6 @@ title: toki suli Intenasijonale
 description: null
 authors:
   - anonymous
-translators: null
 proofreaders: null
 date: 2011-03-18
 date-precision: day

@@ -3,7 +3,6 @@ title: tawa weka
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2011-06-08
 date-precision: day

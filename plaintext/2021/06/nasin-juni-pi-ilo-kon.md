@@ -2,8 +2,7 @@
 title: nasin Juni pi ilo kon
 description: a short page about the “Unix way”
 authors:
-- jan Lentan
-translators: null
+  - jan Lentan
 proofreaders: null
 date: 2021-06-02
 date-precision: day
@@ -11,10 +10,10 @@ tags: null
 original: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
-- https://liputenpo.org/pdfs/0005pan.pdf
-- https://liputenpo.org/lipu/nanpa-pan/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_ilo_kon.png
-- https://lipu-sona.pona.la/lentan/nasin_juni
+  - https://liputenpo.org/pdfs/0005pan.pdf
+  - https://liputenpo.org/lipu/nanpa-pan/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_ilo_kon.png
+  - https://lipu-sona.pona.la/lentan/nasin_juni
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -6,7 +6,6 @@ description: "I translate many fairy tales into toki pona! mi toki pona e toki m
   (sitelen Mora used in cartouches) Link to sitelen akesi: https://docs.google.com/document/d/16uRD4ag-reoUJLVuWT0CUXd4lHuRYHJ3Mn-JjFzFiRw/edit"
 authors:
   - Phoenixacxf
-translators: null
 proofreaders: null
 date: 2022-08-26
 date-precision: day

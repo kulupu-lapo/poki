@@ -3,7 +3,6 @@ title: tomo tawa telo pakala
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2018-10-21
 date-precision: day

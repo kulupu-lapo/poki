@@ -2,8 +2,7 @@
 title: linja pipi li wawa seme
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2024-07-05
 date-precision: day
@@ -11,11 +10,11 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0027linja.pdf
-- https://liputenpo.org/lipu/nanpa-linja/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_pipi_awen.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_linja_pipi_kulupu.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_linja_pipi_tomo.png
+  - https://liputenpo.org/pdfs/0027linja.pdf
+  - https://liputenpo.org/lipu/nanpa-linja/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_pipi_awen.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_linja_pipi_kulupu.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_linja_pipi_tomo.png
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

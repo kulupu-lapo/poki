@@ -2,8 +2,7 @@
 title: o moku pona!
 description: null
 authors:
-- jan Simiman
-translators: null
+  - jan Simiman
 proofreaders: null
 date: 2022-10-31
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://lipumonsuta.neocities.org/mun-monsuta/o-moku-pona
-- https://wikisource.org/wiki/Kalama_sin/26
+  - https://lipumonsuta.neocities.org/mun-monsuta/o-moku-pona
+  - https://wikisource.org/wiki/Kalama_sin/26
 archives: null
 preprocessing: null
 accessibility-notes: null

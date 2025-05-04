@@ -16,7 +16,6 @@ authors:
   - jan Sonja
   - kala pona Tonyu
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2023-03-31
 date-precision: day

@@ -3,7 +3,6 @@ title: nasin kule pona
 description: null
 authors:
   - jan Alonola
-translators: null
 proofreaders: null
 date: 2024-12-29
 date-precision: day

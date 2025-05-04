@@ -3,7 +3,6 @@ title: ijo Pimeja o, mi olin e sina.
 description: null
 authors:
   - thegreatsoupster
-translators: null
 proofreaders: null
 date: 2023-10-11
 date-precision: day

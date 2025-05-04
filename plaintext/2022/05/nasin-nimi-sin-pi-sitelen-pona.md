@@ -2,8 +2,7 @@
 title: nasin nimi sin pi sitelen pona
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2022-05-05
 date-precision: day
@@ -11,19 +10,19 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0013pipi.pdf
-- https://liputenpo.org/lipu/nanpa-pipi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_Ke_Tami_(nasin_pu).png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_namako_Pepa_en_soweli_Kawa.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Alasin.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_kasi_Pankasin.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_Pumiko.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Ke.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Kepe.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Kepeke.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Kepeken.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Kijetesantakaluweka.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_Ke_Tami_(nasin_sitelen_kalama).png
+  - https://liputenpo.org/pdfs/0013pipi.pdf
+  - https://liputenpo.org/lipu/nanpa-pipi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_Ke_Tami_(nasin_pu).png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_namako_Pepa_en_soweli_Kawa.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Alasin.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_kasi_Pankasin.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_Pumiko.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Ke.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Kepe.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Kepeke.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Kepeken.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_nimi_Kijetesantakaluweka.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_Ke_Tami_(nasin_sitelen_kalama).png
 archives: null
 preprocessing: null
 accessibility-notes: null

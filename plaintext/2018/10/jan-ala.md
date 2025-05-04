@@ -3,7 +3,6 @@ title: jan ala
 description: null
 authors:
   - jan Nikelo
-translators: null
 proofreaders: null
 date: 2018-10-21
 date-precision: day

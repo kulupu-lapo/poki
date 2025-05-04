@@ -3,7 +3,6 @@ title: telo. kasi. ko pi weka telo.
 description: null
 authors:
   - lipamanka
-translators: null
 proofreaders: null
 date: 2025-02-12
 date-precision: day

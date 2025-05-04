@@ -4,7 +4,6 @@ description: null
 authors:
   - jan Josan
   - Tobiah Merkle
-translators: null
 proofreaders: null
 date: 2020-05-09
 date-precision: day

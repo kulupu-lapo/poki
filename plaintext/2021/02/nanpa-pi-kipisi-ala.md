@@ -2,8 +2,7 @@
 title: nanpa pi kipisi ala
 description: null
 authors:
-- jan
-translators: null
+  - jan
 proofreaders: null
 date: 2021-02-08
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: null
 sources:
-- https://utala.pona.la/lipu-kalama-tawa/
-- https://docs.google.com/document/d/1DXcXoUm8vSAGsAtXuhhiMG36jAGgbLGXG6h4b9QrcrY/edit
-- https://drive.google.com/file/d/1k1HGjSRfjNt2CX2G3-TgRBw-bzEuD5dG/view?usp=sharing
+  - https://utala.pona.la/lipu-kalama-tawa/
+  - https://docs.google.com/document/d/1DXcXoUm8vSAGsAtXuhhiMG36jAGgbLGXG6h4b9QrcrY/edit
+  - https://drive.google.com/file/d/1k1HGjSRfjNt2CX2G3-TgRBw-bzEuD5dG/view?usp=sharing
 archives: null
 preprocessing: null
 accessibility-notes: null

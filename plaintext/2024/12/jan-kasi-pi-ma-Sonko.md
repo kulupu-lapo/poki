@@ -3,7 +3,6 @@ title: jan kasi pi ma Sonko
 description: null
 authors:
   - jan Asilu
-translators: null
 proofreaders: null
 date: 2024-12-29
 date-precision: day

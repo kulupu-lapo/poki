@@ -3,7 +3,6 @@ title: lawa ala  # kalama: lawa ala
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2024-10-31
 date-precision: day

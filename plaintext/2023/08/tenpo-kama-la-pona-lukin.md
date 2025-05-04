@@ -3,7 +3,6 @@ title: tenpo kama la pona lukin
 description: null
 authors:
   - jan Misali
-translators: null
 proofreaders: null
 date: 2023-03-07
 date-precision: day

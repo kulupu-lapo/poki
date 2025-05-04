@@ -2,8 +2,7 @@
 title: tan suli lipu li seme?
 description: null
 authors:
-- jan pali pi lipu kule
-translators: null
+  - jan pali pi lipu kule
 proofreaders: null
 date: 2021-01-24
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-01-24-tansuli.md
-- https://lipukule.org/post/2021/01/24/tan-suli-lipu-li-seme/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-01-24-tansuli.md
+  - https://lipukule.org/post/2021/01/24/tan-suli-lipu-li-seme/
 archives: null
 preprocessing: null
 accessibility-notes: null

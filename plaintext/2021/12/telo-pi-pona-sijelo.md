@@ -2,8 +2,7 @@
 title: telo pi pona sijelo
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2021-12-08
 date-precision: day
@@ -11,10 +10,10 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0010lete.pdf
-- https://liputenpo.org/lipu/nanpa-lete/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kule_-_jan_sona.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_ilo_telo.png
+  - https://liputenpo.org/pdfs/0010lete.pdf
+  - https://liputenpo.org/lipu/nanpa-lete/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kule_-_jan_sona.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lete_-_ilo_telo.png
 archives: null
 preprocessing: null
 accessibility-notes: null

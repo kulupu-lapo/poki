@@ -2,8 +2,7 @@
 title: toki pona li sama ala sitelen Sonko
 description: null
 authors:
-- jan Telakoman
-translators: null
+  - jan Telakoman
 proofreaders: null
 date: 2021-03-01
 date-precision: day
@@ -11,10 +10,10 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://joelthomastr.github.io/tokipona/sitelen-sonko_si
-- https://liputenpo.org/pdfs/0002mun.pdf
-- https://liputenpo.org/lipu/nanpa-mun/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ante.png
+  - https://joelthomastr.github.io/tokipona/sitelen-sonko_si
+  - https://liputenpo.org/pdfs/0002mun.pdf
+  - https://liputenpo.org/lipu/nanpa-mun/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ante.png
 archives: null
 preprocessing: null
 accessibility-notes: null

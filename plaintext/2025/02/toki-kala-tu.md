@@ -3,7 +3,6 @@ title: toki kala tu
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2025-02-28
 date-precision: day

@@ -3,7 +3,6 @@ title: O KUTE ALA
 description: null
 authors:
   - Nardi
-translators: null
 proofreaders: null
 date: 2024-02-19
 date-precision: day

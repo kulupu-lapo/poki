@@ -2,8 +2,7 @@
 title: toki lawa pi lipu tenpo
 description: null
 authors:
-- jan Kasape
-translators: null
+  - jan Kasape
 proofreaders: null
 date: 2024-09-07
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0028lawa.pdf
-- https://liputenpo.org/lipu/nanpa-lawa/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_toki_lawa.png
+  - https://liputenpo.org/pdfs/0028lawa.pdf
+  - https://liputenpo.org/lipu/nanpa-lawa/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lawa_-_toki_lawa.png
 archives: null
 preprocessing: null
 accessibility-notes: null

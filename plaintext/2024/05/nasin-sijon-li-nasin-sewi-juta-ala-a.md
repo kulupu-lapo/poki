@@ -2,8 +2,7 @@
 title: nasin Sijon li nasin sewi Juta ala a!
 description: null
 authors:
-- jan Polo
-translators: null
+  - jan Polo
 proofreaders: null
 date: 2024-05-14
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0026jaki.pdf
-- https://liputenpo.org/lipu/nanpa-jaki/
+  - https://liputenpo.org/pdfs/0026jaki.pdf
+  - https://liputenpo.org/lipu/nanpa-jaki/
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -3,7 +3,6 @@ title: kasi pi tenpo lete o  # musi kalama O Christmas Tree
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2020-12-23
 date-precision: day

@@ -3,7 +3,6 @@ title: kule olin
 description: null
 authors:
   - kala pona Tonyu
-translators: null
 proofreaders: null
 date: 2020-09-20
 date-precision: day

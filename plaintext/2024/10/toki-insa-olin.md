@@ -3,7 +3,6 @@ title: toki insa olin
 description: null
 authors:
   - sama Natanale
-translators: null
 proofreaders: null
 date: 2024-10-20
 date-precision: day

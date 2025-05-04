@@ -2,8 +2,7 @@
 title: nimi pi jan kule
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2021-09-02
 date-precision: day
@@ -11,10 +10,10 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0007kule.pdf
-- https://liputenpo.org/lipu/nanpa-kule/
-- https://commons.wikimedia.org/wiki/File:Bisexual_Pride_Flag.svg
-- https://commons.wikimedia.org/wiki/File:Aroace_flag.svg
+  - https://liputenpo.org/pdfs/0007kule.pdf
+  - https://liputenpo.org/lipu/nanpa-kule/
+  - https://commons.wikimedia.org/wiki/File:Bisexual_Pride_Flag.svg
+  - https://commons.wikimedia.org/wiki/File:Aroace_flag.svg
 archives: null
 preprocessing: null
 accessibility-notes: null

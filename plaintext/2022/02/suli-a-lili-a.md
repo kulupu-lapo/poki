@@ -4,21 +4,20 @@ description: jan Sanu li suli a la jan Ami li ken ala jo e ona. jan Sanu li lili
   la ona li wan taso li ken ala tawa tomo sona. sina lukin e toki ni la sina lili
   ala lili a? jan li uta e toki ni la sina suli ala suli a? o open o alasa!
 authors:
-- nick
-translators: null
+  - nick
 proofreaders: null
 date: 2022-02-02
 date-precision: day
 tags:
-- StoryWeaver level 1
+  - StoryWeaver level 1
 original:
   title: Too Big! Too Small!
   authors:
-  - Lavanya Karthik
+    - Lavanya Karthik
 # - Lavanya Karthik (illustrator)
 license: CC-BY-4.0
 sources:
-- https://storyweaver.org.in/en/stories/405798-suli-a-lili-a
+  - https://storyweaver.org.in/en/stories/405798-suli-a-lili-a
 archives: null
 preprocessing: null
 accessibility-notes: null

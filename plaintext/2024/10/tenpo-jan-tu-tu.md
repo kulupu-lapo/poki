@@ -3,7 +3,6 @@ title: tenpo jan tu tu
 description: null
 authors:
   - jan Kapesi Pake
-translators: null
 proofreaders: null
 date: 2024-10-20
 date-precision: day

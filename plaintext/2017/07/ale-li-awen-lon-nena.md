@@ -3,7 +3,6 @@ title: ale li awen lon nena   # Untitled poem
 description: null
 authors:
   - jan Lute
-translators: null
 proofreaders: null
 date: 2017-07-25
 date-precision: day

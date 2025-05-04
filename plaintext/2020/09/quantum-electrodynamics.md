@@ -3,7 +3,6 @@ title: toki pona translation of the Wikipedia article intro on quantum electrody
 description: null
 authors:
   - u/shy_girl_69
-translators: null
 proofreaders: null
 date: 2020-09-24
 date-precision: day

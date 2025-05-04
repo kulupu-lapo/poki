@@ -5,7 +5,6 @@ authors:
   - jan Ki
   - jan Sijo
   - jan Walo
-translators: null
 proofreaders: null
 date: 2020-12-01
 date-precision: day

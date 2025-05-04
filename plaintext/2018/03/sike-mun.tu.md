@@ -4,7 +4,6 @@ description: null
 authors:
   - melrose9843
   - sami
-translators: null
 proofreaders: null
 date: 2018-03-13
 date-precision: day

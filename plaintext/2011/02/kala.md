@@ -3,7 +3,6 @@ title: kala
 description: null
 authors:
   - jan Kanso
-translators: null
 proofreaders: null
 date: 2011-02-18
 date-precision: day

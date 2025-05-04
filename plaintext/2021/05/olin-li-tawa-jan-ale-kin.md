@@ -2,17 +2,16 @@
 title: olin li tawa jan ale kin
 description: null
 authors:
-- jan Sotan
-translators: null
+  - jan Sotan
 proofreaders: null
 date: 2021-05-22
 date-precision: day
 tags:
-- music
+  - music
 original: null
 license: All Rights Reserved
 sources:
-- https://www.youtube.com/watch?v=Y2Dw4aatlEE
+  - https://www.youtube.com/watch?v=Y2Dw4aatlEE
 archives: null
 preprocessing: Section headers are wrapped inside square brackets.
 accessibility-notes: null

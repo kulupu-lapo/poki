@@ -3,7 +3,6 @@ title: Kiwen Loje en Kasi Tawa
 description: Toki Pona translation of the first chapter of Redstone and Skulk!
 authors:
   - Chronological_knight
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

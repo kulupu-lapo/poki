@@ -3,7 +3,6 @@ title: tenpo pimeja pini
 description: “tenpo ni li tenpo pini.”
 authors:
   - axiomwitch
-translators: null
 proofreaders: null
 date: 2024-12-15
 date-precision: day

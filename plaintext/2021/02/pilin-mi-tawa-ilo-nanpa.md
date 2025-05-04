@@ -2,8 +2,7 @@
 title: pilin mi tawa ilo nanpa
 description: null
 authors:
-- jan Ana
-translators: null
+  - jan Ana
 proofreaders: null
 date: 2021-02-13
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-02-13-pilinmitawailonanpa.md
-- https://lipukule.org/post/2021/02/13/pilin-mi-tawa-ilo-nanpa/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-02-13-pilinmitawailonanpa.md
+  - https://lipukule.org/post/2021/02/13/pilin-mi-tawa-ilo-nanpa/
 archives: null
 preprocessing: null
 accessibility-notes: null

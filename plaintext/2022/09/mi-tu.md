@@ -4,7 +4,6 @@ description: kulupu Upi li jan tu li jan Kuki li jan Sato. taso jan ante li sona
   a! ona li pona e ni.
 authors:
   - dragon_chris
-translators: null
 proofreaders: null
 date: 2022-09-12
 date-precision: day

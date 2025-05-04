@@ -3,7 +3,6 @@ title: ma Alansi
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2011-06-10
 date-precision: day

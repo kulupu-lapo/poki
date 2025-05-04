@@ -2,9 +2,8 @@
 title: jan li toki e wile ona lon ma Netelan
 description: null
 authors:
-- jan Kasape
-- jan Simiman
-translators: null
+  - jan Kasape
+  - jan Simiman
 proofreaders: null
 date: 2023-12-25
 date-precision: day
@@ -12,9 +11,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0023sewi.pdf
-- https://liputenpo.org/lipu/nanpa-sewi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_wile_pi_ma_Netelan.svg
+  - https://liputenpo.org/pdfs/0023sewi.pdf
+  - https://liputenpo.org/lipu/nanpa-sewi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_wile_pi_ma_Netelan.svg
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

@@ -17,8 +17,7 @@ description: "nimi: \n\nApapu Mansu Ati (Abdrabbuh Mansur Hadi, عبدربه م�
   https://www.theguardian.com/world/2021/jan/15/dutch-government-resigns-over-child-benefits-scandal\n\
   https://docs.google.com/document/d/1uLx7PWaL3AfZ56H-UiaCr4yoUChuOoLmDNncZOGXjfE/edit?usp=sharing"
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2021-01-16
 date-precision: day
@@ -26,8 +25,8 @@ tags: null
 original: null
 license: null
 sources:
-- https://www.youtube.com/watch?v=AyiIq-oxgh4
-- https://docs.google.com/document/d/1uLx7PWaL3AfZ56H-UiaCr4yoUChuOoLmDNncZOGXjfE/edit
+  - https://www.youtube.com/watch?v=AyiIq-oxgh4
+  - https://docs.google.com/document/d/1uLx7PWaL3AfZ56H-UiaCr4yoUChuOoLmDNncZOGXjfE/edit
 archives: null
 preprocessing: null
 accessibility-notes: null

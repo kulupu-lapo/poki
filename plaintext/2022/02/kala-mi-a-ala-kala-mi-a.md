@@ -2,21 +2,20 @@
 title: '"kala mi a!" "ala. kala mi a!"'
 description: musi ni li toki e jan pona e kala sona.
 authors:
-- nick
-translators: null
+  - nick
 proofreaders: null
 date: 2022-02-01
 date-precision: day
 tags:
-- StoryWeaver level 1
+  - StoryWeaver level 1
 original:
   title: My fish! No, my fish!
   authors:
-  - Suraj J Menon
+    - Suraj J Menon
 # - Soumya Menon (illustrator)
 license: CC-BY-4.0
 sources:
-- https://storyweaver.org.in/en/stories/403868-kala-mi-a-ala-kala-mi-a
+  - https://storyweaver.org.in/en/stories/403868-kala-mi-a-ala-kala-mi-a
 archives: null
 preprocessing: null
 accessibility-notes: null

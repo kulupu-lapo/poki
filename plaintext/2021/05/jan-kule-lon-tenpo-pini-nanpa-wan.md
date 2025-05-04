@@ -2,8 +2,7 @@
 title: jan kule lon tenpo pini - nanpa wan
 description: null
 authors:
-- jan Olipija
-translators: null
+  - jan Olipija
 proofreaders: null
 date: 2021-05-07
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0004kasi.pdf
-- https://liputenpo.org/lipu/nanpa-kasi/
+  - https://liputenpo.org/pdfs/0004kasi.pdf
+  - https://liputenpo.org/lipu/nanpa-kasi/
 archives: null
 preprocessing: null
 accessibility-notes: null

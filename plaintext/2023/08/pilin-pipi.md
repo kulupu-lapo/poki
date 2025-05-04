@@ -2,18 +2,17 @@
 title: pilin pipi
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2023-08-15
 date-precision: day
 tags:
-- nasa pi nasin sitelen selo
+  - nasa pi nasin sitelen selo
 original: null
 license: CC-BY-SA-4.0
 sources:
-- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/pilin-pipi.md
-- http://utala.pona.la/toki-en-lipu/lipu-suli/pilin-pipi.html
+  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/pilin-pipi.md
+  - http://utala.pona.la/toki-en-lipu/lipu-suli/pilin-pipi.html
 archives: null
 preprocessing: includes HTML
 accessibility-notes: null

@@ -4,7 +4,6 @@ description: null
 authors:
   - jan Kanso
   - Dave Raftery
-translators: null
 proofreaders: null
 date: 2011-05-20
 date-precision: day

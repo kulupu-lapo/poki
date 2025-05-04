@@ -2,9 +2,8 @@
 title: musi pi kala ko
 description: null
 authors:
-- jan Itan
-- jan Tepo
-translators: null
+  - jan Itan
+  - jan Tepo
 proofreaders: null
 date: 2021-10-18
 date-precision: day
@@ -12,8 +11,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vQPqFsD5V-459Tb9tfvtfgAMP-VMUS_d-ISL3mxjHrjWmxCD08st1a6s12i83u9A4yZ1Q0JfRAaZwe7/pub
-- https://wikisource.org/wiki/Kalama_sin/4
+  - https://docs.google.com/document/d/e/2PACX-1vQPqFsD5V-459Tb9tfvtfgAMP-VMUS_d-ISL3mxjHrjWmxCD08st1a6s12i83u9A4yZ1Q0JfRAaZwe7/pub
+  - https://wikisource.org/wiki/Kalama_sin/4
 archives: null
 preprocessing: replaced unusual "j." abbreviation with the full names
 accessibility-notes: null

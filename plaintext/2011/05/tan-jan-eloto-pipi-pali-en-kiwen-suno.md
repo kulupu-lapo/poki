@@ -3,7 +3,6 @@ title: tan jan Eloto. pipi pali en kiwen suno
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2011-05-13
 date-precision: day

@@ -3,7 +3,6 @@ title: o moku sama soweli
 description: pali suli li wile e moku suli.
 authors:
   - asona
-translators: null
 proofreaders: null
 date: 2024-09-13
 date-precision: day

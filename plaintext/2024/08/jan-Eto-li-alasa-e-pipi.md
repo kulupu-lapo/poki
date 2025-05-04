@@ -3,7 +3,6 @@ title: jan Eto li alasa e pipi
 description: null
 authors:
   - lipamanka
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

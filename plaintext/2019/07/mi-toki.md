@@ -2,18 +2,17 @@
 title: mi toki
 description: null
 authors:
-- jan Sotan
-translators: null
+  - jan Sotan
 proofreaders: null
 date: 2019-07-22
 date-precision: day
 tags:
-- poetry
-- read-aloud poetry
+  - poetry
+  - read-aloud poetry
 original: null
 license: CC BY 4.0
 sources:
-- https://www.youtube.com/watch?v=rQ3mImRpzY8
+  - https://www.youtube.com/watch?v=rQ3mImRpzY8
 archives: null
 preprocessing: null
 accessibility-notes: null

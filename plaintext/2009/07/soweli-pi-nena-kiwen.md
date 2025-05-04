@@ -3,7 +3,6 @@ title: soweli pi nena kiwen
 description: null
 authors:
   - jan Mika
-translators: null
 proofreaders: null
 date: 2009-07-01
 date-precision: day

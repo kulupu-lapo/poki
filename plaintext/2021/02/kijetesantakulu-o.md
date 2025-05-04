@@ -2,21 +2,20 @@
 title: kijetesantakulu o!
 description: kijetesantakalu li nasa lili. taso ona li musi li pona pi nasin ona.
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2021-02-01
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY 4.0
 sources:
-- https://liputenpo.org/lipu/nanpa-akesi
-- https://janketami.wordpress.com/2021/02/03/kijetesantakulu-o/
-- https://kijetesantakalu-o.tumblr.com/post/671636703385174016
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep01.png
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep01_(sitelen_pona).png
+  - https://liputenpo.org/lipu/nanpa-akesi
+  - https://janketami.wordpress.com/2021/02/03/kijetesantakulu-o/
+  - https://kijetesantakalu-o.tumblr.com/post/671636703385174016
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep01.png
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep01_(sitelen_pona).png
 archives: null
 preprocessing: null
 accessibility-notes: null

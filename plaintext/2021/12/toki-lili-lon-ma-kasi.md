@@ -3,7 +3,6 @@ title: toki lili lon ma kasi
 description: null
 authors:
   - jan Telakoman
-translators: null
 proofreaders: null
 date: 2021-12-05
 date-precision: day

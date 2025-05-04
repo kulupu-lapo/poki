@@ -3,20 +3,19 @@ title: ni li nasin
 description: jan pi kulupu pona li pona. jan pi kulupu ma li ike. ni li nasin, anu
   seme? jan pi wile sona li alasa e sona sin.
 authors:
-- palisa jelo Natan
-translators: null
+  - palisa jelo Natan
 proofreaders: null
 date: 2022-08-06
 date-precision: day
 tags:
-- kulupu lili ike pi nasin sewi nasa
-- nasin ike - jan li toki ike e nasin pi jan ante
-- moku li lon
+  - kulupu lili ike pi nasin sewi nasa
+  - nasin ike - jan li toki ike e nasin pi jan ante
+  - moku li lon
 original: null
 license: null
 sources:
-- https://github.com/raacz/utala/blob/main/lipu-lili/ni-li-nasin.md
-- http://utala.pona.la/lipu-lili/ni-li-nasin.html
+  - https://github.com/raacz/utala/blob/main/lipu-lili/ni-li-nasin.md
+  - http://utala.pona.la/lipu-lili/ni-li-nasin.html
 archives: null
 preprocessing: null
 accessibility-notes: null

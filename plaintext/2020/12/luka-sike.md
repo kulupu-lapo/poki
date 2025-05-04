@@ -3,7 +3,6 @@ title: luka sina
 description: null
 authors:
   - kala pona Tonyu
-translators: null
 proofreaders: null
 date: 2020-12-27
 date-precision: day

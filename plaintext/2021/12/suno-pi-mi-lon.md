@@ -3,7 +3,6 @@ title: tenpo seme?
 description: null
 authors:
   - jan Nikoleta
-translators: null
 proofreaders: null
 date: 2021-12-17
 date-precision: day

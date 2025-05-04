@@ -2,22 +2,21 @@
 title: pini weka
 description: null
 authors:
-- jan Nalu
-translators: null
+  - jan Nalu
 proofreaders: null
 date: 2024-05-14
 date-precision: day
 tags:
-- poetry
+  - poetry
 original:
   title: null
   authors:
-  - Giacomo Leopardi, 1798–1837 (jan Jakomo Lopate)
+    - Giacomo Leopardi, 1798–1837 (jan Jakomo Lopate)
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0026jaki.pdf
-- https://liputenpo.org/lipu/nanpa-jaki/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_pini_weka.png
+  - https://liputenpo.org/pdfs/0026jaki.pdf
+  - https://liputenpo.org/lipu/nanpa-jaki/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_pini_weka.png
 archives: null
 preprocessing: null
 accessibility-notes: null

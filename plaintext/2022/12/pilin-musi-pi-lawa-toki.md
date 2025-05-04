@@ -3,7 +3,6 @@ title: pilin musi pi lawa toki
 description: null
 authors:
   - anonymous
-translators: null
 proofreaders: null
 date: 2022-12-09
 date-precision: day

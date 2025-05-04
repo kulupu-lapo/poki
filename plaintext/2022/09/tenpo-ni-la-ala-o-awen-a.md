@@ -4,21 +4,20 @@ description: 'jan lili pi toki musi ni li wile pali e ijo mute. taso jan suli al
   li toki e ni: "ala! o awen a!" jan li toki e ni tawa sina la, sina pilin ala pilin
   utala?'
 authors:
-- Miles Rodriguez
-translators: null
+  - Miles Rodriguez
 proofreaders: null
 date: 2022-09-19
 date-precision: day
 tags:
-- StoryWeaver level 1
+  - StoryWeaver level 1
 original:
   title: Not Now, Not Now!
   authors:
-  - Rohini Nilekani
+    - Rohini Nilekani
 # - Ruchi Shah (illustrator)
 license: CC-BY-4.0
 sources:
-- https://storyweaver.org.in/en/stories/465770-tenpo-ni-la-ala-o-awen-a
+  - https://storyweaver.org.in/en/stories/465770-tenpo-ni-la-ala-o-awen-a
 archives: null
 preprocessing: null
 accessibility-notes: null

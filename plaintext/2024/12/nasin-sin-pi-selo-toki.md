@@ -3,7 +3,6 @@ title: nasin sin pi selo toki
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2024-12-29
 date-precision: day

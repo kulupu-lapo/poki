@@ -3,7 +3,6 @@ title: tomo awen  # kalama: tomo awen
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-12-21
 date-precision: day

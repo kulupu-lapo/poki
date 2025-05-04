@@ -3,7 +3,6 @@ title: tenpo pona nanpa pi musi supa
 description: jan pona pi jan Pami li weka e pilin ike ona.
 authors:
   - RandomWordWriter
-translators: null
 proofreaders: null
 date: 2024-04-07
 date-precision: day

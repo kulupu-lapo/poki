@@ -3,7 +3,6 @@ title: musi Soki (rules of shogi) (wip)
 description: null
 authors:
   - jan Lentan
-translators: null
 proofreaders: null
 date: 2020-10-06
 date-precision: day

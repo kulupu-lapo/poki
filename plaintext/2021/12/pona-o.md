@@ -3,7 +3,6 @@ title: pona o  # kalama: pona o
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-12-22
 date-precision: day

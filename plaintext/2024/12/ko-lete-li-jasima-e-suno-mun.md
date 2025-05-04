@@ -3,7 +3,6 @@ title: ko lete li jasima e suno mun
 description: jan Mana li lon ma Kalema li kama sona e mun ona.
 authors:
   - axiomwitch
-translators: null
 proofreaders: null
 date: 2024-12-16
 date-precision: day

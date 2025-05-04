@@ -3,7 +3,6 @@ title: (meli mi o) awen pona
 description: null
 authors:
   - jan Tepan
-translators: null
 proofreaders: null
 date: 2018-01-10
 date-precision: day

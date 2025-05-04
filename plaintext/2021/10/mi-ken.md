@@ -2,19 +2,18 @@
 title: mi ken
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2021-10-31
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0009moli.pdf
-- https://liputenpo.org/lipu/nanpa-moli/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_mi_ken.png
+  - https://liputenpo.org/pdfs/0009moli.pdf
+  - https://liputenpo.org/lipu/nanpa-moli/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_mi_ken.png
 archives: null
 preprocessing: null
 accessibility-notes: null

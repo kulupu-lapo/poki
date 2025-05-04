@@ -3,7 +3,6 @@ title: jaki sijelo ni li moli nanpa wan
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2024-05-14
 date-precision: day

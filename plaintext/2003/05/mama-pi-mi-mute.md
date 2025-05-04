@@ -3,7 +3,6 @@ title: mama pi mi mute
 description: null
 authors:
   - Damian Yerrick  # According to Wikipedia's page history; unclear if this is the actual translator
-translators: null
 proofreaders: null
 date: 2005-07-15
 date-precision: day

@@ -3,7 +3,6 @@ title: selo
 description: null
 authors:
   - jan Kiwa
-translators: null
 proofreaders: null
 date: 2018-03-13
 date-precision: day

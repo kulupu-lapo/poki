@@ -2,17 +2,16 @@
 title: ma tomo Win
 description: null
 authors:
-- jan Jakopo
-- jan Ke Tami
-- jan Luna
-- jan Masije
-- jan Molisi
-- jan Palento
-- jan Peja
-- jan Peton
-- jan Pulo
-- jan Sonatan
-translators: null
+  - jan Jakopo
+  - jan Ke Tami
+  - jan Luna
+  - jan Masije
+  - jan Molisi
+  - jan Palento
+  - jan Peja
+  - jan Peton
+  - jan Pulo
+  - jan Sonatan
 proofreaders: null
 date: 2023-06-14
 date-precision: day
@@ -20,8 +19,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vQXBGXtAxDXWoPFt1atJbCgEzJzkc1JMSSD9lDU4QHZMPFEWk49LQiwSwDVtcU-b-YjO8Vugup55g0j/pub
-- https://wikisource.org/wiki/Kalama_sin/28
+  - https://docs.google.com/document/d/e/2PACX-1vQXBGXtAxDXWoPFt1atJbCgEzJzkc1JMSSD9lDU4QHZMPFEWk49LQiwSwDVtcU-b-YjO8Vugup55g0j/pub
+  - https://wikisource.org/wiki/Kalama_sin/28
 archives: null
 preprocessing: null
 accessibility-notes: null

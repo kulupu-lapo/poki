@@ -3,7 +3,6 @@ title: mi jo e nimi mute
 description: null
 authors:
   - Skimmed
-translators: null
 proofreaders: null
 date: 2024-10-02
 date-precision: day

@@ -3,7 +3,6 @@ title: mije pona mi
 description: jan Pitun li alasa e jan unpa. jan Iso lon ni!
 authors:
   - Chameleon_Marx
-translators: null
 proofreaders: null
 date: 2024-04-08
 date-precision: day

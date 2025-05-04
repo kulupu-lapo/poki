@@ -3,21 +3,20 @@ title: kijetesantakalu o! nanpa tu wan
 description: linja li tan kijetesantakalu tawa telo. kijetesantakalu li alasa ala
   alasa e kala? ala!
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2021-04-05
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY 4.0
 sources:
-- https://liputenpo.org/lipu/nanpa-soweli
-- https://janketami.wordpress.com/2021/04/05/kijetesantakalu-o-nanpa-tu-wan/
-- https://kijetesantakalu-o.tumblr.com/post/671662509200113664
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep03.png
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep03_(sitelen_pona).png
+  - https://liputenpo.org/lipu/nanpa-soweli
+  - https://janketami.wordpress.com/2021/04/05/kijetesantakalu-o-nanpa-tu-wan/
+  - https://kijetesantakalu-o.tumblr.com/post/671662509200113664
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep03.png
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep03_(sitelen_pona).png
 archives: null
 preprocessing: null
 accessibility-notes: null

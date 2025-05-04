@@ -3,18 +3,17 @@ title: mije pi utala toki
 description: mije li kama tawa mije ante la, ona tu li pilin ike. ona tu li utala
   kepeken toki ike. jan ante li kama, li lukin e utala ni.
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2022-08-06
 date-precision: day
 tags:
-- moku
+  - moku
 original: null
 license: CC-BY-4.0
 sources:
-- https://github.com/raacz/utala/blob/main/lipu-lili/mije-pi-utala-toki.md
-- http://utala.pona.la/lipu-lili/mije-pi-utala-toki.html
+  - https://github.com/raacz/utala/blob/main/lipu-lili/mije-pi-utala-toki.md
+  - http://utala.pona.la/lipu-lili/mije-pi-utala-toki.html
 archives: null
 preprocessing: null
 accessibility-notes: null

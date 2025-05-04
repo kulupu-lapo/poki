@@ -3,7 +3,6 @@ title: ilo lukin pi tenpo kama
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2023-06-03
 date-precision: day

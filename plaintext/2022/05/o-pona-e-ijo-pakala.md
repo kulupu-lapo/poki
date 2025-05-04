@@ -4,22 +4,21 @@ description: len pi jan Sijan li kama pakala · ilo pi supa len li pakala kin ·
   li ike · taso · jan Sisa en ona li tawa tomo pi pona ijo · ona la ale li ken kama
   pona
 authors:
-- jan Kita
-translators: null
+  - jan Kita
 proofreaders: null
 date: 2022-05-14
 date-precision: day
 tags:
-- StoryWeaver level 4
+  - StoryWeaver level 4
 original:
   title: A Stitch in Time
   authors:
-  - Himadri Das
-  - Veena Prasad
+    - Himadri Das
+    - Veena Prasad
 # - Ankitha Kini (illustrator)
 license: CC-BY-4.0
 sources:
-- https://storyweaver.org.in/en/stories/442898-o-pona-e-ijo-pakala
+  - https://storyweaver.org.in/en/stories/442898-o-pona-e-ijo-pakala
 archives: null
 preprocessing: removed manual line breaks
 accessibility-notes: null

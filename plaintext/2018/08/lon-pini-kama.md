@@ -3,7 +3,6 @@ title: lon pini kama
 description: null
 authors:
   - jan Kapo
-translators: null
 proofreaders: null
 date: 2018-07-28
 date-precision: day

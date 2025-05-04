@@ -3,7 +3,6 @@ title: kala li ken ala ken waso?
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2025-02-28
 date-precision: day

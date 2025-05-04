@@ -3,7 +3,6 @@ title: akesi (apeja li mi)
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2023-08-05
 date-precision: day

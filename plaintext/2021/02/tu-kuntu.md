@@ -2,9 +2,8 @@
 title: tu kuntu
 description: null
 authors:
-- kule epiku Atawan
-- kala pona Tonyu
-translators: null
+  - kule epiku Atawan
+  - kala pona Tonyu
 proofreaders: null
 date: 2021-02-08
 date-precision: day
@@ -12,10 +11,10 @@ tags: null
 original: null
 license: CC0 1.0
 sources:
-- https://utala.pona.la/lipu-kalama-tawa/
-- https://commons.wikimedia.org/wiki/File:Tu_kuntu.pdf
-- https://upload.wikimedia.org/wikipedia/commons/2/29/Tu_kuntu.pdf
-- https://wikisource.org/wiki/Tu_kuntu
+  - https://utala.pona.la/lipu-kalama-tawa/
+  - https://commons.wikimedia.org/wiki/File:Tu_kuntu.pdf
+  - https://upload.wikimedia.org/wikipedia/commons/2/29/Tu_kuntu.pdf
+  - https://wikisource.org/wiki/Tu_kuntu
 archives: null
 preprocessing: null
 accessibility-notes: null

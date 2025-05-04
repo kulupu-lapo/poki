@@ -4,7 +4,6 @@ description: null
 authors:
   - Nardi
   - Pata Powe
-translators: null
 proofreaders: null
 date: 2022-06-09
 date-precision: day

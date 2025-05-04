@@ -3,7 +3,6 @@ title: supa
 description: what is a supa? an exploration of what supa means in toki pona.
 authors:
   - lipamanka
-translators: null
 proofreaders: null
 date: 2001-01-01
 date-precision: none

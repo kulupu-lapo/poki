@@ -3,7 +3,6 @@ title: sina toki ala toki?
 description: null
 authors:
   - soweli Peka
-translators: null
 proofreaders: null
 date: 2014-04-15
 date-precision: day

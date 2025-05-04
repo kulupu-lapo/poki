@@ -4,7 +4,6 @@ title: sitelen suwi
 description: null
 authors:
   - jan Kaja
-translators: null
 proofreaders: null
 date: 2020-07-26
 date-precision: day

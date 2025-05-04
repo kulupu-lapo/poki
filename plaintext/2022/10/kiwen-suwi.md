@@ -3,7 +3,6 @@ title: kiwen suwi
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2022-10-28
 date-precision: day

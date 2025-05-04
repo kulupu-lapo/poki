@@ -3,7 +3,6 @@ title: mi moku e kili pona  # not the original title; title given for Lapo purpo
 description: null
 authors:
   - pan Kamiju
-translators: null
 proofreaders: null
 date: 2025-02-01
 date-precision: month

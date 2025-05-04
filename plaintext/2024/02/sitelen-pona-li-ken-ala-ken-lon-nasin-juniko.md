@@ -2,8 +2,7 @@
 title: sitelen pona li ken ala ken lon nasin Juniko
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2024-02-07
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0024tenpo.pdf
-- https://liputenpo.org/lipu/nanpa-tenpo/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_nasin_Juniko.png
+  - https://liputenpo.org/pdfs/0024tenpo.pdf
+  - https://liputenpo.org/lipu/nanpa-tenpo/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_nasin_Juniko.png
 archives: null
 preprocessing: – wrote alt text
 accessibility-notes: null

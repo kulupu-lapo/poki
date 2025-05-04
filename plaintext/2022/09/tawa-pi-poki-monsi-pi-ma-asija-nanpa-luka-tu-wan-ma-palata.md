@@ -2,8 +2,7 @@
 title: 'tawa pi poki monsi pi ma Asija nanpa luka tu wan: ma Palata'
 description: null
 authors:
-- jan Polo
-translators: null
+  - jan Polo
 proofreaders: null
 date: 2022-09-01
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0015moku.pdf
-- https://liputenpo.org/lipu/nanpa-moku/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_ma_Palata.png
+  - https://liputenpo.org/pdfs/0015moku.pdf
+  - https://liputenpo.org/lipu/nanpa-moku/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_ma_Palata.png
 archives: null
 preprocessing: null
 accessibility-notes: null

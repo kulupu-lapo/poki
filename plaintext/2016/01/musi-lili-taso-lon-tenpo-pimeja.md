@@ -2,8 +2,7 @@
 title: musi lili taso lon tenpo pimeja
 description: null
 authors:
-- jan Sotan
-translators: null
+  - jan Sotan
 proofreaders: null
 date: 2016-01-23
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: All Rights Reserved
 sources:
-- https://www.youtube.com/watch?v=Wjlewm7rojY
+  - https://www.youtube.com/watch?v=Wjlewm7rojY
 archives: null
 preprocessing: Section headers are wrapped inside square brackets.
 accessibility-notes: null

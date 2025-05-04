@@ -3,7 +3,6 @@ title: kalama musi pi jan Asuli
 description: null
 authors:
   - jan Misali
-translators: null
 proofreaders: null
 date: 2023-03-07
 date-precision: day

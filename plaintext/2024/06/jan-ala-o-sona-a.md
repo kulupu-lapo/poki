@@ -4,7 +4,6 @@ description: toki pona translation of my another work. please read it (if you kn
   ukrainian)
 authors:
   - not_someone
-translators: null
 proofreaders: null
 date: 2024-06-08
 date-precision: day

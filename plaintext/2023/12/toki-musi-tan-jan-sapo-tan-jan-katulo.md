@@ -2,22 +2,21 @@
 title: toki musi tan jan Sapo[^1], tan jan Katulo[^2]
 description: null
 authors:
-- jan Lapate
-translators: null
+  - jan Lapate
 proofreaders: null
 date: 2023-12-25
 date-precision: day
 tags:
-- poetry
+  - poetry
 original:
   title: null
   authors:
-  - Σαπφώ (jan Sapo)
-  - C. Valerius Catullus (jan Katulo)
+    - Σαπφώ (jan Sapo)
+    - C. Valerius Catullus (jan Katulo)
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0023sewi.pdf
-- https://liputenpo.org/lipu/nanpa-sewi/
+  - https://liputenpo.org/pdfs/0023sewi.pdf
+  - https://liputenpo.org/lipu/nanpa-sewi/
 archives: null
 preprocessing: null
 accessibility-notes: null

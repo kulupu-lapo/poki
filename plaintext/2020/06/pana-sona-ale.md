@@ -3,7 +3,6 @@ title: jan li ken pana e sona ale kepeken toki pona
 description: null
 authors:
   - jan Telakoman
-translators: null
 proofreaders: null
 date: 2020-06-19
 date-precision: day

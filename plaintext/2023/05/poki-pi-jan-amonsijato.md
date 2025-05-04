@@ -3,7 +3,6 @@ title: poki pi telo Amonsijato
 description: null
 authors:
   - jan lili Enta
-translators: null
 proofreaders: null
 date: 2023-05-01
 date-precision: day

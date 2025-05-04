@@ -3,7 +3,6 @@ title: open
 description: null
 authors:
   - lipamanka
-translators: null
 proofreaders: null
 date: 2025-02-06
 date-precision: day

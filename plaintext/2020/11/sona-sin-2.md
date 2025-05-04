@@ -19,8 +19,7 @@ description: 'toki! sitelen tawa ni li sona sin mi pi nanpa tu! a a a!
 
   https://www.bbc.com/news/world-europe-54729957'
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2020-11-01
 date-precision: day
@@ -28,7 +27,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://www.youtube.com/watch?v=qtq5wsH_5-E
+  - https://www.youtube.com/watch?v=qtq5wsH_5-E
 archives: null
 preprocessing: null
 accessibility-notes: null

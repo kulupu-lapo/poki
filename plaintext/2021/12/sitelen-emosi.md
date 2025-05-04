@@ -2,8 +2,7 @@
 title: sitelen Emosi
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2021-12-08
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0010lete.pdf
-- https://liputenpo.org/lipu/nanpa-lete/
+  - https://liputenpo.org/pdfs/0010lete.pdf
+  - https://liputenpo.org/lipu/nanpa-lete/
 archives: null
 preprocessing: null
 accessibility-notes: null

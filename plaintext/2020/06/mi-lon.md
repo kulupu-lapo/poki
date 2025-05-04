@@ -2,19 +2,18 @@
 title: mi lon
 description: null
 authors:
-- kule epiku Atawan
-translators: null
+  - kule epiku Atawan
 proofreaders: null
 date: 2020-06-24
 date-precision: day
 tags:
-- original work
+  - original work
 original: null
 license: All Rights Reserved
 sources:
-- https://docs.google.com/document/d/1FwKYb31Bx30o7FYUe1r9UjhR4dLXRR2yHNDJS7JBoV4/edit
+  - https://docs.google.com/document/d/1FwKYb31Bx30o7FYUe1r9UjhR4dLXRR2yHNDJS7JBoV4/edit
 archives:
-- https://web.archive.org/web/20230521064955/https://docs.google.com/document/d/1FwKYb31Bx30o7FYUe1r9UjhR4dLXRR2yHNDJS7JBoV4/edit
+  - https://web.archive.org/web/20230521064955/https://docs.google.com/document/d/1FwKYb31Bx30o7FYUe1r9UjhR4dLXRR2yHNDJS7JBoV4/edit
 preprocessing: null
 accessibility-notes: null
 notes: null

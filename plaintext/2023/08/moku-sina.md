@@ -4,7 +4,6 @@ description: "soweli suli li moku e sina anu: soweli, jan, mi, kala, kijetesanta
   monsuta, ona, waso moku sina"
 authors:
   - BR0K3NWA1NUTB50N
-translators: null
 proofreaders: null
 date: 2023-08-26
 date-precision: day

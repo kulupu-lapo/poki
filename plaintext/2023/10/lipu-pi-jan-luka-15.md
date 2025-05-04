@@ -3,7 +3,6 @@ title: toki suli nanpa luka luka luka pi lipu sewi pi jan Luka
 description: null
 authors:
   - jan Telakoman
-translators: null
 proofreaders: null
 date: 2023-10-14
 date-precision: day

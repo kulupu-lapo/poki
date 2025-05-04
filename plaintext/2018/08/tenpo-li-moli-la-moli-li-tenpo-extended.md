@@ -2,18 +2,17 @@
 title: tenpo li moli la moli li tenpo EXTENDED
 description: null
 authors:
-- jan Sotan
-translators: null
+  - jan Sotan
 proofreaders: null
 date: 2018-08-03
 date-precision: day
 tags:
-- music
-- tok' apona
+  - music
+  - tok' apona
 original: null
 license: All Rights Reserved
 sources:
-- https://www.youtube.com/watch?v=INm3vnNbapM
+  - https://www.youtube.com/watch?v=INm3vnNbapM
 archives: null
 preprocessing: null
 accessibility-notes: null

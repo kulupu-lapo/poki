@@ -2,8 +2,7 @@
 title: mijomi telo[^1]
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2022-07-04
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0014seli.pdf
-- https://liputenpo.org/lipu/nanpa-seli/
+  - https://liputenpo.org/pdfs/0014seli.pdf
+  - https://liputenpo.org/lipu/nanpa-seli/
 archives: null
 preprocessing: null
 accessibility-notes: null

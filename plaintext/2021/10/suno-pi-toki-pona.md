@@ -3,7 +3,6 @@ title: toki mi lon suno pi toki pona
 description: null
 authors:
   - jan Telakoman
-translators: null
 proofreaders: null
 date: 2021-10-10
 date-precision: day

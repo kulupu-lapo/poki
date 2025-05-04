@@ -2,10 +2,9 @@
 title: poki nasa
 description: null
 authors:
-- jan Lakuse
-- kala Salan
-- jan Tepo
-translators: null
+  - jan Lakuse
+  - kala Salan
+  - jan Tepo
 proofreaders: null
 date: 2022-06-12
 date-precision: day
@@ -13,8 +12,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vTq5b0nc7MNlG7AFCm-NqYhlc2vS0uRqvdcojDMrrIgF8mNmYyyvQrw9ZYbWm3L4sq8pxmItTmdQwd9/pub
-- https://wikisource.org/wiki/Kalama_sin/22
+  - https://docs.google.com/document/d/e/2PACX-1vTq5b0nc7MNlG7AFCm-NqYhlc2vS0uRqvdcojDMrrIgF8mNmYyyvQrw9ZYbWm3L4sq8pxmItTmdQwd9/pub
+  - https://wikisource.org/wiki/Kalama_sin/22
 archives: null
 preprocessing: replaced unusual "j., k." abbreviations with the full names
 accessibility-notes: null

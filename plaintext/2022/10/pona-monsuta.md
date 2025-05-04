@@ -2,19 +2,18 @@
 title: pona monsuta[^1]
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2022-10-17
 date-precision: day
 tags:
-- 'leko nimi'
-- 'poetry'
+  - 'leko nimi'
+  - 'poetry'
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0016kulupu.pdf
-- https://liputenpo.org/lipu/nanpa-kulupu/
+  - https://liputenpo.org/pdfs/0016kulupu.pdf
+  - https://liputenpo.org/lipu/nanpa-kulupu/
 archives: null
 preprocessing: null
 accessibility-notes: null

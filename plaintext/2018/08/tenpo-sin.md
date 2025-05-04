@@ -4,7 +4,6 @@ description: null
 authors:
   - jan Kasi
   - jan Tawe
-translators: null
 proofreaders: null
 date: 2018-07-28
 date-precision: day

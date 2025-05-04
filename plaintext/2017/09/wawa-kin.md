@@ -3,7 +3,6 @@ title: wawa kin
 description: null
 authors:
   - jan Minasa
-translators: null
 proofreaders: null
 date: 2017-09-10
 date-precision: day

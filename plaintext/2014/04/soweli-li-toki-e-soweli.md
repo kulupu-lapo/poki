@@ -3,7 +3,6 @@ title: soweli li toki e soweli.
 description: null
 authors:
   - soweli Peka
-translators: null
 proofreaders: null
 date: 2014-04-03
 date-precision: day

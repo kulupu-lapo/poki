@@ -3,7 +3,6 @@ title: Domestic Bliss — pilin tomo
 description: "jan Peni en jan Upi li mama e jan. For NND day 3: Domestic Bliss"
 authors:
   - dragon_chris
-translators: null
 proofreaders: null
 date: 2023-07-13
 date-precision: day

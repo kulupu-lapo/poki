@@ -3,7 +3,6 @@ title: waso laso tu
 description: jan Mizore en jan Nozomi li lape.
 authors:
   - emily_signet
-translators: null
 proofreaders: null
 date: 2022-01-15
 date-precision: day

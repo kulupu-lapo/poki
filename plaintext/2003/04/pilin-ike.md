@@ -5,7 +5,6 @@ description: Even angst-ridden, mediocre teenage poetry can be expressed in Toki
   good and bad.
 authors:
   - jan Sonja
-translators: null
 proofreaders: null
 date: 2003-04-23
 date-precision: day

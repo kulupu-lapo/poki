@@ -3,7 +3,6 @@ title: Aliens…
 description: null
 authors:
   - UnusualEgg
-translators: null
 proofreaders: null
 date: 2001-01-01
 date-precision: none

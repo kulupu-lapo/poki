@@ -3,7 +3,6 @@ title: waso
 description: null
 authors:
   - jan Tanije
-translators: null
 proofreaders: null
 date: 2021-02-01
 date-precision: day

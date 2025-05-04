@@ -3,7 +3,6 @@ title: pakala
 description: null
 authors:
   - jan Kijon
-translators: null
 proofreaders: null
 date: 2024-02-24
 date-precision: day

@@ -3,7 +3,6 @@ title: musi pi ijo jaki  # kalama: musi pi ijo jaki
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2022-06-20
 date-precision: day

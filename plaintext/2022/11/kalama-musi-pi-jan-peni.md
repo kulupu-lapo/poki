@@ -4,7 +4,6 @@ description: null
 authors:
   - jan Misali
   - Jules
-translators: null
 proofreaders: null
 date: 2022-12-20
 date-precision: day

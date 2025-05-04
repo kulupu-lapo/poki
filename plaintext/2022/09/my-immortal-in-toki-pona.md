@@ -4,7 +4,6 @@ description: exactly what it says on the tin. a fan translation of my immortal, 
   with (hopefully) correct toki pona grammar and spelling.
 authors:
   - dragon_chris
-translators: null
 proofreaders: null
 date: 2022-09-29
 date-precision: day

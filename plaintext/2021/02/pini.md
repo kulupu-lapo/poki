@@ -3,7 +3,6 @@ title: pini
 description: null
 authors:
   - kala pona Tonyu
-translators: null
 proofreaders: null
 date: 2021-02-28
 date-precision: day

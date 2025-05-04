@@ -2,22 +2,21 @@
 title: nasin seme la mi pali e kulupu
 description: null
 authors:
-- jan Kasimun
-translators: null
+  - jan Kasimun
 proofreaders: null
 date: 2021-06-02
 date-precision: day
 tags:
-- 'comic'
+  - 'comic'
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0005pan.pdf
-- https://liputenpo.org/lipu/nanpa-pan/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_1.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_2.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_3.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_4.png
+  - https://liputenpo.org/pdfs/0005pan.pdf
+  - https://liputenpo.org/lipu/nanpa-pan/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_1.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_2.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_3.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_sitelen_musi_4.png
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -2,8 +2,7 @@
 title: waso soweli pi lili nanpa wan
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2024-04-01
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0025.5lili.pdf
-- https://liputenpo.org/lipu/nanpa-lili/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lili_-_soweli_lili_(waso_taso).png
+  - https://liputenpo.org/pdfs/0025.5lili.pdf
+  - https://liputenpo.org/lipu/nanpa-lili/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lili_-_soweli_lili_(waso_taso).png
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

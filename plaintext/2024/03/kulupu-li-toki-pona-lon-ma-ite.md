@@ -2,8 +2,7 @@
 title: kulupu li toki pona lon ma Ite
 description: null
 authors:
-- jan Kasape
-translators: null
+  - jan Kasape
 proofreaders: null
 date: 2024-03-20
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0025kalama.pdf
-- https://liputenpo.org/lipu/nanpa-kalama/
+  - https://liputenpo.org/pdfs/0025kalama.pdf
+  - https://liputenpo.org/lipu/nanpa-kalama/
 archives: null
 preprocessing: null
 accessibility-notes: null

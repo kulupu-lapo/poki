@@ -3,7 +3,6 @@ title: o toki sin
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2021-08-13
 date-precision: day

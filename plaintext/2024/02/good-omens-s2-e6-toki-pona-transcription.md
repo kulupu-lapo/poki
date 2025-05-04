@@ -6,7 +6,6 @@ description: toki! An attempted translation of that scene from the end of season
   :)
 authors:
   - 50ShadesOfWhump
-translators: null
 proofreaders: null
 date: 2024-02-04
 date-precision: day

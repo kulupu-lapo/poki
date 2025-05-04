@@ -3,7 +3,6 @@ title: soweli Kiwa li wawa
 description: null
 authors:
   - jan Tasinjan
-translators: null
 proofreaders: null
 date: 2018-07-28
 date-precision: day

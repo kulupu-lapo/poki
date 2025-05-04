@@ -3,7 +3,6 @@ title: linja pi tawa ala
 description: null
 authors:
   - jan Maliku
-translators: null
 proofreaders: null
 date: 2017-07-28
 date-precision: day

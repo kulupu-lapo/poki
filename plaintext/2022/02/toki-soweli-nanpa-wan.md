@@ -2,8 +2,7 @@
 title: toki soweli - nanpa wan
 description: null
 authors:
-- jan Eweni Wako
-translators: null
+  - jan Eweni Wako
 proofreaders: null
 date: 2022-02-01
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0011walo.pdf
-- https://liputenpo.org/lipu/nanpa-walo/
+  - https://liputenpo.org/pdfs/0011walo.pdf
+  - https://liputenpo.org/lipu/nanpa-walo/
 archives: null
 preprocessing: null
 accessibility-notes: null

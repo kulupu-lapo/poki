@@ -2,8 +2,7 @@
 title: tenpo mun pi ante toki
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2022-03-10
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0012nimi.pdf
-- https://liputenpo.org/lipu/nanpa-nimi/
-- https://commons.wikimedia.org/wiki/File:Icon_of_mun_pi_ante_toki.png
+  - https://liputenpo.org/pdfs/0012nimi.pdf
+  - https://liputenpo.org/lipu/nanpa-nimi/
+  - https://commons.wikimedia.org/wiki/File:Icon_of_mun_pi_ante_toki.png
 archives: null
 preprocessing: null
 accessibility-notes: null

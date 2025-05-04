@@ -3,7 +3,6 @@ title: suno nanpa wan
 description: null
 authors:
   - kala pona Tonyu
-translators: null
 proofreaders: null
 date: 2021-12-07
 date-precision: day

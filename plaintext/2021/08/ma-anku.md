@@ -3,7 +3,6 @@ title: tenpo pi suno sin pi ma Anku li kama!
 description: null
 authors:
   - jan Epen
-translators: null
 proofreaders: null
 date: 2021-08-15
 date-precision: day

@@ -3,7 +3,6 @@ title: jan pi alasa kala en jan olin ona
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2022-02-28
 date-precision: day

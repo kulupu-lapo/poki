@@ -2,20 +2,19 @@
 title: pipi pali
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2024-04-01
 date-precision: day
 tags:
-- 'leko nimi'
-- 'poetry'
+  - 'leko nimi'
+  - 'poetry'
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0025.5lili.pdf
-- https://liputenpo.org/lipu/nanpa-lili/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lili_-_pipi_pali.png
+  - https://liputenpo.org/pdfs/0025.5lili.pdf
+  - https://liputenpo.org/lipu/nanpa-lili/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_lili_-_pipi_pali.png
 archives: null
 preprocessing: null
 accessibility-notes: null

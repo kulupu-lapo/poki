@@ -2,8 +2,7 @@
 title: nimi 'tonsi' li pona a!
 description: null
 authors:
-- jan Olipija
-translators: null
+  - jan Olipija
 proofreaders: null
 date: 2021-03-08
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-03-08-tonsi.md
-- https://lipukule.org/post/2021/03/08/nimi-tonsi-li-pona-a/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-03-08-tonsi.md
+  - https://lipukule.org/post/2021/03/08/nimi-tonsi-li-pona-a/
 archives: null
 preprocessing: null
 accessibility-notes: null

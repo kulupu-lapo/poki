@@ -2,19 +2,18 @@
 title: lipu musi lili nasa pi nimi ali
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2022-12-09
 date-precision: day
 tags:
-- poetry
-- pangram
+  - poetry
+  - pangram
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0017musi.pdf
-- https://liputenpo.org/lipu/nanpa-musi/
+  - https://liputenpo.org/pdfs/0017musi.pdf
+  - https://liputenpo.org/lipu/nanpa-musi/
 archives: null
 preprocessing: null
 accessibility-notes: null

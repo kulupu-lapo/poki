@@ -3,21 +3,20 @@ title: kijetesantakalu o! nanpa luka tu wan
 description: kijetesantakalu en waso li wile sitelen e waso e kijetesantakalu. ona
   li ken ala ken?
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2021-10-06
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY 4.0
 sources:
-- https://liputenpo.org/lipu/nanpa-toki
-- https://janketami.wordpress.com/2021/10/23/kijetesantakalu-o-nanpa-luka-tu-wan/
-- https://kijetesantakalu-o.tumblr.com/post/671740273769021440
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep08.png
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep08_(sitelen_pona).png
+  - https://liputenpo.org/lipu/nanpa-toki
+  - https://janketami.wordpress.com/2021/10/23/kijetesantakalu-o-nanpa-luka-tu-wan/
+  - https://kijetesantakalu-o.tumblr.com/post/671740273769021440
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep08.png
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep08_(sitelen_pona).png
 archives: null
 preprocessing: null
 accessibility-notes: null

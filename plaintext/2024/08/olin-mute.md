@@ -3,7 +3,6 @@ title: olin mute
 description: null
 authors:
   - jan Jasun
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

@@ -2,8 +2,7 @@
 title: pu Tosi
 description: null
 authors:
-- jan Juli
-translators: null
+  - jan Juli
 proofreaders: null
 date: 2021-12-20
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vSXG4XS1fH-0GpJJvd79CXfvPXCXi5_Fb-2Grm1cqa0RDoJS54GY6DZvSOFWUpFB3Cn4gUhz0k2qpfL/pub
-- https://wikisource.org/wiki/Kalama_sin/13
+  - https://docs.google.com/document/d/e/2PACX-1vSXG4XS1fH-0GpJJvd79CXfvPXCXi5_Fb-2Grm1cqa0RDoJS54GY6DZvSOFWUpFB3Cn4gUhz0k2qpfL/pub
+  - https://wikisource.org/wiki/Kalama_sin/13
 archives: null
 preprocessing: null
 accessibility-notes: null

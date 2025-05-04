@@ -3,7 +3,6 @@ title: sina awen ala awen tawa mi?
 description: null
 authors:
   - jan Mako
-translators: null
 proofreaders: null
 date: 2011-06-01
 date-precision: day

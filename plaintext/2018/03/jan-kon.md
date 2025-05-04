@@ -3,7 +3,6 @@ title: jan kon
 description: null
 authors:
   - jan Lojen
-translators: null
 proofreaders: null
 date: 2018-03-13
 date-precision: day

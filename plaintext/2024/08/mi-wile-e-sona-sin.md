@@ -3,7 +3,6 @@ title: mi wile e sona sin
 description: null
 authors:
   - jan Sepulon
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

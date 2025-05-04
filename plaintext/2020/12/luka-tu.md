@@ -3,7 +3,6 @@ title: luka tu
 description: null
 authors:
   - kala pona Tonyu
-translators: null
 proofreaders: null
 date: 2020-11-27
 date-precision: day

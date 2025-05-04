@@ -2,23 +2,22 @@
 title: mi en waso Kaka en monsuta pi ma kasi
 description: null
 authors:
-- jan Pensa
-translators: null
+  - jan Pensa
 proofreaders: null
 date: 2023-08-15
 date-precision: day
 tags:
-- pakala sijelo
-- pilin ike pi ken moli
-- sijelo moli jaki
-- moku li lon
-- utala sijelo
-- nimi ku li mute
+  - pakala sijelo
+  - pilin ike pi ken moli
+  - sijelo moli jaki
+  - moku li lon
+  - utala sijelo
+  - nimi ku li mute
 original: null
 license: CC-BY-SA-4.0
 sources:
-- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.md
-- http://utala.pona.la/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.html
+  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.md
+  - http://utala.pona.la/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.html
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -3,7 +3,6 @@ title: sitelen mute
 description: null
 authors:
   - jan Wenato
-translators: null
 proofreaders: null
 date: 2017-11-06
 date-precision: day

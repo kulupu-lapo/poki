@@ -2,8 +2,7 @@
 title: toki ala o e toki inli
 description: null
 authors:
-- kulupu kama
-translators: null
+  - kulupu kama
 proofreaders: null
 date: 2021-02-08
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: null
 sources:
-- https://utala.pona.la/lipu-kalama-tawa/
-- https://docs.google.com/document/d/1W21rSjx2eyYLjcipFGcmLEa-nQenge7wzLk87Tq-CuE/edit
+  - https://utala.pona.la/lipu-kalama-tawa/
+  - https://docs.google.com/document/d/1W21rSjx2eyYLjcipFGcmLEa-nQenge7wzLk87Tq-CuE/edit
 archives: null
 preprocessing: null
 accessibility-notes: null

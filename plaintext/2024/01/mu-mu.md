@@ -3,7 +3,6 @@ title: mu! mu!
 description: jan Jon en jan Linan li toki utala musi.
 authors:
   - thegreatsoupster
-translators: null
 proofreaders: null
 date: 2024-01-19
 date-precision: day

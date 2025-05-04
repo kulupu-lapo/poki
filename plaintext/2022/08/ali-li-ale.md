@@ -3,24 +3,23 @@ title: ali li ale
 description: kulupu tu li utala tan nasin toki. utala li ike tawa jan li ike tawa
   ma. jan seme li ken pini e utala ni?
 authors:
-- kapesi Pake
-translators: null
+  - kapesi Pake
 proofreaders: null
 date: 2022-08-06
 date-precision: day
 tags:
-- utala suli li lon
-- moli
-- pakala ma
-- seli tomo
-- 'jan li pakala e sijelo jan tawa ni: ona li ken sona e sona len'
-- nimi sin mute
-- nasin sewi
+  - utala suli li lon
+  - moli
+  - pakala ma
+  - seli tomo
+  - 'jan li pakala e sijelo jan tawa ni: ona li ken sona e sona len'
+  - nimi sin mute
+  - nasin sewi
 original: null
 license: CC-BY-SA-4.0
 sources:
-- https://github.com/raacz/utala/blob/main/lipu-lili/ali-li-ale.md
-- http://utala.pona.la/lipu-lili/ali-li-ale.html
+  - https://github.com/raacz/utala/blob/main/lipu-lili/ali-li-ale.md
+  - http://utala.pona.la/lipu-lili/ali-li-ale.html
 archives: null
 preprocessing: null
 accessibility-notes: null

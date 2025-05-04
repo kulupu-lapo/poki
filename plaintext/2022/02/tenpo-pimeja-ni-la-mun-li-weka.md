@@ -4,21 +4,20 @@ description: mun li kama ala tan telo suli lon tenpo pimeja wan la jan Majesa en
   Usili li alasa lukin e ona. taso, suno li lon ala la ona li ken lukin kepeken nasin
   seme?
 authors:
-- jan Melon
-translators: null
+  - jan Melon
 proofreaders: null
 date: 2022-02-01
 date-precision: day
 tags:
-- StoryWeaver level 3
+  - StoryWeaver level 3
 original:
   title: The Night the Moon Went Missing
   authors:
-  - Shreya Yadav
+    - Shreya Yadav
 # - Sunaina Coelho (illustrator)
 license: CC-BY-4.0
 sources:
-- https://storyweaver.org.in/en/stories/403776-tenpo-pimeja-ni-la-mun-li-weka
+  - https://storyweaver.org.in/en/stories/403776-tenpo-pimeja-ni-la-mun-li-weka
 archives: null
 preprocessing: null
 accessibility-notes: null

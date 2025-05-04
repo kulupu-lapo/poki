@@ -2,23 +2,22 @@
 title: sijelo mi
 description: sijelo pi mi ale li pali lon tenpo ale, anu seme?
 authors:
-- Frzzl
-translators: null
+  - Frzzl
 proofreaders: null
 date: 2022-02-04
 date-precision: day
 tags:
-- StoryWeaver level 1 (Emergent Readers)
+  - StoryWeaver level 1 (Emergent Readers)
 original:
   title: My Body
   authors:
-  - Clare Verbeek
-  - Thembani Dladla
-  - Zanele Buthelezi
+    - Clare Verbeek
+    - Thembani Dladla
+    - Zanele Buthelezi
 # - Mlungisi Dlamini (illustrator)
 license: CC-BY-4.0
 sources:
-- https://storyweaver.org.in/en/stories/407839-sijelo-mi
+  - https://storyweaver.org.in/en/stories/407839-sijelo-mi
 archives: null
 preprocessing: null
 accessibility-notes: null

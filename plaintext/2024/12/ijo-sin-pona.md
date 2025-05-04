@@ -3,7 +3,6 @@ title: ijo sin pona
 description: null
 authors:
   - jan Lapate
-translators: null
 proofreaders: null
 date: 2024-12-29
 date-precision: day

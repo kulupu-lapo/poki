@@ -5,7 +5,6 @@ description: mani ali li mute tenpo ala. lawa insa li toki tenpo ala. pilin li p
   pini e sewi walo pi lawa sitelen pi lape. sina poki pi pimeja. sina alasa poki.
 authors:
   - jan_Tansi (tanzytechgem)
-translators: null
 proofreaders: null
 date: 2022-10-19
 date-precision: day

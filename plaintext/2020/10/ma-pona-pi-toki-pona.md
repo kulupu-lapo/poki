@@ -3,7 +3,6 @@ title: ma pona pi toki pona
 description: null
 authors:
   - kala pona Tonyu
-translators: null
 proofreaders: null
 date: 2020-10-05
 date-precision: day

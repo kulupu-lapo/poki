@@ -2,8 +2,7 @@
 title: toki pi kon pona
 description: null
 authors:
-- jan Telakoman
-translators: null
+  - jan Telakoman
 proofreaders: null
 date: 2021-12-05
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_si
-- https://wikisource.org/wiki/Kalama_sin/11
+  - https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_si
+  - https://wikisource.org/wiki/Kalama_sin/11
 archives: null
 preprocessing: null
 accessibility-notes: null

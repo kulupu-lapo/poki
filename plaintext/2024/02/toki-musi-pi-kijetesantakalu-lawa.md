@@ -2,8 +2,7 @@
 title: toki musi pi kijetesantakalu lawa
 description: null
 authors:
-- jan pi nimi ala
-translators: null
+  - jan pi nimi ala
 proofreaders: null
 date: 2024-02-07
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0024tenpo.pdf
-- https://liputenpo.org/lipu/nanpa-tenpo/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_kijetesantakalu_lawa.png
+  - https://liputenpo.org/pdfs/0024tenpo.pdf
+  - https://liputenpo.org/lipu/nanpa-tenpo/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_kijetesantakalu_lawa.png
 archives: null
 preprocessing: null
 accessibility-notes: null

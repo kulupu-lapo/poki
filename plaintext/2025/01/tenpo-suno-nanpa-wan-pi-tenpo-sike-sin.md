@@ -4,7 +4,6 @@ description: 'ona tu li unpa : ona li wile pana e telo unpa lon tenpo sama pi te
   sike sin'
 authors:
   - SkimmerScollace (Skimmed)
-translators: null
 proofreaders: null
 date: 2025-01-01
 date-precision: day

@@ -2,20 +2,19 @@
 title: telo oko li ken ante e pilin
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2022-10-17
 date-precision: day
 tags:
-- poetry
-- pangram
+  - poetry
+  - pangram
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0016kulupu.pdf
-- https://liputenpo.org/lipu/nanpa-kulupu/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_oko.png
+  - https://liputenpo.org/pdfs/0016kulupu.pdf
+  - https://liputenpo.org/lipu/nanpa-kulupu/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_oko.png
 archives: null
 preprocessing: null
 accessibility-notes: null

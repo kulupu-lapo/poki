@@ -2,8 +2,7 @@
 title: sona pi tawa suno
 description: null
 authors:
-- jan Kekan San
-translators: null
+  - jan Kekan San
 proofreaders: null
 date: 2022-12-09
 date-precision: day
@@ -11,10 +10,10 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://mun.la/lipu/sona-pi-tawa-suno.html
-- https://liputenpo.org/pdfs/0017musi.pdf
-- https://liputenpo.org/lipu/nanpa-musi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_suno.png
+  - https://mun.la/lipu/sona-pi-tawa-suno.html
+  - https://liputenpo.org/pdfs/0017musi.pdf
+  - https://liputenpo.org/lipu/nanpa-musi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_suno.png
 archives: null
 preprocessing: null
 accessibility-notes: null

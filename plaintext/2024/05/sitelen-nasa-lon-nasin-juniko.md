@@ -3,7 +3,6 @@ title: sitelen nasa lon nasin Juniko[^1]
 description: null
 authors:
   - kije Enki
-translators: null
 proofreaders: null
 date: 2024-05-14
 date-precision: day

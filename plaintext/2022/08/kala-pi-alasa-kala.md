@@ -3,20 +3,19 @@ title: kala pi alasa kala
 description: mun ante li lon weka mute li kepeken nasin pi ma mi ala. ma mi en mun
   ni li ante seme li sama seme?
 authors:
-- jan Itan
-translators: null
+  - jan Itan
 proofreaders: null
 date: 2022-08-06
 date-precision: day
 tags:
-- moku
-- pipi
-- sijelo jan li nasa lili
+  - moku
+  - pipi
+  - sijelo jan li nasa lili
 original: null
 license: null
 sources:
-- https://github.com/raacz/utala/blob/main/lipu-lili/kala-pi-alasa-kala.md
-- http://utala.pona.la/lipu-lili/kala-pi-alasa-kala.html
+  - https://github.com/raacz/utala/blob/main/lipu-lili/kala-pi-alasa-kala.md
+  - http://utala.pona.la/lipu-lili/kala-pi-alasa-kala.html
 archives: null
 preprocessing: null
 accessibility-notes: null

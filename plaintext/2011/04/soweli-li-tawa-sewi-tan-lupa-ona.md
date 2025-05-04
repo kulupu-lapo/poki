@@ -3,7 +3,6 @@ title: tan jan Eloto. jan pi ma seme li jan nanpa wan?
 description: null
 authors:
   - Dave Raftery
-translators: null
 proofreaders: null
 date: 2011-04-29
 date-precision: day

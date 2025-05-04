@@ -4,7 +4,6 @@ description: tenpo pi suli pimeja kama la jan Lajato anpa e jan Elele la, ona li
   ma sama ala la, waso sewi Wemu li oko pilin e olin.
 authors:
   - treatster
-translators: null
 proofreaders: null
 date: 2024-01-28
 date-precision: day

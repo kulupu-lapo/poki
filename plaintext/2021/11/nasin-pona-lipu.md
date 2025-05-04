@@ -2,8 +2,7 @@
 title: nasin pona lipu
 description: null
 authors:
-- jan Lakuse
-translators: null
+  - jan Lakuse
 proofreaders: null
 date: 2021-11-15
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vQW8Gls6Nds6irxYIiEbuXGf9ea_R_wNU20IdPrCzsK9K0bEEzGbOOyTO08yGSWYjObV-Py8_hGeM7U/pub
-- https://wikisource.org/wiki/Kalama_sin/8
+  - https://docs.google.com/document/d/e/2PACX-1vQW8Gls6Nds6irxYIiEbuXGf9ea_R_wNU20IdPrCzsK9K0bEEzGbOOyTO08yGSWYjObV-Py8_hGeM7U/pub
+  - https://wikisource.org/wiki/Kalama_sin/8
 archives: null
 preprocessing: null
 accessibility-notes: null

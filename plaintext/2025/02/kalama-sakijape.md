@@ -3,7 +3,6 @@ title: kalama Sakijape
 description: null
 authors:
   - soko Sijeni
-translators: null
 proofreaders: null
 date: 2025-02-15
 date-precision: day

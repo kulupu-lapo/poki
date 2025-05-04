@@ -3,7 +3,6 @@ title: nasin pi sitelen ma pi jan Ekite ala
 description: null
 authors:
   - jan Telakoman
-translators: null
 proofreaders: null
 date: 2021-07-07
 date-precision: day

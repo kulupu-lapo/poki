@@ -4,7 +4,6 @@ description: Translation of the song "Miku" by Anamanaguchi into toki pona! mi a
   toki e kalama musi「Miku」tawa toki pona!
 authors:
   - ijo Kinesin
-translators: null
 proofreaders: null
 date: 2024-11-13
 date-precision: day

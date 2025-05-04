@@ -3,7 +3,6 @@ title: omekalikante
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2022-06-29
 date-precision: day

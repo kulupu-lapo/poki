@@ -2,8 +2,7 @@
 title: o lawa e sona sina!
 description: a small article about the centralization of the internet
 authors:
-- jan Lentan
-translators: null
+  - jan Lentan
 proofreaders: null
 date: 2021-08-02
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: MIT OR CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
-- https://liputenpo.org/pdfs/0006suno.pdf
-- https://liputenpo.org/lipu/nanpa-suno/
-- https://lipu-sona.pona.la/lentan/o_lawa_e_sona_sina/
+  - https://liputenpo.org/pdfs/0006suno.pdf
+  - https://liputenpo.org/lipu/nanpa-suno/
+  - https://lipu-sona.pona.la/lentan/o_lawa_e_sona_sina/
 archives: null
 preprocessing: null
 accessibility-notes: null

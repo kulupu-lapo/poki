@@ -4,7 +4,6 @@ description: null
 authors:
   - D'Haelo
   - Nardi
-translators: null
 proofreaders: null
 date: 2024-09-08
 date-precision: day

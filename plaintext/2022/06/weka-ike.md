@@ -3,7 +3,6 @@ title: weka ike
 description: null
 authors:
   - Nardi
-translators: null
 proofreaders: null
 date: 2022-06-05
 date-precision: day

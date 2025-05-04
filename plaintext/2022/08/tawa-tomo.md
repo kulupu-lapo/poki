@@ -3,7 +3,6 @@ title: tawa tomo
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2022-08-27
 date-precision: day

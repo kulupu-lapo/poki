@@ -2,8 +2,7 @@
 title: sona nimi li mute li nasa li musi
 description: null
 authors:
-- jan Tamalu
-translators: null
+  - jan Tamalu
 proofreaders: null
 date: 2021-04-05
 date-precision: day
@@ -11,11 +10,11 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0003soweli.pdf
-- https://liputenpo.org/lipu/nanpa-soweli/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_mun.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_pilin.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_suno.png
+  - https://liputenpo.org/pdfs/0003soweli.pdf
+  - https://liputenpo.org/lipu/nanpa-soweli/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_mun.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_pilin.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_soweli_-_suno.png
 archives: null
 preprocessing: null
 accessibility-notes: null

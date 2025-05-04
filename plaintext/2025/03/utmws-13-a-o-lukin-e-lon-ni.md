@@ -19,7 +19,6 @@ description: |
   excuse the sound quality half of us have bad mics lol
 authors:
   - meli Siliwa
-translators: null
 proofreaders: null
 date: 2025-03-30
 date-precision: day

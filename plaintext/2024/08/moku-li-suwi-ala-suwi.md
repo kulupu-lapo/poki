@@ -3,7 +3,6 @@ title: moku li suwi ala suwi?
 description: null
 authors:
   - jan Wano (Ron Rapahel)
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

@@ -3,7 +3,6 @@ title: kala suwi
 description: null
 authors:
   - soweli toki
-translators: null
 proofreaders: null
 date: 2010-09-01
 date-precision: day

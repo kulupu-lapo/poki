@@ -3,7 +3,6 @@ title: loje en laso li ken sama tawa mi
 description: null
 authors:
   - jan Siwa
-translators: null
 proofreaders: null
 date: 2024-12-29
 date-precision: day

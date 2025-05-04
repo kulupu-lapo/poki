@@ -2,8 +2,7 @@
 title: kalama musi “o walo”
 description: null
 authors:
-- jan Sonatan
-translators: null
+  - jan Sonatan
 proofreaders: null
 date: 2022-02-01
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0011walo.pdf
-- https://liputenpo.org/lipu/nanpa-walo/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_ko_walo_jan.png
+  - https://liputenpo.org/pdfs/0011walo.pdf
+  - https://liputenpo.org/lipu/nanpa-walo/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_walo_-_ko_walo_jan.png
 archives: null
 preprocessing: null
 accessibility-notes: null

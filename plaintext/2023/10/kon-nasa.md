@@ -3,7 +3,6 @@ title: kon nasa (crazy smoke)
 description: null
 authors:
   - Nardi
-translators: null
 proofreaders: null
 date: 2023-10-08
 date-precision: day

@@ -3,7 +3,6 @@ title: tomo lape pi Pocatello
 description: null
 authors:
   - anonymous # jan Lakuse li toki e ni: "jan pali li wile len e nimi ona"
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

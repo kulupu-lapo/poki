@@ -2,8 +2,7 @@
 title: lipu kule li kama lon
 description: null
 authors:
-- jan Ana
-translators: null
+  - jan Ana
 proofreaders: null
 date: 2021-01-20
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-01-20-lipusin.md
-- https://lipukule.org/post/2021/01/20/lipu-kule-li-kama-lon/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-01-20-lipusin.md
+  - https://lipukule.org/post/2021/01/20/lipu-kule-li-kama-lon/
 archives: null
 preprocessing: null
 accessibility-notes: null

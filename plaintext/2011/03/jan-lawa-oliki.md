@@ -3,7 +3,6 @@ title: jan lawa Oliki
 description: null
 authors:
   - jan Elepanto
-translators: null
 proofreaders: null
 date: 2011-03-25
 date-precision: day

@@ -8,7 +8,6 @@ description: When trying to determine just what it is that makes humanity unique
   as language.
 authors:
   - jan Jonan
-translators: null
 proofreaders: null
 date: 2009-01-01
 date-precision: year

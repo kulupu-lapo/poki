@@ -3,7 +3,6 @@ title: lape ala
 description: jan Lan Me li wile lape ala. ni li ike mute tawa jan Weso.
 authors:
   - CAYTION_RAYMEN
-translators: null
 proofreaders: null
 date: 2024-02-08
 date-precision: day

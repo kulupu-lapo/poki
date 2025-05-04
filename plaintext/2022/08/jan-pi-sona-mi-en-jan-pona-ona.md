@@ -3,19 +3,18 @@ title: jan pi sona mi en jan pona ona
 description: mi sona e jan. jan ni taso li lape lon tomo ona, taso jan pona ona wan
   li moku lon poka lon tenpo suno ale.
 authors:
-- jan Ontoli
-translators: null
+  - jan Ontoli
 proofreaders: null
 date: 2022-08-06
 date-precision: day
 tags:
-- moku
-- jan li weka e jan pona ona
+  - moku
+  - jan li weka e jan pona ona
 original: null
 license: null
 sources:
-- https://github.com/raacz/utala/blob/main/lipu-lili/jan-pi-sona-mi-en-jan-pona-ona.md
-- http://utala.pona.la/lipu-lili/jan-pi-sona-mi-en-jan-pona-ona.html
+  - https://github.com/raacz/utala/blob/main/lipu-lili/jan-pi-sona-mi-en-jan-pona-ona.md
+  - http://utala.pona.la/lipu-lili/jan-pi-sona-mi-en-jan-pona-ona.html
 archives: null
 preprocessing: null
 accessibility-notes: null

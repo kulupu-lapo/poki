@@ -3,7 +3,6 @@ title: jan pi sona oko
 description: null
 authors:
   - Dave Raftery
-translators: null
 proofreaders: null
 date: 2011-05-27
 date-precision: day

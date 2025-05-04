@@ -3,7 +3,6 @@ title: kili lili
 description: null
 authors:
   - jan Pije
-translators: null
 proofreaders: null
 date: 2002-10-10
 date-precision: day

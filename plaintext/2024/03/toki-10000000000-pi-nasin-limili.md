@@ -2,8 +2,7 @@
 title: toki 10,000,000,000 pi nasin Limili
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2024-03-20
 date-precision: day
@@ -11,13 +10,13 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0025kalama.pdf
-- https://liputenpo.org/lipu/nanpa-kalama/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_jan_Juliju_Kasa.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ma_Montana_li_jo_e_pona.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_jan_Pan_en_jan_Lan.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_seme_li_soweli.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_nimi_Epiku_li_moli.png
+  - https://liputenpo.org/pdfs/0025kalama.pdf
+  - https://liputenpo.org/lipu/nanpa-kalama/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_jan_Juliju_Kasa.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_ma_Montana_li_jo_e_pona.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_jan_Pan_en_jan_Lan.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_seme_li_soweli.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kalama_-_nimi_Epiku_li_moli.png
 archives: null
 preprocessing: null
 accessibility-notes: null

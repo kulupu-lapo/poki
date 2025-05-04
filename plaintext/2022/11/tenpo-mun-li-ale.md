@@ -5,7 +5,6 @@ description: jan Jasija Te en jan Julijen Pasi li lape ala. tenpo mun ni la jan 
   pilin olin. (lipu ni li kepeken e nimi ku.)
 authors:
   - Palian
-translators: null
 proofreaders: null
 date: 2022-11-26
 date-precision: day

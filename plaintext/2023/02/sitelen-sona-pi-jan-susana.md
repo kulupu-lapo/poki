@@ -3,7 +3,6 @@ title: sitelen sona pi jan Susana
 description: jan Susana li pali e sitelen sona
 authors:
   - dragon_chris
-translators: null
 proofreaders: null
 date: 2023-02-12
 date-precision: day

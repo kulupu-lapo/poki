@@ -4,7 +4,6 @@ description: null
 authors:
   - jan Nikoleta
   - jan Kepe
-translators: null
 proofreaders: null
 date: 2023-03-31
 date-precision: day

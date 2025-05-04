@@ -30,7 +30,6 @@ authors:
   - jan Tesi
   - jan Usawi
   - Yam
-translators: null
 proofreaders: null
 date: 2023-08-22
 date-precision: day

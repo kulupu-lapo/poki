@@ -4,7 +4,6 @@ description: DELTARUNE death screens translated into toki pona. sina moli la, si
   ken lukin e toki ni.
 authors:
   - ijo Kinesin
-translators: null
 proofreaders: null
 date: 2024-07-16
 date-precision: day

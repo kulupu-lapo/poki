@@ -3,7 +3,6 @@ title: mi wile e ni
 description: null
 authors:
   - Bram Cools
-translators: null
 proofreaders: null
 date: 2016-11-06
 date-precision: day

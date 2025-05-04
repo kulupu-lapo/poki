@@ -3,7 +3,6 @@ title: telo suli li supa  # kalama musi “telo suli li supa”
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-03-13
 date-precision: day

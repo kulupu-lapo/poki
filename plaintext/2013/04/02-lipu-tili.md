@@ -3,7 +3,6 @@ title: 'lipu Tili: lipu nanpa tu'
 description: null
 authors:
   - soweli Peka
-translators: null
 proofreaders: null
 date: 2013-04-21
 date-precision: day

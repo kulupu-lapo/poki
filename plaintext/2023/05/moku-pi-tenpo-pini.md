@@ -2,8 +2,7 @@
 title: moku pi tenpo pini
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2023-05-12
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0019mama.pdf
-- https://liputenpo.org/lipu/nanpa-mama/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_moku_suwi.png'
+  - https://liputenpo.org/pdfs/0019mama.pdf
+  - https://liputenpo.org/lipu/nanpa-mama/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_moku_suwi.png'
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

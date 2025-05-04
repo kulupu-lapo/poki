@@ -3,7 +3,6 @@ title: jan pi weka tan ma tomo Omela
 description: null
 authors:
   - soweli nata
-translators: null
 proofreaders: null
 date: 2020-12-08
 date-precision: day

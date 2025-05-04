@@ -3,7 +3,6 @@ title: pali la o weka tan kulupu
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2023-04-14
 date-precision: day

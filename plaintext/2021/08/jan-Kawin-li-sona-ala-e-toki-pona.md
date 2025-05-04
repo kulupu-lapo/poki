@@ -6,7 +6,6 @@ description: "(short little thing i did to practice toki pona; its plotless and 
   toki e toki pona tan jan Kawin"
 authors:
   - len_hoshi
-translators: null
 proofreaders: null
 date: 2021-08-08
 date-precision: day

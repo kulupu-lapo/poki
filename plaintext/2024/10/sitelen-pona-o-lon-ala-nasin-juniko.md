@@ -3,7 +3,6 @@ title: sitelen pona o lon ala nasin Juniko
 description: null
 authors:
   - jan Kasape
-translators: null
 proofreaders: null
 date: 2024-10-20
 date-precision: day

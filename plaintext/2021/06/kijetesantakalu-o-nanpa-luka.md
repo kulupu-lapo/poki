@@ -2,21 +2,20 @@
 title: kijetesantakalu o! nanpa luka
 description: kijetesantakalu li lukin e pipi. pipi li lukin e seme? o lukin!
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2021-06-02
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY 4.0
 sources:
-- https://liputenpo.org/lipu/nanpa-pan
-- https://janketami.wordpress.com/2021/06/11/kijetesantakalu-o-nanpa-luka/
-- https://kijetesantakalu-o.tumblr.com/post/671701366954229760
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep05.png
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep05_(sitelen_pona).png
+  - https://liputenpo.org/lipu/nanpa-pan
+  - https://janketami.wordpress.com/2021/06/11/kijetesantakalu-o-nanpa-luka/
+  - https://kijetesantakalu-o.tumblr.com/post/671701366954229760
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep05.png
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep05_(sitelen_pona).png
 archives: null
 preprocessing: null
 accessibility-notes: null

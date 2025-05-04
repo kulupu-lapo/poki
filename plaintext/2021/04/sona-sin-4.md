@@ -13,8 +13,7 @@ description: "mi wile e ni: sitelen tawa ni li pona tawa sina!\n\nsitelen: \nBy 
   https://www.tagesschau.de/ausland/asien/myanmar-481.html\nhttps://www.wsj.com/articles/riots-in-northern-ireland-spurred-by-brexit-crime-and-covid-19-restrictions-11617900072,\n\
   https://www.bbc.com/news/uk-northern-ireland-56684571\nhttps://www.nytimes.com/2021/04/09/obituaries/prince-philip-dead.html"
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2021-04-10
 date-precision: day
@@ -22,8 +21,8 @@ tags: null
 original: null
 license: null
 sources:
-- https://www.youtube.com/watch?v=veG9QBS9_-A
-- https://docs.google.com/document/d/1hy-YMMUgYxrJ_0cCf3YuVwuNvDIKgKute7OrfCiuscI/edit
+  - https://www.youtube.com/watch?v=veG9QBS9_-A
+  - https://docs.google.com/document/d/1hy-YMMUgYxrJ_0cCf3YuVwuNvDIKgKute7OrfCiuscI/edit
 archives: null
 preprocessing: null
 accessibility-notes: null

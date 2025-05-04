@@ -3,7 +3,6 @@ title: o lukin e kala
 description: null
 authors:
   - soko Sijeni
-translators: null
 proofreaders: null
 date: 2025-02-16
 date-precision: day

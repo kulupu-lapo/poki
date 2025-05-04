@@ -4,7 +4,6 @@ description: A fictional diary made by Studio Massa for his Ongezellig series, t
   by jan Majeka
 authors:
   - jan Majeka
-translators: null
 proofreaders:
   - jan Ke Tami
 date: 2025-02-28

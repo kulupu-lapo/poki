@@ -3,7 +3,6 @@ title: suno pi telo sijelo ale
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2024-10-21
 date-precision: day

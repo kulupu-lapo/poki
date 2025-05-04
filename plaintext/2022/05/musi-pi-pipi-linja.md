@@ -2,8 +2,7 @@
 title: musi pi pipi linja
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2022-05-05
 date-precision: day
@@ -11,14 +10,14 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0013pipi.pdf
-- https://liputenpo.org/lipu/nanpa-pipi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_01.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_02.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_03.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_04.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_05.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_06.png
+  - https://liputenpo.org/pdfs/0013pipi.pdf
+  - https://liputenpo.org/lipu/nanpa-pipi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_01.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_02.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_03.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_04.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_05.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_pipi_linja_06.png
 archives: null
 preprocessing: null
 accessibility-notes: null

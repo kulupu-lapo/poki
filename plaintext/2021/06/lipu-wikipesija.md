@@ -2,8 +2,7 @@
 title: lipu Wikipesija
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2021-06-02
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0005pan.pdf
-- https://liputenpo.org/lipu/nanpa-pan/
-- https://commons.wikimedia.org/wiki/File:Icon_for_Wikipesija.svg
+  - https://liputenpo.org/pdfs/0005pan.pdf
+  - https://liputenpo.org/lipu/nanpa-pan/
+  - https://commons.wikimedia.org/wiki/File:Icon_for_Wikipesija.svg
 archives: null
 preprocessing: null
 accessibility-notes: null

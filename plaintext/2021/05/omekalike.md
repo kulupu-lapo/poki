@@ -3,7 +3,6 @@ title: omekalike
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2021-05-03
 date-precision: day

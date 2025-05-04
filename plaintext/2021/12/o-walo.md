@@ -3,7 +3,6 @@ title: o walo
 description: null
 authors:
   - Nardi
-translators: null
 proofreaders: null
 date: "2021-12-29"
 date-precision: day

@@ -4,7 +4,6 @@ description: A comic made by Studio Massa as a part of his Ongezellig series, tr
   by jan Majeka.
 authors:
   - jan Majeka
-translators: null
 proofreaders:
   - waso Seko
 date: 2024-12-23

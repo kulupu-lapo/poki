@@ -3,7 +3,6 @@ title: mama o mi lon
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2022-12-28
 date-precision: day

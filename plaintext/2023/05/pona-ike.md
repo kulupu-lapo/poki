@@ -3,7 +3,6 @@ title: pona ike (bad friend)
 description: null
 authors:
   - Nardi
-translators: null
 proofreaders: null
 date: 2023-05-21
 date-precision: day

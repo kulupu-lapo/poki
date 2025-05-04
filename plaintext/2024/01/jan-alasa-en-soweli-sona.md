@@ -5,7 +5,6 @@ description: "jan alasa li wile moku. taso: jan ona li ken ala alasa tan ken taw
   fable about a fox and a hunter. ]"
 authors:
   - Palian
-translators: null
 proofreaders: null
 date: 2024-01-02
 date-precision: day

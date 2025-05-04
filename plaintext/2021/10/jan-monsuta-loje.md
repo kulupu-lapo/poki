@@ -4,7 +4,6 @@ description: '"The Red Oni who Cried" in Toki Pona, translated by [jan Pensa](ht
   [Listen to my dub](https://youtu.be/9VjPV9BpU2I)!'
 authors:
   - jan Pensa
-translators: null
 proofreaders: null
 date: 2021-10-28
 date-precision: day

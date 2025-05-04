@@ -3,7 +3,6 @@ title: utala pini kepeken lipu
 description: null
 authors:
   - Cozaure
-translators: null
 proofreaders: null
 date: 2020-09-09
 date-precision: day

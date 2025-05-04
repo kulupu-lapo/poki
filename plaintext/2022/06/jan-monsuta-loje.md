@@ -2,9 +2,8 @@
 title: jan monsuta loje
 description: null
 authors:
-- jan Kekan San
-- jan Pensa
-translators: null
+  - jan Kekan San
+  - jan Pensa
 proofreaders: null
 date: 2022-06-10
 date-precision: day
@@ -12,8 +11,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vTw-gBsqRl7xCw05yp-MZjofElLWXE742WWW-3ocL9JvfWA-19ZXBo2NM2ohMbclvoJTGcXmO78th4f/pub
-- https://wikisource.org/wiki/Kalama_sin/23
+  - https://docs.google.com/document/d/e/2PACX-1vTw-gBsqRl7xCw05yp-MZjofElLWXE742WWW-3ocL9JvfWA-19ZXBo2NM2ohMbclvoJTGcXmO78th4f/pub
+  - https://wikisource.org/wiki/Kalama_sin/23
 archives: null
 preprocessing: null
 accessibility-notes: null

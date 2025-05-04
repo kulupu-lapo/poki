@@ -3,7 +3,6 @@ title: pona li kama
 description: null
 authors:
   - Anne Campbell # Anne Campbell 3
-translators: null
 proofreaders: null
 date: 2015-01-07
 date-precision: day

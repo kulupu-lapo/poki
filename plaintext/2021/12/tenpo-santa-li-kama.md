@@ -2,9 +2,8 @@
 title: tenpo Santa li kama
 description: null
 authors:
-- jan Itan
-- jan Tepo
-translators: null
+  - jan Itan
+  - jan Tepo
 proofreaders: null
 date: 2021-12-28
 date-precision: day
@@ -12,8 +11,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/spreadsheets/d/e/2PACX-1vQtasUq60JG-ISBsO1hlEFv5JszjeI57wEyCNEGhnjDq8AeyzKE-tx1qdwWtuMT3FBlyzNcGPvkBntD/pubhtml
-- https://wikisource.org/wiki/Kalama_sin/14
+  - https://docs.google.com/spreadsheets/d/e/2PACX-1vQtasUq60JG-ISBsO1hlEFv5JszjeI57wEyCNEGhnjDq8AeyzKE-tx1qdwWtuMT3FBlyzNcGPvkBntD/pubhtml
+  - https://wikisource.org/wiki/Kalama_sin/14
 archives: null
 preprocessing: null
 accessibility-notes: null

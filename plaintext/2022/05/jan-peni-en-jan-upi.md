@@ -3,7 +3,6 @@ title: jan Peni en jan Upi
 description: jan Peni li ma nasa li kama e jan pona sin.
 authors:
   - dragon_chris
-translators: null
 proofreaders: null
 date: 2022-05-24
 date-precision: day

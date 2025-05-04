@@ -3,7 +3,6 @@ title: tawa pona
 description: null
 authors:
   - soko Sijeni
-translators: null
 proofreaders: null
 date: 2025-02-14
 date-precision: day

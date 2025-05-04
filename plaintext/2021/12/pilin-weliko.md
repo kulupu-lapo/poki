@@ -3,7 +3,6 @@ title: pilin Weliko
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2021-12-22
 date-precision: day

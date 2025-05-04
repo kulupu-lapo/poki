@@ -2,18 +2,17 @@
 title: toki nasa nanpa tu tu
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2021-06-02
 date-precision: day
 tags:
-- 'poetry'
+  - 'poetry'
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0005pan.pdf
-- https://liputenpo.org/lipu/nanpa-pan/
+  - https://liputenpo.org/pdfs/0005pan.pdf
+  - https://liputenpo.org/lipu/nanpa-pan/
 archives: null
 preprocessing: null
 accessibility-notes: null

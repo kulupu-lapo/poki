@@ -2,20 +2,19 @@
 title: kijetesantakalu o! nanpa mute
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2023-07-01
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY 4.0
 sources:
-- https://liputenpo.org/lipu/nanpa-nasin/
-- https://janketami.wordpress.com/2024/09/30/kijetesantakalu-o-nanpa-mute/
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep20.png
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep20_(sitelen_pona).png
+  - https://liputenpo.org/lipu/nanpa-nasin/
+  - https://janketami.wordpress.com/2024/09/30/kijetesantakalu-o-nanpa-mute/
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep20.png
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep20_(sitelen_pona).png
 archives: null
 preprocessing: null
 accessibility-notes: null

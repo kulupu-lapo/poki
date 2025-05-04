@@ -4,7 +4,6 @@ description: jan Tepo li toki e pilin ona lon lipu ku lon nimi mute ona lon nimi
   ona
 authors:
   - jan Tepo
-translators: null
 proofreaders: null
 date: 2021-10-03
 date-precision: day

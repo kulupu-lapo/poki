@@ -3,7 +3,6 @@ title: jan mani
 description: null
 authors:
   - Bram Cools
-translators: null
 proofreaders: null
 date: 2020-12-21
 date-precision: day

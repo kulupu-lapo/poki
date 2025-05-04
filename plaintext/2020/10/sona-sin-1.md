@@ -52,8 +52,7 @@ description: 'toki! sitelen tawa ni li sona sin mi pi wan nanpa! a a a!
 
   Armenia Azerbaijan conflict: https://www.zeit.de/politik/ausland/2020-10/bergkarabach-tuerkei-aserbaidschan-militaerhilfe-armenien?utm_referrer=https%3A%2F%2Fnews.google.com%2F'
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2020-10-23
 date-precision: day
@@ -61,7 +60,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://www.youtube.com/watch?v=Ejl3PwsOo-Y
+  - https://www.youtube.com/watch?v=Ejl3PwsOo-Y
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -3,7 +3,6 @@ title: waso pi noka laso
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2010-09-01
 date-precision: day

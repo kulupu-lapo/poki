@@ -3,7 +3,6 @@ title: ma tomo Pape
 description: null
 authors:
   - jan Pije
-translators: null
 proofreaders: null
 date: 2005-07-15
 date-precision: day

@@ -3,7 +3,6 @@ title: lipu sona
 description: null
 authors:
   - jan Likipi
-translators: null
 proofreaders: null
 date: 2020-07-03
 date-precision: day

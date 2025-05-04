@@ -2,9 +2,8 @@
 title: nasin pi kama sona
 description: null
 authors:
-- jan Tepo
-- soweli nata
-translators: null
+  - jan Tepo
+  - soweli nata
 proofreaders: null
 date: 2022-01-25
 date-precision: day
@@ -12,8 +11,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vQXRiAS0dONLfrJyyzJVyAfazHz51-7uUxJOK8k5tTneSIIOIlxvEKNVxrZvaa786IcMEYmjYFgWgnT/pub
-- https://wikisource.org/wiki/Kalama_sin/17
+  - https://docs.google.com/document/d/e/2PACX-1vQXRiAS0dONLfrJyyzJVyAfazHz51-7uUxJOK8k5tTneSIIOIlxvEKNVxrZvaa786IcMEYmjYFgWgnT/pub
+  - https://wikisource.org/wiki/Kalama_sin/17
 archives: null
 preprocessing: replaced unusual "j., s." abbreviations with the full names
 accessibility-notes: null

@@ -3,7 +3,6 @@ title: kasi suli li kule  # kalama musi “kasi suli li kule”
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-03-11
 date-precision: day

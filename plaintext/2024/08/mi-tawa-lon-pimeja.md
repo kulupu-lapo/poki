@@ -3,7 +3,6 @@ title: mi tawa lon pimeja
 description: null
 authors:
   - jan Simiman
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

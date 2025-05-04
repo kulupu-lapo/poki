@@ -2,8 +2,7 @@
 title: 'pali kulupu: toki forth pi jan Eris'
 description: null
 authors:
-- jan Jan
-translators: null
+  - jan Jan
 proofreaders: null
 date: 2021-03-02
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-03-02-pali%20kulupu_%20toki%20forth%20pi%20jan%20Eris.md
-- https://lipukule.org/post/2021/03/02/pali-kulupu-toki-forth-pi-jan-eris/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-03-02-pali%20kulupu_%20toki%20forth%20pi%20jan%20Eris.md
+  - https://lipukule.org/post/2021/03/02/pali-kulupu-toki-forth-pi-jan-eris/
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -2,8 +2,7 @@
 title: toki luka li sin ala li toki pali ala! tenpo pini pi toki luka
 description: null
 authors:
-- jan Olipija
-translators: null
+  - jan Olipija
 proofreaders: null
 date: 2022-12-26
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2022-12-26-tenpo-pini-pi-toki-luka.md
-- https://lipukule.org/post/2022/12/26/toki-luka-li-sin-ala-li-toki-pali-ala-tenpo-pini-pi-toki-luka/
+  - https://github.com/lipukule/site/blob/main/content/post/2022-12-26-tenpo-pini-pi-toki-luka.md
+  - https://lipukule.org/post/2022/12/26/toki-luka-li-sin-ala-li-toki-pali-ala-tenpo-pini-pi-toki-luka/
 archives: null
 preprocessing: null
 accessibility-notes: null

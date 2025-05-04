@@ -3,7 +3,6 @@ title: jan esun li kama  # kalama musi “jan esun li kama”
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-03-09
 date-precision: day

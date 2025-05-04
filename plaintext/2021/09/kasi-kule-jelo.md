@@ -2,21 +2,20 @@
 title: kasi kule jelo
 description: null
 authors:
-- jan Kuleku Nena
-translators: null
+  - jan Kuleku Nena
 proofreaders: null
 date: 2021-09-02
 date-precision: day
 tags:
-- poetry
+  - poetry
 original:
   title: I Wandered Lonely as a Cloud
   authors:
-  - William Wordsworth
+    - William Wordsworth
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0007kule.pdf
-- https://liputenpo.org/lipu/nanpa-kule/
+  - https://liputenpo.org/pdfs/0007kule.pdf
+  - https://liputenpo.org/lipu/nanpa-kule/
 archives: null
 preprocessing: null
 accessibility-notes: null

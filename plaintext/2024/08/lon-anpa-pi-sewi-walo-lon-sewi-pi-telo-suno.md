@@ -3,7 +3,6 @@ title: lon anpa pi sewi walo lon sewi pi telo suno
 description: null
 authors:
   - jan Ameki
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

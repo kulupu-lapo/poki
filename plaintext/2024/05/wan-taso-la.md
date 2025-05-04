@@ -2,21 +2,20 @@
 title: wan taso la
 description: null
 authors:
-- jan Lapate
-translators: null
+  - jan Lapate
 proofreaders: null
 date: 2024-05-14
 date-precision: day
 tags:
-- poetry
+  - poetry
 original:
   title: Solo e pensoso
   authors:
-  - jan Petaka
+    - jan Petaka
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0026jaki.pdf
-- https://liputenpo.org/lipu/nanpa-jaki/
+  - https://liputenpo.org/pdfs/0026jaki.pdf
+  - https://liputenpo.org/lipu/nanpa-jaki/
 archives: null
 preprocessing: null
 accessibility-notes: null

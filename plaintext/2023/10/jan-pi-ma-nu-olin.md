@@ -3,7 +3,6 @@ title: jan pi ma Nu Olin
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2023-10-21
 date-precision: day

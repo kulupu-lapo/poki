@@ -3,7 +3,6 @@ title: wan taso
 description: dark teenage poetry
 authors:
   - Ackadi               # Possible author
-translators: null
 proofreaders: null
 date: 2005-12-15         # Added to Wikipedia
 date-precision: day

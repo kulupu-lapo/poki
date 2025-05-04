@@ -3,7 +3,6 @@ title: utala nanpa
 description: null
 authors:
   - nasa utala
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

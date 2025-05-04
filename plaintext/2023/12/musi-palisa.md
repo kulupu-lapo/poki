@@ -2,8 +2,7 @@
 title: musi palisa
 description: null
 authors:
-- jan Masine
-translators: null
+  - jan Masine
 proofreaders: null
 date: 2023-12-25
 date-precision: day
@@ -11,14 +10,14 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0023sewi.pdf
-- https://liputenpo.org/lipu/nanpa-sewi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_01.jpg
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_02.jpg
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_03.jpg
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_04.jpg
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_05.jpg
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_06.jpg
+  - https://liputenpo.org/pdfs/0023sewi.pdf
+  - https://liputenpo.org/lipu/nanpa-sewi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_01.jpg
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_02.jpg
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_03.jpg
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_04.jpg
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_05.jpg
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_musi_palisa_06.jpg
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

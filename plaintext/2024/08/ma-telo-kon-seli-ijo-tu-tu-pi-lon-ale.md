@@ -3,7 +3,6 @@ title: "ma, telo, kon, seli: ijo tu tu pi lon ale"
 description: null
 authors:
   - soweli Lapate
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

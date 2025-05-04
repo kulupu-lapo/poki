@@ -3,7 +3,6 @@ title: ijo 055 - [sona ala]
 description: lipu pi ijo 055 lon toki pona.
 authors:
   - axiomwitch
-translators: null
 proofreaders: null
 date: 2025-01-20
 date-precision: day

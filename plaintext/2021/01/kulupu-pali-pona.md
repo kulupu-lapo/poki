@@ -2,8 +2,7 @@
 title: kulupu pali pona
 description: null
 authors:
-- jan Jan
-translators: null
+  - jan Jan
 proofreaders: null
 date: 2021-01-25
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-01-25-kulupupalipona.md
-- https://lipukule.org/post/2021/01/25/kulupu-pali-pona/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-01-25-kulupupalipona.md
+  - https://lipukule.org/post/2021/01/25/kulupu-pali-pona/
 archives: null
 preprocessing: null
 accessibility-notes: null

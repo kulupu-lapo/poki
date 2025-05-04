@@ -2,8 +2,7 @@
 title: jan pi toki Sonko li toki pona la seme li sin lon kulupu ona / 人之言Sonko兮言善时何兮新于团伊
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2023-08-24
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0021ma.pdf
-- https://liputenpo.org/lipu/nanpa-ma/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ante.png
+  - https://liputenpo.org/pdfs/0021ma.pdf
+  - https://liputenpo.org/lipu/nanpa-ma/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mun_-_ante.png
 archives: null
 preprocessing: null
 accessibility-notes: null

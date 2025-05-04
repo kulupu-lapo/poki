@@ -3,7 +3,6 @@ title: tenpo pi seli lili
 description: null
 authors:
   - unknown author
-translators: null
 proofreaders: null
 date: 2001-01-01
 date-precision: none

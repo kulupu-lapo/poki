@@ -3,7 +3,6 @@ title: seme li mi
 description: null
 authors:
   - jan Alonola
-translators: null
 proofreaders: null
 date: 2024-10-20
 date-precision: day

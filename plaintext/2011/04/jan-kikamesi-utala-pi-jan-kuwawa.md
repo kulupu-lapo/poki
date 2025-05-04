@@ -3,7 +3,6 @@ title: jan Kikamesi. utala pi jan Kuwawa
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2011-04-15
 date-precision: day

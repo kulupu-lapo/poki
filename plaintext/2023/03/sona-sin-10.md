@@ -12,8 +12,7 @@ description: "#sonasin #semelisin\nlipu/sources/translation:\nhttps://docs.googl
   - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=8738221\n
   By Minh Nguyen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129577575"
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2023-03-20
 date-precision: day
@@ -21,8 +20,8 @@ tags: null
 original: null
 license: null
 sources:
-- https://www.youtube.com/watch?v=mEF6ThTTIZ0
-- https://docs.google.com/document/d/1qfK-RLdvcp2hlDrCNlHo_bETaJmPR2uWkLEkBkugHuA/edit
+  - https://www.youtube.com/watch?v=mEF6ThTTIZ0
+  - https://docs.google.com/document/d/1qfK-RLdvcp2hlDrCNlHo_bETaJmPR2uWkLEkBkugHuA/edit
 archives: null
 preprocessing: null
 accessibility-notes: null

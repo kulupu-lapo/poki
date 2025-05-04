@@ -3,7 +3,6 @@ title: seme li sewi?
 description: null
 authors:
   - jan Jan
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

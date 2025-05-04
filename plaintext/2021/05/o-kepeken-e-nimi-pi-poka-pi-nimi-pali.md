@@ -2,8 +2,7 @@
 title: o kepeken e nimi pi poka pi nimi pali
 description: null
 authors:
-- jan Tamalu
-translators: null
+  - jan Tamalu
 proofreaders: null
 date: 2021-05-07
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0004kasi.pdf
-- https://liputenpo.org/lipu/nanpa-kasi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_soweli_musi.png
+  - https://liputenpo.org/pdfs/0004kasi.pdf
+  - https://liputenpo.org/lipu/nanpa-kasi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_soweli_musi.png
 archives: null
 preprocessing: null
 accessibility-notes: null

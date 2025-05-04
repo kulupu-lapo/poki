@@ -3,7 +3,6 @@ title: jan olin mi li lon ma weka  # kalama musi â€œjan olin mi li lon ma wekaâ€
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-03-06
 date-precision: day

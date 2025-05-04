@@ -2,21 +2,20 @@
 title: kijetesantakalu o! nanpa mute tu tu
 description: kijetesantakalu li lukin e lipu
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2024-02-07
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY 4.0
 sources:
-- https://liputenpo.org/lipu/nanpa-tenpo
-- https://janketami.wordpress.com/2024/02/09/kijetesantakalu-o-nanpa-mute-tu-tu/
-- https://kijetesantakalu-o.tumblr.com/post/741887989432598528/
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep24.png
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep24_(sitelen_pona).png
+  - https://liputenpo.org/lipu/nanpa-tenpo
+  - https://janketami.wordpress.com/2024/02/09/kijetesantakalu-o-nanpa-mute-tu-tu/
+  - https://kijetesantakalu-o.tumblr.com/post/741887989432598528/
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep24.png
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep24_(sitelen_pona).png
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -3,7 +3,6 @@ title: o sina olin e mi
 description: null
 authors:
   - Augur Key-chain
-translators: null
 proofreaders: null
 date: 2017-05-01
 date-precision: day

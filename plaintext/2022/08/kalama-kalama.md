@@ -3,7 +3,6 @@ title: kalama kalama
 description: null
 authors:
   - ilo Eko
-translators: null
 proofreaders: null
 date: 2022-08-21
 date-precision: day

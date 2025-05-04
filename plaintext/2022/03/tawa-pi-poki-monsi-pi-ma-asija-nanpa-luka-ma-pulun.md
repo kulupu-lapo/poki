@@ -2,8 +2,7 @@
 title: tawa pi poki monsi pi ma Asija nanpa luka. ma Pulun
 description: null
 authors:
-- jan Polo
-translators: null
+  - jan Polo
 proofreaders: null
 date: 2022-03-10
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0012nimi.pdf
-- https://liputenpo.org/lipu/nanpa-nimi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_ma_Pulune.png
+  - https://liputenpo.org/pdfs/0012nimi.pdf
+  - https://liputenpo.org/lipu/nanpa-nimi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nimi_-_ma_Pulune.png
 archives: null
 preprocessing: null
 accessibility-notes: null

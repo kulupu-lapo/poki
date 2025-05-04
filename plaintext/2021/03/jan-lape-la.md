@@ -3,7 +3,6 @@ title: jan lape la  # kamala musi “jan lape la”
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-03-10
 date-precision: day

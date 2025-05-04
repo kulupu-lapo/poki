@@ -3,7 +3,6 @@ title: o lape
 description: null
 authors:
   - kala pona Tonyu
-translators: null
 proofreaders: null
 date: 2020-09-26
 date-precision: day

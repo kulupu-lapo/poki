@@ -2,8 +2,7 @@
 title: toki tawa jan Elike (mama pi jan lili pi toki pona)
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2021-04-05
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0003soweli.pdf
-- https://liputenpo.org/lipu/nanpa-soweli/
+  - https://liputenpo.org/pdfs/0003soweli.pdf
+  - https://liputenpo.org/lipu/nanpa-soweli/
 archives: null
 preprocessing: null
 accessibility-notes: null

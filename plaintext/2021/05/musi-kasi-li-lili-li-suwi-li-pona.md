@@ -2,8 +2,7 @@
 title: musi Kasi li lili li suwi li pona
 description: null
 authors:
-- jan Olipija
-translators: null
+  - jan Olipija
 proofreaders: null
 date: 2021-05-07
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0004kasi.pdf
-- https://liputenpo.org/lipu/nanpa-kasi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_musi_Kasi.png
+  - https://liputenpo.org/pdfs/0004kasi.pdf
+  - https://liputenpo.org/lipu/nanpa-kasi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kasi_-_musi_Kasi.png
 archives: null
 preprocessing: null
 accessibility-notes: null

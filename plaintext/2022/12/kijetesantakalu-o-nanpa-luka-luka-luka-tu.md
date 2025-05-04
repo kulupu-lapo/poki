@@ -2,21 +2,20 @@
 title: kijetesantakalu o! nanpa luka luka luka tu
 description: kijetesantakalu li open e lupa
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2022-12-09
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY 4.0
 sources:
-- https://liputenpo.org/lipu/nanpa-musi
-- https://janketami.wordpress.com/2023/07/05/kijetesantakalu-o-nanpa-luka-luka-luka-tu/
-- https://kijetesantakalu-o.tumblr.com/post/721955303404552192
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep17.png
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep17_(sitelen_pona).png
+  - https://liputenpo.org/lipu/nanpa-musi
+  - https://janketami.wordpress.com/2023/07/05/kijetesantakalu-o-nanpa-luka-luka-luka-tu/
+  - https://kijetesantakalu-o.tumblr.com/post/721955303404552192
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep17.png
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep17_(sitelen_pona).png
 archives: null
 preprocessing: null
 accessibility-notes: null

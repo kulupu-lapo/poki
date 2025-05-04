@@ -2,8 +2,7 @@
 title: pali len pi sitelen sitelen pi nimi ku suli
 description: null
 authors:
-- lon Jawin
-translators: null
+  - lon Jawin
 proofreaders: null
 date: 2021-10-06
 date-precision: day
@@ -11,29 +10,29 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0008toki.pdf
-- https://liputenpo.org/lipu/nanpa-toki/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_sitelen_sin_ale.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22monsuta%22_pi_sin_ala.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22misikeke%22_pi_sin_ala_2.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22misikeke%22_pi_sin_ala_1.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22jasima%22_pi_sin_ala.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22meso%22_pi_sin_ala_1.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22uta%22.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22meso%22_pi_sin_ala_2.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_1.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_2.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_3.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kokosila%22_pi_sin_ala.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_1.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22CH%27AM%22.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kemutenemk%22.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_2.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_3.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_4.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_1.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_2.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_3.png
+  - https://liputenpo.org/pdfs/0008toki.pdf
+  - https://liputenpo.org/lipu/nanpa-toki/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_sitelen_sin_ale.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22monsuta%22_pi_sin_ala.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22misikeke%22_pi_sin_ala_2.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22misikeke%22_pi_sin_ala_1.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22jasima%22_pi_sin_ala.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22meso%22_pi_sin_ala_1.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22uta%22.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22meso%22_pi_sin_ala_2.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_1.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_2.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22epiku%22_pi_sin_ala_3.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kokosila%22_pi_sin_ala.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_1.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22CH%27AM%22.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kemutenemk%22.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_2.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_3.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_4.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_1.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_2.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_sitelen_%22kijetesantakalu%22_pi_sin_ala_3.png
 archives: null
 preprocessing: null
 accessibility-notes: null

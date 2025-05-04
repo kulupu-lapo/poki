@@ -3,7 +3,6 @@ title: mi musi ala.
 description: null
 authors:
   - soweli Peka
-translators: null
 proofreaders: null
 date: 2015-01-07
 date-precision: day

@@ -3,7 +3,6 @@ title: tenpo musi "suwi"
 description: null
 authors:
   - CrowsAreSpyingOnYou
-translators: null
 proofreaders: null
 date: 2022-06-12
 date-precision: day

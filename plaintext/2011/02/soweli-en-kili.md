@@ -3,7 +3,6 @@ title: soweli en kili
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2011-02-25
 date-precision: day

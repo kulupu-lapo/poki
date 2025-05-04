@@ -2,8 +2,7 @@
 title: kalama pi sitelen nimi
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2024-02-07
 date-precision: day
@@ -11,11 +10,11 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0024tenpo.pdf
-- https://liputenpo.org/lipu/nanpa-tenpo/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_Jan_Losu.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_sitelen_kalama.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_sina_awen_kalama.png
+  - https://liputenpo.org/pdfs/0024tenpo.pdf
+  - https://liputenpo.org/lipu/nanpa-tenpo/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_Jan_Losu.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_sitelen_kalama.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_sina_awen_kalama.png
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

@@ -3,7 +3,6 @@ title: olin ike
 description: null
 authors:
   - jan Melon
-translators: null
 proofreaders: null
 date: 2020-09-09
 date-precision: day

@@ -3,7 +3,6 @@ title: sina seme?
 description: null
 authors:
   - kili Potato
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

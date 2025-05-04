@@ -3,7 +3,6 @@ title: mun
 description: null
 authors:
   - kulupu kasi
-translators: null
 proofreaders: null
 date: 2018-03-13
 date-precision: day

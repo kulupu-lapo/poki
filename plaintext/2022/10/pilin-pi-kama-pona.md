@@ -3,7 +3,6 @@ title: pilin pi kama pona
 description: null
 authors:
   - jan Lentan
-translators: null
 proofreaders: null
 date: 2021-09-02
 date-precision: day

@@ -4,7 +4,6 @@ description: misa Kimi en misa Emi li musi lon poka pi tomo ona. ona li lukin li
   mute. taso, pakala lili wan li lon. ni li lon ala tan tawa kepeken tenpo lili.
 authors:
   - Hopeful_Student
-translators: null
 proofreaders: null
 date: 2024-09-10
 date-precision: day

@@ -2,8 +2,7 @@
 title: jan suli pi nena Wekin
 description: null
 authors:
-- jan Eli
-translators: null
+  - jan Eli
 proofreaders: null
 date: 2022-07-04
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0014seli.pdf
-- https://liputenpo.org/lipu/nanpa-seli/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_nena_Wekin.png
+  - https://liputenpo.org/pdfs/0014seli.pdf
+  - https://liputenpo.org/lipu/nanpa-seli/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_nena_Wekin.png
 archives: null
 preprocessing: null
 accessibility-notes: null

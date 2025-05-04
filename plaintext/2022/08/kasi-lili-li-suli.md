@@ -3,18 +3,17 @@ title: kasi lili li suli
 description: kasi li kama tan ma, li sin. kasi li suli mute lon poka ona la, ona li
   wile sama. tenpo li pana e ante.
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2022-08-06
 date-precision: day
 tags:
-- kasi li pilin ike tawa ona sama
+  - kasi li pilin ike tawa ona sama
 original: null
 license: CC-BY-4.0
 sources:
-- https://github.com/raacz/utala/blob/main/lipu-lili/kasi-lili-li-suli.md
-- http://utala.pona.la/lipu-lili/kasi-lili-li-suli.html
+  - https://github.com/raacz/utala/blob/main/lipu-lili/kasi-lili-li-suli.md
+  - http://utala.pona.la/lipu-lili/kasi-lili-li-suli.html
 archives: null
 preprocessing: null
 accessibility-notes: null

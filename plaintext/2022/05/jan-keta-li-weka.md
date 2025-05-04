@@ -3,7 +3,6 @@ title: jan Keta li weka!
 description: null
 authors:
   - jan Tepo
-translators: null
 proofreaders:
   - soweli nata
   - jan Lakuse

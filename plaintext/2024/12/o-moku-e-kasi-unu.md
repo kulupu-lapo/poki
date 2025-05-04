@@ -3,7 +3,6 @@ title: o moku e kasi unu
 description: null
 authors:
   - jan Kasape
-translators: null
 proofreaders: null
 date: 2024-12-29
 date-precision: day

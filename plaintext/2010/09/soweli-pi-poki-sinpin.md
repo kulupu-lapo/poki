@@ -3,7 +3,6 @@ title: soweli pi poki sinpin
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2010-09-01
 date-precision: day

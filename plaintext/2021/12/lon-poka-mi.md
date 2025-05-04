@@ -3,7 +3,6 @@ title: lon poka mi (lpk. pi kule epiku Atawan)
 description: null
 authors:
   - jan Nikoleta
-translators: null
 proofreaders:
   - jan Kaje
   - jan Pike

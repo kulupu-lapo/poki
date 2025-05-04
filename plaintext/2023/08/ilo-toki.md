@@ -2,18 +2,17 @@
 title: ilo toki
 description: null
 authors:
-- jan Peton
-translators: null
+  - jan Peton
 proofreaders: null
 date: 2023-08-15
 date-precision: day
 tags:
-- ilo nanpa li sona wawa e toki
+  - ilo nanpa li sona wawa e toki
 original: null
 license: CC-BY-SA-4.0
 sources:
-- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-toki.md
-- http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-toki.html
+  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/ilo-toki.md
+  - http://utala.pona.la/toki-en-lipu/lipu-suli/ilo-toki.html
 archives: null
 preprocessing: includes HTML
 accessibility-notes: null

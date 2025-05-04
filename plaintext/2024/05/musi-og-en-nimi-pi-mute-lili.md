@@ -3,7 +3,6 @@ title: musi Og en nimi pi mute lili
 description: null
 authors:
   - jan Nalu
-translators: null
 proofreaders: null
 date: 2024-05-14
 date-precision: day

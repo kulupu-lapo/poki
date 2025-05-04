@@ -3,7 +3,6 @@ title: mi uta e pan
 description: null
 authors:
   - Aricona
-translators: null
 proofreaders: null
 date: 2020-08-25
 date-precision: day

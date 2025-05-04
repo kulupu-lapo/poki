@@ -4,7 +4,6 @@ description: null
 authors:
   - jan Usawi
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2023-08-05
 date-precision: day

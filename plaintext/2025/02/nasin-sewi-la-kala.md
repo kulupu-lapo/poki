@@ -3,7 +3,6 @@ title: nasin sewi la kala
 description: null
 authors:
   - jan Alonola
-translators: null
 proofreaders: null
 date: 2025-02-28
 date-precision: day

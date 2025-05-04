@@ -3,7 +3,6 @@ title: akesi Jaba
 description: null
 authors:
   - Michael F.
-translators: null
 proofreaders: null
 date: 2001-01-01
 date-precision: none

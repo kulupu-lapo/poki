@@ -3,7 +3,6 @@ title: tenpo pona pimeja  # kalama: tenpo pona pimeja
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-12-07
 date-precision: day

@@ -5,7 +5,6 @@ description: In which I continue to learn toki pona by using it as an outlet for
   characters falling asleep.
 authors:
   - janseme
-translators: null
 proofreaders: null
 date: 2023-02-06
 date-precision: day

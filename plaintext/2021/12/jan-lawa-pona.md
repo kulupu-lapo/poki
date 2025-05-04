@@ -3,7 +3,6 @@ title: jan lawa pona  # kalama: jan lawa pona
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-12-13
 date-precision: day

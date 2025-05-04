@@ -3,7 +3,6 @@ title: lipu jaki pi nimi ilo pi toki Losupan
 description: null
 authors:
   - jan Tepan
-translators: null
 proofreaders: null
 date: 2021-05-05
 date-precision: day

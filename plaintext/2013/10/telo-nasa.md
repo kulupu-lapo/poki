@@ -3,7 +3,6 @@ title: telo nasa
 description: null
 authors:
   - tobiah
-translators: null
 proofreaders: null
 date: 2013-10-10
 date-precision: day

@@ -2,8 +2,7 @@
 title: monsutatesu
 description: null
 authors:
-- kala pona Tonyu
-translators: null
+  - kala pona Tonyu
 proofreaders: null
 date: 2021-01-29
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-01-29-monsutatesu.md
-- https://lipukule.org/post/2021/01/29/monsutatesu/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-01-29-monsutatesu.md
+  - https://lipukule.org/post/2021/01/29/monsutatesu/
 archives: null
 preprocessing: null
 accessibility-notes: null

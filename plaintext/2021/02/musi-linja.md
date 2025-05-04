@@ -3,7 +3,6 @@ title: musi linja
 description: null
 authors:
   - jan Telakoman
-translators: null
 proofreaders: null
 date: 2021-02-01
 date-precision: day

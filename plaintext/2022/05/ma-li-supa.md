@@ -2,9 +2,8 @@
 title: ma li supa
 description: null
 authors:
-- jan Tepo
-- jan Lakuse
-translators: null
+  - jan Tepo
+  - jan Lakuse
 proofreaders: null
 date: 2022-05-08
 date-precision: day
@@ -12,8 +11,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vRp71JJBMH1nJ3LZsbKBfj3D90jaU6Ms8ugNSbGP7PXmwOtktbEyDcFKa2ej5Z6S7QmRdQIUdpFD6tJ/pub
-- https://wikisource.org/wiki/Kalama_sin/20
+  - https://docs.google.com/document/d/e/2PACX-1vRp71JJBMH1nJ3LZsbKBfj3D90jaU6Ms8ugNSbGP7PXmwOtktbEyDcFKa2ej5Z6S7QmRdQIUdpFD6tJ/pub
+  - https://wikisource.org/wiki/Kalama_sin/20
 archives: null
 preprocessing: replaced unusual "j." abbreviation with the full names
 accessibility-notes: null

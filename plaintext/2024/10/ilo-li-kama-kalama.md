@@ -3,7 +3,6 @@ title: ilo li kama kalama
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2024-10-11
 date-precision: day

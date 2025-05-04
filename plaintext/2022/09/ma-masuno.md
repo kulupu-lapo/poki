@@ -2,8 +2,7 @@
 title: ma Masuno
 description: null
 authors:
-- jan Na
-translators: null
+  - jan Na
 proofreaders: null
 date: 2022-09-01
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0015moku.pdf
-- https://liputenpo.org/lipu/nanpa-moku/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_ma_Masuno.png
+  - https://liputenpo.org/pdfs/0015moku.pdf
+  - https://liputenpo.org/lipu/nanpa-moku/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moku_-_ma_Masuno.png
 archives: null
 preprocessing: null
 accessibility-notes: null

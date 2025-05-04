@@ -2,8 +2,7 @@
 title: musi pi soweli ike
 description: null
 authors:
-- jan Jakopo
-translators: null
+  - jan Jakopo
 proofreaders: null
 date: 2022-10-17
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0016kulupu.pdf
-- https://liputenpo.org/lipu/nanpa-kulupu/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_soweli_ike.png
+  - https://liputenpo.org/pdfs/0016kulupu.pdf
+  - https://liputenpo.org/lipu/nanpa-kulupu/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kulupu_-_soweli_ike.png
 archives: null
 preprocessing: null
 accessibility-notes: null

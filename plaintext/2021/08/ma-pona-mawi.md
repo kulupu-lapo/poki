@@ -3,7 +3,6 @@ title: ma pona Mawi
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-08-27
 date-precision: day

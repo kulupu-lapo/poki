@@ -3,7 +3,6 @@ title: ken la mi tu o toki
 description: jan Pesi li alasa sitelen lon tenpo sin.
 authors:
   - asona
-translators: null
 proofreaders: null
 date: 2022-05-26
 date-precision: day

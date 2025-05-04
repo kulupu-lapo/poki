@@ -2,8 +2,7 @@
 title: tenpo pimeja sewi
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2022-02-01
 date-precision: day
@@ -13,8 +12,8 @@ original:
   authors: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0011walo.pdf
-- https://liputenpo.org/lipu/nanpa-walo/
+  - https://liputenpo.org/pdfs/0011walo.pdf
+  - https://liputenpo.org/lipu/nanpa-walo/
 archives: null
 preprocessing: null
 accessibility-notes: null

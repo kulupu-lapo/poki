@@ -2,8 +2,7 @@
 title: ijo lon pi lon ala
 description: null
 authors:
-- kulupu En
-translators: null
+  - kulupu En
 proofreaders: null
 date: 2021-02-01
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-02-01-ijolonpilonala.md
-- https://lipukule.org/post/2021/02/01/ijo-lon-pi-lon-ala/
-- https://i.imgur.com/QcA5qgC.png
+  - https://github.com/lipukule/site/blob/main/content/post/2021-02-01-ijolonpilonala.md
+  - https://lipukule.org/post/2021/02/01/ijo-lon-pi-lon-ala/
+  - https://i.imgur.com/QcA5qgC.png
 archives: null
 preprocessing: null
 accessibility-notes: null

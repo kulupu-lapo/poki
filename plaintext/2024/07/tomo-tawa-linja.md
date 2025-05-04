@@ -2,8 +2,7 @@
 title: tomo tawa linja
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2024-07-05
 date-precision: day
@@ -11,11 +10,11 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0027linja.pdf
-- https://liputenpo.org/lipu/nanpa-linja/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_tomo_tawa_kon.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_ilo_nena.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_tomo_tawa_taki.png
+  - https://liputenpo.org/pdfs/0027linja.pdf
+  - https://liputenpo.org/lipu/nanpa-linja/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_tomo_tawa_kon.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_ilo_nena.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_linja_-_tomo_tawa_taki.png
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

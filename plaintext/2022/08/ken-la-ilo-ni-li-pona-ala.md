@@ -2,8 +2,7 @@
 title: ken la ilo ni li pona ala
 description: null
 authors:
-- kita
-translators: null
+  - kita
 proofreaders: null
 date: 2022-08-08
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://web.archive.org/web/2/https://lipu.pona.la/kita/ken-la-ilo-ni-li-pona-ala
+  - https://web.archive.org/web/2/https://lipu.pona.la/kita/ken-la-ilo-ni-li-pona-ala
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -3,7 +3,6 @@ title: meli lili pi len loje
 description: null
 authors:
   - jan Same
-translators: null
 proofreaders:
   - jan Kipo
   - jan Lope

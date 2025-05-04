@@ -3,7 +3,6 @@ title: wan tu mute
 description: null
 authors:
   - jan Polina
-translators: null
 proofreaders: null
 date: 2018-07-28
 date-precision: day

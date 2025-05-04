@@ -3,7 +3,6 @@ title: ma Pelin la jan kulupu li mute ala mute?
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2024-10-20
 date-precision: day

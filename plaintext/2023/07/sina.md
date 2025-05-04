@@ -3,7 +3,6 @@ title: sina
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2023-07-10
 date-precision: day

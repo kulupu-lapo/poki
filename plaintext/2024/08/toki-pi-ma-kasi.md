@@ -3,7 +3,6 @@ title: 'toki pi ma kasi: utala pi jan ete'
 description: null
 authors:
   - ala Lojewalo
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

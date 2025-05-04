@@ -3,7 +3,6 @@ title: tawa
 description: null
 authors:
   - jan Sesi
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

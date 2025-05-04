@@ -3,7 +3,6 @@ title: toki musi pata
 description: null
 authors:
   - kapesi Pake
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

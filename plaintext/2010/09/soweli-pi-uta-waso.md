@@ -3,7 +3,6 @@ title: soweli pi uta waso
 description: null
 authors:
   - jan Mika
-translators: null
 proofreaders: null
 date: 2010-09-01
 date-precision: day

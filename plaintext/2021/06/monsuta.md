@@ -3,7 +3,6 @@ title: monsuta
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2021-06-26
 date-precision: day

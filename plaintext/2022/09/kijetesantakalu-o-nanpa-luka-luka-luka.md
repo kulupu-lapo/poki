@@ -2,20 +2,19 @@
 title: kijetesantakalu o! nanpa luka luka luka
 description: waso li pana e pan suwi tawa kijetesantakalu
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2022-09-01
 date-precision: day
 tags:
-- comic
+  - comic
 original: null
 license: CC-BY 4.0
 sources:
-- https://liputenpo.org/lipu/nanpa-moku
-- https://janketami.wordpress.com/2022/11/30/kijetesantakalu-o-nanpa-luka-luka-luka/
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep15.png
-- https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep15_(sitelen_pona).png
+  - https://liputenpo.org/lipu/nanpa-moku
+  - https://janketami.wordpress.com/2022/11/30/kijetesantakalu-o-nanpa-luka-luka-luka/
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep15.png
+  - https://commons.wikimedia.org/wiki/File:Kijetesantakalu_o!_-_ep15_(sitelen_pona).png
 archives: null
 preprocessing: null
 accessibility-notes: null

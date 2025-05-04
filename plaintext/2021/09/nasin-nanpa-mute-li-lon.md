@@ -2,8 +2,7 @@
 title: nasin nanpa mute li lon
 description: null
 authors:
-- jan Kita
-translators: null
+  - jan Kita
 proofreaders: null
 date: 2021-09-21
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-09-21-nasin_nanpa_mute_li_lon.md
-- https://lipukule.org/post/2021/09/21/nasin-nanpa-mute-li-lon/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-09-21-nasin_nanpa_mute_li_lon.md
+  - https://lipukule.org/post/2021/09/21/nasin-nanpa-mute-li-lon/
 archives: null
 preprocessing: null
 accessibility-notes: null

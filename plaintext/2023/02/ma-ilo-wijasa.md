@@ -2,8 +2,7 @@
 title: ma ilo Wijasa
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2023-02-06
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0018tu.pdf
-- https://liputenpo.org/lipu/nanpa-tu/
+  - https://liputenpo.org/pdfs/0018tu.pdf
+  - https://liputenpo.org/lipu/nanpa-tu/
 archives: null
 preprocessing: null
 accessibility-notes: null

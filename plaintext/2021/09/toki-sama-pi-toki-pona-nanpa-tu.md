@@ -2,8 +2,7 @@
 title: toki sama pi toki pona - nanpa tu
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2021-09-02
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0007kule.pdf
-- https://liputenpo.org/lipu/nanpa-kule/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kule_-_Glosa.png
+  - https://liputenpo.org/pdfs/0007kule.pdf
+  - https://liputenpo.org/lipu/nanpa-kule/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_kule_-_Glosa.png
 archives: null
 preprocessing: null
 accessibility-notes: null

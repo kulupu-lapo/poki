@@ -2,8 +2,7 @@
 title: jan kule lon tenpo pini la jan sona Alan Tuwin
 description: null
 authors:
-- jan Olipija
-translators: null
+  - jan Olipija
 proofreaders: null
 date: 2023-05-12
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0019mama.pdf
-- https://liputenpo.org/lipu/nanpa-mama/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_jan_Alan_Tuwin.png
+  - https://liputenpo.org/pdfs/0019mama.pdf
+  - https://liputenpo.org/lipu/nanpa-mama/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_mama_-_jan_Alan_Tuwin.png
 archives: null
 preprocessing: null
 accessibility-notes: null

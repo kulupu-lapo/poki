@@ -3,7 +3,6 @@ title: oww
 description: null
 authors:
   - jan Usawi
-translators: null
 proofreaders: null
 date: 2023-12-24
 date-precision: day

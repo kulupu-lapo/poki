@@ -3,7 +3,6 @@ title: pipi li lon
 description: null
 authors:
   - kala pona Tonyu
-translators: null
 proofreaders: null
 date: 2020-10-09
 date-precision: day

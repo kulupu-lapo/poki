@@ -2,8 +2,7 @@
 title: uta monsuta[^1]
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2021-10-31
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0009moli.pdf
-- https://liputenpo.org/lipu/nanpa-moli/
-- https://commons.wikimedia.org/wiki/File:Uta_monsuta_2.png
+  - https://liputenpo.org/pdfs/0009moli.pdf
+  - https://liputenpo.org/lipu/nanpa-moli/
+  - https://commons.wikimedia.org/wiki/File:Uta_monsuta_2.png
 archives: null
 preprocessing: null
 accessibility-notes: null

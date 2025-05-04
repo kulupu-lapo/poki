@@ -2,21 +2,20 @@
 title: musi kepeken lipu
 description: lipu li kama tawa jan Manju. jan pona ona la, lipu ni li kama ijo ante.
 authors:
-- Ret Samys
-translators: null
+  - Ret Samys
 proofreaders: null
 date: 2021-11-03
 date-precision: day
 tags:
-- StoryWeaver level 2
+  - StoryWeaver level 2
 original:
   title: Paper Play
   authors:
-  - Mala Kumar
+    - Mala Kumar
 # - Ruchi Shah (illustrator)
 license: CC-BY-4.0
 sources:
-- https://storyweaver.org.in/en/stories/347526-musi-kepeken-lipu
+  - https://storyweaver.org.in/en/stories/347526-musi-kepeken-lipu
 archives: null
 preprocessing: null
 accessibility-notes: null

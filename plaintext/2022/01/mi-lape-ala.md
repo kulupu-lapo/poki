@@ -3,7 +3,6 @@ title: mi lape ala
 description: null
 authors:
   - Viking Cow
-translators: null
 proofreaders: null
 date: 2022-01-15
 date-precision: day

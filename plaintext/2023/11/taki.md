@@ -2,18 +2,17 @@
 title: taki
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2023-11-01
 date-precision: day
 tags:
-- poetry
+  - poetry
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0022sin.pdf
-- https://liputenpo.org/lipu/nanpa-sin/
+  - https://liputenpo.org/pdfs/0022sin.pdf
+  - https://liputenpo.org/lipu/nanpa-sin/
 archives: null
 preprocessing: null
 accessibility-notes: null

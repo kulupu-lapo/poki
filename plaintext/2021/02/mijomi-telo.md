@@ -2,10 +2,9 @@
 title: mijomi telo
 description: null
 authors:
-- jan Sami
-- jan Kawa
-- jan inwin
-translators: null
+  - jan Sami
+  - jan Kawa
+  - jan inwin
 proofreaders: null
 date: 2021-02-08
 date-precision: day
@@ -13,8 +12,8 @@ tags: null
 original: null
 license: null
 sources:
-- https://utala.pona.la/lipu-kalama-tawa/
-- https://utala.pona.la/lipu-kalama-tawa/mijomi-telo.pdf
+  - https://utala.pona.la/lipu-kalama-tawa/
+  - https://utala.pona.la/lipu-kalama-tawa/mijomi-telo.pdf
 archives: null
 preprocessing: null
 accessibility-notes: null

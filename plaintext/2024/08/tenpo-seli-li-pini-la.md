@@ -3,7 +3,6 @@ title: tenpo seli li pini la
 description: null
 authors:
   - jan Kinte
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

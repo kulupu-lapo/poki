@@ -3,7 +3,6 @@ title: tenpo pimeja la mi lon tomo tawa
 description: null
 authors:
   - Viking Cow
-translators: null
 proofreaders: null
 date: 2022-01-05
 date-precision: day

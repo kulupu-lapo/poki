@@ -3,7 +3,6 @@ title: toki
 description: lipamanka tries (not very hard) to explain what language is in toki pona
 authors:
   - lipamanka
-translators: null
 proofreaders: null
 date: 2001-01-01
 date-precision: none

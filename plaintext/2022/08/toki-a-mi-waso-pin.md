@@ -2,8 +2,7 @@
 title: mi waso Pin  # Made up for poki Lapo
 description: null
 authors:
-- waso-pin
-translators: null
+  - waso-pin
 proofreaders: null
 date: 2022-08-07
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://web.archive.org/web/2/https://lipu.pona.la/waso-pin/toki-a-mi-waso-pin
+  - https://web.archive.org/web/2/https://lipu.pona.la/waso-pin/toki-a-mi-waso-pin
 archives: null
 preprocessing: null
 accessibility-notes: null

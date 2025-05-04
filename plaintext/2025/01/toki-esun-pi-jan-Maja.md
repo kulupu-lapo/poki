@@ -4,7 +4,6 @@ description: A comic made by Studio Massa for his Ongezellig series, translated 
   jan Majeka
 authors:
   - jan Majeka
-translators: null
 proofreaders:
   - jan lape pi toki Inli ala
 date: 2025-01-03

@@ -2,8 +2,7 @@
 title: pan sike suwi
 description: null
 authors:
-- jan Nijo
-translators: null
+  - jan Nijo
 proofreaders: null
 date: 2021-02-04
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-02-04-pansikesuwi.md
-- https://lipukule.org/post/2021/02/04/pan-sike-suwi/
-- https://github.com/lipukule/site/tree/main/static/images/pansikesuwi
+  - https://github.com/lipukule/site/blob/main/content/post/2021-02-04-pansikesuwi.md
+  - https://lipukule.org/post/2021/02/04/pan-sike-suwi/
+  - https://github.com/lipukule/site/tree/main/static/images/pansikesuwi
 archives: null
 preprocessing: null
 accessibility-notes: null

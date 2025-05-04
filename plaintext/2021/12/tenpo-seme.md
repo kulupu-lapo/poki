@@ -3,7 +3,6 @@ title: tenpo seme?
 description: null
 authors:
   - jan Nikoleta
-translators: null
 proofreaders:
   - jan Inkepa
   - jan Kaje

@@ -2,8 +2,7 @@
 title: ma pi lipu Tun
 description: null
 authors:
-- jan Tepo
-translators: null
+  - jan Tepo
 proofreaders: null
 date: 2021-11-08
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vShYto392jps6POf-s8mztAlGCGlBk23L61FS4D-p4yGCBQmGgVI1_r5P1gZEbv5Pvyt7vEiH5mxGYa/pub
-- https://wikisource.org/wiki/Kalama_sin/7
+  - https://docs.google.com/document/d/e/2PACX-1vShYto392jps6POf-s8mztAlGCGlBk23L61FS4D-p4yGCBQmGgVI1_r5P1gZEbv5Pvyt7vEiH5mxGYa/pub
+  - https://wikisource.org/wiki/Kalama_sin/7
 archives: null
 preprocessing: null
 accessibility-notes: null

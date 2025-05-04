@@ -5,7 +5,6 @@ description: jan Ikalusu li kama olin e suno. a.k.a. I started learning toki pon
   the sun (pun intended).
 authors:
   - FeatherlessBiped
-translators: null
 proofreaders: null
 date: 2023-12-27
 date-precision: day

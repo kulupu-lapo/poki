@@ -3,7 +3,6 @@ title: lipu Nasino Sijokapi
 description: null
 authors:
   - jan Lakuse
-translators: null
 proofreaders: null
 date: 2021-02-10
 date-precision: day

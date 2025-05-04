@@ -2,18 +2,17 @@
 title: tenpo pini weka
 description: null
 authors:
-- jan Akeso
-translators: null
+  - jan Akeso
 proofreaders: null
 date: 2023-08-15
 date-precision: day
 tags:
-- moku li lon
+  - moku li lon
 original: null
 license: CC-BY-SA-4.0
 sources:
-- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/tenpo-pini-weka.md
-- http://utala.pona.la/toki-en-lipu/lipu-suli/tenpo-pini-weka.html
+  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/tenpo-pini-weka.md
+  - http://utala.pona.la/toki-en-lipu/lipu-suli/tenpo-pini-weka.html
 archives: null
 preprocessing: includes HTML
 accessibility-notes: null

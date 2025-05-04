@@ -2,8 +2,7 @@
 title: sitelen pi leko nasa  # Made up for poki Lapo
 description: null
 authors:
-- telosuwi
-translators: null
+  - telosuwi
 proofreaders: null
 date: 2022-08-06
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://web.archive.org/web/2/https://lipu.pona.la/telosuwi/sitelen-pi-leko-nasa
+  - https://web.archive.org/web/2/https://lipu.pona.la/telosuwi/sitelen-pi-leko-nasa
 archives: null
 preprocessing: null
 accessibility-notes: null

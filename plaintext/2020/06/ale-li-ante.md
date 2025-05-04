@@ -5,7 +5,6 @@ authors:
   - jan Nikoleta
   - jan Natali
   - jan Camawin
-translators: null
 proofreaders:
   - jan Kala
   - jan Jeko

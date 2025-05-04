@@ -2,8 +2,7 @@
 title: jan pi moli ala
 description: null
 authors:
-- jan Api
-translators: null
+  - jan Api
 proofreaders: null
 date: 2021-03-11
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-03-11-jan%20pi%20moli%20ala.md
-- https://lipukule.org/post/2021/03/11/jan-pi-moli-ala/
-- https://github.com/lipukule/site/blob/main/static/images/janpimoliala.png
+  - https://github.com/lipukule/site/blob/main/content/post/2021-03-11-jan%20pi%20moli%20ala.md
+  - https://lipukule.org/post/2021/03/11/jan-pi-moli-ala/
+  - https://github.com/lipukule/site/blob/main/static/images/janpimoliala.png
 archives: null
 preprocessing: null
 accessibility-notes: null

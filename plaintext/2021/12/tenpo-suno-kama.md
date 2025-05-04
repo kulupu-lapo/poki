@@ -3,7 +3,6 @@ title: tenpo suno kama  # kalama: tenpo suno kama
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-12-08
 date-precision: day

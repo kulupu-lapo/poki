@@ -3,7 +3,6 @@ title: The Shahadah
 description: null
 authors:
   - jan Pije
-translators: null
 proofreaders: null
 date: 2001-01-01
 date-precision: none

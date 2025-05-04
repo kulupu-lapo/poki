@@ -15,8 +15,7 @@ description: "suno pi toki pona: https://tp.lcp.su/suno/\n\nmi wile e ni: sitele
   \nSitelen ante li public domain anu sitelen mi\nThe other pictures are either public
   domain or my pictures\n\nPlease ask before using anything from this video, thanks!"
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2021-07-11
 date-precision: day
@@ -24,8 +23,8 @@ tags: null
 original: null
 license: null
 sources:
-- https://www.youtube.com/watch?v=mZv2VTZB4mQ
-- https://docs.google.com/document/d/1lAt7XZU8QaWOFqxFoWDZzHS0Ek8PwlLxgi1Ddju8KlM/edit
+  - https://www.youtube.com/watch?v=mZv2VTZB4mQ
+  - https://docs.google.com/document/d/1lAt7XZU8QaWOFqxFoWDZzHS0Ek8PwlLxgi1Ddju8KlM/edit
 archives: null
 preprocessing: null
 accessibility-notes: null

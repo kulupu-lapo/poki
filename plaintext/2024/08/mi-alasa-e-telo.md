@@ -3,7 +3,6 @@ title: mi alasa telo
 description: null
 authors:
   - ijo Wen
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

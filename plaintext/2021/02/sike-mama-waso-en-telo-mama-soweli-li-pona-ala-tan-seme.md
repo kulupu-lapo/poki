@@ -2,8 +2,7 @@
 title: sike mama waso en telo mama soweli li pona ala tan seme?
 description: null
 authors:
-- jan Tanije
-translators: null
+  - jan Tanije
 proofreaders: null
 date: 2021-02-01
 date-precision: day
@@ -11,10 +10,10 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0001akesi.pdf
-- https://liputenpo.org/lipu/nanpa-akesi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_telo_mama_soweli.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_sike_mama_waso.png
+  - https://liputenpo.org/pdfs/0001akesi.pdf
+  - https://liputenpo.org/lipu/nanpa-akesi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_telo_mama_soweli.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_akesi_-_sike_mama_waso.png
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -3,21 +3,20 @@ title: ken li ken ala
 description: sina ken lukin e lipu ni; taso ona li ken ala ike tawa sina a! jan lili
   sina li ken ala lukin e ni la, ona li ken musi e sitelen pona.
 authors:
-- Oreo Créme
-translators: null
+  - Oreo Créme
 proofreaders: null
 date: 2023-01-19
 date-precision: day
 tags:
-- StoryWeaver level 1
+  - StoryWeaver level 1
 original:
   title: Can and Can't
   authors:
-  - Radha HS
+    - Radha HS
 # - Ruchi Shah (illustrator)
 license: CC-BY-4.0
 sources:
-- https://storyweaver.org.in/en/stories/550759-ken-li-ken-ala
+  - https://storyweaver.org.in/en/stories/550759-ken-li-ken-ala
 archives: null
 preprocessing: null
 accessibility-notes: null

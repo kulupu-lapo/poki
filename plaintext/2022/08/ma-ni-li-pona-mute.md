@@ -2,8 +2,7 @@
 title: ma ni li pona mute
 description: null
 authors:
-- soweli-mokapen
-translators: null
+  - soweli-mokapen
 proofreaders: null
 date: 2022-08-07
 date-precision: day
@@ -11,7 +10,7 @@ tags: null
 original: null
 license: null
 sources:
-- https://web.archive.org/web/2/https://lipu.pona.la/soweli-mokapen/ma-ni-li-pona-mute
+  - https://web.archive.org/web/2/https://lipu.pona.la/soweli-mokapen/ma-ni-li-pona-mute
 archives: null
 preprocessing: null
 accessibility-notes: null

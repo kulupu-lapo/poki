@@ -3,7 +3,6 @@ title: laso poki
 description: null
 authors:
   - jan Elasa
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

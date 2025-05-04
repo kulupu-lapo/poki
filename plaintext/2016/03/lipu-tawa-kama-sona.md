@@ -3,7 +3,6 @@ title: lipu tawa kama sona
 description: null
 authors:
   - jan Wenato
-translators: null
 proofreaders: null
 date: 2016-03-12
 date-precision: day

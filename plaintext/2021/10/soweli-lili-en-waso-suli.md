@@ -2,8 +2,7 @@
 title: soweli lili en waso suli
 description: null
 authors:
-- jan Anan
-translators: null
+  - jan Anan
 proofreaders: null
 date: 2021-10-06
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0008toki.pdf
-- https://liputenpo.org/lipu/nanpa-toki/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_soweli_lili.png
+  - https://liputenpo.org/pdfs/0008toki.pdf
+  - https://liputenpo.org/lipu/nanpa-toki/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_toki_-_soweli_lili.png
 archives: null
 preprocessing: null
 accessibility-notes: null

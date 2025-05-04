@@ -3,19 +3,18 @@ title: lipu pi jan Kosi
 description: jan sin li kama lon kulupu pi toki pona. o lukin e lipu tenpo ona kepeken
   sitelen pona!
 authors:
-- jan Temili
-translators: null
+  - jan Temili
 proofreaders: null
 date: 2022-08-06
 date-precision: day
 tags:
-- jan li weka e sona mute
-- moku li lon
+  - jan li weka e sona mute
+  - moku li lon
 original: null
 license: null
 sources:
-- https://github.com/raacz/utala/blob/main/lipu-lili/lipu-pi-jan-kosi.md
-- http://utala.pona.la/lipu-lili/lipu-pi-jan-kosi.html
+  - https://github.com/raacz/utala/blob/main/lipu-lili/lipu-pi-jan-kosi.md
+  - http://utala.pona.la/lipu-lili/lipu-pi-jan-kosi.html
 archives: null
 preprocessing: Originally available in sitelen pona and sitelen Lasina. Best viewed
   in sitelen pona. Only sitelen Lasina provided below.

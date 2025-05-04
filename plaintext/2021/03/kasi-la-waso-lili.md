@@ -3,7 +3,6 @@ title: kasi la waso lili  # musi kalama “kasi la waso lili”
 description: null
 authors:
   - jan Ke Tami
-translators: null
 proofreaders: null
 date: 2021-03-12
 date-precision: day

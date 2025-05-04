@@ -2,9 +2,8 @@
 title: jaki lili majuna[^1] li kama tan telo lete
 description: null
 authors:
-- jan Kapesi Pake
-- jan Apeja Akesi
-translators: null
+  - jan Kapesi Pake
+  - jan Apeja Akesi
 proofreaders: null
 date: 2022-12-09
 date-precision: day
@@ -12,9 +11,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0017musi.pdf
-- https://liputenpo.org/lipu/nanpa-musi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_musi_-_jaki_lili_majuna.png
+  - https://liputenpo.org/pdfs/0017musi.pdf
+  - https://liputenpo.org/lipu/nanpa-musi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_musi_-_jaki_lili_majuna.png
 archives: null
 preprocessing: – wrote alt text
 accessibility-notes: null

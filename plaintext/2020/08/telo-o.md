@@ -3,7 +3,6 @@ title: telo o   # Untitled poem
 description: null
 authors:
   - jan Kapilu
-translators: null
 proofreaders: null
 date: 2020-08-23
 date-precision: day

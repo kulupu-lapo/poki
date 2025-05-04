@@ -3,7 +3,6 @@ title: pakala pi ike wawa
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2024-10-13
 date-precision: day

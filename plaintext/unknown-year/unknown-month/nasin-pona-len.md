@@ -3,7 +3,6 @@ title: tawa
 description: null
 authors:
   - jan Nikita
-translators: null
 proofreaders: null
 date: 2001-01-01
 date-precision: none

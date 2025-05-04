@@ -2,8 +2,7 @@
 title: tomo kasi nanpa tu
 description: null
 authors:
-- kule epiku Atawan
-translators: null
+  - kule epiku Atawan
 proofreaders: null
 date: 2021-02-07
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2021-02-07-tomokasi.md
-- https://lipukule.org/post/2021/02/07/tomo-kasi-nanpa-tu/
+  - https://github.com/lipukule/site/blob/main/content/post/2021-02-07-tomokasi.md
+  - https://lipukule.org/post/2021/02/07/tomo-kasi-nanpa-tu/
 archives: null
 preprocessing: null
 accessibility-notes: null

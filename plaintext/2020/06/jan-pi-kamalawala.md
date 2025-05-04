@@ -3,7 +3,6 @@ title: jan pi kamalawala
 description: null
 authors:
   - jan Sojapoja
-translators: null
 proofreaders: null
 date: 2020-06-13
 date-precision: day

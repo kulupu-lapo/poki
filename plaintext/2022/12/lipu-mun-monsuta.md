@@ -2,8 +2,7 @@
 title: lipu “mun monsuta[^1]”
 description: null
 authors:
-- jan Kapesi Pake
-translators: null
+  - jan Kapesi Pake
 proofreaders: null
 date: 2022-12-09
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0017musi.pdf
-- https://liputenpo.org/lipu/nanpa-musi/
-- https://commons.wikimedia.org/wiki/File:Mun_monsuta_-_sinpin.png
+  - https://liputenpo.org/pdfs/0017musi.pdf
+  - https://liputenpo.org/lipu/nanpa-musi/
+  - https://commons.wikimedia.org/wiki/File:Mun_monsuta_-_sinpin.png
 archives: null
 preprocessing: null
 accessibility-notes: null

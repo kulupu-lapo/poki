@@ -3,7 +3,6 @@ title: sike lili laso walo
 description: null
 authors:
   - jan Emalan
-translators: null
 proofreaders:
   - jan Ke Tami
   - soweli nata

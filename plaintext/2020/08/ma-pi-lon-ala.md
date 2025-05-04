@@ -3,7 +3,6 @@ title: ma pi lon ala
 description: null
 authors:
   - palisa jelo Natan
-translators: null
 proofreaders: null
 date: 2020-08-31
 date-precision: day

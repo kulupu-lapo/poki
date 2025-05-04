@@ -3,7 +3,6 @@ title: kon pan
 description: a traditional jewish story I grew up with told from memory in toki pona
 authors:
   - lipamanka
-translators: null
 proofreaders: null
 date: 2001-01-01
 date-precision: none

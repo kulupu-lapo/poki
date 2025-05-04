@@ -3,7 +3,6 @@ title: kulupu jan Tepo
 description: null
 authors:
   - jan Jami
-translators: null
 proofreaders: null
 date: 2024-06-07
 date-precision: day

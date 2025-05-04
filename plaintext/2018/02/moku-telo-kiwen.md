@@ -3,7 +3,6 @@ title: moku telo kiwen
 description: null
 authors:
   - jan Tomen
-translators: null
 proofreaders: null
 date: 2018-02-15
 date-precision: day

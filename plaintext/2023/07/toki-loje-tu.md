@@ -2,8 +2,7 @@
 title: toki loje tu
 description: null
 authors:
-- jan Ke Tami
-translators: null
+  - jan Ke Tami
 proofreaders: null
 date: 2023-07-01
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0020nasin.pdf
-- https://liputenpo.org/lipu/nanpa-nasin/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nasin_-_tomo_tu.png
+  - https://liputenpo.org/pdfs/0020nasin.pdf
+  - https://liputenpo.org/lipu/nanpa-nasin/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_nasin_-_tomo_tu.png
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

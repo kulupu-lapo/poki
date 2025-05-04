@@ -3,7 +3,6 @@ title: ilo pi tenpo awen
 description: null
 authors:
   - jan Seko
-translators: null
 proofreaders: null
 date: 2024-08-10
 date-precision: day

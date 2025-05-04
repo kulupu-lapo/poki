@@ -3,7 +3,6 @@ title: jan Kiwino li pakala e akesi laso.
 description: jan Kiwino li pali e kiwen telo.
 authors:
   - thegreatsoupster
-translators: null
 proofreaders: null
 date: 2023-10-08
 date-precision: day

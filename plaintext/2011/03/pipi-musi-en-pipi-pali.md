@@ -3,7 +3,6 @@ title: pipi musi en pipi pali
 description: null
 authors:
   - jan Ote
-translators: null
 proofreaders: null
 date: 2011-03-11
 date-precision: day

@@ -3,7 +3,6 @@ title: mi lon ilo wawa lukin
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2023-05-06
 date-precision: day

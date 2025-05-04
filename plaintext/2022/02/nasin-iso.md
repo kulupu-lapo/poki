@@ -2,9 +2,8 @@
 title: nasin ISO
 description: null
 authors:
-- jan Pensa
-- jan Tepo
-translators: null
+  - jan Pensa
+  - jan Tepo
 proofreaders: null
 date: 2022-02-24
 date-precision: day
@@ -12,8 +11,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://docs.google.com/document/d/e/2PACX-1vS30k7ZPiuKYSKZh-u3aYVLKQFHcoBe9q38Ka8vdDZBRYhNGvo3gLRV3uq-3HWUaV55bSzwqdIwH3lU/pub
-- https://wikisource.org/wiki/Kalama_sin/19
+  - https://docs.google.com/document/d/e/2PACX-1vS30k7ZPiuKYSKZh-u3aYVLKQFHcoBe9q38Ka8vdDZBRYhNGvo3gLRV3uq-3HWUaV55bSzwqdIwH3lU/pub
+  - https://wikisource.org/wiki/Kalama_sin/19
 archives: null
 preprocessing: replaced unusual "j." abbreviation with the full names
 accessibility-notes: null

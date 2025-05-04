@@ -3,7 +3,6 @@ title: sina akesi ike
 description: null
 authors:
   - jan Luwa
-translators: null
 proofreaders: null
 date: 2018-07-28
 date-precision: day

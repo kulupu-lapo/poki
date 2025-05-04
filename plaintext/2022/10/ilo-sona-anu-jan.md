@@ -4,7 +4,6 @@ description: "ilo Peni li sona e ni: ona li ilo. mama Pijeto sona e ni: ni li lo
   ala."
 authors:
   - dragon_chris
-translators: null
 proofreaders: null
 date: 2022-10-07
 date-precision: day

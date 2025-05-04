@@ -3,7 +3,6 @@ title: o kama kala a
 description: null
 authors:
   - waso
-translators: null
 proofreaders: null
 date: 2025-02-28
 date-precision: day

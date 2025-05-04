@@ -3,7 +3,6 @@ title: nasin tenpo
 description: a time measurement system that only uses a few numbers
 authors:
   - jan Lentan
-translators: null
 proofreaders: null
 date: 2021-09-02
 date-precision: day

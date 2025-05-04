@@ -2,8 +2,7 @@
 title: sike suno mute pi toki pona
 description: null
 authors:
-- jan Tamalu
-translators: null
+  - jan Tamalu
 proofreaders: null
 date: 2021-08-02
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0006suno.pdf
-- https://liputenpo.org/lipu/nanpa-suno/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_sike_suno.png
+  - https://liputenpo.org/pdfs/0006suno.pdf
+  - https://liputenpo.org/lipu/nanpa-suno/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_suno_-_sike_suno.png
 archives: null
 preprocessing: null
 accessibility-notes: null

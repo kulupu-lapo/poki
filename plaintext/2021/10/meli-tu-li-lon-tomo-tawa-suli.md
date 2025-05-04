@@ -3,7 +3,6 @@ title: meli tu li lon tomo tawa suli
 description: jan Fu Hua en jan Kiana li lon tomo tawa suli. jan Kiana li lape.
 authors:
   - asona
-translators: null
 proofreaders: null
 date: 2021-10-21
 date-precision: day

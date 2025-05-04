@@ -2,8 +2,7 @@
 title: tenpo Wapukina
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2022-05-05
 date-precision: day
@@ -11,10 +10,10 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0013pipi.pdf
-- https://liputenpo.org/lipu/nanpa-pipi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_seli.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_kasi_olin.png
+  - https://liputenpo.org/pdfs/0013pipi.pdf
+  - https://liputenpo.org/lipu/nanpa-pipi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_jan_seli.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pipi_-_kasi_olin.png
 archives: null
 preprocessing: null
 accessibility-notes: null

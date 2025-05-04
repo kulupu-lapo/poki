@@ -3,7 +3,6 @@ title: sona len suli pi jan tonsi
 description: null
 authors:
   - jan Lim
-translators: null
 proofreaders: null
 date: 2024-12-29
 date-precision: day

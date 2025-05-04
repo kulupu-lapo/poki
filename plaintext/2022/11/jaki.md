@@ -3,7 +3,6 @@ title: jaki
 description: null
 authors:
   - jan Matejo
-translators: null
 proofreaders: null
 date: 2022-11-07
 date-precision: day

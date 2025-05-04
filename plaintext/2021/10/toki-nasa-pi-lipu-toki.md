@@ -3,7 +3,6 @@ title: toki nasa
 description: null
 authors:
   - jan Alonola
-translators: null
 proofreaders: null
 date: 2021-10-06
 date-precision: day

@@ -2,8 +2,7 @@
 title: o kepeken ala ilo ike ni
 description: null
 authors:
-- jan Kasape
-translators: null
+  - jan Kasape
 proofreaders: null
 date: 2024-02-07
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0024tenpo.pdf
-- https://liputenpo.org/lipu/nanpa-tenpo/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_ilo_ike.png
+  - https://liputenpo.org/pdfs/0024tenpo.pdf
+  - https://liputenpo.org/lipu/nanpa-tenpo/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_tenpo_-_ilo_ike.png
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

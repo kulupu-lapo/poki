@@ -3,7 +3,6 @@ title: olin li seme?
 description: "jan Luwi li toki insa e ni: olin li seme?"
 authors:
   - lilymoth
-translators: null
 proofreaders: null
 date: 2023-08-11
 date-precision: day

@@ -2,8 +2,7 @@
 title: nasin tenpo pi kamalawala Kanse
 description: null
 authors:
-- jan Peton
-translators: null
+  - jan Peton
 proofreaders: null
 date: 2022-06-14
 date-precision: day
@@ -11,8 +10,8 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://github.com/lipukule/site/blob/main/content/post/2022-06-14-nasin-tenpo-pi-kamalawala-kanse.md
-- https://lipukule.org/post/2022/06/14/nasin-tenpo-pi-kamalawala-kanse/
+  - https://github.com/lipukule/site/blob/main/content/post/2022-06-14-nasin-tenpo-pi-kamalawala-kanse.md
+  - https://lipukule.org/post/2022/06/14/nasin-tenpo-pi-kamalawala-kanse/
 archives: null
 preprocessing: null
 accessibility-notes: null

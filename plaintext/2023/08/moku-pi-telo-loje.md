@@ -2,19 +2,18 @@
 title: moku pi telo loje
 description: null
 authors:
-- jan Wilo
-translators: null
+  - jan Wilo
 proofreaders: null
 date: 2023-08-15
 date-precision: day
 tags:
-- monsuta
-- moku pi telo loje sijelo
+  - monsuta
+  - moku pi telo loje sijelo
 original: null
 license: CC-BY-SA-4.0
 sources:
-- https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/moku-pi-telo-loje.md
-- http://utala.pona.la/toki-en-lipu/lipu-suli/moku-pi-telo-loje.html
+  - https://github.com/raacz/utala/blob/main/toki-en-lipu/lipu-suli/moku-pi-telo-loje.md
+  - http://utala.pona.la/toki-en-lipu/lipu-suli/moku-pi-telo-loje.html
 archives: null
 preprocessing: null
 accessibility-notes: null

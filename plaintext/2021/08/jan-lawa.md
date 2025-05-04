@@ -3,7 +3,6 @@ title: jan lawa
 description: null
 authors:
   - jan Tepan
-translators: null
 proofreaders: null
 date: 2021-08-07
 date-precision: day

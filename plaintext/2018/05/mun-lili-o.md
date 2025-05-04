@@ -3,7 +3,6 @@ title: mun lili o
 description: null
 authors:
   - Vacon Sartirani
-translators: null
 proofreaders: null
 date: 2018-05-14
 date-precision: day

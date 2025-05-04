@@ -3,7 +3,6 @@ title: mu tu
 description: null
 authors:
   - soweli Peka
-translators: null
 proofreaders: null
 date: 2014-12-10
 date-precision: day

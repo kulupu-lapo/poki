@@ -2,8 +2,7 @@
 title: jan lili pi toki pona
 description: null
 authors:
-- jan Nowa
-translators: null
+  - jan Nowa
 proofreaders: null
 date: 2021-10-31
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0009moli.pdf
-- https://liputenpo.org/lipu/nanpa-moli/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_jan_lili.png
+  - https://liputenpo.org/pdfs/0009moli.pdf
+  - https://liputenpo.org/lipu/nanpa-moli/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_moli_-_jan_lili.png
 archives: null
 preprocessing: null
 accessibility-notes: null

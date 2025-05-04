@@ -3,7 +3,6 @@ title: jan Santa o
 description: null
 authors:
   - Viking Cow
-translators: null
 proofreaders: null
 date: 2021-12-06
 date-precision: day

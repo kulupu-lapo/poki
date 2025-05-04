@@ -3,7 +3,6 @@ title: mi lon!
 description: null
 authors:
   - soweli Peka
-translators: null
 proofreaders: null
 date: 2014-04-02
 date-precision: day

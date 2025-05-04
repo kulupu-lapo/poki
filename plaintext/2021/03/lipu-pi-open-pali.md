@@ -3,7 +3,6 @@ title: lipu pi open pali
 description: null
 authors:
   - jan Telakoman
-translators: null
 proofreaders: null
 date: 2021-03-06
 date-precision: day

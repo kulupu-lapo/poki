@@ -2,17 +2,16 @@
 title: I'm Back
 description: null
 authors:
-- jan Sotan
-translators: null
+  - jan Sotan
 proofreaders: null
 date: 2019-06-07
 date-precision: day
 tags:
-- music
+  - music
 original: null
 license: All Rights Reserved
 sources:
-- https://www.youtube.com/watch?v=nuLy1yOCdUg
+  - https://www.youtube.com/watch?v=nuLy1yOCdUg
 archives: null
 preprocessing: null
 accessibility-notes: null

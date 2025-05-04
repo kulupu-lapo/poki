@@ -4,7 +4,6 @@ description: musi Kensin Inpaku la mi pali e sitelen mute lon toki pona. sitelen
   la jan pi musi ni li ken ante suli. wile mi la sitelen ni li pona tawa sina :)
 authors:
   - JDAbadeer
-translators: null
 proofreaders: null
 date: 2024-02-19
 date-precision: day

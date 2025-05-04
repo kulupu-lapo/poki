@@ -26,10 +26,10 @@ yaml.representer.add_representer(
 def reschema(y):
     # # kinda cursed but it minimizes the null edit :3
     # # using regex because otherwise hyphens can occur in e.g. the description and make it non-idempotent
-    if re.search(r"\n[a-z-]+/:\n  - ", y):
-        yaml.indent(mapping=2, sequence=4, offset=2)
-    else:
-        yaml.indent(mapping=2, sequence=2, offset=0)
+    # if re.search(r"\n[a-z-]+/:\n  - ", y):
+    yaml.indent(mapping=2, sequence=4, offset=2)
+    # else:
+        # yaml.indent(mapping=2, sequence=2, offset=0)
 
     data = yaml.load(y)
 

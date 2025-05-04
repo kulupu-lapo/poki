@@ -3,7 +3,6 @@ title: jan lawa meli lon kili lili
 description: null
 authors:
   - jan Kekan San
-translators: null
 proofreaders: null
 date: 2022-01-15
 date-precision: day

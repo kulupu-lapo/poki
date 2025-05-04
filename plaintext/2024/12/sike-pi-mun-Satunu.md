@@ -3,7 +3,6 @@ title: sike pi mun Satunu
 description: null
 authors:
   - jan Satase
-translators: null
 proofreaders: null
 date: 2024-12-29
 date-precision: day

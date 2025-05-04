@@ -4,7 +4,6 @@ description: jan Kata en jan Atowa li lon tomo Tala la ona li pini e tenpo moku,
   Kata li nasa lukin.
 authors:
   - Hrafninn
-translators: null
 proofreaders: null
 date: 2024-12-04
 date-precision: day

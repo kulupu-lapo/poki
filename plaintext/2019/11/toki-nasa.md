@@ -2,19 +2,18 @@
 title: toki nasa
 description: null
 authors:
-- jan Sotan
-translators: null
+  - jan Sotan
 proofreaders: null
 date: 2019-11-14
 date-precision: day
 tags:
-- music
-- tok' apona
+  - music
+  - tok' apona
 original: null
 license: All Rights Reserved
 sources:
-- https://www.youtube.com/watch?v=iVFbnflPzQw
-- https://soundcloud.com/dschorsaanjo/toki-nasa
+  - https://www.youtube.com/watch?v=iVFbnflPzQw
+  - https://soundcloud.com/dschorsaanjo/toki-nasa
 archives: null
 preprocessing: Section headers are wrapped inside square brackets.
 accessibility-notes: null

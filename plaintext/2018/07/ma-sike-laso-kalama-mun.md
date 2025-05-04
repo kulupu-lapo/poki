@@ -3,7 +3,6 @@ title: ma sike laso kalama mun
 description: null
 authors:
   - Tokyo Usagi Music # Y△MiY△Mi
-translators: null
 proofreaders: null
 date: 2018-07-25
 date-precision: day

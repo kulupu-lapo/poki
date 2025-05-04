@@ -3,7 +3,6 @@ title: ijo pi suli pi nanpa kipisi
 description: null
 authors:
   - jan Simo
-translators: null
 proofreaders: null
 date: 2022-07-04
 date-precision: day

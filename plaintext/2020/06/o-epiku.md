@@ -3,7 +3,6 @@ title: o epiku
 description: null
 authors:
   - jan Sewa
-translators: null
 proofreaders: null
 date: 2020-06-03
 date-precision: day

@@ -3,8 +3,7 @@ title: kasi Kawa en telo Kawa
 description: ma mute la, telo Kawa li suli mute tawa jan. taso jan mute ala li sona
   e tenpo pini, e ma open pi kasi Kawa. mi o pana e sona ni.
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2023-12-25
 date-precision: day
@@ -12,12 +11,12 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0023sewi.pdf
-- https://liputenpo.org/lipu/nanpa-sewi/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_kasi_Kawa.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_telo_Kawa.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_kili_Kawa_01.png
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_kili_Kawa_02.png
+  - https://liputenpo.org/pdfs/0023sewi.pdf
+  - https://liputenpo.org/lipu/nanpa-sewi/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_kasi_Kawa.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_telo_Kawa.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_kili_Kawa_01.png
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_sewi_-_kili_Kawa_02.png
 archives: null
 preprocessing: null
 accessibility-notes: null

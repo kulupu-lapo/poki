@@ -3,7 +3,6 @@ title: Quickies
 description: null
 authors:
   - jan Pije
-translators: null
 proofreaders: null
 date: 2001-01-01
 date-precision: none

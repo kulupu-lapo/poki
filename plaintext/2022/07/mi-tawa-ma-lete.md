@@ -2,8 +2,7 @@
 title: mi tawa ma lete
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2022-07-04
 date-precision: day
@@ -11,9 +10,9 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0014seli.pdf
-- https://liputenpo.org/lipu/nanpa-seli/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_jan_lete.png
+  - https://liputenpo.org/pdfs/0014seli.pdf
+  - https://liputenpo.org/lipu/nanpa-seli/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_seli_-_jan_lete.png
 archives: null
 preprocessing: null
 accessibility-notes: null

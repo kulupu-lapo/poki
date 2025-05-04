@@ -2,19 +2,18 @@
 title: jaki anu pona
 description: null
 authors:
-- jan Alonola
-translators: null
+  - jan Alonola
 proofreaders: null
 date: 2024-05-14
 date-precision: day
 tags:
-- poetry
+  - poetry
 original: null
 license: CC-BY-SA 4.0
 sources:
-- https://liputenpo.org/pdfs/0026jaki.pdf
-- https://liputenpo.org/lipu/nanpa-jaki/
-- https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_len_noka.png
+  - https://liputenpo.org/pdfs/0026jaki.pdf
+  - https://liputenpo.org/lipu/nanpa-jaki/
+  - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_jaki_-_len_noka.png
 archives: null
 preprocessing: wrote alt text
 accessibility-notes: null

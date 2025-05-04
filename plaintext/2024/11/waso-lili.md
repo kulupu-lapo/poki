@@ -3,7 +3,6 @@ title: waso lili
 description: toki pi jan Sunday. waso lili lon toki pona.
 authors:
   - Pent
-translators: null
 proofreaders: null
 date: 2024-12-03
 date-precision: day
