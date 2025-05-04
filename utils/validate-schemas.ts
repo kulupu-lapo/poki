@@ -12,11 +12,12 @@ const Article = z
     title: z.string(),
     description: z.string().nullable(),
     authors: z.array(z.string()).nullable(),
+    translators: z.null().optional(), // deprecated field!!!!
     proofreaders: z.array(z.string()).nonempty().nullable(),
     // Date is required for all except `unknown-year/unknown-month`.
     // Those still have to specify null explicitly
     date: z.string().date(),
-    "date-precision": z.union([z.literal("year"), z.literal("month"), z.literal("none")]).nullable(),
+    "date-precision": z.union([z.literal("year"), z.literal("month"), z.literal("day"), z.literal("none")]),
     original: z.object({
         // NOTE: original-title may not exist, e.g. meli en mije li tawa
         title: z.string().nullable(),
