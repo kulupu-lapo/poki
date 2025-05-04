@@ -45,7 +45,7 @@ const Collection = z
     items: z
       .array(
         z.string().refine(
-          (val) => existsSync(`../${val}`),
+          (val) => existsSync(`../../${val}`),
           (val) => ({ message: noPath(val) }),
         ),
       )
