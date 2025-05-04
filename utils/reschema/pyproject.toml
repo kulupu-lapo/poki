@@ -1,0 +1,15 @@
+[project]
+name = "reschema"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "AcipenserSturio", email = "AcipenserSturio@users.noreply.github.com"},
+]
+dependencies = ["ruamel-yaml>=0.18.10", "ruamel-yaml-string>=0.1.1", "tqdm>=4.67.1"]
+requires-python = "==3.13.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
