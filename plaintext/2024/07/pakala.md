@@ -3,7 +3,7 @@ title: "[PAKALA]"
 description: DELTARUNE death screens translated into toki pona. sina moli la, sina
   ken lukin e toki ni.
 authors:
-  - ijo Kinesin
+  - toki_ike
 proofreaders: null
 date: 2024-07-16
 date-precision: day

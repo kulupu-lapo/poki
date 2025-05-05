@@ -2,7 +2,7 @@
 title: o kama ala e sona weka
 description: mi lon la, sina taso ala. Don't Forget - toki pona translation
 authors:
-  - ijo Kinesin
+  - toki_ike
 proofreaders: null
 date: 2024-07-07
 date-precision: day

@@ -14,9 +14,9 @@ original:
     - Emili Guanyavents
 license: null
 sources:
-  - https://ivaaan.neocities.org/o-utala/
+  - https://sijeni.neocities.org/o-utala/
 archives:
-  - https://web.archive.org/web/0/https://ivaaan.neocities.org/o-utala/
+  - https://web.archive.org/web/0/https://sijeni.neocities.org/o-utala/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
 accessibility-notes: null

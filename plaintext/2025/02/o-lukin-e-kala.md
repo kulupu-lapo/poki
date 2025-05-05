@@ -14,9 +14,9 @@ original:
     - (unknown)
 license: null
 sources:
-  - https://ivaaan.neocities.org/kala/
+  - https://sijeni.neocities.org/kala/
 archives:
-  - https://web.archive.org/web/0/https://ivaaan.neocities.org/kala/
+  - https://web.archive.org/web/0/https://sijeni.neocities.org/kala/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
 accessibility-notes: null

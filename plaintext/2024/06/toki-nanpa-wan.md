@@ -2,7 +2,7 @@
 title: "[TOKI NANPA WAN]"
 description: CONTACT (Deltarune intro/build-a-vessel sequence in toki pona)
 authors:
-  - ijo Kinesin
+  - toki_ike
 proofreaders: null
 date: 2024-06-08
 date-precision: day

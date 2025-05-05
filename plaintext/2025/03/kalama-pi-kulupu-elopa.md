@@ -14,9 +14,9 @@ original:
     - Friedrich Schiller
 license: null
 sources:
-  - https://ivaaan.neocities.org/elopa/
+  - https://sijeni.neocities.org/elopa/
 archives:
-  - https://web.archive.org/web/0/https://ivaaan.neocities.org/elopa/
+  - https://web.archive.org/web/0/https://sijeni.neocities.org/elopa/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
 accessibility-notes: null

@@ -10,9 +10,9 @@ tags: null
 original: null
 license: null
 sources:
-  - https://ivaaan.neocities.org/open-lon/
+  - https://sijeni.neocities.org/open-lon/
 archives:
-  - https://web.archive.org/web/0/https://ivaaan.neocities.org/open-lon/
+  - https://web.archive.org/web/0/https://sijeni.neocities.org/open-lon/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
 accessibility-notes: null

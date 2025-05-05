@@ -14,9 +14,9 @@ original:
     - Fonola Band
 license: null
 sources:
-  - https://ivaaan.neocities.org/tawa-pona/
+  - https://sijeni.neocities.org/tawa-pona/
 archives:
-  - https://web.archive.org/web/0/https://ivaaan.neocities.org/tawa-pona/
+  - https://web.archive.org/web/0/https://sijeni.neocities.org/tawa-pona/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
 accessibility-notes: null

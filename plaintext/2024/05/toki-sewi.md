@@ -3,7 +3,7 @@ title: toki sewi
 description: Translation of the Legend into toki pona :) mi toki ante e toki sewi
   tan musi Tetalun!
 authors:
-  - ijo Kinesin
+  - toki_ike
 proofreaders: null
 date: 2024-05-19
 date-precision: day

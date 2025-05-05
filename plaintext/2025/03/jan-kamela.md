@@ -14,9 +14,9 @@ original:
     - Coro Popular Jabalón
 license: null
 sources:
-  - https://ivaaan.neocities.org/jan-kamela/
+  - https://sijeni.neocities.org/jan-kamela/
 archives:
-  - https://web.archive.org/web/0/https://ivaaan.neocities.org/jan-kamela/
+  - https://web.archive.org/web/0/https://sijeni.neocities.org/jan-kamela/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
 accessibility-notes: null
