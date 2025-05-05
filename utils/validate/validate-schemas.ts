@@ -16,12 +16,19 @@ const Article = z
     // Date is required for all except `unknown-year/unknown-month`.
     // Those still have to specify null explicitly
     date: z.string().date(),
-    "date-precision": z.union([z.literal("year"), z.literal("month"), z.literal("day"), z.literal("none")]),
-    original: z.object({
+    "date-precision": z.union([
+      z.literal("year"),
+      z.literal("month"),
+      z.literal("day"),
+      z.literal("none"),
+    ]),
+    original: z
+      .object({
         // NOTE: original-title may not exist, e.g. meli en mije li tawa
         title: z.string().nullable(),
         authors: z.array(z.string()).nonempty().nullable(),
-    }).nullable(),
+      })
+      .nullable(),
     tags: z.array(z.string()).nonempty().nullable(),
     // missing license -> "assume All rights reserved, but
     // its also possible we aren't yet aware of the correct license"
@@ -73,6 +80,29 @@ function validateCollection(filepath: string) {
   }
 }
 
+function printIssues(error: ZodError, recursion: number = 0) {
+  for (let issue of error.issues) {
+    if (issue.code == "invalid_type") {
+      let log = `${issue.path.join(".")}:  ${issue.message}`;
+      console.log(`${"- ".repeat(recursion)}${log}`);
+    } else if (issue.code == "invalid_union") {
+      let log = `${issue.path.join(".")}:  ${issue.message}:`;
+      console.log(`${"- ".repeat(recursion)}${log}`);
+      for (let unionError of issue.unionErrors) {
+        printIssues(unionError, recursion + 1);
+      }
+    } else if (issue.code == "invalid_literal") {
+      let log = `${issue.path.join(".")}:  not ${issue.expected}`;
+      console.log(`${"- ".repeat(recursion)}${log}`);
+    } else if (issue.code == "unrecognized_keys") {
+      let log = `${issue.message}`;
+      console.log(`${"- ".repeat(recursion)}${log}`);
+    } else {
+      console.log(issue);
+    }
+  }
+}
+
 async function validate() {
   for (let filepath of await glob("../../collections/**/*.yaml")) {
     validateCollection(filepath);
@@ -85,13 +115,7 @@ async function validate() {
     for (let [filepath, error] of errors) {
       console.log(filepath, ":");
       // console.log(error);
-      for (let issue of (error as ZodError).issues) {
-        if (issue["code"] == "invalid_type") {
-          console.log(`${issue["path"].join(".")}:  ${issue["message"]}`)
-        } else {
-          console.log(issue);
-        }
-      }
+      printIssues(error as ZodError);
       console.log("===========================================");
     }
     throw new Error("Files above are invalid");
