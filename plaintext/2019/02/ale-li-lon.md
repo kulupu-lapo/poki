@@ -1,17 +1,19 @@
 ---
 title: ale li lon
-original-title: Everything Stays
 description: null
 authors:
   - astrodonunt
-original-authors:
-  - Rebecca Sugar
-  - Olivia Olson
 proofreaders: null
 date: 2019-02-17
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: Everything Stays
+  authors:
+    - Rebecca Sugar
+    - Olivia Olson
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=gEwKpqLNI34'
 archives: null

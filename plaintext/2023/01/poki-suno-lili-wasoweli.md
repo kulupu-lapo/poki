@@ -1,15 +1,18 @@
 ---
 title: 'poki suno lili (kalama open pi sitelen "SUNO OLIN: toki awen wasoweli")'
-original-title: null
-description: 'ni li kalama musi wasoweli. isipin la, ni li tan sitelen tawa musi. (wasoweli li seme? ona li pona li suwi li olin.)'
+description: 'ni li kalama musi wasoweli. isipin la, ni li tan sitelen tawa musi.
+  (wasoweli li seme? ona li pona li suwi li olin.)'
 authors:
   - akesi kon Nalasuni
-original-authors: null
 proofreaders: null
 date: 2023-01-23
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://nmccoy.net/wasoweli3.html'
   - 'https://www.lexaloffle.com/bbs/cart_info.php?cid=wasoweli3'

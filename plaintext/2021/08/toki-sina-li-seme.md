@@ -1,19 +1,21 @@
 ---
 title: toki sina li seme
-original-title: Cad é sin don té sin
 description: |
   A toki pona adaptation of the Irish song "Cad é sin".
 
   A nice rendition of the original song can be found here: https://www.youtube.com/watch?v=zVHPGFs6kH8
 authors:
   - kala Asi
-original-authors:
-  - Órla Fallon
 proofreaders: null
 date: 2021-08-16
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: Cad é sin don té sin
+  authors:
+    - Órla Fallon
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=4wvSSBCwosU'
 archives: null

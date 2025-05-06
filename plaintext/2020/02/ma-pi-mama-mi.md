@@ -1,18 +1,20 @@
 ---
 title: ma pi mama mi
-original-title: null
 description: |
   Grammar correction:
   "ma pi mama" should be "ma mama"
   "li lukin sama ni:" should be "li sama lukin ni:"
 authors:
   - Marcus Scriptor
-original-authors: null
 proofreaders: null
 date: 2020-02-23
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=ltACOS6Ao_M'
 archives: null

@@ -1,6 +1,5 @@
 ---
 title: Toki Pona Caramelldansen
-original-title: Caramelldansen
 description: |
   This took so much work...
   mi pali mute mute...
@@ -24,13 +23,16 @@ description: |
   https://drive.google.com/file/d/1oFTwsi_jXevpbovDXLyD-M_Q1Vn18H7f/view?usp=sharing
 authors:
   - Morphimus
-original-authors:
-  - Caramell
 proofreaders: null
 date: 2021-10-28
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: Caramelldansen
+  authors:
+    - Caramell
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=uf4psPeNDqg'
 archives: null

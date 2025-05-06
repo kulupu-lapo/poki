@@ -1,14 +1,16 @@
 ---
 title: Lawa Mi (My Mind)
-original-title: null
 description: null
 authors:
   - Mira
-original-authors: null
 proofreaders: null
 date: 2021-09-23
-license: CC-BY-NC-SA-3.0
+date-precision: day
 tags: null
+original:
+  title: null
+  authors: null
+license: CC-BY-NC-SA-3.0
 sources:
   - 'https://miraonthewall.bandcamp.com/track/lawa-mi-my-mind'
 archives: null

@@ -1,17 +1,19 @@
 ---
 title: Baka mitai but it's in toki pona
-original-title: ばかみたい (Baka Mitai)
 description: null
 authors:
   - Elemenopi
-original-authors:
-  - 福山光晴 (Mitsuharu Fukuyama)
-  - 堀井亮佑 (Ryosuke Horii)
 proofreaders: null
 date: 2020-08-23
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: ばかみたい (Baka Mitai)
+  authors:
+    - 福山光晴 (Mitsuharu Fukuyama)
+    - 堀井亮佑 (Ryosuke Horii)
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=tnyRBuSsIp0'
 archives: null

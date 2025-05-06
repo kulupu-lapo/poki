@@ -1,16 +1,19 @@
 ---
 title: Bejonse - mi mije la
-original-title: If I Were a Boy
-description: if the quality of this cover sucks its because i made it at a whim in like 3 hours because i wanted an excuse to download mmd
+description: if the quality of this cover sucks its because i made it at a whim in
+  like 3 hours because i wanted an excuse to download mmd
 authors:
   - arpee9216
-original-authors:
-  - Beyoncé
 proofreaders: null
 date: 2009-03-25
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: If I Were a Boy
+  authors:
+    - Beyoncé
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=exzQO8BA0a4'
 archives: null

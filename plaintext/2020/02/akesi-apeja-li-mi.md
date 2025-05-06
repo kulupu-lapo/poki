@@ -1,17 +1,25 @@
 ---
 title: Akesi (Apeja Li Mi)
+description: null
 authors:
   - Lija
+proofreaders: null
 date: 2020-02-16
+date-precision: day
 tags:
   - music
   - pop
+original: null
 license: null
 sources:
   - https://open.spotify.com/track/5pdTWT06Ca0Tj1nxMXy6W0
   - https://music.apple.com/us/artist/lija/1479631693
   # cover by jan Usawi, somewhat modified lyrics
   - https://janusawi.bandcamp.com/track/akesi-apeja-li-mi
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 (Ah, gaming)

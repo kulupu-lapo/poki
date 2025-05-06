@@ -1,16 +1,18 @@
 ---
 title: Hava Nagila in Toki Pona / 'awa nakila' kepeken toki pona
-original-title: הָבָה נָגִילָה (Hava Nagila)
 description: null
 authors:
   - Teil Teilnehmer
-original-authors:
-  - folk origin
 proofreaders: null
 date: 2019-08-25
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: הָבָה נָגִילָה (Hava Nagila)
+  authors:
+    - folk origin
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=8C8iCHQWbGo'
 archives: null

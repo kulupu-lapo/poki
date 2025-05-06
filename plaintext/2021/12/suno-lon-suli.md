@@ -1,16 +1,18 @@
 ---
 title: suno lon suli
-original-title: Viva la Vida
 description: null
 authors:
   - jan pi nimi ala
-original-authors:
-  - Coldplay
 proofreaders: null
 date: 2021-12-08
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: Viva la Vida
+  authors:
+    - Coldplay
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=aNF06GA4I_g'
 archives: null

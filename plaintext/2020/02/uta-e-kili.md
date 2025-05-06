@@ -1,15 +1,17 @@
 ---
 title: uta e kili
-original-title: null
 description: null
 authors:
   - Lija
-original-authors: null
 proofreaders: null
 date: 2020-02-16
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://open.spotify.com/track/73pMwVgRtbBJMca01ejCJF'
   - 'https://music.apple.com/album/uta-e-kili-haiku/1500110072?i=1500110074'

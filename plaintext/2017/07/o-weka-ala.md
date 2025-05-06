@@ -1,6 +1,5 @@
 ---
 title: o weka ala!
-original-title: ノーポイッ！
 description: |
   A song in Toki Pona! 世界一シンプルな言語。100ちょっとの単語数で一切を表現します。たぶん半日～1週間で習得可能。
   Original: https://www.youtube.com/watch?v=yQ_s0H9NlmA
@@ -12,22 +11,25 @@ description: |
 
   Why You Should Watch Is the Order a Rabbit? (Gochuumon wa Usagi Desu ka?) [Review]
   https://www.youtube.com/watch?v=0DtKXrL8bPg
-  
+
   「ごちうさで学ぶトキポナbot」様に敬意を表して。
   関係ないけど、インドのパンジャープ語のグルムキー文字で、文字の上にちょっこんと乗る丸い記号を「ティッピー」と呼ぶ。偶然とは思えない。
 
   ੰ ṭippī
 authors:
   - minerva scientia
-original-authors:
-  - Petit Rabbit's
 proofreaders: null
 date: 2017-07-15
-license: null
+date-precision: day
 tags:
   - music
   - anime
   - anime opening
+original:
+  title: ノーポイッ！
+  authors:
+    - Petit Rabbit's
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=5bgqed4i6m0'
 archives:

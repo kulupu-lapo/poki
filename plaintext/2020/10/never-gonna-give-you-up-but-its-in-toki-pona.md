@@ -1,16 +1,18 @@
 ---
 title: Never Gonna Give You Up but it's in toki pona
-original-title: Never Gonna Give You Up
 description: null
 authors:
   - Zion J
-original-authors:
-  - Rick Astley
 proofreaders: null
 date: 2020-10-14
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: Never Gonna Give You Up
+  authors:
+    - Rick Astley
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=iyHEYAME4C0'
   - 'https://docs.google.com/document/d/1uoAfNmrdNtrRVzCZEYGZpCW9UvBqpwqvWcgtGt3O_Q8/edit'

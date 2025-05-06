@@ -1,16 +1,19 @@
 ---
 title: PoPiPo
-original-title: PoPiPo
-description: if the quality of this cover sucks its because i made it at a whim in like 3 hours because i wanted an excuse to download mmd
+description: if the quality of this cover sucks its because i made it at a whim in
+  like 3 hours because i wanted an excuse to download mmd
 authors:
   - flower radio
-original-authors:
-  - Lamaze-P
 proofreaders: null
 date: 2022-03-06
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: PoPiPo
+  authors:
+    - Lamaze-P
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=lHTNpca_mxM'
 archives: null

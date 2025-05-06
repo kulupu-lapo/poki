@@ -1,6 +1,5 @@
 ---
 title: mi ken ala moli e pipi | Futile Attempt of Killing Mosquito
-original-title: null
 description: |
   toki! tenpo pi nanpa wan la mi pali e kalama musi pi toki pona e sitelen tawa!
   sina wile sona e ijo sin pi kalama musi la, o lukin e lipu ni: https://sadale.net/55/
@@ -15,12 +14,15 @@ description: |
   This lyrics of this song are in Toki Pona. Toki Pona is a minimalist, constructed langauge with 123 words invented by jan Sonja. It doesn't take much work to learn this langauge. It can be learned in days and it won't take long to get fluent on it. Learn more by checking out http://tokipona.org/
 authors:
   - jan Sate
-original-authors: null
 proofreaders: null
 date: 2018-06-23
-license: CC-BY-4.0
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: CC-BY-4.0
 sources:
   - 'https://www.youtube.com/watch?v=4ful4o2VuaU'
   - 'https://soundcloud.com/sadalenet/sets/mi-ken-ala-moli-e-pipi-futile-attempt-of-killing-mosquito'

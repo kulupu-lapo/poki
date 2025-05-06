@@ -1,16 +1,18 @@
 ---
 title: TENPO PINI MUTE MUTE
-original-title: 前前前世 (Zenzenzense)
 description: null
 authors:
   - jan pi nimi ala
-original-authors:
-  - Radwimps
 proofreaders: null
 date: 2020-05-02
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: 前前前世 (Zenzenzense)
+  authors:
+    - Radwimps
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=D5TSB-L1l7k'
 archives: null

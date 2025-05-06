@@ -1,16 +1,18 @@
 ---
 title: mi tawa suli
-original-title: How Far I'll Go
 description: null
 authors:
   - Adrien Pyke
-original-authors:
-  - Lin-Manuel Miranda
 proofreaders: null
 date: 2020-04-15
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: How Far I'll Go
+  authors:
+    - Lin-Manuel Miranda
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=TFFDwTcltOc'
 archives: null

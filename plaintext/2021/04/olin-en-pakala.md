@@ -1,16 +1,18 @@
 ---
 title: olin en pakala
-original-title: null
 description: null
 authors:
   - Frums
-original-authors: null
 proofreaders: null
 date: 2021-04-25
 # preview posted on 2021-04-21
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://strlabel.bandcamp.com/track/olin-en-pakala'
   - 'https://www.youtube.com/watch?v=zXwddIf3sBM' # preview

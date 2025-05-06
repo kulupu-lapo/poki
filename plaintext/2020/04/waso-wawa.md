@@ -1,18 +1,20 @@
 ---
 title: waso wawa
-original-title: null
 description: |
   I share this song with you to give strength and hope in these difficult times.
   Love and compassion to everyone!
   /Marcus
 authors:
   - Marcus Scriptor
-original-authors: null
 proofreaders: null
 date: 2020-04-05
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=ZXnZUXV2gFU'
 archives: null

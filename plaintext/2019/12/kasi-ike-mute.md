@@ -1,18 +1,19 @@
 ---
 title: kasi ike mute
-original-title: null
-# melody from "99 Bottles of Beer on the Wall"
 description: |
   mi weka e kasi ike tan ma mi.
   Off with their heads!
 authors:
   - astrodonunt
-original-authors: null
 proofreaders: null
 date: 2019-12-24
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=z6Q0B7ppwCw'
 archives: null

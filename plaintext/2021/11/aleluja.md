@@ -1,16 +1,18 @@
 ---
 title: Aleluja
-original-title: Hallelujah
 description: null
 authors:
   - Pata Powe
-original-authors:
-  - Leonard Cohen
 proofreaders: null
 date: 2021-11-07
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: Hallelujah
+  authors:
+    - Leonard Cohen
+license: null
 sources:
   - 'https://seka.pona.la/w/706c437c-cf29-4f53-8eb1-c7de765387e2'
 archives: null

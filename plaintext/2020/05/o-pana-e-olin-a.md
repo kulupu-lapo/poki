@@ -1,18 +1,20 @@
 ---
 title: o pana e olin a
-original-title: null
 description: |
   o kute e kalama musi mi. mi pali e kalama e sitelen tawa.
 
   An original toki pona song. Text, music, models and animation by me.
 authors:
   - jan Sepulon
-original-authors: null
 proofreaders: null
 date: 2020-05-12
-license: CC-BY-3.0
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: CC-BY-3.0
 sources:
   - 'https://www.youtube.com/watch?v=12byK1Sc6Fw'
 archives: null

@@ -1,22 +1,25 @@
 ---
 title: 人工言語 toki pona でレイニーブーツ歌ってみた
-original-title: レイニーブーツ (Rainy Boots)
-descriptlon: null
+description: null
 authors:
   - minerva scientia
-original-authors:
-  - INABAKUMORI
 proofreaders: null
 date: 2022-01-30
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: レイニーブーツ (Rainy Boots)
+  authors:
+    - INABAKUMORI
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=HHmwek7Hdbg'
 archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
+descriptlon: null
 ---
 a telo sewi.  
 mi insa telo li  

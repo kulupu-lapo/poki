@@ -1,16 +1,20 @@
 ---
 title: NASA
-original-title: null
-description: One track even features a verse written in Toki Pona, a little something from me for the Toki Pona fans out there. This also makes it the first rap record ever to feature Toki Pona lyrics (if you haven't guessed, the track is NASA).
+description: One track even features a verse written in Toki Pona, a little something
+  from me for the Toki Pona fans out there. This also makes it the first rap record
+  ever to feature Toki Pona lyrics (if you haven't guessed, the track is NASA).
 authors:
   - Djemynai
-original-authors: null
 proofreaders: null
 date: 2015-06-21
-license: null
+date-precision: day
 tags:
   - music
   - rap
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://djemynai.bandcamp.com/track/nasa'
 archives: null

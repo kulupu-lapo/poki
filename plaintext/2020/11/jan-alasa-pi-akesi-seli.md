@@ -1,6 +1,5 @@
 ---
 title: jan alasa pi akesi seli
-original-title: null
 description: |
   Grammar correction:
   Wrong                            Right
@@ -9,12 +8,15 @@ description: |
   en sijelo pi akesi seli - sijelo ona pi akesi seli
 authors:
   - Marcus Scriptor
-original-authors: null
 proofreaders: null
 date: 2020-11-06
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=QNKA4ZOz-rw'
 archives: null

@@ -1,15 +1,17 @@
 ---
 title: mi seli (toki pona song about climate change)
-original-title: null
 description: mi mute o pona e ma!
 authors:
   - jan Sepulon
-original-authors: null
 proofreaders: null
 date: 2021-08-25
-license: CC-BY-3.0
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: CC-BY-3.0
 sources:
   - 'https://www.youtube.com/watch?v=YbekK2jHinQ'
 archives: null

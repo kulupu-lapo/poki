@@ -1,15 +1,17 @@
 ---
 title: pipi li tawa kasi
-original-title: null
 description: null
 authors:
   - Marcus Scriptor
-original-authors: null
 proofreaders: null
 date: 2021-04-02
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=CVNUJRbg9M0'
 archives: null

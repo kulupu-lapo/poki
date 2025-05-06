@@ -1,16 +1,18 @@
 ---
 title: sinpin sewi
-original-title: Wonderwall
 description: sinpin sewi was a very inspired translation and I'm very proud of it
 authors:
   - Adrien Pyke
-original-authors:
-  - Oasis
 proofreaders: null
 date: 2021-08-25
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: Wonderwall
+  authors:
+    - Oasis
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=uHNvDHqqVS4'
 archives: null

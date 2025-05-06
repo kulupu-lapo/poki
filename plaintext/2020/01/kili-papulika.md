@@ -1,6 +1,5 @@
 ---
 title: パプリカ トキポナver.
-original-title: パプリカ (Paprika)
 description: |
   Foorin / 米津玄師の『パプリカ (Paprika)』をトキポナ翻訳しました。
   歌唱は非常にたどたどしいですが大目に見てください。
@@ -13,13 +12,16 @@ description: |
   sina kute ni la mi pilin pona!
 authors:
   - 訳者A
-original-authors:
-  - Foorin
 proofreaders: null
 date: 2020-01-05
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: パプリカ (Paprika)
+  authors:
+    - Foorin
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=PpEzArlSyv8'
 archives: null

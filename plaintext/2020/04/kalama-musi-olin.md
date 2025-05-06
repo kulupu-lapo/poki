@@ -1,16 +1,18 @@
 ---
 title: KALAMA MUSI OLIN
-original-title: '風になる (Kaze ni Naru, Becoming the Wind)'
 description: null
 authors:
   - jan pi nimi ala
-original-authors:
-  - つじあやの (Ayano Tsuji)
 proofreaders: null
 date: 2020-04-19
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: '風になる (Kaze ni Naru, Becoming the Wind)'
+  authors:
+    - つじあやの (Ayano Tsuji)
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=t_byYMjBNrg'
 archives: null

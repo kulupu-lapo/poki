@@ -1,6 +1,5 @@
 ---
 title: MY R
-original-title: MY R
 description: |
   note: this song contains themes of depression and suicide ideation.
 
@@ -8,18 +7,23 @@ description: |
   I'm really proud of this one! Hope you enjoy!
 authors:
   - Kolya / NoGoodNik
-original-authors:
-  - Kurage-P
 proofreaders: null
 date: 2021-08-07
-license: null
+date-precision: day
 tags:
   - music
   - CW suicide
+original:
+  title: MY R
+  authors:
+    - Kurage-P
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=8N39xLMXEBc'
 archives: null
-preprocessing: reformatted from in-video captions, removed linebreaks in what felt like single verses, put parentheses around words present in either the subtitles or the vocals but not both
+preprocessing: reformatted from in-video captions, removed linebreaks in what felt
+  like single verses, put parentheses around words present in either the subtitles
+  or the vocals but not both
 accessibility-notes: null
 notes: null
 ---

@@ -1,18 +1,20 @@
 ---
 title: mipakala
-original-title: null
 description: |
   mi pali e kalama musi ni tawa utala "kulupu kalama"
 
   This is a song made for the kulupu kalama song contest
 authors:
   - jan ekosi
-original-authors: null
 proofreaders: null
 date: 2022-06-19
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=DtkkdBFndTU'
 archives: null

@@ -1,16 +1,18 @@
 ---
 title: soweli mute
-original-title: Dek bovinoj
 description: null
 authors:
   - thstho
-original-authors:
-  - Babelo Filmoj
 proofreaders: null
 date: 2019-05-24
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: Dek bovinoj
+  authors:
+    - Babelo Filmoj
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=xxClPfZDn-E'
 archives: null

@@ -1,16 +1,18 @@
 ---
 title: kalama nimi pi toki pona
-original-title: null
-# melody from "I Am the Very Model of a Modern Major-General" by The Pirates of Penzance
-description: Inspired by Tom Lehrer's Elements, this song consists of every official word in Toki Pona, plus a few more.
+description: Inspired by Tom Lehrer's Elements, this song consists of every official
+  word in Toki Pona, plus a few more.
 authors:
   - kala Asi
-original-authors: null
 proofreaders: null
 date: 2021-05-06
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: null
+  authors: null
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=MryDuToQMsg'
 archives: null

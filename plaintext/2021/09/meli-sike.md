@@ -1,6 +1,5 @@
 ---
 title: meli sike
-original-title: ローリンガール (Rolling Girl)
 description: |
   content warning: contains themes of suicide and depression. viewer discretion advised.
 
@@ -10,14 +9,17 @@ description: |
   tenpo sike ante la mi pali tawa ante e nimi pi musi ni. ni li ijo ike. taso tenpo ni la mi pilin pona mute e ni: pali mi li pona lon tenpo ni.
 authors:
   - Kolya / NoGoodNik
-original-authors:
-  - wowaka (ヲワカ)
 proofreaders: null
 date: 2021-09-29
-license: null
+date-precision: day
 tags:
   - music
   - CW suicide
+original:
+  title: ローリンガール (Rolling Girl)
+  authors:
+    - wowaka (ヲワカ)
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=XIRPmGqJU-Q'
 archives: null

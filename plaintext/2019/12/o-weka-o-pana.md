@@ -1,17 +1,19 @@
 ---
 title: O WEKA O PANA
-original-title: Let It Go
 description: null
 authors:
   - janAetherStar
-original-authors:
-  - Robert Lopez
-  - Kristen Anderson-Lopez
 proofreaders: null
 date: 2019-12-29
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: Let It Go
+  authors:
+    - Robert Lopez
+    - Kristen Anderson-Lopez
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=7yj0ZbYhi6k'
   - 'https://forums.tokipona.org/viewtopic.php?t=2332'

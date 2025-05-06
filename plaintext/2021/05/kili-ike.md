@@ -1,16 +1,19 @@
 ---
 title: kili ike
-original-title: Bad Apple!! feat.nomico
-description: mi toki pona e kalama ni li uta e ona. kalama uta mi li pona suli ala, taso pali mi li pona tawa mi.
+description: mi toki pona e kalama ni li uta e ona. kalama uta mi li pona suli ala,
+  taso pali mi li pona tawa mi.
 authors:
   - jan Tepo
-original-authors:
-  - Alstroemeria Records
 proofreaders: null
 date: 2021-05-12
-license: CC-BY-3.0 AND LicenseRef-AllRightsReserved
+date-precision: day
 tags:
   - music
+original:
+  title: Bad Apple!! feat.nomico
+  authors:
+    - Alstroemeria Records
+license: CC-BY-3.0 AND LicenseRef-AllRightsReserved
 sources:
   - 'https://www.youtube.com/watch?v=kzwoc_JLbJE'
 archives: null

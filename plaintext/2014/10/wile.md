@@ -1,19 +1,21 @@
 ---
 title: wile
-original-title: Życzenie
 description: |
   Performed for my NCEA Level 1 music solo. Or, in other words, it contains a  lot of dramatic-ness and whatnot. I hope you like it! :)
   mi kalama musi tan pali pi tomo pi kama sona. mi tawa mute. mi wile e ni: kalama musi ni li pona tawa sina! :)
 authors:
   - astrodonunt
-original-authors:
-  - Stefan Witwicki
-  # music by Frédéric Chopin
 proofreaders: null
 date: 2014-10-23
-license: null
+date-precision: day
 tags:
   - music
+original:
+  title: Życzenie
+  authors:
+    - Stefan Witwicki
+  # music by Frédéric Chopin
+license: null
 sources:
   - 'https://www.youtube.com/watch?v=TRTKqhyvxNw'
 archives: null
