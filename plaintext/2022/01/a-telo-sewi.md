@@ -19,7 +19,6 @@ archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
-descriptlon: null
 ---
 a telo sewi.  
 mi insa telo li  
