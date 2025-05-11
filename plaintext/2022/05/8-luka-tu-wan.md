@@ -1,5 +1,5 @@
 ---
-title: 7 (likujo)
+title: 8 (luka tu wan)
 description: null
 authors:
   - jan Usawi
