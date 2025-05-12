@@ -5,6 +5,7 @@ authors:
   - jan Kita
 proofreaders: null
 date: 2023-05-01
+date-precision: day
 license: null
 tags:
   - YouTube Poop

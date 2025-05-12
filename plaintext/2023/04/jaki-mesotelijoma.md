@@ -5,6 +5,7 @@ authors:
   - jan Salo
 proofreaders: null
 date: 2023-04-08
+date-precision: day
 license: null
 tags:
   - music

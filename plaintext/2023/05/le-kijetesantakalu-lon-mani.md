@@ -5,6 +5,7 @@ authors:
   - kijetesantakalu Nasan
 proofreaders: null
 date: 2023-05-16
+date-precision: day
 license: null
 tags:
   - comic
@@ -18,7 +19,7 @@ accessibility-notes: null
 notes: null
 ---
 
-<!-- ilo toki li mu lon poka kijetesantakalu Tuwo -->
+<!-- ilo toki li mu lon poka pi kijetesantakalu Tuwo -->
 
 ---
 

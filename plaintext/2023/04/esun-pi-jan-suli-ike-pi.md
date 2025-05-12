@@ -6,6 +6,7 @@ authors:
   - jan Tepo
 proofreaders: null
 date: 2023-04-08
+date-precision: day
 license: null
 tags: null
 original:

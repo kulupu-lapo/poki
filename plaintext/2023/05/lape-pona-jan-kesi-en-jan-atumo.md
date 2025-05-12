@@ -5,6 +5,7 @@ authors:
   - jan Sa
 proofreaders: null
 date: 2023-05-08
+date-precision: day
 license: null
 tags: null
 original: null
