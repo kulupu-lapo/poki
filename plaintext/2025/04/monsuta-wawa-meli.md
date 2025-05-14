@@ -4,7 +4,7 @@ description: A translation of PhemieC's 'Leviathan the Girl'.
 authors:
   - kala Asi
 proofreaders: null
-date: 2025-04-13T00:00:00.000Z
+date: '2025-04-13'
 date-precision: day
 original: null
 tags:
