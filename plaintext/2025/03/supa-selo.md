@@ -1,3 +1,4 @@
+---
 title: supa selo
 description: A translation of Jay Foreman's 'Skin Sofa'
 authors:
