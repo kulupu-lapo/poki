@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git clone --recurse-submodules https://x-access-token:${{ secrets.PARENT_REPO_PAT }}@github.com/${{ env.PARENT_REPO }} parent-repo
+          git clone --recurse-submodules https://${{ secrets.PARENT_REPO_PAT }}@github.com/${{ env.PARENT_REPO }} parent-repo
           cd parent-repo
 
       - name: Update submodule reference
