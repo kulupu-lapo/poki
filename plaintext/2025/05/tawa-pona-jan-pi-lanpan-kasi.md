@@ -1,24 +1,22 @@
 ---
 title: tawa pona, jan pi lanpan kasi
-description: ''
 authors:
   - lili Kuwita
-proofreaders: null
-date: '2025-05-09'
+date: 2025-05-09
 date-precision: day
 original: null
 tags:
   - music
-  - vocaloid
   - translation
+  - vocaloid
   - utau
-license: ''
+original:
+  title: さようなら、花泥棒さん
+  authors:
+    - Neru
+license: null
 sources:
   - https://www.youtube.com/watch?v=gL_9IgWnh-s
-archives: null
-preprocessing: null
-accessibility-notes: null
-notes: ''
 ---
 
 wan tu mute!
@@ -28,7 +26,7 @@ pilin mi, ni li pona tawa mi tu kin, tawa sina.  \
 lon mi li, ike a! ona li, ken moli.  \
 pilin mi, ni li ken lon e pilin pona, tawa mi wan.
 
-pilin la, pilin la, mi lukin e pilin lape la lon ma lon telo la mi ken lukin e soweli Nja!
+pilin la, pilin la, mi lukin e pilin lape la lon ma lon telo la mi ken: lukin e soweli Nja!
 
 tawa pona  \
 pa pa pa pa! weka e len kasi kule!  \
