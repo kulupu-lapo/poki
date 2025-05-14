@@ -10,13 +10,13 @@ original: null
 tags:
   - music
   - translation
-license: null
+license: CC-BY-SA-3.0 OR CC-BY-SA-4.0
 sources:
   - https://www.youtube.com/watch?v=w7t8Av_FDGo
 archives: null
 preprocessing: null
 accessibility-notes: null
-notes: I'd license, but translations and copyright are wonky
+notes: Tom Lehrer songs are in the public domain.
 ---
 
   
