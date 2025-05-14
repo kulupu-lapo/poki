@@ -8,7 +8,8 @@ translators:
   - jan Majeka
 proofreaders:
   - jan Ke Tami
-date: 2025-02-28
+date:
+  - 2025-02-28
 license: null
 sources:
   - https://drive.google.com/drive/folders/1tINB8ZdD56Jik7Z8Et61WU9eiPrxBHfL?usp=sharing
