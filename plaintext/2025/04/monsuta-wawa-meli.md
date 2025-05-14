@@ -11,7 +11,7 @@ tags:
   - music
   - translation
   - homestuck
-license: ''
+license: null
 sources:
   - https://www.youtube.com/watch?v=5wSN2duQmxk
 archives: null
