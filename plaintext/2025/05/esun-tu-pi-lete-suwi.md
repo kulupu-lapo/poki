@@ -11,8 +11,7 @@ tags:
   - story
 license: CC BY
 sources:
-  - >-
-    https://web.archive.org/web/20250514174440/http://media.discordapp.net/attachments/1371091394822930493/1371453998661500948/20250512_134742.jpg?ex=6825d491&is=68248311&hm=9bc0581c9fd133f33856a8076733be89760e7a53142bd8110a2f932307a46d89&=&format=webp&width=476&height=845
+  - https://web.archive.org/web/20250514174440/http://media.discordapp.net/attachments/1371091394822930493/1371453998661500948/20250512_134742.jpg?ex=6825d491&is=68248311&hm=9bc0581c9fd133f33856a8076733be89760e7a53142bd8110a2f932307a46d89&=&format=webp&width=476&height=845
 archives: null
 preprocessing: null
 accessibility-notes: null
