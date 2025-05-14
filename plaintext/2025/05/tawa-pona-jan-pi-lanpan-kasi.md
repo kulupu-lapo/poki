@@ -1,22 +1,27 @@
 ---
 title: tawa pona, jan pi lanpan kasi
+description: null
 authors:
   - lili Kuwita
+proofreaders: null
 date: 2025-05-09
 date-precision: day
-original: null
+original:
+  title: さようなら、花泥棒さん
+  authors:
+    - Neru
 tags:
   - music
   - translation
   - vocaloid
   - utau
-original:
-  title: さようなら、花泥棒さん
-  authors:
-    - Neru
 license: null
 sources:
   - https://www.youtube.com/watch?v=gL_9IgWnh-s
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 wan tu mute!
