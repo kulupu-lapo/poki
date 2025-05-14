@@ -4,7 +4,7 @@ description: A translation of 'the House of the Rising Sun'.
 authors:
   - kala Asi
 proofreaders: null
-date: 2023-03-05T00:00:00.000Z
+date: '2023-03-05'
 date-precision: day
 original: null
 tags:
