@@ -1,18 +1,25 @@
 ---
 title: lipumaja
-original-title: mayamail
-description: A fictional diary made by Studio Massa for his Ongezellig series, translated by jan Majeka
+description: A fictional diary made by Studio Massa for his Ongezellig series, translated
+  by jan Majeka
 authors:
-  - Studio Massa
-translators:
   - jan Majeka
 proofreaders:
   - jan Ke Tami
-date:
-  - 2025-02-28
+date: 2025-02-28
+date-precision: day
+tags: null
+original:
+  title: mayamail
+  authors:
+    - Studio Massa
 license: null
 sources:
   - https://drive.google.com/drive/folders/1tINB8ZdD56Jik7Z8Et61WU9eiPrxBHfL?usp=sharing
+archives: null
+preprocessing: Replaced chapter separators from tildes to asterisks. Escaped tildes in text.
+accessibility-notes: null
+notes: null
 ---
 
 LIPUMAJA#1
