@@ -1,10 +1,9 @@
-name: Push Submodule Update
+name: Update Submodule Ref in Parent Repo
 
 on:
   push:
     branches:
       - main
-
 
 jobs:
   update-submodule:
@@ -13,17 +12,21 @@ jobs:
     env:
       PARENT_REPO: kulupu-lapo/open
       PARENT_BRANCH: main
-      SUBMODULE_PATH: poki # relative path in parent repo
+      SUBMODULE_PATH: poki
 
     steps:
-      - name: Checkout submodule repo
-        uses: actions/checkout@v3
+      - name: Set up SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SUBMODULE_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
 
-      - name: Clone parent repository
+      - name: Clone parent repository with submodules
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git clone --recurse-submodules https://${{ secrets.PARENT_REPO_PAT }}@github.com/${{ env.PARENT_REPO }} parent-repo
+          git clone --recurse-submodules git@github.com:${{ env.PARENT_REPO }} parent-repo
           cd parent-repo
 
       - name: Update submodule reference
