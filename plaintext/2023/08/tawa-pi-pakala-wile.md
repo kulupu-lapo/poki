@@ -1,9 +1,10 @@
+---
 title: tawa pi pakala wile
 description: A translation of Tom Lehrer's 'Masochism Tango'.
 authors:
   - kala Asi
 proofreaders: null
-date: '2023-09-12'
+date: '2023-08-12'
 date-precision: day
 original: null
 tags:
