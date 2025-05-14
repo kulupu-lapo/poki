@@ -10,7 +10,7 @@ original: null
 tags:
   - music
   - translation
-license: ''
+license: null
 sources:
   - https://www.youtube.com/watch?v=O1I4xme3aLA
 archives: null
