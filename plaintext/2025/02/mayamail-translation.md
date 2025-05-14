@@ -17,7 +17,7 @@ license: null
 sources:
   - https://drive.google.com/drive/folders/1tINB8ZdD56Jik7Z8Et61WU9eiPrxBHfL?usp=sharing
 archives: null
-preprocessing: null
+preprocessing: Replaced chapter separators from tildes to asterisks. Escaped tildes in text.
 accessibility-notes: null
 notes: null
 ---
@@ -32,7 +32,7 @@ suno nanpa MTW pi mun nanpa LLW
 tomo sona la mi kama sona e ijo pi jan Anapan. ni li musi ala tawa mi, taso ona li pana e ni tawa lawa mi: mi kin o sitelen e lipu tenpo sike sama jan Anapan. taso mi sitelen e "mi pilin wan taso li jo ala e pali musi" lon suno ale la lipu ni li kama sama sike ike, tan ni la ken la ni li pona: mi sitelen lon tenpo pi kulupu pi suno LTW, anu lon tenpo pi sike mun
  
 
-kulupu sona mi li wile musi e ~musi pona wawa~ ni: sina esun e ijo pona len lon kulupu. mi o alasa e nasin weka pi musi ni lon tenpo ni a. jan Pipilonkon li weka tan musi tan ni: musi ni li ike tawa nasin sewi ona
+kulupu sona mi li wile musi e \~musi pona wawa\~ ni: sina esun e ijo pona len lon kulupu. mi o alasa e nasin weka pi musi ni lon tenpo ni a. jan Pipilonkon li weka tan musi tan ni: musi ni li ike tawa nasin sewi ona
 sona ona li lili a li nasa a, taso mi wile e ni: sona mi li lili kin li nasa kin. ni li nasa ala nasa?
  
 
@@ -47,7 +47,7 @@ kin la suno nanpa LLLW li lon tenpo lape lili. tan ni la jan Koko li lukin kepek
 mi sona ala e ni: mi wile sitelen e seme
 taso, ni li suli ala
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***
 
 LIPUMAJA#2
 
@@ -78,7 +78,7 @@ mi wile weka e pilin ni tan lawa mi la mi awen e lawa mi lon unpa len sama jan A
 
 a, mi open sona a e ni: mun nanpa LLT li lon a. mi wile lape lon ale pi tenpo lete ni a..
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***
 
 LIPUMAJA#3
 
@@ -96,7 +96,7 @@ mi pilin pona tan ni: tenpo ni li weka, taso mi awen sona ala e nasin weka pona 
 
 pilin mi la pilin pona ni li toki e kama pi ike suli
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***
 
 LIPUMAJA#4
 
@@ -148,8 +148,7 @@ taso
 
 mi kepeken e nasin nasa wawa la jan ala li pilin e ni: mi wile e pakala ike ni...
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+***
 
 LIPUMAJA #5
 
@@ -175,8 +174,7 @@ tenpo ni li tenpo alasa a... a a mi pilin wawa pi suli ike a! taso mi pali a e n
 
 aa suno poka la mi sitelen e ale pi alasa mi- mi ken la mi ni a a
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+***
 
 LIPUMAJA #6
 
@@ -246,7 +244,8 @@ insa la mi wile e ni: mi pilin lili ala li ken tawa
 ona o pilin suwi pona a lon ala poka pi meli ike ni
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***
+
 LIPUMAJA #7
 
 musi weka sijelo
@@ -262,8 +261,8 @@ namako la mi alasa e lipu ni pona: sina pana e sona sina la lipu li poki e kon s
 
 lipu: https://cdn.discordapp.com/attachments/754933236798586882/1344393755653964017/lipukon.png
 
+***
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LIPUMAJA #8
 
 kule sin luka
@@ -311,7 +310,8 @@ a, kulupu pi mama sama li kama lon tomo a
 
 taso lon la seme la tenpo suwi pi jan Jesu li ike tawa sina a  a a a a
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***
+
 LIPUMAJA #9
 
 
@@ -338,7 +338,8 @@ nnn....
 
 taso mi lon kulupu kalama la ni li pona tawa mi....
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***
+
 LIPUMAJA #10
 
 
@@ -360,7 +361,8 @@ taso olin mama mi li PAKALA ala a, ni taso li lon: sama ala jan Koko la mi wile 
 TASO NI LI ANTE A! tan ni: suno luka luka luka wan la tenpo suno pi ike nanpa tu wan li lon a! wawa a! ona li lon tenpo pali kin a! mi open pakala e selo mi lon tenpo lon li awen pakala la sijelo mi li kama pakala suli tan weka pi telo loje mute, la mi ken lon ala tomo sona lon suno ike ni kepeken pakala ni a a a
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***
+
 LIPUMAJA #11
 
 
@@ -433,7 +435,7 @@ mi toki e tan lon tenpo kama
 
 tenpo ni la mi o lukin ijo
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***
 
 nasin tawa luka
 tenpo open pi tenpo Len
