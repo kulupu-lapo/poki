@@ -1,0 +1,38 @@
+name: Push Submodule Update
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+
+    env:
+      PARENT_REPO: kulupu-lapo/open
+      PARENT_BRANCH: main
+      SUBMODULE_PATH: poki # relative path in parent repo
+
+    steps:
+      - name: Checkout submodule repo
+        uses: actions/checkout@v3
+
+      - name: Clone parent repository
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git clone --recurse-submodules https://x-access-token:${{ secrets.PARENT_REPO_PAT }}@github.com/${{ env.PARENT_REPO }} parent-repo
+          cd parent-repo
+
+      - name: Update submodule reference
+        run: |
+          cd parent-repo
+          git submodule update --remote $SUBMODULE_PATH
+          git add $SUBMODULE_PATH
+          if git diff --cached --quiet; then
+            echo "No submodule changes to commit"
+            exit 0
+          fi
+          git commit -m "Update submodule to latest commit"
+          git push origin $PARENT_BRANCH
