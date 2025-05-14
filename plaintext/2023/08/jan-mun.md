@@ -2,7 +2,7 @@
 title: jan mun
 description: null
 authors:
-  - mun Kekan San
+  - jan Kekan San
 proofreaders: null
 date: 2023-08-15
 date-precision: day
