@@ -4,8 +4,8 @@ description: a traditional jewish story I grew up with told from memory in toki 
 authors:
   - lipamanka
 proofreaders: null
-date: 2001-01-01
-date-precision: none
+date: 2023-04-15
+date-precision: day
 tags: null
 original: null
 license: null
