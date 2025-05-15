@@ -17,17 +17,18 @@ tags:
   - poetry
   - classical chinese
 license: CC BY
-sources: null
+sources:
+  - https://typst.app/project/rUvcPGAUmAP76aR70p0E8u
 archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
 ---
 
-<p>jan sewi li pana e nasin ni<br>
-nanpa wan la   o olin tawa mama tawa sama<br>
-nanpa tu la   o awen e toki sina<br>
-ona li pana e ni</p>
+jan sewi li pana e nasin ni<br>
+nanpa wan la&emsp;&emsp;o olin tawa mama tawa sama<br>
+nanpa tu la&emsp;&emsp;o awen e toki sina<br>
+ona li pana e ni
 
-<p>o olin e ale   o awen lon poka pi jan pona<br>
-pini la   ken la o kama sona</p>
+o olin e ale&emsp;&emsp;o awen lon poka pi jan pona<br>
+pini la&emsp;&emsp;ken la o kama sona
