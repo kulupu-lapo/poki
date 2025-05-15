@@ -4,8 +4,8 @@ description: fable by lipamanka about waso
 authors:
   - lipamanka
 proofreaders: null
-date: 2001-01-01
-date-precision: none
+date: 2023-04-13
+date-precision: day
 tags: null
 original: null
 license: null
