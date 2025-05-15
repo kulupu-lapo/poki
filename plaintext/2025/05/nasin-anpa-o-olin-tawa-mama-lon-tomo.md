@@ -17,7 +17,8 @@ tags:
   - poetry
   - classical chinese
 license: CC BY
-sources: null
+sources:
+  - https://typst.app/project/rUvcPGAUmAP76aR70p0E8u
 archives: null
 preprocessing: null
 accessibility-notes: null
