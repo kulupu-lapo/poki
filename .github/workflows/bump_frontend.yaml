@@ -32,9 +32,6 @@ jobs:
 
       - name: Update submodule reference
         run: |
-          set -e
-          git clone --recurse-submodules git@github.com:kulupu-lapo/open parent-repo
-          cd parent-repo
           git submodule update --remote $SUBMODULE_PATH
           git add $SUBMODULE_PATH
           if git diff --cached --quiet; then
