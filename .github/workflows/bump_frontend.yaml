@@ -32,12 +32,25 @@ jobs:
 
       - name: Update submodule reference
         run: |
+          set -e
+          git clone --recurse-submodules git@github.com:kulupu-lapo/open parent-repo
           cd parent-repo
           git submodule update --remote $SUBMODULE_PATH
           git add $SUBMODULE_PATH
           if git diff --cached --quiet; then
-            echo "No submodule changes to commit"
+            echo "No changes detected in poki (parent repo already up to date). Exiting."
             exit 0
           fi
-          git commit -m "Update submodule to latest commit"
-          git push origin $PARENT_BRANCH
+          if [ %(git log -1 --pretty=%B | sed -n '3p') -eq "!!!This is an automated commit by the poki bumper workflow!!!" ]; then
+              git reset --soft HEAD~1
+              $s=" (squashed commits)"
+          fi
+          git commit -m "Bump the poki version.$s
+          
+          !!!This is an automated commit by the poki bumper workflow!!!
+          
+          If the header line ends with "(squashed commits)", this commit contains 
+          multiple bumps squashed together to prevent the history getting clogged
+          up with them.
+          "
+          echo "Parent repo updated$s. Exiting."
