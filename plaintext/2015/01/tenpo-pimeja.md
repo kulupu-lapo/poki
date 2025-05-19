@@ -25,7 +25,7 @@ tan ni la mi pana e sitelen ni tawa sina.
 
 -open-
 
-jan Liki li jo e soweli lili.
+jan Liki li jo e soweli lili.  \
 jan Liki li suli e soweli lili.
 
 tenpo kama la soweli lili li lili ala. soweli ni li suli! tan ni la jan Liki li toki e ni: 'soweli lili o. sina suli! ni li ike tawa mi! o weka!'

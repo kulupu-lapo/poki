@@ -17,7 +17,7 @@ accessibility-notes: null
 notes: null
 ---
 
-![kala suli en kala lili](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmAWgGNFrHxIY0W5z39HjmnjEwMgl-Q34Lo5ER7MHOhGaJYX1YsS1PQYQ2FomOca0gtxuw_5ilupXvGjO06FNuitxaWbthb4itfCo5dF9ax2AOTLft7PkN2iL6GdFSrsdoGWEshWqb3VPT/s1600/kala-suli.png)
+![kala suli en kala lili](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmAWgGNFrHxIY0W5z39HjmnjEwMgl-Q34Lo5ER7MHOhGaJYX1YsS1PQYQ2FomOca0gtxuw_5ilupXvGjO06FNuitxaWbthb4itfCo5dF9ax2AOTLft7PkN2iL6GdFSrsdoGWEshWqb3VPT/s1600/kala-suli.png)  \
 kala suli en kala lili, *tan jan Mika*
 
 kala suli li wile moku e kala lili mute. kala lili li tawa wawa tan kala suli. taso kala suli li kama jo e kala lili ali li moku e ona. ni li nasin mani.

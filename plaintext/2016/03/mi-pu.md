@@ -23,7 +23,7 @@ sitelen lili li pona e ona:
 
 * mi wile lukin e sitelen lukin sona mute pi toki pona
 * nasin li nimi li pali ala e nimi ‘linja’:  \
-  nasin li lawa e kalama wawa e kalama weca e kalama ‘n’ ken.  \ 
+  nasin li lawa e kalama wawa e kalama weca e kalama ‘n’ ken.  \
   nimi ‘linja’ nipi lon n (weca), j (weca), a (wawa)  \
   nasin lon sike sona nanpa luke tu tu wan.
 * L11 (sike sona nanpa luke luke wan),  \
@@ -33,7 +33,7 @@ sitelen lili li pona e ona:
   kulupu pi toki pona li pona e ijo mute.  \
   ona li nimi:  \
   kulupu pi toki pona li pana e ijo mute.
-* L15 - nasin li ala tan pali sike tawa pali sike sona lon ilo sona sewi.
+* L15 - nasin li ala tan pali sike tawa pali sike sona lon ilo sona sewi.  \
   (there is no link to answers on the online edition from amazon.)
 * sewi li wan. sewi li wawa ale.  \
   li mama ala, li jo ala e mama, li sama ala e ijo.  \

@@ -61,7 +61,7 @@ sina pilin. (sina pona.)
 taso sina wile (sina olin)  
 e ale mi. (e sina pona.)
 
-(Gaming)
+(Gaming)  
 apeja li mi.  
 apeja li mi.  
 jan li olin pakala e mi  
@@ -73,7 +73,7 @@ ona li wile ala e ni,
 taso ona li  
 ike mi.
 
-(Gaming)
+(Gaming)  
 apeja li mi.  
 apeja li mi.  
 jan li olin pakala e mi  
@@ -92,7 +92,7 @@ li toki ala e mi.
 mi unpa ala e sina  
 mi unpa ala e sina  
 mi unpa ala e sina  
-mi unpa ala e sina  
+mi unpa ala e sina
 
 taso awen la, mi olin e sina.
 

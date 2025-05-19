@@ -39,9 +39,9 @@ mi tu li sona e musi, li wile musi e ona
 sina wile sona e pilin mi la,  
 o toki ala e ni: sina ken ala lukin.
 
-tenpo ala la mi pana e sina
-tenpo ala la mi anpa e sina
-tenpo ala la mi tawa weka, li weka e sina
-sina pilin ike ala tan mi
-tawa pona la, mi toki ala e ni
+tenpo ala la mi pana e sina  
+tenpo ala la mi anpa e sina  
+tenpo ala la mi tawa weka, li weka e sina  
+sina pilin ike ala tan mi  
+tawa pona la, mi toki ala e ni  
 tenpo ala la mi toki ike, li pakala sina.

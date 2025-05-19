@@ -62,9 +62,9 @@ meli lili ni li pona tawa jan ali.  \
 lawa la[^1] meli lili li pona mute tawa mama mama meli ona[^2].  \
 mama mama meli ona li pana e ali tawa ona.
 
-tenpo pini la mama mama meli li pana e len loje tawa meli lili ona.
-meli lili li kepeken len ni la ona li kama pona lukin.
-tenpo ni la meli lili li wile ala e len sin. ona li wile e len loje ni taso.
+tenpo pini la mama mama meli li pana e len loje tawa meli lili ona.  \
+meli lili li kepeken len ni la ona li kama pona lukin.  \
+tenpo ni la meli lili li wile ala e len sin. ona li wile e len loje ni taso.  \
 tenpo kama ali la ona li jo e nimi ni: *“meli lili pi len loje”.*
 
 tenpo suno ante la mama meli pi meli lili li toki e ni:
@@ -236,8 +236,7 @@ ona li tawa lon nasin sama.  \
 soweli ike ante kin li lon nasin ni. soweli li wile ike.  \
 taso... meli lili pi len loje li sona pona. meli lili li tawa wawa li lukin ala e soweli ike.
 
-lon tomo pi mama mama ona la meli lili li toki e ijo pi soweli ike sin tawa mama
-mama meli ona.  \
+lon tomo pi mama mama ona la meli lili li toki e ijo pi soweli ike sin tawa mama mama meli ona.  \
 mama mama meli li toki:
 
 “a! o pini ali e supa lupa pi tomo mi.  \

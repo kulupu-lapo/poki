@@ -18,7 +18,7 @@ notes: null
 ---
 
 <!-- Derived from <https://franpritchett.com/00generallinks/munster/india/page1082.jpg> -->
-![pipi pali suli](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim8e4bCaOosUZO37SKO286ttjtghf6HV4yf_7ErXzhBaeeHV7s22T3w8sJ6K1pfaoX8xUdTve_6LYPpNp9UmvmDbOpxltLURrbMMMw2n1yfjvw3_umy730FWa3jFjbOGyojZcimIsnPkzb/s320/pipi-pali.jpg)
+![pipi pali suli](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim8e4bCaOosUZO37SKO286ttjtghf6HV4yf_7ErXzhBaeeHV7s22T3w8sJ6K1pfaoX8xUdTve_6LYPpNp9UmvmDbOpxltLURrbMMMw2n1yfjvw3_umy730FWa3jFjbOGyojZcimIsnPkzb/s320/pipi-pali.jpg)  \
 pipi pali suli, *tan S.Münster*
 
 *toki pi tenpo pini, tan jan Eloto*

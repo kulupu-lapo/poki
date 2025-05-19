@@ -19,7 +19,7 @@ notes: null
 ---
 
 <!-- "Fimmvorduhals second fissure 2010 04 02.JPG" by Boaworm. (https://commons.wikimedia.org/wiki/File:Fimmvorduhals_second_fissure_2010_04_02.JPG) CC BY 3.0.-->
-![nena seli](https://upload.wikimedia.org/wikipedia/commons/e/ef/Fimmvorduhals_second_fissure_2010_04_02.JPG)
+![nena seli](https://upload.wikimedia.org/wikipedia/commons/e/ef/Fimmvorduhals_second_fissure_2010_04_02.JPG)  \
 nena seli, *tan Boaworm*
 
 *jan Kanso*

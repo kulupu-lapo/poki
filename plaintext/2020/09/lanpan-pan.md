@@ -21,7 +21,8 @@ sources:
   - https://docs.google.com/document/d/1Pz7rvn7LXPJmJZ6AJxEWa6WuOJys8KHioXLtYkj0k-Q/edit
 archives: null
 preprocessing: Removed the gap at the start of paragraphs. Inferred a bullet point
-  not found in the original, likely ommited by mistake.
+  not found in the original, likely ommited by mistake. Guessed at whether "jan li
+  lawa e ma la [...]" should be in the preceding bullet point.
 accessibility-notes: null
 notes: null
 ---
@@ -37,8 +38,8 @@ taso tenpo ni la jan mani li weka e ijo pona ni tan jan pali· kulupu jan mani l
 ijo ale o lon poki jan ale tan ni· jan ale li wile e ona li pali e lili ona· ni la jan ale o  jo e ijo ale· 
 
 ## awen pona tawa jan ale 
-sina kute e nimi ‘awen pona o tawa jan ale’ la sina ken pilin e ni· ona li kon lawa  nasa· taso nimi ni li kon ala li nasa ala· ona o lon li ken lon· awen pona tawa jan ale la  ken en wawa en sona li lon jan· taso jan mani li weka e ale ni tan jan pali ona· jan o sona  e ni 
-· pilin la jan mani li wile e ijo mute· taso lon la ona li wile ala e ijo ale ni· jan pali li pali suli e ijo mute tawa jan mani· pali nasa ni li weka e wawa tan jan pali tawa ala · nasin esun mani ni li wile weka e ijo mute tan ni· weka mute la jan li wile kepeken mani mute tawa esun ijo 
+sina kute e nimi ‘awen pona o tawa jan ale’ la sina ken pilin e ni· ona li kon lawa  nasa· taso nimi ni li kon ala li nasa ala· ona o lon li ken lon· awen pona tawa jan ale la  ken en wawa en sona li lon jan· taso jan mani li weka e ale ni tan jan pali ona· jan o sona  e ni  \
+· pilin la jan mani li wile e ijo mute· taso lon la ona li wile ala e ijo ale ni· jan pali li pali suli e ijo mute tawa jan mani· pali nasa ni li weka e wawa tan jan pali tawa ala · nasin esun mani ni li wile weka e ijo mute tan ni· weka mute la jan li wile kepeken mani mute tawa esun ijo  \
 · nasin esun mani la jan esun insa li lon· jan esun insa li pana e ijo pali tan jan pali tawa jan mani li weka e mani tan nasin pana ni· nasin ni li pali e ala li weka tawa  ala e tenpo e pali·
 
 ## nasin kulupu kepeken jan lawa ala 
@@ -49,17 +50,20 @@ jan li wile kepeken nasin kulupu kepeken jan lawa ala la kulupu jan o weka e jo 
 
 * jan ale li ken kama sona e pali ken 
 * jan ale li ken jo e ijo pali ona 
-* jan lawa ala li ken weka e ijo pali ona· 
+* jan lawa ala li ken weka e ijo pali ona·
+
 jan li lawa e ma la ni li ken tan pali suli tan jan pali·
 
-jan li jo e ma la ni li kama tan ni· jan pali li jo ala· sama la jan mani li jo la ni li  kama tan ni· jan pali li jo ala· ma ale la sina ken lukin e ni· jan mani li jo mute la jan pali  li jo ala· 
+jan li jo e ma la ni li kama tan ni· jan pali li jo ala· sama la jan mani li jo la ni li  kama tan ni· jan pali li jo ala· ma ale la sina ken lukin e ni· jan mani li jo mute la jan pali  li jo ala·  \
 nasin kulupu kepeken lawa ala la jan mani o lon ala tan ni· jan li ken jo e ijo wile  ale e ijo pona ale la jan li pana ala e pali suli ona tawa jan mani ike·
 
 ## pan 
-tenpo nasa ni la kulupu jan li ken pali e ijo wile mute· kepeken ilo la pali jan li ken kama lili· taso nanpa ijo wile li awen suli· kulupu jan li sona e nasin pali pona tawa ijo wile ale· jan ale la 
+tenpo nasa ni la kulupu jan li ken pali e ijo wile mute· kepeken ilo la pali jan li ken kama lili· taso nanpa ijo wile li awen suli· kulupu jan li sona e nasin pali pona tawa ijo wile ale· jan ale la
+
 * <!-- Inferred from original --> moku wile li ken
 * tomo wile li ken
 * len wile li ken· 
+
 sona ni la mi ale li ken alasa e nasin pona· nasin mani la jan pali en ilo o pali e ijo mute·  taso jan ale li jo e ijo pali wile ni· jan mani li poki e ijo ni· nasin kulupu la mi ale li ken jo  e ijo pali ona e ijo pali tan ilo· nasin li lon· mi ale o weka e nasin pali tan jan mani o pana e nasin pali tawa jan pali· pan o lon luka jan ale· 
 
 ## suwi en musi 

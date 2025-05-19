@@ -18,7 +18,7 @@ notes: null
 ---
 
 <!-- "Arrival of Rurik to Ladoga" by Viktor Vasnetsov. Public Domain. -->
-![jan Oliki en soweli tawa](https://upload.wikimedia.org/wikipedia/commons/1/15/Prizvanievaryagov.jpg)
+![jan Oliki en soweli tawa](https://upload.wikimedia.org/wikipedia/commons/1/15/Prizvanievaryagov.jpg)  \
 jan Oliki en soweli tawa, *tan V.M.Vasnetsov*
 
 jan lawa ma Oliki li kama tawa utala li tawa kepeken soweli tawa. ona li kama tawa jan pi sona mute li toki e ni: "jan sona o toki e ni tawa mi: tenpo kama la mi pilin pona ala pona? mi kama moli tan seme?"

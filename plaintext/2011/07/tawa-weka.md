@@ -18,7 +18,7 @@ notes: null
 ---
 
 <!-- "AutumnFog.jpg" by Kószó József (https://commons.wikimedia.org/wiki/File:AutumnFog.jpg). GFDL, CC BY-SA 3.0 Unported, CC BY-SA 2.5, 2.0, 1.0 Generic. -->
-![lete li kama](https://upload.wikimedia.org/wikipedia/commons/e/e9/AutumnFog.jpg)
+![lete li kama](https://upload.wikimedia.org/wikipedia/commons/e/e9/AutumnFog.jpg)  \
 lete li kama, *tan Kószó József*
 
 lete li kama  \

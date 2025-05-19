@@ -57,7 +57,7 @@ ale li kama pona  \
 o pilin monsuta ala  \
 mi lon poka sina
 
-o wile moli ala
+o wile moli ala  \
 o lukin: suno li kama  \
 o pilin monsuta ala  \
 mi o awen e sina

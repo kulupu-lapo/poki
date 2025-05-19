@@ -19,8 +19,8 @@ accessibility-notes: null
 notes: null
 ---
 
-mi lon. mi lon e tomo mi e ma tomo e ma. ma li lon e sike suno. suno li lon e ale. tenpo ni la mi kepeken lawa e ni: tenpo ni li lon. lawa mi li jo e ijo mute tan toki mi li lon ma pona pi toki pona. jan ante li lon, kin. mi ken toki tawa jan mute tan jan mute li lon. mi sona e ni.
-tenpo ni li tenpo suno open. tenpo pini lili la mi lape ala. tenpo pini li lon e tenpo pini. ni li lon. tenpo kama la mi moku e pan. tenpo kama li lon e tenpo kama. en pan li lon tenpo kama. ni li lon, kin. mi sona e ni.
+mi lon. mi lon e tomo mi e ma tomo e ma. ma li lon e sike suno. suno li lon e ale. tenpo ni la mi kepeken lawa e ni: tenpo ni li lon. lawa mi li jo e ijo mute tan toki mi li lon ma pona pi toki pona. jan ante li lon, kin. mi ken toki tawa jan mute tan jan mute li lon. mi sona e ni.  
+tenpo ni li tenpo suno open. tenpo pini lili la mi lape ala. tenpo pini li lon e tenpo pini. ni li lon. tenpo kama la mi moku e pan. tenpo kama li lon e tenpo kama. en pan li lon tenpo kama. ni li lon, kin. mi sona e ni.  
 tenpo kama li tenpo ni. mi moku e pan. mi kepeken lawa e ni: 
 
 mi moku e pan. toki ni li ni: pan li moku. pan kama moku tan mi. taso, pan kama moku tawa mi, taso. tenpo ni la, pan li moku tawa mi. mi taso.

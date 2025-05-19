@@ -17,7 +17,7 @@ accessibility-notes: null
 notes: null
 ---
 
-![toki musi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3gnDsni0ADry4Sk-DTLpa_SsbHZnMz0TAB15fk_KBUGUapOjIu3SQkNWNalVA-B6SrG_wfQ01C-1CFVFK0SdtXej_y1Lk4HmkQvBeyE4D6BYYWKnnHSbxA_9CR2HzBfa4k-5_6LvBNYYS/s320/toki-musi.jpg)
+![toki musi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3gnDsni0ADry4Sk-DTLpa_SsbHZnMz0TAB15fk_KBUGUapOjIu3SQkNWNalVA-B6SrG_wfQ01C-1CFVFK0SdtXej_y1Lk4HmkQvBeyE4D6BYYWKnnHSbxA_9CR2HzBfa4k-5_6LvBNYYS/s320/toki-musi.jpg)  \
 toki musi, *tan Codex Borbonicus*
 
 *toki musi tan lipu toki "Cantares Mexicanos"*

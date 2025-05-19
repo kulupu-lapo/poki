@@ -44,7 +44,8 @@ jan sona li toki tawa jan Kikamesi li toki e ni: "o tawa! jan sewi sina li pana 
 jan Kikamesi li tawa tomo pi jan sewi Utu. ona li moli e soweli lili li sewi e luka ona. ona li toki e ni: "jan sewi Utu o! mi wile kama tawa jan Kuwawa li utala e ona. mi wile e ni: nimi mi li kama suli. sina sona li pona. o pana e pona tawa mi! o kama e ni: mi anpa e jan wawa ni li jo e sijelo pona li tawa ma tomo Uluku". taso jan sewi li toki ala.
 
 jan Kikamesi li pana e telo oko. ona li toki e ni: "jan sewi Utu o! mi moli e jan Kuwawa la mi toki mute e pona sina li pali e sitelen sina kiwen". telo oko pi jan Kikamesi li pona tawa jan sewi Utu. ona li toki tawa jan Kikamesi li toki e ni: "jan Kikamesi o pilin pona. mi lawa e kon tawa. mi jo e kon tawa seli. mi jo e kon tawa lete. mi jo e kon tawa telo. mi jo e kon tawa pi ko kiwen lili. mi jo e kon tawa tan ma lete. mi jo e kon tawa tan ma seli. o tawa nena pi kasi suli! o utala e ike". jan sewi Utu li kulupu e kon tawa mute lon insa lupa pi nena kiwen.
-jan sewi Nintu
+
+### jan sewi Nintu
 
 jan Kikamesi li toki tawa jan Enkitu li toki e ni: "jan pona o kama poka mi. o tawa tomo suli pi mama sewi mi". jan Kikamesi li lawa e jan Enkitu tawa tomo pi jan sewi Nintu. ona li kama lon insa tomo li toki e ni: "mama o, mi wile kama tawa jan Kuwawa ike li moli e ona. o toki pona e mi tawa jan sewi Utu!". jan sewi Nintu li telo e sijelo ona li len e len pona lukin. ona li pana e linja sike tawa anpa lawa ona. jan Nintu li tawa tomo sewi pi jan sewi Utu li sewi e luka li toki e ni: "jan sewi Utu o! sina li pilin ike tawa ike ali. jan lili mi li wile anpa e ike. jan Kikamesi li wile anpa e jan wawa Kuwawa. o pana e pona tawa jan lili mi".
 

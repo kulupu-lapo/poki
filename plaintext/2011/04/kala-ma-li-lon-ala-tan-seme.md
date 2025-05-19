@@ -17,7 +17,7 @@ accessibility-notes: null
 notes: null
 ---
 
-![kala ma li kalama](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKSHzGHFsQ3JZLODm74JQcKVrsRSevUivcKF03E1B_Xu_KgOFHlBIQfoqg5U1iZLDxXyxkVHvnOVsugXSMJMYChWoljJaB9yLCuM4kjpJrgg2orBVkoY8lpXYGMn8sEipEtvoZbFIXf4pX/s320/kala-ma.png)
+![kala ma li kalama](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKSHzGHFsQ3JZLODm74JQcKVrsRSevUivcKF03E1B_Xu_KgOFHlBIQfoqg5U1iZLDxXyxkVHvnOVsugXSMJMYChWoljJaB9yLCuM4kjpJrgg2orBVkoY8lpXYGMn8sEipEtvoZbFIXf4pX/s320/kala-ma.png)  \
 kala ma li kalama, *tan jan Mika*
 
 jan li wile pali.  \

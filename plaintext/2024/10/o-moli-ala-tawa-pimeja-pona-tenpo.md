@@ -26,11 +26,11 @@ o moli ala tawa pimeja pona tenpo.
 majuna[^2] o seli, o pakala e tenpo suno pini.  
 o utala, utala tan moli suno.
 
-tenpo pini la, jan li sona e pona pi pimeja tenpo.
-taso, nimi ona li wawa suno ala la, ali
+tenpo pini la, jan li sona e pona pi pimeja tenpo.  
+taso, nimi ona li wawa suno ala la, ali  
 o moli ala tawa pimeja pona tenpo.
 
-jan mute pona, pi telo pini, li pana e telo pi oko suno.
+jan mute pona, pi telo pini, li pana e telo pi oko suno.  
 ken la, lon telo la, ijo ona li tawa musi.  
 o utala, utala tan moli suno.
 
