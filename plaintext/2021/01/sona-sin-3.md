@@ -68,5 +68,5 @@ tenpo pi kulupu lawa sin ala la, kulupu lawa pi jan lawa Make Lute li awen lawa 
 
 ---
 
-ni li sona sin.
+ni li sona sin.  
 tawa pona!

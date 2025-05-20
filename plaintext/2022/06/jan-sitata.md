@@ -70,10 +70,10 @@ jan Sitata li toki tawa jan pona : ｢jan Kowinta o! jan pona mi o kama lon poka
 
 ona tu li tawa kasi suli, li awen lon pimeja ona · jan Sitata li open li kama kalama On la ona li toki tan lipu sewi :
 
-｢kalama sewi On pi ijo ale li sama ilo alasa ·
-kon insa li sama palisa alasa ·
-sewi li sama sike alasa ·
-jan o alasa e sike ·
+｢kalama sewi On pi ijo ale li sama ilo alasa ·  \
+kon insa li sama palisa alasa ·  \
+sewi li sama sike alasa ·  \
+jan o alasa e sike ·  \
 o pana e palisa lon insa kepeken ilo ona｣
 
 tenpo pona li kama li pini la jan Kowinta li kama tan awen · suno li kama pimeja · tenpo pi nasin sewi li lon · ona li toki tawa jan Sitata · jan Sitata li toki ala · jan Sitata li awen lon sitelen insa · ona li lukin tawa sike alasa weka · uta ona la kon li kama ala kama? ni la ona li awen · toki insa li poki e sijelo ona · toki insa li kalama sewi On · kon ona li alasa e sewi Paman sama palisa alasa ·
@@ -431,29 +431,29 @@ nasin Puta la pali li suli · pali li ken ike li ken pona · jan li pali pona la
 
 nasin pi jan Puta la pali ni li kama e ike :
 
-    jan li wile moli e ante
-    jan li lanpan ike e ijo tan jan ante
-    jan li unpa ike e jan pi wile ala
-    jan li toki ike li toki powe li toki utala
-    jan li moku e telo nasa e ijo nasa li nasa e lawa
+- jan li wile moli e ante
+- jan li lanpan ike e ijo tan jan ante
+- jan li unpa ike e jan pi wile ala
+- jan li toki ike li toki powe li toki utala
+- jan li moku e telo nasa e ijo nasa li nasa e lawa
 
 jan li pali ala e ni la ike lili li kama · pona li kama a · taso lon la jan o sona e tan o sona e wile pilin · ona li pali ala e ni la pona li kama · taso suli la ona o sona e tan pi pali ala · tan seme la ona o pali ala e ni? sona ni li suli ·
 
 sama la wile pona li seme? jan o sona e pona o sona e ike · jan o sona e tan pona e tan ike · sona ni la ona li ken pali pona li wile pona kepeken nimi ala · insa la ona li ken sona e tan e pali pona · jan o pona e pilin kepeken pilin ni :
 
-    jan ale o pilin pona
-    jan ala o pilin ike
-    jan ante li pilin pona la ni li pona tawa mi
-    ike li kama la mi awen pona
+- jan ale o pilin pona
+- jan ala o pilin ike
+- jan ante li pilin pona la ni li pona tawa mi
+- ike li kama la mi awen pona
 
 jan li ken wawa e pilin e pali kepeken nasin pilin ni · pali pilin ni la pona mute li kama ·
 
 taso ante la jan Puta li pana e sona seme? suli la jan Puta li toki e ni :
 
-    ike : ale la pilin ike li ken kama
-    tan : pilin ike li kama tan wile insa (wile ijo, wile ante, wile lon, wile weka, wile ale)
-    misikeke : jan li pini e wile la pilin ike li pini
-    nasin : pini wile li kama tan nasin pi jan Puta
+- ike : ale la pilin ike li ken kama
+- tan : pilin ike li kama tan wile insa (wile ijo, wile ante, wile lon, wile weka, wile ale)
+- misikeke : jan li pini e wile la pilin ike li pini
+- nasin : pini wile li kama tan nasin pi jan Puta
 
 ni ale li sama pali · ｢ni li lon la ni li lon · ni li lon ala la ni li lon ala｣ · nasin Puta la kama li suli · ijo li kama la tan li lon · tan li lon la kama li lon · kama li lon ala la tan li lon ala · tan li lon ala la kama li lon ala ·
 

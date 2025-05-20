@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![kijetesantakalu li jo e len lawa e palisa pi ken nasa. ona li toki: mi kijetesantakalu pi ken nasa - mi kama e ijo tan kon. waso li kama tan len lawa kijetesantakalu, li toki: kijetesantakalu o! suli mi la mi ken ala kama tan lili lupa](https://upload.wikimedia.org/wikipedia/commons/d/d4/Kijetesantakalu_o%21_-_ep10.png)
+![kijetesantakalu li jo e len lawa e palisa pi ken nasa. ona li toki: mi kijetesantakalu pi ken nasa - mi kama e ijo tan kon. waso li kama tan len lawa kijetesantakalu, li toki: kijetesantakalu o! suli mi la mi ken ala kama tan lili lupa](https://upload.wikimedia.org/wikipedia/commons/d/d4/Kijetesantakalu_o%21_-_ep10.png)  
 ![kijetesantakalu li jo e len lawa e palisa pi ken nasa. ona li toki: mi kijetesantakalu pi ken nasa - mi kama e ijo tan kon. waso li kama tan len lawa kijetesantakalu, li toki: kijetesantakalu o! suli mi la mi ken ala kama tan lili lupa](https://upload.wikimedia.org/wikipedia/commons/5/57/Kijetesantakalu_o%21_-_ep10_%28sitelen_pona%29.png)

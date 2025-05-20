@@ -23,5 +23,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![waso en kijetesantakalu li open e sitelen. waso li toki e ni: kijetesantakalu o, mi sitelen e sina. kijetesantakalu li toki e ni: waso o, mi sitelen e sina. sitelen li pini la, sama waso en  sama kijetesantakalu li lon lipu. waso en kijetesantakalu li toki e ni: seme! ni li mi ala](https://upload.wikimedia.org/wikipedia/commons/2/2b/Kijetesantakalu_o%21_-_ep08.png)
+![waso en kijetesantakalu li open e sitelen. waso li toki e ni: kijetesantakalu o, mi sitelen e sina. kijetesantakalu li toki e ni: waso o, mi sitelen e sina. sitelen li pini la, sama waso en  sama kijetesantakalu li lon lipu. waso en kijetesantakalu li toki e ni: seme! ni li mi ala](https://upload.wikimedia.org/wikipedia/commons/2/2b/Kijetesantakalu_o%21_-_ep08.png)  
 ![waso en kijetesantakalu li open e sitelen. waso li toki e ni: kijetesantakalu o, mi sitelen e sina. kijetesantakalu li toki e ni: waso o, mi sitelen e sina. sitelen li pini la, sama waso en  sama kijetesantakalu li lon lipu. waso en kijetesantakalu li toki e ni: seme! ni li mi ala](https://upload.wikimedia.org/wikipedia/commons/6/6c/Kijetesantakalu_o%21_-_ep08_%28sitelen_pona%29.png)

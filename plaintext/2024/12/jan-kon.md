@@ -22,10 +22,11 @@ accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 
-!!! note
-    lipu tu li lon taso ona li sama. lipu pi nanpa wan li lon sitelen Lasina. lipu pi nanpa tu li lon sitelen pona.
-
-    jan Juse li jan utala suno mi ala. taso, ona li Default Midlander WOL (Meteor -> Ryusei -> jan Juse).
+> !!! note
+>
+> lipu tu li lon taso ona li sama. lipu pi nanpa wan li lon sitelen Lasina. lipu pi nanpa tu li lon sitelen pona.
+>
+> jan Juse li jan utala suno mi ala. taso, ona li Default Midlander WOL (Meteor -> Ryusei -> jan Juse).
 
 tenpo ni la, ma tomo majuna li lon anpa telo. jan Juse o pana e poka tawa jan kon Jutotaju.
 

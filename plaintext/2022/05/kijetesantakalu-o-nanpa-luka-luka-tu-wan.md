@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![pipi tu li lon. pipi linja li toki: pipi o, pilin sina la pipi pi suli mute li lon ala lon? pipi sike li toki: a, ken, ken. sewi pi pipi tu la waso en kijetesantakalu li lon. waso li toki: kijetesantakalu o, pilin sina la, soweli pi suli mute li lon ala lon? kijetesantakalu li toki: a, ken, ken. monsi pi ona tu la noka suli pi soweli suli li lon.](https://upload.wikimedia.org/wikipedia/commons/4/4e/Kijetesantakalu_o%21_-_ep13.png)
+![pipi tu li lon. pipi linja li toki: pipi o, pilin sina la pipi pi suli mute li lon ala lon? pipi sike li toki: a, ken, ken. sewi pi pipi tu la waso en kijetesantakalu li lon. waso li toki: kijetesantakalu o, pilin sina la, soweli pi suli mute li lon ala lon? kijetesantakalu li toki: a, ken, ken. monsi pi ona tu la noka suli pi soweli suli li lon.](https://upload.wikimedia.org/wikipedia/commons/4/4e/Kijetesantakalu_o%21_-_ep13.png)  
 ![pipi tu li lon. pipi linja li toki: pipi o, pilin sina la pipi pi suli mute li lon ala lon? pipi sike li toki: a, ken, ken. sewi pi pipi tu la waso en kijetesantakalu li lon. waso li toki: kijetesantakalu o, pilin sina la, soweli pi suli mute li lon ala lon? kijetesantakalu li toki: a, ken, ken. monsi pi ona tu la noka suli pi soweli suli li lon.](https://upload.wikimedia.org/wikipedia/commons/e/e8/Kijetesantakalu_o%21_-_ep13_%28sitelen_pona%29.png)

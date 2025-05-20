@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![tomo li kama anpa. sijelo moli li lon anpa tomo. waso li jo e kijetesantakalu li toki: kijetesantakalu o, mi lon ala ma Kansa. kijetesantakalu li jo e lipu li toki: taso sina toki e ni tan seme, ni li lon ala lipu](https://upload.wikimedia.org/wikipedia/commons/a/ae/Kijetesantakalu_o%21_-_ep24.png)
+![tomo li kama anpa. sijelo moli li lon anpa tomo. waso li jo e kijetesantakalu li toki: kijetesantakalu o, mi lon ala ma Kansa. kijetesantakalu li jo e lipu li toki: taso sina toki e ni tan seme, ni li lon ala lipu](https://upload.wikimedia.org/wikipedia/commons/a/ae/Kijetesantakalu_o%21_-_ep24.png)  
 ![tomo li kama anpa. sijelo moli li lon anpa tomo. waso li jo e kijetesantakalu li toki: kijetesantakalu o, mi lon ala ma Kansa. kijetesantakalu li jo e lipu li toki: taso sina toki e ni tan seme, ni li lon ala lipu](https://upload.wikimedia.org/wikipedia/commons/6/69/Kijetesantakalu_o%21_-_ep24_%28sitelen_pona%29.png)

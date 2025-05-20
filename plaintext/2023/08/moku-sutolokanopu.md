@@ -21,29 +21,29 @@ accessibility-notes: null
 notes: null
 ---
 
-tomo sona moku la mi pali
-e moku Sutolokanopu
-tan lipu musi la sina sona
+tomo sona moku la mi pali  
+e moku Sutolokanopu  
+tan lipu musi la sina sona  
 e moku Sutolokanopu
 
-o tu e kili selo tan sewi ona
-o tu e kili loje tan poka ona
-o wan e ko pan e moku soweli
+o tu e kili selo tan sewi ona  
+o tu e kili loje tan poka ona  
+o wan e ko pan e moku soweli  
 mi ken kepeken ala soweli mani!
 
-ni la o lon kili selo e soko
-a, telo walo li open seli la
-o pini pali kepeken namako
+ni la o lon kili selo e soko  
+a, telo walo li open seli la  
+o pini pali kepeken namako  
 telo namako la moku pona li lon!
 
-mije ale li sona ala e ona
-a, mi sona (a, mi sona)
-ni li pona (ni li pona)
-moku Sutolokanopu!
+mije ale li sona ala e ona  
+a, mi sona (a, mi sona)  
+ni li pona (ni li pona)  
+moku Sutolokanopu!  
 mu!
 
-tomo sona moku la mi pali
-e moku Sutolokanopu
-tan lipu musi la sina sona
-e moku Sutolokanopu
+tomo sona moku la mi pali  
+e moku Sutolokanopu  
+tan lipu musi la sina sona  
+e moku Sutolokanopu  
 mu!

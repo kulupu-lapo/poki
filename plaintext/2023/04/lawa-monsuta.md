@@ -20,7 +20,7 @@ notes: null
 
 o sona a: moli en pilin ike li lon toki musi ni
 
-jan Kete (Goethe) li sitelen e lipu mama · mi toki pona e ona · wile la toki musi ni li pona tawa sina a
+jan Kete (Goethe) li sitelen e lipu mama · mi toki pona e ona · wile la toki musi ni li pona tawa sina a  
 kalama musi kin li lon · sina alasa e nimi "Der Erlkönig" lon ilo Jutu la sina ken kute e ona
 
 seme li tawa wawa kepeken soweli lon tenpo pimeja ni lon kon wawa?  

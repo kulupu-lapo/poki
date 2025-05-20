@@ -111,8 +111,7 @@ ma Tansi la, kulupu esun ante li wile pali e tomo tawa telo suli kin. taso tomo 
 
 ma Kan (Guam) la, tenpo pini la, waso Siwe (Guam kingfisher, sihek) li lon. taso tenpo pi pini lili en tenpo ni la, ona li lon ala tan ni: akesi linja tan ma ante li moku e ona.
 
-taso jan li jo e waso Siwe. ni la, jan li wile pana e waso lon ma ante: ma Pamila (Palmyra Atoll). tenpo sike kama la, sin la, waso Siwe li lon
-ma.
+taso jan li jo e waso Siwe. ni la, jan li wile pana e waso lon ma ante: ma Pamila (Palmyra Atoll). tenpo sike kama la, sin la, waso Siwe li lon ma.
 
 ---
 

@@ -20,12 +20,13 @@ accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 
-!!! note
-AO3 has a toki pona category, and this is my attempt at using it. Grammar and language corrections are very appreciated!
-
-    I very much wanted to do this because of the possibilities for linguistic ambiguity and vagueness. Death Note, I think, would make fantastic use of it.
-
-    The English translation along with my notes will be on chapter two.
+> !!! note
+> 
+> AO3 has a toki pona category, and this is my attempt at using it. Grammar and language corrections are very appreciated!
+>
+> I very much wanted to do this because of the possibilities for linguistic ambiguity and vagueness. Death Note, I think, would make fantastic use of it.
+>
+> The English translation along with my notes will be on chapter two.
 
 jan Lajato li ken ala kama lape. ona luka li kute ala ona lawa, li tenpo sike ona sitelen lili pini ala nimi. ona li anpa, li tawa lon ala lape lipu, li lawa anpa ala.
 

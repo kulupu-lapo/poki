@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![waso li tawa lupa tomo li toki: kijetesantakalu o open e lupa. kijetesantakalu li open e lupa. lupa li lon insa pi lupa tomo. waso en kijetesantakalu li lukin e kijetesantakalu e waso. waso li toki: pona, ni la mi tu li ken toki](https://upload.wikimedia.org/wikipedia/commons/e/e9/Kijetesantakalu_o%21_-_ep17.png)
+![waso li tawa lupa tomo li toki: kijetesantakalu o open e lupa. kijetesantakalu li open e lupa. lupa li lon insa pi lupa tomo. waso en kijetesantakalu li lukin e kijetesantakalu e waso. waso li toki: pona, ni la mi tu li ken toki](https://upload.wikimedia.org/wikipedia/commons/e/e9/Kijetesantakalu_o%21_-_ep17.png)  
 ![waso li tawa lupa tomo li toki: kijetesantakalu o open e lupa. kijetesantakalu li open e lupa. lupa li lon insa pi lupa tomo. waso en kijetesantakalu li lukin e kijetesantakalu e waso. waso li toki: pona, ni la mi tu li ken toki](https://upload.wikimedia.org/wikipedia/commons/8/89/Kijetesantakalu_o%21_-_ep17_%28sitelen_pona%29.png)

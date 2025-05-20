@@ -35,5 +35,6 @@ jan Lan Me li lukin e lipu ona. ona li pini e lipu anu seme?
 
 jan Lan Me li tawa e lipu li tawa li sinpin pi pilin pona. mije ona li wile e sijelo pona tawa ona. tenpo pimeja ni la, ona li pali ala e alasa sona.
 
-!!! note
-ni li lili a! mi wile taso e lipu mute pi olin Ruan Mei x Dr Ratio.
+> !!! note
+>
+> ni li lili a! mi wile taso e lipu mute pi olin Ruan Mei x Dr Ratio.

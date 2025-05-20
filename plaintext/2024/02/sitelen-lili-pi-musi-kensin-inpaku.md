@@ -20,15 +20,16 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-nasin sitelen mi li kama tan jan dragon_chris. pona o tawa ona :)
-
-    Tighnari = jan Tanali
-    Cyno = jan Senu
-
-    (mi wile e nimi Tinali tawa jan Tanali. taso mi o wuwojiti ala.)
-
-    pu ala la mi kepeken nimi wan. nimi -isipin- li sama nimi -toki insa-.
+> !!! note
+>
+> nasin sitelen mi li kama tan jan dragon_chris. pona o tawa ona :)
+>
+> Tighnari = jan Tanali  
+> Cyno = jan Senu
+>
+> (mi wile e nimi Tinali tawa jan Tanali. taso mi o wuwojiti ala.)
+>
+> pu ala la mi kepeken nimi wan. nimi -isipin- li sama nimi -toki insa-.
 
 ## mu pi jan Tanali
 
@@ -46,11 +47,12 @@ jan Tanali li kalama. -mu a.-
 
 jan Senu li wile musi e musi supa.
 
-!!! note
-Genius Invocation TCG = musi lipu pi usawi wawa  
- Forbidden Island = musi pi ma telo pakala
-
-    pu ala la mi kepeken nimi tu. oko li ijo sijelo. jan li lukin kepeken oko ona. usawi li wawa nasa a.
+> !!! note
+>
+> Genius Invocation TCG = musi lipu pi usawi wawa  
+> Forbidden Island = musi pi ma telo pakala
+>
+> pu ala la mi kepeken nimi tu. oko li ijo sijelo. jan li lukin kepeken oko ona. usawi li wawa nasa a.
 
 -mi en sina o musi e musi supa a.- mute la jan Senu li wile musi e musi lon poka olin ona.
 

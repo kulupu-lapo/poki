@@ -18,7 +18,7 @@ sources:
   - https://github.com/raacz/utala/blob/main/lipu-lili/AAAmute.md
   - http://utala.pona.la/lipu-lili/AAAmute.html
 archives: null
-preprocessing: null
+preprocessing: replaced soft linebreak with hard linebreak
 accessibility-notes: null
 notes: null
 ---
@@ -39,7 +39,7 @@ kulupu ni li kama sona e AAA-mute tan ni: jan li pana sona e kulupu "ma pona" lo
 
 ## lipu toki
 
-ni li lipu pi toki ni: jan sona Ulu li toki tawa jan tan "ma tomo pona". sona wawa li len.
+ni li lipu pi toki ni: jan sona Ulu li toki tawa jan tan "ma tomo pona". sona wawa li len.  
 jan sona Ulu li toki pona taso tan ala wawa nasa, tan ni taso: jan ante li weka sona e toki ante.
 
 > jan sona Ulu: toki. sina pilin seme?

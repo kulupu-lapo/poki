@@ -41,5 +41,6 @@ sona sina la, jan sewi li kute ala; tan ni la, sina kute ala. kin, seli sewi li 
 taso—ona li kama pakala tan sina. ona li toki tawa sina—o kama! li pana e luka—luka ona li kipisi.  
 sina sona—jan sewi li kute. sina kute, sina luka e luka ona; sina en ona li pakala, taso ni li pona.
 
-!!! note
-nasin mi li nasin pi jan Jesu. mi toki—ken la, jan Makalole li lon ma sama alu tenpo sama.
+> !!! note
+>
+> nasin mi li nasin pi jan Jesu. mi toki—ken la, jan Makalole li lon ma sama alu tenpo sama.

@@ -19,8 +19,7 @@ accessibility-notes: null
 notes: null
 ---
 
-**jan Tepo:** o kama pona tawa kalama sin ni.
-tenpo suno ni la mi toki lon toki Wijosa. jan Tesa li lon, a–
+**jan Tepo:** o kama pona tawa kalama sin ni. tenpo suno ni la mi toki lon toki Wijosa. jan Tesa li lon, a–
 
 **jan Tesa:** toki!
 
@@ -116,7 +115,7 @@ ni li ale. kalama li awen.
 
 **jan Tesa:** sina pona.
 
-**jan Tepo:** mi ken weka tan ni lon tenpo kama, a a
+**jan Tepo:** mi ken weka tan ni lon tenpo kama, a a  
 [taso ona li pali ala e ni a a]
 
 **jan Tesa:** ni li pona. "toki pona taso!"

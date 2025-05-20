@@ -23,5 +23,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![kijetesantakalu li toki e ni: waso o. tenpo sike sina li kama sin. mi pana e pan suwi. kijetesantakalu li jo e pan suwi suli. palisa seli li lon ona, li sama nanpa. waso li toki e ni: kijetesantakalu o, sina pona a. waso li ken ala lukin e ni: kijetesantakalu li moku mute e pan suwi ni lon tenpo pini.](https://upload.wikimedia.org/wikipedia/commons/c/c9/Kijetesantakalu_o%21_-_ep07.png)
+![kijetesantakalu li toki e ni: waso o. tenpo sike sina li kama sin. mi pana e pan suwi. kijetesantakalu li jo e pan suwi suli. palisa seli li lon ona, li sama nanpa. waso li toki e ni: kijetesantakalu o, sina pona a. waso li ken ala lukin e ni: kijetesantakalu li moku mute e pan suwi ni lon tenpo pini.](https://upload.wikimedia.org/wikipedia/commons/c/c9/Kijetesantakalu_o%21_-_ep07.png)  
 ![kijetesantakalu li toki e ni: waso o. tenpo sike sina li kama sin. mi pana e pan suwi. kijetesantakalu li jo e pan suwi suli. palisa seli li lon ona, li sama nanpa. waso li toki e ni: kijetesantakalu o, sina pona a. waso li ken ala lukin e ni: kijetesantakalu li moku mute e pan suwi ni lon tenpo pini.](https://upload.wikimedia.org/wikipedia/commons/a/a2/Kijetesantakalu_o%21_-_ep07_%28sitelen_pona%29.png)

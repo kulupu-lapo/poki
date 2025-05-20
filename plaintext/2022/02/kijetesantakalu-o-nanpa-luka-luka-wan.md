@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![waso li toki: "mi waso pi lukin pona." ona li toki sin: "mi waso pi pona lukin." ona li jo e ilo lukin, li toki: "taso ni li pona tawa lukin."](https://upload.wikimedia.org/wikipedia/commons/3/35/Kijetesantakalu_o%21_-_ep11.png)
+![waso li toki: "mi waso pi lukin pona." ona li toki sin: "mi waso pi pona lukin." ona li jo e ilo lukin, li toki: "taso ni li pona tawa lukin."](https://upload.wikimedia.org/wikipedia/commons/3/35/Kijetesantakalu_o%21_-_ep11.png)  
 ![waso li toki: "mi waso pi lukin pona." ona li toki sin: "mi waso pi pona lukin." ona li jo e ilo lukin, li toki: "taso ni li pona tawa lukin."](https://upload.wikimedia.org/wikipedia/commons/0/0b/Kijetesantakalu_o%21_-_ep11_%28sitelen_pona%29.png)

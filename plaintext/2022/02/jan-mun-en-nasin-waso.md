@@ -306,8 +306,7 @@ notes: null
 
 **jan Tepo:** n kama sona! nasin seme la ilo li kama sona sama lawa jan.
 
-**jan Itan:** lon. a kulupu sona nanpa tu wan la mi kama sona e ijo sama ni: a, n. ken pi... a ni li wile e pali suli... ken pi mute... a ala ala!
- en pi suli seme la ijo li kama. sina lukin e ijo. sina sona ala e ni: ijo ni li kama ala kama. sina wile sona e ni: ken pi suli seme la ijo ni li kama.
+**jan Itan:** lon. a kulupu sona nanpa tu wan la mi kama sona e ijo sama ni: a, n. ken pi... a ni li wile e pali suli... ken pi mute... a ala ala! ken pi suli seme la ijo li kama. sina lukin e ijo. sina sona ala e ni: ijo ni li kama ala kama. sina wile sona e ni: ken pi suli seme la ijo ni li kama.
 
 **jan Lakuse:** nasin ni la sina nanpa e ken.
 

@@ -24,12 +24,13 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-    「Miku」=「mi ilo kalama uta」
-
-    I tried my best to fit the syllables so this is a singable version!
-
-    tenpo nimi pi kalama ni li ± sama tenpo nimi pi kalama mama ona (pi toki Inli anu toki Nijon). tan ni la, sina ken kalama e kalama musi ni!
+> !!! note
+>
+> 「Miku」=「mi ilo kalama uta」
+>
+> I tried my best to fit the syllables so this is a singable version!
+>
+> tenpo nimi pi kalama ni li ± sama tenpo nimi pi kalama mama ona (pi toki Inli anu toki Nijon). tan ni la, sina ken kalama e kalama musi ni!
 
 
 Miku, Miku, nimi mi li Miku  

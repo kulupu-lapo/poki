@@ -50,5 +50,5 @@ o utala wan.
 
 tan jan Olipija [o. li: pi: a.]
 
-lipu Wipinki (toki Inli): https://en.wikipedia.org/wiki/Whipping_Girl
+lipu Wipinki (toki Inli): https://en.wikipedia.org/wiki/Whipping_Girl  
 nasin pi utala meli mije (toki Inli): https://www.juliaserano.com/terminology.html#O

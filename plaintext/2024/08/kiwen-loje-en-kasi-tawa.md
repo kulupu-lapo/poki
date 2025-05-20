@@ -24,25 +24,26 @@ notes: toki Inli li lon lipu ni
 
 ## Tankike
 
-!!! note
-    toki! Here is a list of all the names I used in this fic, and also a link to [Redstone and Skulk](https://archiveofourown.org/works/40498818/chapters/101461932) which is very good and you should totally read after this!
-
-    - Tanguish → jan Tankike
-    - Tango → jan Tanko
-    - Helsknight → jan Esu OR jan utala Esu
-    - Hermitcraft → ma Emika
-    - The life series → ma pi laso jelo loje (green yellow red)
-    - Hermit → jan Emi
-    - hels → ma Esu
-    - Helsmet → jan Esi
-    - Decked Out → musi Teke Oto
-    - Skulk → kasi tawa (moving plant)
-    - Redstone → kiwen loje (red stone)
-    - Warden → monsuta awen
-    - Ravager → monsuta Wapake
-    - Clank → musi kalama
-
-    If I've missed any names please let me know, as it is 4am right now.
+> !!! note
+>
+> toki! Here is a list of all the names I used in this fic, and also a link to [Redstone and Skulk](https://archiveofourown.org/works/40498818/chapters/101461932) which is very good and you should totally read after this!
+>
+> - Tanguish → jan Tankike
+> - Tango → jan Tanko
+> - Helsknight → jan Esu OR jan utala Esu
+> - Hermitcraft → ma Emika
+> - The life series → ma pi laso jelo loje (green yellow red)
+> - Hermit → jan Emi
+> - hels → ma Esu
+> - Helsmet → jan Esi
+> - Decked Out → musi Teke Oto
+> - Skulk → kasi tawa (moving plant)
+> - Redstone → kiwen loje (red stone)
+> - Warden → monsuta awen
+> - Ravager → monsuta Wapake
+> - Clank → musi kalama
+>
+> If I've missed any names please let me know, as it is 4am right now.
 
 “o! jan Tankike! sina o kama!”
 
@@ -146,9 +147,10 @@ jan Tankike li pilin sama e ni: ona en jan anpa li esun. ona li jan anpa anu sem
 
 jan Tankike li kalama, li weka. moku ona li tawa anpa. ona li lon anpa la, ona li sama kiwen.
 
-!!! note
-    I hope this is a good translation to read, if you find any mistakes please let me know and I'll change them as soon as I can, I'm still pretty new to toki pona! I don't know if I want to do the rest of the fic or not, but I'm leaving the chapters /? in case I do. In any case if you liked my translation please go and give RnS some love, it's a really really good fic that lives so rent free in my brain I had to make a whole translation about it.
-
-    Also! I have a whole list of a bunch of characters toki pona names that I didn't get to in this chapter, so tell me if you wanna see any of them or if you want to hear my thought process for why I chose any of them cause it's one of my favourite parts about translating into toki pona! I put so much effort into this translation aaah.
-
-    That's all! Hope you enjoyed :]
+> !!! note
+>
+> I hope this is a good translation to read, if you find any mistakes please let me know and I'll change them as soon as I can, I'm still pretty new to toki pona! I don't know if I want to do the rest of the fic or not, but I'm leaving the chapters /? in case I do. In any case if you liked my translation please go and give RnS some love, it's a really really good fic that lives so rent free in my brain I had to make a whole translation about it.
+>
+> Also! I have a whole list of a bunch of characters toki pona names that I didn't get to in this chapter, so tell me if you wanna see any of them or if you want to hear my thought process for why I chose any of them cause it's one of my favourite parts about translating into toki pona! I put so much effort into this translation aaah.
+>
+> That's all! Hope you enjoyed :]

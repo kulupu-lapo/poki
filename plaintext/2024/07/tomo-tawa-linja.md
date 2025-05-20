@@ -31,7 +31,7 @@ taso tomo tawa linja li ken tawa lon ma tomo kin. ma tomo la ona li suli ala. on
 
 mute la tomo tawa ilo wan li tawa e kulupu pi tomo tawa. tomo tawa ilo en kulupu pi tomo tawa li tomo tawa linja. taso tomo tawa linja ante li lon. ma tomo San Pansiko (San Francisco) la tomo tawa li tawa kepeken linja. nasin ale la linja li lon anpa. tomo tawa li jo e ilo ala li tomo taso. tomo tawa li wile tawa la jan li luka e linja. linja li tawa la tomo li tawa. linja ale li kama wan lon tomo wan. tomo ni la ilo suli li lon. ona li tawa sike e linja ale.
 
-![kon li supa tawa tomo · linja li lon sinpin tomo li tawa e ona](https://upload.wikimedia.org/wikipedia/commons/c/c4/Lipu_tenpo_nanpa_linja_-_tomo_tawa_kon.png)
+![kon li supa tawa tomo · linja li lon sinpin tomo li tawa e ona](https://upload.wikimedia.org/wikipedia/commons/c/c4/Lipu_tenpo_nanpa_linja_-_tomo_tawa_kon.png)  
 ![sike ilo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Lipu_tenpo_nanpa_linja_-_ilo_nena.png)
 
 ma pi nena mute la tomo tawa linja li ken ala tawa pona. tomo tawa linja li ken ala tawa sewi kepeken sike kiwen. ni la jan li pali e sike kiwen pi nena mute. tomo tawa li ken tawa sewi kepeken ona, ni li lon kulupu nena Alepen.

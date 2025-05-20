@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![kijetesantakalu en waso li musi li palisa e ijo lili tawa. ona li palisa e ijo la ona li mu. ijo li kama lon uta kijetesantakalu li pakala e mu kijetesantakalu.](https://upload.wikimedia.org/wikipedia/commons/2/2e/Kijetesantakalu_o%21_-_ep18.png)
+![kijetesantakalu en waso li musi li palisa e ijo lili tawa. ona li palisa e ijo la ona li mu. ijo li kama lon uta kijetesantakalu li pakala e mu kijetesantakalu.](https://upload.wikimedia.org/wikipedia/commons/2/2e/Kijetesantakalu_o%21_-_ep18.png)  
 ![kijetesantakalu en waso li musi li palisa e ijo lili tawa. ona li palisa e ijo la ona li mu. ijo li kama lon uta kijetesantakalu li pakala e mu kijetesantakalu.](https://upload.wikimedia.org/wikipedia/commons/9/99/Kijetesantakalu_o%21_-_ep18_%28sitelen_pona%29.png)

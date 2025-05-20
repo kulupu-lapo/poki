@@ -35,13 +35,13 @@ o kepeken lipu pi poki mute. o tu e lipu ni sama ni: poki pi mute sama li lon po
 
 o jo e lipu lili. lipu lili li lipu pi poki mute ala. o sitelen e sitelen pona lon lipu lili ale sama ni: o sitelen e sitelen “nasin” lon lipu lili luka luka wan, e sitelen “en” lon lipu lili luka luka wan, e sitelen “pi” lon lipu lili luka luka tu, e sitelen “li” lon lipu lili luka luka wan, e sitelen “ala” lon lipu lili luka luka wan. kin la, o sitelen e sitelen “anu” lon lipu lili luka luka tu, e sitelen “ken” lon lipu lili luka luka tu, e sitelen “jaki” lon lipu lili luka luka.
 
-![sitelen ken](https://upload.wikimedia.org/wikipedia/commons/7/75/Lipu_tenpo_nanpa_pan_-_sitelen_ken.png)
-![sitelen jaki](https://upload.wikimedia.org/wikipedia/commons/2/22/Lipu_tenpo_nanpa_pan_-_sitelen_jaki.png)
-![sitelen en](https://upload.wikimedia.org/wikipedia/commons/c/ce/Lipu_tenpo_nanpa_pan_-_sitelen_en.png)
-![sitelen pi](https://upload.wikimedia.org/wikipedia/commons/5/5b/Lipu_tenpo_nanpa_pan_-_sitelen_pi.png)
-![sitelen li](https://upload.wikimedia.org/wikipedia/commons/4/42/Lipu_tenpo_nanpa_pan_-_sitelen_li.png)
-![sitelen nasin](https://upload.wikimedia.org/wikipedia/commons/3/36/Lipu_tenpo_nanpa_pan_-_sitelen_nasin.png)
-![sitelen ala](https://upload.wikimedia.org/wikipedia/commons/3/30/Lipu_tenpo_nanpa_pan_-_sitelen_ala.png)
+![sitelen ken](https://upload.wikimedia.org/wikipedia/commons/7/75/Lipu_tenpo_nanpa_pan_-_sitelen_ken.png)  
+![sitelen jaki](https://upload.wikimedia.org/wikipedia/commons/2/22/Lipu_tenpo_nanpa_pan_-_sitelen_jaki.png)  
+![sitelen en](https://upload.wikimedia.org/wikipedia/commons/c/ce/Lipu_tenpo_nanpa_pan_-_sitelen_en.png)  
+![sitelen pi](https://upload.wikimedia.org/wikipedia/commons/5/5b/Lipu_tenpo_nanpa_pan_-_sitelen_pi.png)  
+![sitelen li](https://upload.wikimedia.org/wikipedia/commons/4/42/Lipu_tenpo_nanpa_pan_-_sitelen_li.png)  
+![sitelen nasin](https://upload.wikimedia.org/wikipedia/commons/3/36/Lipu_tenpo_nanpa_pan_-_sitelen_nasin.png)  
+![sitelen ala](https://upload.wikimedia.org/wikipedia/commons/3/30/Lipu_tenpo_nanpa_pan_-_sitelen_ala.png)  
 ![sitelen anu](https://upload.wikimedia.org/wikipedia/commons/d/da/Lipu_tenpo_nanpa_pan_-_sitelen_anu.png)
 
 o supa e lipu lili ale. sinpin sitelen ona o tawa anpa, ona o len tan anpa ni. o nasa e ona sama ni: jan musi li sona ala e sitelen kama. o pana e ilo sitelen tawa jan musi.

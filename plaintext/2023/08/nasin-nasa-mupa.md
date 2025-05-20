@@ -76,8 +76,7 @@ ona li open e lupa ona la, ona li lukin e jan sama ona. ona tu li open toki.
 
 jan Kawe li tawa tomo ante. ona li ken pali e moku lon tomo ni. ona li open pali e pan. pan ni li suwi lili e ale pi kon tomo.
 
-waso li kama lon supa pi lupa lukin. ona li alasa
-lanpan e pan ni, li lanpan e pan.
+waso li kama lon supa pi lupa lukin. ona li alasa lanpan e pan ni, li lanpan e pan.
 
 — pakala a tawa sina!
 

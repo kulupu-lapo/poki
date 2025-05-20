@@ -59,7 +59,7 @@ nimi mi li mute.  \
 ken la mi ijo ala,  \
 ken la mi ijo ale.
 
-_kama sike
+\[kama sike]  \
 taso, tenpo lili la ona li pilin ike  \
 lon sitelen lape suli la ona li wan taso li pali mute  \
 lon tenpo lili la ona li lon insa pi sitelen lape la  \

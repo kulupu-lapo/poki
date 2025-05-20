@@ -22,12 +22,13 @@ accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 
-!!! note
-    heyyyyy <3 this is a reaaaaally short and plotless piece with about maybe five lines of dialog in toki pona. its in no way good, but i thought itd be easy practice (plus i thought itd be cool for there to be more toki pona content on ao3 lolol). i hope you find this at least mildly entertaining and you understand what i tried to write. ^^
-
-    ---
-
-    toki a! <3 lipu ni li lili mute li mute weka. ken la ni li jo e ijo toki pi nimi nanpa luka kepeken toki pona. ni li pona ala, taso tenpo pini la mi wile kama sona e toki pona. (li mi wile e lipu mute lon ijo AO3 a a a). mi wile ni: sina olin lili e lipu ni anu sona e seme mi sitelen.
+> !!! note
+>
+> heyyyyy <3 this is a reaaaaally short and plotless piece with about maybe five lines of dialog in toki pona. its in no way good, but i thought itd be easy practice (plus i thought itd be cool for there to be more toki pona content on ao3 lolol). i hope you find this at least mildly entertaining and you understand what i tried to write. ^^
+>
+> ---
+>
+> toki a! <3 lipu ni li lili mute li mute weka. ken la ni li jo e ijo toki pi nimi nanpa luka kepeken toki pona. ni li pona ala, taso tenpo pini la mi wile kama sona e toki pona. (li mi wile e lipu mute lon ijo AO3 a a a). mi wile ni: sina olin lili e lipu ni anu sona e seme mi sitelen.
 
 jan tu li anpa lon tomo ona, li pilin pona. jan tu ni li jan Nin li jan Kawin.
 
@@ -45,7 +46,8 @@ jan Nin li toki e ni: "Mi pakala, jan awen olin mi o. Just trying to immerse you
 
 "Whatever, nerd."
 
-!!! note
-    can u believe i wrote this at tenpo 6 am without sleep anyways o kudos e mi pls thx lmao /hj
-
-    also also also !! if i couldve wrote a sentence clearer or i have wrong grammar pls pls tell me !! tyyyyy &lt;3
+> !!! note
+>
+> can u believe i wrote this at tenpo 6 am without sleep anyways o kudos e mi pls thx lmao /hj
+>
+> also also also !! if i couldve wrote a sentence clearer or i have wrong grammar pls pls tell me !! tyyyyy &lt;3

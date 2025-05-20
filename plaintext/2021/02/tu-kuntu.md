@@ -23,20 +23,13 @@ notes: null
 
 ## open
 
-mi kule epiku Atawan li kala pona Tonyu. mi tu li sitelen e lipu ni.
-mi tu li musi mute lon pali pi lipu ni.
+mi kule epiku Atawan li kala pona Tonyu. mi tu li sitelen e lipu ni. mi tu li musi mute lon pali pi lipu ni.
 
-*kule epiku Atawan en kala pona Tonyu li tan ma pona pi toki pona. ona*
-*tu li olin mute e toki pona, li pali e lipu ni tawa olin ona pi toki*
-*pona.*
+*kule epiku Atawan en kala pona Tonyu li tan ma pona pi toki pona. ona tu li olin mute e toki pona, li pali e lipu ni tawa olin ona pi toki pona.*
 
-*tenpo pini la, ona tu li pali e toki musi "ona li monsuta e jan" tawa*
-*utala musi pi toki pona. kama sona pi lipu ni li tan lili ona. ona tu*
-*li kepeken ijo sama nasin melome lon lipu ni tan melome ona.*
+*tenpo pini la, ona tu li pali e toki musi "ona li monsuta e jan" tawa utala musi pi toki pona. kama sona pi lipu ni li tan lili ona. ona tu li kepeken ijo sama nasin melome lon lipu ni tan melome ona.*
 
-toki musi la, jan Kuntuli li jan pona. tenpo suno wan la, ona li kama
-tan lape la, ike mute li kama lon! poka pi jan Tu la, ona li alasa e
-pini pona pi ale ni. ona li ken ala ken pali e ni?
+toki musi la, jan Kuntuli li jan pona. tenpo suno wan la, ona li kama tan lape la, ike mute li kama lon! poka pi jan Tu la, ona li alasa e pini pona pi ale ni. ona li ken ala ken pali e ni?
 
 ***
 
@@ -53,8 +46,7 @@ pini pona pi ale ni. ona li ken ala ken pali e ni?
 
 ## wan - LON INSA TOMO - SUNO OPEN
 
-JAN KUNTULI li lape lon supa lape. walo li kama tan lupa tomo ona la
-ona li kama tan lape.
+JAN KUNTULI li lape lon supa lape. walo li kama tan lupa tomo ona la ona li kama tan lape.
 
 JAN KUNTULI  
 a! tenpo suno sin!
@@ -73,15 +65,13 @@ JAN KUNTULI li luka wawa e len ona.
 
 JAN KUNTULI  
 (kepeken wawa)  
-tenpo lili la, jan pona mi li kama lon tomo mi. ken la lukin mi li ike
-tawa ona tan ko nasa.
+tenpo lili la, jan pona mi li kama lon tomo mi. ken la lukin mi li ike tawa ona tan ko nasa.
 
 JAN KUNTULI li tawa e len ona lon alasa pi weka ko.
 
 JAN KUNTULI  
 (lon awen toki)  
-ona li lukin e nasa mi la... ona li ken lukin anpa tawa mi... li wile
-ala olin e mi...
+ona li lukin e nasa mi la... ona li ken lukin anpa tawa mi... li wile ala olin e mi...
 
 *kalama pi lupa pi tomo ona.*
 
@@ -90,8 +80,7 @@ a! pakala!
 
 alasa pi JAN KUNTULI li kama wawa lon kute pi kalama lupa.
 
-lupa li open. JAN TU li lon poka tomo. SOWELI li lon luka ona. JAN TU
-li lukin tawa JAN KUNTULI. lukin la, JAN TU li pilin pi sona ala.
+lupa li open. JAN TU li lon poka tomo. SOWELI li lon luka ona. JAN TU li lukin tawa JAN KUNTULI. lukin la, JAN TU li pilin pi sona ala.
 
 JAN KUNTULI  
 (kepeken pakala lili, tawa JAN TU)  
@@ -113,8 +102,7 @@ JAN KUNTULI kepeken nena kon.
 SOWELI  
 mu! MU! MU MU MU!
 
-JAN KUNTULI li alasa luka e SOWELI. taso SOWELI li weka tan luka pi
-JAN KUNTULI.
+JAN KUNTULI li alasa luka e SOWELI. taso SOWELI li weka tan luka pi JAN KUNTULI.
 
 JAN KUNTULI  
 (tawa SOWELI)  
@@ -136,8 +124,7 @@ ken la sina ike tawa ona.
 JAN KUNTULI  
 a... ni li ken. ike a...
 
-SOWELI li mu mute, li kama sin tawa JAN TU. ko nasa lili tan JAN
-KUNTULI li lon selo ona.́
+SOWELI li mu mute, li kama sin tawa JAN TU. ko nasa lili tan JAN KUNTULI li lon selo ona.́
 
 SOWELI  
 MUUUUU!!!
@@ -146,8 +133,7 @@ JAN TU li luka e SOWELI.
 
 JAN KUNTULI  
 (tawa JAN TU)  
-a... ante la tan seme la sina kama ala lon insa tomo? mi monsuta ala
-li moli ala e sina, a a.
+a... ante la tan seme la sina kama ala lon insa tomo? mi monsuta ala li moli ala e sina, a a.
 
 JAN TU  
 (lon toki kuntu)  
@@ -157,8 +143,7 @@ JAN KUNTULI
 (lon awen pi toki kuntu)  
 ala! ni li powe!
 
-ona tu li awen pilin musi. JAN TU li tawa insa tomo. SOWELI li tawa
-lon poka.
+ona tu li awen pilin musi. JAN TU li tawa insa tomo. SOWELI li tawa lon poka.
 
 JAN KUNTULI  
 o kama pona tawa tomo mi, o jaki ala e ona.
@@ -181,12 +166,10 @@ mu mu...
 
 JAN TU  
 (sama monsuta)  
-soweli mi li ken moku e moku ALE sina. kin la ona li ken jaki e tomo
-ale sina.
+soweli mi li ken moku e moku ALE sina. kin la ona li ken jaki e tomo ale sina.
 
 JAN KUNTULI  
-a a, ike! taso ona o moku ala e moku ale! ona o awen e moku lili tawa
-sina.
+a a, ike! taso ona o moku ala e moku ale! ona o awen e moku lili tawa sina.
 
 JAN TU  
 ala, ona li moku e mi kin.
@@ -217,15 +200,13 @@ ike, o pake e ike tawa soweli! mi o pali e moku!
 JAN TU  
 a a, mi pakala, mi pakala.
 
-JAN TU li weka e luka ona tan SOWELI. lukin la SOWELI li pilin ike.  
-JAN KUNTULI li kuntu. ona li tawa poki pi lete moku.
+JAN TU li weka e luka ona tan SOWELI. lukin la SOWELI li pilin ike. JAN KUNTULI li kuntu. ona li tawa poki pi lete moku.
 
 JAN KUNTULI  
 (tawa weka)  
 jan Tu li musi mute... mi wile musi sama ona...
 
-JAN KUNTULI li alasa jo e moku. taso lukin la moku li ken kama anpa
-tan pakala.
+JAN KUNTULI li alasa jo e moku. taso lukin la moku li ken kama anpa tan pakala.
 
 JAN TU  
 ...sina pona ala pona? lukin la moku li ken tawa anpa a.
@@ -234,8 +215,7 @@ JAN KUNTULI
 (lon awen alasa)  
 a, ala! mi sona e nasin.
 
-lon tenpo lili la, JAN KUNTULI li jo pona e ona. JAN KUNTULI li pana e
-moku tawa supa. SOWELI li wile mute e moku.
+lon tenpo lili la, JAN KUNTULI li jo pona e ona. JAN KUNTULI li pana e moku tawa supa. SOWELI li wile mute e moku.
 
 SOWELI  
 mu!
@@ -251,15 +231,13 @@ pona mute! sina pona a.
 JAN KUNTULI  
 aa, sina pona kin. o moku!
 
-JAN TU li kama luka e kasi, li pana e ona tawa uta ona. JAN KUNTULI li
-pali sama.
+JAN TU li kama luka e kasi, li pana e ona tawa uta ona. JAN KUNTULI li pali sama.
 
 JAN TU  
 (kepeken pilin jaki)  
 ike! kasi ni li ike mute a.
 
-JAN TU li weka e kasi tan uta ona. JAN KUNTULI kin li pana e sinpin pi
-pilin jaki.
+JAN TU li weka e kasi tan uta ona. JAN KUNTULI kin li pana e sinpin pi pilin jaki.
 
 JAN KUNTULI  
 (kepeken pilin apeja)  
@@ -281,9 +259,7 @@ JAN KUNTULI & JAN TU
 (kepeken kuntu, lon tenpo wan)  
 ...kasi ike mute li lon ma mi!
 
-ona tu li kalama musi kuntu. kalama lili li kama tan lupa tomo, taso
-jan li kute ala e ona. JAN KUNTULI li weka e kasi jaki. JAN TU li
-lukin e moku ante lon supa.
+ona tu li kalama musi kuntu. kalama lili li kama tan lupa tomo, taso jan li kute ala e ona. JAN KUNTULI li weka e kasi jaki. JAN TU li lukin e moku ante lon supa.
 
 JAN TU  
 a! jan pan! jan pan li pona a.
@@ -312,8 +288,7 @@ JAN TU
 (kepeken kalama suli)  
 AAA! IKE!
 
-JAN TU li weka tan supa kepeken wawa. lukin la, ona li pilin monsuta
-mute.
+JAN TU li weka tan supa kepeken wawa. lukin la, ona li pilin monsuta mute.
 
 JAN TU  
 SEME A?!
@@ -321,8 +296,7 @@ SEME A?!
 SOWELI  
 MU!
 
-JAN KUNTULI li lukin ala e pan, li awen lukin tawa JAN TU. SOWELI li
-tawa wawa.
+JAN KUNTULI li lukin ala e pan, li awen lukin tawa JAN TU. SOWELI li tawa wawa.
 
 JAN KUNTULI  
 seme li kama lon?
@@ -331,8 +305,7 @@ JAN TU
 (kepeken pilin monsuta)  
 OKO LI KAMA LON ONA!!
 
-JAN KUNTULI li kama lukin e pan lon supa anpa. ona kin li kama pilin
-monsuta.
+JAN KUNTULI li kama lukin e pan lon supa anpa. ona kin li kama pilin monsuta.
 
 JAN KUNTULI  
 AAA!
@@ -345,8 +318,7 @@ NI LI LON TAN SEME?!
 JAN KUNTULI  
 MI- MI SONA ALA!
 
-ona tu li awen lukin e pan lon anpa, li alasa mute e kon. tenpo pake
-mute li pini la, ona li tawa lili tawa pan.
+ona tu li awen lukin e pan lon anpa, li alasa mute e kon. tenpo pake mute li pini la, ona li tawa lili tawa pan.
 
 JAN TU  
 tan... tan seme la ni li lon...?
@@ -362,9 +334,7 @@ a, ike... suli li lon. o lukin tawa lupa tomo...
 
 JAN KUNTULI li pilin monsuta lon lukin.
 
-suno li weka tan tomo. kasi ike mute li pake e suno tawa lupa lukin.
-kasi ike mute ni li pimeja mute, li monsuta lukin mute. ona li pana e
-ijo ike sama kule pi ko nasa.
+suno li weka tan tomo. kasi ike mute li pake e suno tawa lupa lukin. kasi ike mute ni li pimeja mute, li monsuta lukin mute. ona li pana e ijo ike sama kule pi ko nasa.
 
 JAN KUNTULI  
 AAA ike!
@@ -372,9 +342,7 @@ AAA ike!
 SOWELI  
 MU! mu mu MU mu mu!
 
-JAN KUNTULI en JAN TU li pilin monsuta. SOWELI li mu mute, li tawa
-sike lon jan. kepeken lukin mute la, ona tu li tawa lon lupa tomo
-monsi.
+JAN KUNTULI en JAN TU li pilin monsuta. SOWELI li mu mute, li tawa sike lon jan. kepeken lukin mute la, ona tu li tawa lon lupa tomo monsi.
 
 JAN TU  
 ni li tan seme? ona li monsuta mute...
@@ -398,8 +366,7 @@ SOWELI li awen tawa, li nena e sijelo pi JAN KUNTULI.
 
 JAN TU  
 (kepeken tenpo mute)  
-kasi ike li kama lon... kasi ike mute li lon ma mi- o awen, ni li tan
-sina, anu seme?
+kasi ike li kama lon... kasi ike mute li lon ma mi- o awen, ni li tan sina, anu seme?
 
 JAN KUNTULI li lukin anpa tawa SOWELI.
 
@@ -410,8 +377,7 @@ JAN KUNTULI
 ni li... tan mi?
 
 JAN TU  
-lon... ken la, sina musi e kasi ike la ona li kama lon. sina musi e
-oko lon pan la ona li kama lon.
+lon... ken la, sina musi e kasi ike la ona li kama lon. sina musi e oko lon pan la ona li kama lon.
 
 *pake lili.*
 
@@ -420,8 +386,7 @@ lukin la, JAN KUNTULI li alasa sona pona.
 JAN KUNTULI  
 a... ike! taso, tan seme?
 
-SOWELI li awen nena e JAN KUNTULI. tan ni la, JAN TU li tawa li lukin
-e len pi JAN KUNTULI kin.
+SOWELI li awen nena e JAN KUNTULI. tan ni la, JAN TU li tawa li lukin e len pi JAN KUNTULI kin.
 
 JAN TU  
 (lon awen lukin tawa JAN KUNTULI)  
@@ -444,8 +409,7 @@ SOWELI
 (lon pilin pipi)  
 mu...
 
-JAN TU li alasa weka e ko nasa kepeken luka kin. taso ko nasa li awen
-lon.
+JAN TU li alasa weka e ko nasa kepeken luka kin. taso ko nasa li awen lon.
 
 JAN TU  
 ona li awen lon, li ike e sina a.
@@ -463,8 +427,7 @@ SOWELI
 mu!
 
 JAN KUNTULI  
-a... mi sona. mi lukin tawa pilin mi la, pini pi ale ni li ken lon
-weka, lon insa pi kasi ike... mi wile alasa e ona!
+a... mi sona. mi lukin tawa pilin mi la, pini pi ale ni li ken lon weka, lon insa pi kasi ike... mi wile alasa e ona!
 
 JAN TU li luka e SOWELI, li weka e uta ona tan len.
 
@@ -472,8 +435,7 @@ JAN TU
 sina tawa seme?
 
 JAN KUNTULI  
-mi sona ala e nasin, taso mi sona e ni: mi wile alasa e jan ike pi ale
-ni. mi utala e ona la, ijo ale ike li ken kama pini!
+mi sona ala e nasin, taso mi sona e ni: mi wile alasa e jan ike pi ale ni. mi utala e ona la, ijo ale ike li ken kama pini!
 
 SOWELI  
 mu!
@@ -486,16 +448,14 @@ taso... sina ken moli lon utala, anu seme? o moli ala!
 
 JAN KUNTULI  
 (tawa weka)  
-tenpo ale la, jan Tu li wile e pona tawa mi... ona li jan pi pona mute
-a.
+tenpo ale la, jan Tu li wile e pona tawa mi... ona li jan pi pona mute a.
 
 (tawa JAN TU, lon lon)  
 a, ala, mi ken moli e ona!
 
 JAN TU  
 (kepeken tenpo mute lili)  
-a... taso, sina tawa la, mi wile lon poka sina. mi wile ala e moli
-sina.
+a... taso, sina tawa la, mi wile lon poka sina. mi wile ala e moli sina.
 
 JAN KUNTULI  
 ni li nasin pona!
@@ -534,8 +494,7 @@ ona tu li tawa lupa tomo. SOWELI li tawa lon poka ona.
 
 ## tu - LON NASIN PI POKA TOMO - SUNO INSA
 
-JAN TU en JAN KUNTULI en SOWELI li awen tawa lon nasin. kasi ike suli
-mute li lon poka ona.
+JAN TU en JAN KUNTULI en SOWELI li awen tawa lon nasin. kasi ike suli mute li lon poka ona.
 
 JAN TU  
 kasi ike mute li lon. ni li ike mute a!
@@ -577,8 +536,7 @@ JAN TU
 tan seme la sina tawa ala?
 
 JAN KUNTULI  
-pilin mi la, soweli li wile sona e nasin tawa; mi wile sona e nasin
-tawa.
+pilin mi la, soweli li wile sona e nasin tawa; mi wile sona e nasin tawa.
 
 SOWELI  
 mu!
@@ -593,11 +551,9 @@ JAN KUNTULI
 jan ale li wile sona e nasin! taso jan ala li ken pana e sona!
 
 JAN TU  
-a... mi sona ala a. pali ni li ken ike. ken la, alasa pi utala ni li
-ken ike mute...
+a... mi sona ala a. pali ni li ken ike. ken la, alasa pi utala ni li ken ike mute...
 
-tenpo lili la, JAN KUNTULI li pilin ike lili, li toki ala. taso, tenpo
-la ona li kama sin tawa musi.
+tenpo lili la, JAN KUNTULI li pilin ike lili, li toki ala. taso, tenpo la ona li kama sin tawa musi.
 
 JAN KUNTULI  
 ken la... mi wile sona e nasin la...
@@ -615,15 +571,13 @@ JAN TU
 (lon sona mute)  
 A! O AWEN-
 
-lon tenpo wan la, ILO NANPA lili li kama tan sewi, li tawa anpa tawa
-lawa SOWELI.
+lon tenpo wan la, ILO NANPA lili li kama tan sewi, li tawa anpa tawa lawa SOWELI.
 
 SOWELI  
 (tan pilin monsuta)  
 MU!!
 
-SOWELI li tawa mute. JAN TU en JAN KUNTULI li weka pakala tan monsi
-ona, li tawa ma.
+SOWELI li tawa mute. JAN TU en JAN KUNTULI li weka pakala tan monsi ona, li tawa ma.
 
 JAN TU & JAN KUNTULI  
 IKE A!
@@ -638,9 +592,7 @@ a... tenpo ni la mi sona. mi pakala.
 JAN TU  
 taso pona la, ona li ike suli ala!
 
-JAN KUNTULI li kama tan ma, li kama lon noka. ona li pake lili, li
-pana e luka ona tawa JAN TU. JAN TU li kama tan ma kepeken luka pi JAN
-KUNTULI.
+JAN KUNTULI li kama tan ma, li kama lon noka. ona li pake lili, li pana e luka ona tawa JAN TU. JAN TU li kama tan ma kepeken luka pi JAN KUNTULI.
 
 JAN KUNTULI  
 tenpo mute la mi pakala sama ni...
@@ -703,8 +655,7 @@ JAN TU li lukin tawa soweli.
 JAN TU  
 a lon, mi mute o awen tawa.
 
-ILO NANPA li awen lon luka pi JAN TU. ona en JAN KUNTULI li tawa lon
-monsi SOWELI sin.
+ILO NANPA li awen lon luka pi JAN TU. ona en JAN KUNTULI li tawa lon monsi SOWELI sin.
 
 taso SOWELI li tawa ala.
 
@@ -745,24 +696,20 @@ JAN KUNTULI
 
 ILO NANPA  
 (kepeken kalama ilo)  
-ilo nanpa li ilo pi nasin nanpa pi toki pona. ona li ken pali e seme?
-sina jo e-
+ilo nanpa li ilo pi nasin nanpa pi toki pona. ona li ken pali e seme? sina jo e-
 
 JAN TU  
 (tawa pakala pi toki ona, lon kuntu)  
 mi sona, a a a! o pake toki!
 
-ILO NANPA li oko e ona. JAN TU li oko e ILO NANPA kin. JAN KUNTULI li
-kuntu.
+ILO NANPA li oko e ona. JAN TU li oko e ILO NANPA kin. JAN KUNTULI li kuntu.
 
 SOWELI  
 mu!
 
 SOWELI li pake tawa.
 
-nasin li kama tu. nasin wan la, "nasin Sasalin" li lon sinpin sitelen.
-anpa pi nasin ni li kiwen laso. nasin ante la, "nasin jan" li lon
-sinpin sitelen.
+nasin li kama tu. nasin wan la, "nasin Sasalin" li lon sinpin sitelen. anpa pi nasin ni li kiwen laso. nasin ante la, "nasin jan" li lon sinpin sitelen.
 
 JAN TU  
 a! o lukin!
@@ -774,8 +721,7 @@ a! nasin ni li "nasin jan"!
 
 ILO NANPA  
 (kepeken kalama ilo)  
-ilo nanpa li sona e kama ni. ilo nanpa li sona e ijo mute pi toki
-pona!
+ilo nanpa li sona e kama ni. ilo nanpa li sona e ijo mute pi toki pona!
 
 JAN TU li luka e lawa pi ILO NANPA.
 
@@ -803,9 +749,7 @@ o pake!
 
 SOWELI li awen tawa.
 
-lon poka nasin la, kasi mute li lon. sinpin sitelen li lon kasi ni.
-sinpin nanpa wan li toki e "kasi Sonja". sinpin nanpa tu li toki e
-"kasi pi palisa jelo". sinpin nanpa tu wan li toki e "kasi Panto".
+lon poka nasin la, kasi mute li lon. sinpin sitelen li lon kasi ni. sinpin nanpa wan li toki e "kasi Sonja". sinpin nanpa tu li toki e "kasi pi palisa jelo". sinpin nanpa tu wan li toki e "kasi Panto".
 
 JAN TU  
 kasi!
@@ -831,9 +775,7 @@ JAN KUNTULI
 (sama jan Misali)  
 here’s tree!
 
-toki lon sinpin sitelen li ante tan "kasi" tawa "tree". kasi ni li
-kama palisa wan taso, li kama laso ala. linja loje wan en sike lili
-loje wan li lon ona.
+toki lon sinpin sitelen li ante tan "kasi" tawa "tree". kasi ni li kama palisa wan taso, li kama laso ala. linja loje wan en sike lili loje wan li lon ona.
 
 JAN TU  
 ...seme?
@@ -844,15 +786,13 @@ mi toki e seme? mi sona ala.
 JAN TU  
 ken la ko ni li nasa mute e sina! ni la o tawa wawa.
 
-ona li tawa wawa tawa insa pi ma pi kasi ike mute. ona li ken lukin e
-tomo suli pi jan ike lon weka mute, lon poka pi suno pi tawa anpa.
+ona li tawa wawa tawa insa pi ma pi kasi ike mute. ona li ken lukin e tomo suli pi jan ike lon weka mute, lon poka pi suno pi tawa anpa.
 
 ## tu wan - LON NASIN PI MA KASI - SUNO PINI
 
 *tenpo li weka.*
 
-ILO NANPA li toki mute. JAN KUNTULI en JAN TU li pilin pipi lili.
-SOWELI li awen tawa lon nasin jan.
+ILO NANPA li toki mute. JAN KUNTULI en JAN TU li pilin pipi lili. SOWELI li awen tawa lon nasin jan.
 
 ILO NANPA  
 (tan awen toki, kepeken kalama ilo)  
@@ -879,8 +819,7 @@ a, pona. pilin mi la, jan ike li ken lon tomo ni, anu seme?
 JAN KUNTULI  
 lon a!
 
-SOWELI li pake tawa, li lukin tawa tomo suli. nasin tawa tomo li tawa
-lon sewi pi telo linja.
+SOWELI li pake tawa, li lukin tawa tomo suli. nasin tawa tomo li tawa lon sewi pi telo linja.
 
 SOWELI  
 mu! mu mu!
@@ -915,8 +854,7 @@ a, o lukin e kon; ko nasa li lon!
 JAN TU  
 ike a! ona li pali e seme?
 
-JAN KUNTULI li alasa luka e ko nasa. SOWELI li nena e ona, li pana e
-sinpin pi pilin jaki.
+JAN KUNTULI li alasa luka e ko nasa. SOWELI li nena e ona, li pana e sinpin pi pilin jaki.
 
 JAN KUNTULI  
 ona li awen taso...
@@ -927,8 +865,7 @@ ko nasa li lon tomo ni la... ken la ni li tomo pi jan ike?
 JAN KUNTULI  
 ni li ken lon...
 
-ko li kama mute lon kon. JAN KUNTULI en JAN TU li open tawa tomo suli,
-li kama tawa lupa tomo.
+ko li kama mute lon kon. JAN KUNTULI en JAN TU li open tawa tomo suli, li kama tawa lupa tomo.
 
 JAN KUNTULI  
 ike li lon a...
@@ -953,8 +890,7 @@ seme? taso... toki sina la sina sona e ale!
 
 ILO NANPA  
 (kepeken kalama ilo)  
-ilo nanpa li weka e nanpa. ken la, ona li weka e nanpa ni tan lawa
-ona.
+ilo nanpa li weka e nanpa. ken la, ona li weka e nanpa ni tan lawa ona.
 
 JAN TU  
 ike a...
@@ -989,8 +925,7 @@ mu! mu mu!
 JAN KUNTULI  
 mi pana!
 
-JAN KUNTULI li pana e nanpa tawa sinpin lupa. ilo pi pana nanpa li
-kalama ike. sinpin li open ala.
+JAN KUNTULI li pana e nanpa tawa sinpin lupa. ilo pi pana nanpa li kalama ike. sinpin li open ala.
 
 JAN TU  
 seme?
@@ -1016,14 +951,12 @@ tan seme la mi pana e ni kepeken ike mute?
 JAN TU  
 mi sona ala... ken la lupa ni li pakala?
 
-SOWELI li tawa mute, li nena mute e lipu. JAN KUNTULI li alasa mute e
-nanpa pona.
+SOWELI li tawa mute, li nena mute e lipu. JAN KUNTULI li alasa mute e nanpa pona.
 
 SOWELI  
 MU!!! MU!!!
 
-SOWELI li nena wawa e luka pi JAN TU. tan SOWELI la, JAN TU li ken ala
-pana e nanpa.
+SOWELI li nena wawa e luka pi JAN TU. tan SOWELI la, JAN TU li ken ala pana e nanpa.
 
 JAN TU  
 soweli, o pake! mi tu li alasa pali e nanpa.
@@ -1079,8 +1012,7 @@ JAN TU
 (lon awen toki pi JAN KUNTULI)  
 -li pona!
 
-nasin lupa pi pimeja mute li lon. jan li awen lon open ona, li tawa
-ala.
+nasin lupa pi pimeja mute li lon. jan li awen lon open ona, li tawa ala.
 
 JAN TU  
 ...li monsuta lili.
@@ -1125,8 +1057,7 @@ ni li lon a...
 JAN KUNTULI  
 ... pilin mi la, mi wile tawa nasin.
 
-JAN KUNTULI li pana e luka tawa JAN TU. JAN TU li lukin e luka, li
-luka e luka.
+JAN KUNTULI li pana e luka tawa JAN TU. JAN TU li lukin e luka, li luka e luka.
 
 JAN TU  
 mi tu o tawa! lon poka la, ale li pona.
@@ -1142,8 +1073,7 @@ ona tu li open tawa nasin pimeja.
 
 ## tu tu - LON NASIN PIMEJA - SUNO PINI
 
-JAN KUNTULI en JAN TU li awen tawa, li awen luka. SOWELI li tawa kin,
-lon poka ona. ILO NANPA li awen lon luka ante pi JAN TU.
+JAN KUNTULI en JAN TU li awen tawa, li awen luka. SOWELI li tawa kin, lon poka ona. ILO NANPA li awen lon luka ante pi JAN TU.
 
 ILO NANPA  
 (kepeken kalama ilo)  
@@ -1218,8 +1148,7 @@ JAN KUNTULI
 kili ni li pona mute tawa sina, anu seme, jan Tu o?
 
 JAN TU  
-lon... mi jan lili la, mi moku mute e ona. tenpo mute la mi moku
-ala...
+lon... mi jan lili la, mi moku mute e ona. tenpo mute la mi moku ala...
 
 JAN KUNTULI  
 a! ni la, pini pi ale ni la, mi o esun mute e ni...
@@ -1245,34 +1174,30 @@ ILO NANPA
 (kepeken kalama ilo, lon tenpo sama pi pilin monsuta)  
 ILO NANPA!
 
-SOWELI
+SOWELI  
 (lon tenpo sama)  
 MU!
 
-JAN KUNTULI li lon lupa anpa. noka ona li awen lon ko, li ken ala
-weka. kule pi ko ni li sama ko nasa lon kon.
+JAN KUNTULI li lon lupa anpa. noka ona li awen lon ko, li ken ala weka. kule pi ko ni li sama ko nasa lon kon.
 
 wawa la, JAN TU li lukin tawa anpa, li alasa tawa e JAN KUNTULI.
 
 JAN TU  
 JAN KUNTULI O! sina pona anu seme?
 
-SOWELI
+SOWELI  
 MU! mu mu!
 
-SOWELI li tawa sike lon lupa. JAN KUNTULI li alasa weka e noka ona tan
-ko.
+SOWELI li tawa sike lon lupa. JAN KUNTULI li alasa weka e noka ona tan ko.
 
 JAN KUNTULI  
 (lon pilin pakala)  
-pilin mi la, sijelo mi li pona... taso mi ken ala kama sewi tan ni
-a...
+pilin mi la, sijelo mi li pona... taso mi ken ala kama sewi tan ni a...
 
 JAN TU  
 ike a! mi o pali e seme?
 
-JAN TU li alasa lanpan e luka pi JAN KUNTULI, li alasa weka e ona tan
-lupa.
+JAN TU li alasa lanpan e luka pi JAN KUNTULI, li alasa weka e ona tan lupa.
 
 JAN KUNTULI  
 mi sona ala! ken la ilo nanpa li ken sona?
@@ -1285,12 +1210,10 @@ wawa la, ijo pimeja li kama tan sewi. ona li suli.
 
 JAN TU en JAN KUNTULI li lukin tawa ijo ni lon pilin monsuta.
 
-SOWELI
+SOWELI  
 mu!
 
-walo li kama lon ijo ni. ona li jan, li suli mute. lukin la, ona li
-ike. ona li pini tawa anpa, la noka ona li kalama suli lon supa. ona
-li oko e JAN KUNTULI.
+walo li kama lon ijo ni. ona li jan, li suli mute. lukin la, ona li ike. ona li pini tawa anpa, la noka ona li kalama suli lon supa. ona li oko e JAN KUNTULI.
 
 JAN ANKEWI  
 a, jan Kuntuli o. toki.
@@ -1304,8 +1227,7 @@ JAN KUNTULI
 JAN ANKEWI  
 a, nimi mi li Ankewi.
 
-JAN ANKEWI li kalama e kuntu pi ike mute. JAN TU en JAN KUNTULI li
-lukin, li pilin monsuta.
+JAN ANKEWI li kalama e kuntu pi ike mute. JAN TU en JAN KUNTULI li lukin, li pilin monsuta.
 
 JAN TU  
 ...sina wile e seme tan mi tu? sina pali e seme tawa jan Kuntuli?
@@ -1315,7 +1237,7 @@ sina lon tomo mi. mi wile ala e jan lon tomo mi.
 
 SOWELI li nena wawa e JAN ANKEWI. JAN ANKEWI li weka wawa e ona.
 
-SOWELI
+SOWELI  
 (kepeken pilin pakala, lon weka)  
 mu!
 
@@ -1327,9 +1249,7 @@ JAN KUNTULI
 (lon awen pi pilin monsuta)  
 jan Tu o...
 
-JAN KUNTULI li alasa luka e JAN TU. JAN TU li luka e luka pi JAN
-KUNTULI. taso ona li kute ala e JAN KUNTULI, li awen lukin e JAN
-ANKEWI.
+JAN KUNTULI li alasa luka e JAN TU. JAN TU li luka e luka pi JAN KUNTULI. taso ona li kute ala e JAN KUNTULI, li awen lukin e JAN ANKEWI.
 
 JAN ANKEWI  
 ona li suli ala tawa sina.
@@ -1343,19 +1263,16 @@ toki sina la sina wile e ike mi.
 JAN TU  
 lon! mi wile sona!
 
-JAN ANKEWI li kama lon sinpin pi JAN TU. lukin la, JAN TU li pilin
-monsuta lili, taso ona li weka ala.
+JAN ANKEWI li kama lon sinpin pi JAN TU. lukin la, JAN TU li pilin monsuta lili, taso ona li weka ala.
 
 JAN KUNTULI  
 (kepeken wawa pi kalama lili)  
-jan Tu o, tan seme la sina toki e ni?! ona li wawa mute! li ken moli e
-sina!!
+jan Tu o, tan seme la sina toki e ni?! ona li wawa mute! li ken moli e sina!!
 
 JAN TU  
 mi- mi sona.
 
-JAN KUNTULI li luka e luka pi JAN TU kepeken luka tu. oko ona li kama
-lon linja lukin sama.
+JAN KUNTULI li luka e luka pi JAN TU kepeken luka tu. oko ona li kama lon linja lukin sama.
 
 JAN KUNTULI  
 (kepeken tenpo mute, kepeken pilin mute)  
@@ -1363,8 +1280,7 @@ ni la... sina toki e ni tan seme?
 
 JAN TU  
 (lon pilin pakala)  
-tan... tan ni: mi wile awen e sina. mi wile ala e ike tawa sina, jan
-Kuntuli o... ike ni o weka.
+tan... tan ni: mi wile awen e sina. mi wile ala e ike tawa sina, jan Kuntuli o... ike ni o weka.
 
 JAN KUNTULI  
 a... taso-
@@ -1377,15 +1293,13 @@ JAN KUNTULI li pake toki, li lukin e JAN TU.
 
 JAN TU  
 (kepeken pilin mute, kepeken suli)  
-o sona e ni: jan ni li pana e ike e nasa tawa sina. mi wile e pona
-sina...
+o sona e ni: jan ni li pana e ike e nasa tawa sina. mi wile e pona sina...
 
 lukin la, telo lili li kama tan oko pi JAN KUNTULI.
 
 JAN TU  
 (lon awen toki)  
-tan ni la, mi o utala e jan ni lon pakala ken mi, lon moli ken mi. mi
-wile sona e pona sina.
+tan ni la, mi o utala e jan ni lon pakala ken mi, lon moli ken mi. mi wile sona e pona sina.
 
 JAN TU li pana e luka tu tawa luka pi JAN KUNTULI.
 
@@ -1398,8 +1312,7 @@ telo lili li kama tan oko pi JAN TU kin.
 JAN TU  
 mi o alasa pona e ni.
 
-JAN KUNTULI li luka wawa e luka pi JAN TU. lukin la, ona li pilin
-monsuta mute.
+JAN KUNTULI li luka wawa e luka pi JAN TU. lukin la, ona li pilin monsuta mute.
 
 JAN KUNTULI  
 (lon telo tan oko)  
@@ -1423,11 +1336,10 @@ ILO NANPA
 (kepeken kalama ilo)  
 sina jaki!
 
-SOWELI
+SOWELI  
 mu!
 
-JAN ANKEWI li weka e ILO NANPA e SOWELI kepeken noka. JAN TU en JAN
-KUNTULI li kalama kon ike lon tenpo sama.
+JAN ANKEWI li weka e ILO NANPA e SOWELI kepeken noka. JAN TU en JAN KUNTULI li kalama kon ike lon tenpo sama.
 
 JAN KUNTULI  
 (kepeken pilin ike)  
@@ -1447,8 +1359,7 @@ JAN ANKEWI
 (kepeken wawa mute kin)  
 sina ike. ale ni li jaki. ona li nasa, li jaki, li powe.
 
-wawa la, SOWELI li nena e JAN ANKEWI. JAN ANKEWI li weka wawa sin e
-ona.
+wawa la, SOWELI li nena e JAN ANKEWI. JAN ANKEWI li weka wawa sin e ona.
 
 JAN TU  
 (lon awen wawa)  
@@ -1467,15 +1378,13 @@ JAN ANKEWI li kama sewi e luka ona tawa sinpin pi JAN TU.
 
 JAN TU  
 (lon wawa mute)  
-sina la, ona li ike tan seme!? ona li ken ala pona, li powe, tan
-seme!?
+sina la, ona li ike tan seme!? ona li ken ala pona, li powe, tan seme!?
 
 JAN ANKEWI  
 (lon kalama suli)  
 mi ken toki ala e tan pi pilin mi! ONA LI SULI ALA!
 
-kalama suli pi JAN ANKEWI li tawa pakala e tomo. JAN ANKEWI li kiwen e
-luka ona, li kama open utala e JAN TU.
+kalama suli pi JAN ANKEWI li tawa pakala e tomo. JAN ANKEWI li kiwen e luka ona, li kama open utala e JAN TU.
 
 JAN KUNTULI  
 jan Tu o!
@@ -1491,16 +1400,9 @@ Remember to read the #lawa!
 
 __Most important rules for #nasin-jan__
 
-Be respectful and considerate of other members. Stay aware of the
-power of your words. Any bigotry, hateful ideologies, and slurs are
-strictly unwelcome. This includes homophobia, transphobia, fascism,
-etc.
+Be respectful and considerate of other members. Stay aware of the power of your words. Any bigotry, hateful ideologies, and slurs are strictly unwelcome. This includes homophobia, transphobia, fascism, etc.
 
-Enjoy the community, but steer away from heated debates or arguments,
-remaining respectful and conscious. This includes avoiding toxicity,
-such as strong aggressiveness, speaking over others, personal
-insulting, calls to death or violence, etc. Moderators may break up
-escalated arguments.
+Enjoy the community, but steer away from heated debates or arguments, remaining respectful and conscious. This includes avoiding toxicity, such as strong aggressiveness, speaking over others, personal insulting, calls to death or violence, etc. Moderators may break up escalated arguments.
 
 *pake.*
 
@@ -1529,14 +1431,12 @@ JAN ANKEWI
 (tawa pakala pi toki pi ILO SUPANPO)  
 mi sona, mi sona! ale li pona.
 
-JAN ANKEWI li pana e luka tawa lawa pi JAN KUNTULI. JAN KUNTULI li
-open tawa sewi lili. suno lili li open kama lon poka ona.
+JAN ANKEWI li pana e luka tawa lawa pi JAN KUNTULI. JAN KUNTULI li open tawa sewi lili. suno lili li open kama lon poka ona.
 
 JAN KUNTULI  
 a!
 
-open la, ko nasa li weka tan noka pi JAN KUNTULI. kama la, ko nasa li
-weka tan insa ona, tan sijelo ona, tan luka ona, tan lawa ona.
+open la, ko nasa li weka tan noka pi JAN KUNTULI. kama la, ko nasa li weka tan insa ona, tan sijelo ona, tan luka ona, tan lawa ona.
 
 JAN KUNTULI  
 mi kama pona! mi pona!
@@ -1562,14 +1462,11 @@ SOWELI li tawa sike lon JAN KUNTULI en JAN TU.
 
 JAN KUNTULI  
 (lon kuntu lili)  
-a a, jan Tu o, mi pona. ale li pona! o luka sike kepeken wawa mute
-ala, a a.
+a a, jan Tu o, mi pona. ale li pona! o luka sike kepeken wawa mute ala, a a.
 
-JAN TU li toki ala, li pana e lawa ona tawa len pi JAN KUNTULI. JAN
-KUNTULI li luka e linja lawa pi JAN TU, li kuntu lili.
+JAN TU li toki ala, li pana e lawa ona tawa len pi JAN KUNTULI. JAN KUNTULI li luka e linja lawa pi JAN TU, li kuntu lili.
 
-SOWELI li tawa, li nena e JAN ANKEWI. JAN ANKEWI li noka ala e SOWELI,
-li luka e SOWELI. ona li lukin tawa JAN TU.
+SOWELI li tawa, li nena e JAN ANKEWI. JAN ANKEWI li noka ala e SOWELI, li luka e SOWELI. ona li lukin tawa JAN TU.
 
 JAN ANKEWI  
 jan Tu o... mi pakala.
@@ -1580,15 +1477,13 @@ JAN TU
 a?
 
 JAN ANKEWI  
-mi... mi kama sona e pakala mi. mi kama sona e ni: jan melome li ike
-ala, li powe ala... olin li olin.
+mi... mi kama sona e pakala mi. mi kama sona e ni: jan melome li ike ala, li powe ala... olin li olin.
 
 JAN TU  
 a... mi sona. mi sona e pakala sina.
 
 JAN ANKEWI  
-taso, mi wile kama pona. mi wile sona e nasin pi olin pona. mi kepeken
-ala pi nasin melome, taso... mi wile pona tawa jan ni.
+taso, mi wile kama pona. mi wile sona e nasin pi olin pona. mi kepeken ala pi nasin melome, taso... mi wile pona tawa jan ni.
 
 JAN KUNTULI li tawa poka pi JAN TU.
 
@@ -1618,8 +1513,7 @@ ILO NANPA
 (kepeken kalama ilo)  
 ilo nanpa li pilin pona tawa sina!
 
-jan ale li pilin pona lon tenpo ni. JAN ANKEWI li musi kepeken luka
-tawa SOWELI. ILO NANPA li toki tawa ILO SUPANPO.
+jan ale li pilin pona lon tenpo ni. JAN ANKEWI li musi kepeken luka tawa SOWELI. ILO NANPA li toki tawa ILO SUPANPO.
 
 taso JAN TU en JAN KUNTULI li tawa ala.
 
@@ -1653,16 +1547,14 @@ JAN TU
 
 JAN KUNTULI  
 (kepeken awen pi pake mute)  
-toki sina la... tenpo pini la jan Ankewi li ike tawa jan melome...
-taso, sina jan melome tawa jan seme? tan seme la ona li sona?
+toki sina la... tenpo pini la jan Ankewi li ike tawa jan melome... taso, sina jan melome tawa jan seme? tan seme la ona li sona?
 
 JAN TU  
 a, ala-
 
 JAN KUNTULI  
 (kepeken pilin monsuta lili, kepeken pake ala)  
-jan olin sina li lon, anu seme? ni la jan Ankewi li sona e ni, li ike
-tawa sina, la ona li pana e ike tawa mi...
+jan olin sina li lon, anu seme? ni la jan Ankewi li sona e ni, li ike tawa sina, la ona li pana e ike tawa mi...
 
 JAN TU  
 ala! ni li lon ala-
@@ -1677,8 +1569,7 @@ JAN TU
 (kepeken pilin mute)  
 ala, jan Kuntuli o. o kute e toki mi.
 
-JAN TU li pake lili, li alasa e kute pi JAN KUNTULI. JAN KUNTULI li
-kute.
+JAN TU li pake lili, li alasa e kute pi JAN KUNTULI. JAN KUNTULI li kute.
 
 JAN TU  
 toki sina li lon. mi olin e jan.
@@ -1711,8 +1602,7 @@ lon! lon mute!
 JAN KUNTULI  
 aaa! mi olin e sina kin, jan Tu o! mi olin e sina!!
 
-luka sike pi JAN TU pi JAN KUNTULI li kama wawa. jan ante li awen pali
-ante, li lukin ala e olin ona.
+luka sike pi JAN TU pi JAN KUNTULI li kama wawa. jan ante li awen pali ante, li lukin ala e olin ona.
 
 tenpo li pini.
 
@@ -1724,8 +1614,7 @@ JAN TU
 (tawa JAN KUNTULI)  
 mi wile ala weka tan sina... taso, toki sina li lon.
 
-JAN KUNTULI li weka tan luka sike pi JAN TU, taso ona li awen luka e
-luka pi JAN TU.
+JAN KUNTULI li weka tan luka sike pi JAN TU, taso ona li awen luka e luka pi JAN TU.
 
 JAN KUNTULI  
 mi mute o tawa tomo. tomo li pona mute.
@@ -1736,8 +1625,7 @@ lon a...
 ona tu li tawa SOWELI tawa JAN ANKEWI.
 
 JAN TU  
-a, jan Ankewi o, mi mute li kama tawa lon tenpo ni. tan ni la, mi wile
-weka e soweli mi tan sina.
+a, jan Ankewi o, mi mute li kama tawa lon tenpo ni. tan ni la, mi wile weka e soweli mi tan sina.
 
 JAN ANKEWI  
 a, mi sona.
@@ -1745,8 +1633,7 @@ a, mi sona.
 SOWELI  
 mu! mu!
 
-JAN ANKEWI li luka nanpa pini e SOWELI. SOWELI li kama weka e apeja
-tan ona.
+JAN ANKEWI li luka nanpa pini e SOWELI. SOWELI li kama weka e apeja tan ona.
 
 JAN TU  
 soweli, o kama!
@@ -1764,8 +1651,7 @@ seme? sina wile e seme?
 
 JAN KUNTULI  
 (tawa JAN TU)  
-mi... mi pilin ike lili tan ni: jan Ankewi li wile sona e nasin pona
-olin. taso, ona li awen lon tomo ni la... ona li ken ala sona.
+mi... mi pilin ike lili tan ni: jan Ankewi li wile sona e nasin pona olin. taso, ona li awen lon tomo ni la... ona li ken ala sona.
 
 JAN TU  
 a...
@@ -1783,14 +1669,12 @@ JAN ANKEWI
 ...seme?
 
 JAN TU  
-sina wile sona e nasin olin pona, anu seme? sina tawa lon poka la,
-sina ken sona!
+sina wile sona e nasin olin pona, anu seme? sina tawa lon poka la, sina ken sona!
 
 JAN ANKEWI li pake lili.
 
 JAN ANKEWI  
-taso sina wile e mi lon poka sina tan seme? mi ike suli tawa sina, li
-pakala e sina...
+taso sina wile e mi lon poka sina tan seme? mi ike suli tawa sina, li pakala e sina...
 
 JAN KUNTULI  
 o pilin apeja ala! sina pona! ale li pona.
@@ -1827,17 +1711,13 @@ ILO SUPANPO
 (kepeken kalama ilo)  
 jan o tawa!
 
-lukin la, suno li kama tawa anpa. sewi li kama pimeja. taso ona mute
-li awen tawa tomo.
+lukin la, suno li kama tawa anpa. sewi li kama pimeja. taso ona mute li awen tawa tomo.
 
 ## luka - LON INSA TOMO - PIMEJA OPEN
 
-ona mute li pini tawa, li lon tomo. lon pini tawa la, jan ale li pilin
-pona, li pilin lape. ni la, JAN KUNTULI li pana e len lape tawa jan
-ale. JAN ANKEWI li pali e telo kasi seli li pana e ona tawa jan ale.
+ona mute li pini tawa, li lon tomo. lon pini tawa la, jan ale li pilin pona, li pilin lape. ni la, JAN KUNTULI li pana e len lape tawa jan ale. JAN ANKEWI li pali e telo kasi seli li pana e ona tawa jan ale.
 
-JAN TU en JAN KUNTULI li lon tomo musi, li kama open e musi. JAN
-ANKEWI en SOWELI en ILO NANPA en ILO SUPANPO li lon tomo ante.
+JAN TU en JAN KUNTULI li lon tomo musi, li kama open e musi. JAN ANKEWI en SOWELI en ILO NANPA en ILO SUPANPO li lon tomo ante.
 
 ILO SUPANPO en ILO NANPA li toki.
 
@@ -1861,8 +1741,7 @@ ILO NANPA & ILO SUPANPO
 (kepeken kalama ilo, lon tenpo wan)  
 MI SONA ALA A!
 
-ona tu li kuntu mute kepeken kalama ilo, li tawa sike lon ma. JAN
-ANKEWI li lukin e ilo tu, li pana e sinpin pi pilin pona.
+ona tu li kuntu mute kepeken kalama ilo, li tawa sike lon ma. JAN ANKEWI li lukin e ilo tu, li pana e sinpin pi pilin pona.
 
 JAN ANKEWI  
 (tawa ona taso)  
@@ -1882,8 +1761,7 @@ jan Ankewi o, sina wile ala wile musi e musi Majon lon poka mi?
 JAN ANKEWI  
 a! ni li pona mute a.
 
-JAN ANKEWI li tawa tomo pi JAN TU pi JAN KUNTULI. ona li musi lon supa
-pi musi Majon.
+JAN ANKEWI li tawa tomo pi JAN TU pi JAN KUNTULI. ona li musi lon supa pi musi Majon.
 
 JAN KUNTULI  
 sina wile e lon seme?
@@ -1900,14 +1778,12 @@ sinpin pi JAN KUNTULI li kama loje lili.
 JAN KUNTULI  
 aaaaa, ni li pona tawa mi kin a.
 
-ILO NANPA en ILO SUPANPO li kama lon supa musi kin. ona tu li musi
-sama wan.
+ILO NANPA en ILO SUPANPO li kama lon supa musi kin. ona tu li musi sama wan.
 
 JAN TU  
 musi o open!
 
-JAN TU en JAN KUNTULI li pana e leko mute tawa jan ale. JAN TU li
-open. ona li alasa sona e leko pona pana.
+JAN TU en JAN KUNTULI li pana e leko mute tawa jan ale. JAN TU li open. ona li alasa sona e leko pona pana.
 
 JAN KUNTULI  
 jan Tu o... o pana e leko pona tawa mi...
@@ -1936,9 +1812,6 @@ ala! o pana e leko pona tawa mi!
 SOWELI  
 mu mu mu mu!
 
-lon kama pimeja tenpo la ona mute li awen musi e musi Majon. JAN TU en
-JAN KUNTULI li awen olin. jan ale li awen pilin pona, li awen pilin
-musi, li awen kuntu tan toki musi pi JAN KUNTULI, pi JAN TU, pi jan
-ale. ale li kama pona.
+lon kama pimeja tenpo la ona mute li awen musi e musi Majon. JAN TU en JAN KUNTULI li awen olin. jan ale li awen pilin pona, li awen pilin musi, li awen kuntu tan toki musi pi JAN KUNTULI, pi JAN TU, pi jan ale. ale li kama pona.
 
 **PINI**

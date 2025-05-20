@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![waso li toki e ni: "kijetesantakalu sona o pana e sona sina." kijetesantakalu li toki e ni: "sona mi le seme?" ona li toki: "mu" waso li toki e ni: "... kijetesantakalu li nasa."](https://upload.wikimedia.org/wikipedia/commons/d/d8/Kijetesantakalu_o%21_-_ep01.png)
+![waso li toki e ni: "kijetesantakalu sona o pana e sona sina." kijetesantakalu li toki e ni: "sona mi le seme?" ona li toki: "mu" waso li toki e ni: "... kijetesantakalu li nasa."](https://upload.wikimedia.org/wikipedia/commons/d/d8/Kijetesantakalu_o%21_-_ep01.png)  
 ![waso li toki e ni: "kijetesantakalu sona o pana e sona sina." kijetesantakalu li toki e ni: "sona mi le seme?" ona li toki: "mu" waso li toki e ni: "... kijetesantakalu li nasa."](https://upload.wikimedia.org/wikipedia/commons/2/2f/Kijetesantakalu_o%21_-_ep01_%28sitelen_pona%29.png)

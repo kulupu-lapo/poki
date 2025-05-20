@@ -143,9 +143,9 @@ sina wile kute e toki mute, la o tawa linja nasin pi lipu @natgeo.  \
 
 ---
 
-sitelen li tan jan @gerdludwig | tenpo sike ni la, kama pi kasi kule lon ma Southern California li pona mute. kasi kule li len kule e nena lon open pi tenpo mun ni.
+sitelen li tan jan @gerdludwig | tenpo sike ni la, kama pi kasi kule lon ma Southern California li pona mute. kasi kule li len kule e nena lon open pi tenpo mun ni.  \
 \*  \
-nasin mi pi tenpo sike la mi tawa lukin e kasi kule ni. tenpo sike ni la, kama telo li kepeken tenpo mute. ma li awen tan ona. telo li kama la, kasi kule ale li kama open kepeken tenpo lili. ma ni Antelope Valley li open ala tawa jan la, kasi li kama open kin. sina wile la, o tawa @gerdludwig
+nasin mi pi tenpo sike la mi tawa lukin e kasi kule ni. tenpo sike ni la, kama telo li kepeken tenpo mute. ma li awen tan ona. telo li kama la, kasi kule ale li kama open kepeken tenpo lili. ma ni Antelope Valley li open ala tawa jan la, kasi li kama open kin. sina wile la, o tawa @gerdludwig  \
 \*  \
 #California #superbloom #poppies #AntelopeValley #tokpona #natgeo #tokiponanatgeo
 
@@ -159,7 +159,7 @@ kasi suli pakala li namako tawa mi. kasi suli li ken kama pakala kepeken nasin m
 
 ---
 
-sitelen li tan jan David Guttenfelder @dguttenfelder | utala li lon ma tomo Minneapolis. jan wile li toki utala lon poka pi tomo pali pi jan lawa Derek Chauvin li seli e tomo pali ni e tomo tawa e tomo ante. utala tan moli pi jan George Floyed li awen kama suli. tenpo pimeja ni la, jan lawa pi ma tomo li open e pali pi jan utala. ma lon poka pi tomo pali seli la jan ala li ken kama tawa ona li ken weka tan ona. jan lawa la, jan li wile awen lon tomo ona lon tenpo pimeja.
+sitelen li tan jan David Guttenfelder @dguttenfelder | utala li lon ma tomo Minneapolis. jan wile li toki utala lon poka pi tomo pali pi jan lawa Derek Chauvin li seli e tomo pali ni e tomo tawa e tomo ante. utala tan moli pi jan George Floyed li awen kama suli. tenpo pimeja ni la, jan lawa pi ma tomo li open e pali pi jan utala. ma lon poka pi tomo pali seli la jan ala li ken kama tawa ona li ken weka tan ona. jan lawa la, jan li wile awen lon tomo ona lon tenpo pimeja.  \
 \*  \
 #May282020 #GeorgeFloyd #Minneapolis #natgeo #tokipona #tokiponanatgeo
 
@@ -202,15 +202,7 @@ sitelen li tan jan @dguttenfelder | jan George Floyd li moli la, jan mute li uta
 
 ---
 
-sitelen li tan jan @ruddyroye | sitelen ni la, jan meli Lan li len e uta ona
-kepeken len walo li lon monsi jan. jan Lan en jan pona ona li awen tan ni:
-jan pi toki suli ante li awen kama tawa ma kasi Washington Square lon ma
-tomo New York. ona ale li pali tan moli pi George Floyd. “sina wile e seme
-lon pini utala” la mi toki tawa jan Lan. ona li toki e ni: “wile mi la, jan lili
-mi en jan ale pi tenpo kama li kama sona e ike tan wawa walo li pilin e ni:
-ni li ken ala lon. tenpo pini la, jan pimeja li sama ijo tawa ma ni. tenpo ni
-la, mi pilin e ni tawa tenpo pini: ni li ken ala lon. nasin pi tenpo pini li nasa
-ike mute tawa mi. wile mi la, jan pi tenpo kama li ni e tenpo pi mi mute.”
+sitelen li tan jan @ruddyroye | sitelen ni la, jan meli Lan li len e uta ona kepeken len walo li lon monsi jan. jan Lan en jan pona ona li awen tan ni: jan pi toki suli ante li awen kama tawa ma kasi Washington Square lon ma tomo New York. ona ale li pali tan moli pi George Floyd. “sina wile e seme lon pini utala” la mi toki tawa jan Lan. ona li toki e ni: “wile mi la, jan lili mi en jan ale pi tenpo kama li kama sona e ike tan wawa walo li pilin e ni: ni li ken ala lon. tenpo pini la, jan pimeja li sama ijo tawa ma ni. tenpo ni la, mi pilin e ni tawa tenpo pini: ni li ken ala lon. nasin pi tenpo pini li nasa ike mute tawa mi. wile mi la, jan pi tenpo kama li ni e tenpo pi mi mute.”  \
 \*  \
 #GeorgeFloyd #tokipona #natgeo #tokiponanatgeo
 

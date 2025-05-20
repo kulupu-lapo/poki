@@ -19,12 +19,13 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-    toki Inli la, sitelen sona li -poetry-. ni li ken nasin nasa. taso ona li ken lon. jan Susana la, ona li sitelen sona.
-
-    mi la, nimi -lanpan- li jo e kalama tu tu. la+n+pa+n. n li kalama ante. jan Sila li -jan [_sina_lanpan]- tan ni.
-
-    sitelen pona li tan lipu ni: https://sinibida.github.io/tokiponatype/
+> !!! note
+>
+> toki Inli la, sitelen sona li -poetry-. ni li ken nasin nasa. taso ona li ken lon. jan Susana la, ona li sitelen sona.
+>
+> mi la, nimi -lanpan- li jo e kalama tu tu. la+n+pa+n. n li kalama ante. jan Sila li -jan [_sina_lanpan]- tan ni.
+>
+> sitelen pona li tan lipu ni: https://sinibida.github.io/tokiponatype/
 
 ![sitelen pona](https://i.imgur.com/K2ZNVfn.png)
 
@@ -96,5 +97,6 @@ pilin ni li olin
 
 tan jan Susana
 
-!!! note
-    o pona e sitelen mi. sina ken kepeken e toki pona e toki Inli.
+> !!! note
+>
+> o pona e sitelen mi. sina ken kepeken e toki pona e toki Inli.

@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![kijetesantakalu li tawa kepeken supa musi tawa li toki: mi tawa sewi. ona li tawa poka wan lon sewi li tawa poka ante li tawa weka. ona li toki: pakala. waso li lukin e kijetesantakalu. kijetesantakalu li kama sewi la ona li kama lon kasi suli. kasi li jo awen e ona. waso li toki: sina lon sewi.](https://upload.wikimedia.org/wikipedia/commons/e/e5/Kijetesantakalu_o%21_-_ep16.png)
+![kijetesantakalu li tawa kepeken supa musi tawa li toki: mi tawa sewi. ona li tawa poka wan lon sewi li tawa poka ante li tawa weka. ona li toki: pakala. waso li lukin e kijetesantakalu. kijetesantakalu li kama sewi la ona li kama lon kasi suli. kasi li jo awen e ona. waso li toki: sina lon sewi.](https://upload.wikimedia.org/wikipedia/commons/e/e5/Kijetesantakalu_o%21_-_ep16.png)  
 ![kijetesantakalu li tawa kepeken supa musi tawa li toki: mi tawa sewi. ona li tawa poka wan lon sewi li tawa poka ante li tawa weka. ona li toki: pakala. waso li lukin e kijetesantakalu. kijetesantakalu li kama sewi la ona li kama lon kasi suli. kasi li jo awen e ona. waso li toki: sina lon sewi.](https://upload.wikimedia.org/wikipedia/commons/1/11/Kijetesantakalu_o%21_-_ep16_%28sitelen_pona%29.png)

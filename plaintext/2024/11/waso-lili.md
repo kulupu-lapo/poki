@@ -29,5 +29,6 @@ tenpo ni, mi alasa sona. sina pali seme? sina pali tomo tawa waso lon ma anu sem
 
 mi wile sona sina.
 
-!!! note
-    toki pona mi li ike. 😭 mi o kama sona.
+> !!! note
+>
+> toki pona mi li ike. 😭 mi o kama sona.

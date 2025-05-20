@@ -23,34 +23,34 @@ accessibility-notes: null
 notes: null
 ---
 
-toki esun
+toki esun  
 pi jan Maja
 
-pi toki pona
+pi toki pona  
 tan jan Majeka
 
 *mu mu mu mu*
 
-*mu mu mu mu*
+*mu mu mu mu*  
 "toki, mi ken ala ken lon ni?"
 
-*mu mu mu mu*
+*mu mu mu mu*  
 "..."
 
-"toki a?"
+"toki a?"  
 "aaAAaa!"
 
 "mi ken ala ken lon ni?"
 
-"a, ken..."
+"a, ken..."  
 "pakala mi a."
 
 *mu mu mu mu*
 
 *mu mu mu mu*
 
-"sina kute ala kute e kalama pi kulupu DOODSGREPEN?"
-"a, seme"
+"sina kute ala kute e kalama pi kulupu DOODSGREPEN?"  
+"a, seme"  
 *mu mu mu*
 
 "tenpo ale la mi toki ala tawa jan kute ante pi kulupu DOODSGREPEN."
@@ -59,22 +59,22 @@ tan jan Majeka
 
 "n, tenpo ni la mi sona e kalama pona tawa tenpo wan olin pi mi tu. a a."
 
-"MUSI TASO A
-MI JO E JAN OLIN
+"MUSI TASO A  
+MI JO E JAN OLIN  
 LON TENPO LON A!"
 
-"taso, ona li olin kulupu a.
-tan ni la mi ken
-olin e jan ante
+"taso, ona li olin kulupu a.  
+tan ni la mi ken  
+olin e jan ante  
 mute..."
 
 "n, kalama pona a."
 
-*MU*
-"A, MI WEKA TAN TOMO NI LON MA NI!"
+*MU*  
+"A, MI WEKA TAN TOMO NI LON MA NI!"  
 "lon ma ni?"
 
-"Sayonara!"
+"Sayonara!"  
 "n, o awen pona a."
 
 "SAYONARA?!"

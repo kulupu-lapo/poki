@@ -26,12 +26,12 @@ notes: null
 .|.|.|.|.|.|.|.|.|.
 -|-|-|-|-|-|-|-|-|-
 soweli||pona||li|wile|tawa||tomo|ona
-||.
+||.|||||||
 li||awen||alasa|e|awen|.|ona|li
-||||||.||.
+||||||.||.|
 lape||ala||lon|tenpo|poka|.|taso|lape
 pona||o||ala|e|ike||ona|ale
 lon||awen|.|lape|awen|o||lape|lon
 supa|.|ike||ona|li|lon||la|tenpo
-||.
+||.|||||||
 lape||soweli||li|awen|ala||pakala|awen

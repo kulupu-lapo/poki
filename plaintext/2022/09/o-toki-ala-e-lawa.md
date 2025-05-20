@@ -52,26 +52,29 @@ taso, sina ken pana e musi ni tawa jan poka sina, a a a
   - Q - meli
   - K - mije
 
-!!! note nimi ni li pona ala tawa sina la o lukin
+<details><summary>nimi ni li pona ala tawa sina la o lukin</summary>
+
 kulupu pilin la nimi insa en nimi olin li ken pona
 
-    kulupu kiwen la nimi mani li ken pona
+kulupu kiwen la nimi mani li ken pona
 
-    kulupu kasi la nimi ona li tan ni: sitelen li kasi tawa lukin
+kulupu kasi la nimi ona li tan ni: sitelen li kasi tawa lukin
 
-    ---
+---
 
-    nanpa ken la nimi wan en nimi open li ken pona. nimi ona li tan ni: lipu ni li ken lili li ken suli lon musi ante.
+nanpa ken la nimi wan en nimi open li ken pona. nimi ona li tan ni: lipu ni li ken lili li ken suli lon musi ante.
 
-    nanpa jan la nimi pali li ken pona
+nanpa jan la nimi pali li ken pona
 
-    nanpa meli la mute li ken a! sina ante e nanpa meli la o ante kin e nanpa mije
+nanpa meli la mute li ken a! sina ante e nanpa meli la o ante kin e nanpa mije
 
-    nanpa mije li ken nanpa moli tan ni: sitelen ona li moli! o lukin e lawa ona...
+nanpa mije li ken nanpa moli tan ni: sitelen ona li moli! o lukin e lawa ona...
 
-    ---
+---
 
-    lawa la mi toki e nimi pana taso. sina ante la o ante e lawa kin!
+lawa la mi toki e nimi pana taso. sina ante la o ante e lawa kin!
+
+</details>
 
 ## lawa
 

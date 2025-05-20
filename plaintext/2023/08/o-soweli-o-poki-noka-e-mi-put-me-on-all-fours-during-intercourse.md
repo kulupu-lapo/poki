@@ -20,11 +20,12 @@ accessibility-notes: null
 notes: toki Inli li lon toki poka · toki Epelanto li lon toki
 ---
 
-!!! note
-The English part of the title is 90% less sexy than the original lyric, but it still rhymes, so it Had To Be Done.
-
-    – nimi sin: alupa (alpha), omeka (omega)
-    – nimi ku: kipisi, n
+> !!! note
+>
+> The English part of the title is 90% less sexy than the original lyric, but it still rhymes, so it Had To Be Done.
+>
+> nimi sin: alupa (alpha), omeka (omega)  
+> nimi ku: kipisi, n
 
 “nnn, o insa!”. tenpo ante la, jan Kasuki li jo mute e pilin suli. ni la, ona li weka e ni.
 
@@ -36,7 +37,8 @@ alupa li pilin e lupa pi omeka ona. “ni li open pona”. “jan Linjapakala en
 
 “seli sina li wawa, anu seme?”
 
-!!! notes
-nimi lipu li tan musi kalama pi jan Litali. nimi musi ni li ni: "ilo pana pi kon nasa". jan Litali o lape suwi.
-
-    Criticism and corrections are very welcome.
+> !!! note
+>
+> nimi lipu li tan musi kalama pi jan Litali. nimi musi ni li ni: "ilo pana pi kon nasa". jan Litali o lape suwi.
+>
+> Criticism and corrections are very welcome.

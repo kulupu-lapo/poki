@@ -28,5 +28,5 @@ jan li kama e ni tawa soweli pi telo mama: soweli li jo mute e soweli lili. tan 
 
 tenpo pini la jan li pana e sama tawa jan ali. tenpo ni la jan li wile pana e sama tawa soweli ali. esun moku la sina ken ante lili e nasin sina la sina ken ante mute e lon soweli e lon waso.
 
-![telo mama soweli](https://upload.wikimedia.org/wikipedia/commons/1/18/Lipu_tenpo_nanpa_akesi_-_telo_mama_soweli.png)
+![telo mama soweli](https://upload.wikimedia.org/wikipedia/commons/1/18/Lipu_tenpo_nanpa_akesi_-_telo_mama_soweli.png)  
 ![sike mama waso](https://upload.wikimedia.org/wikipedia/commons/4/4e/Lipu_tenpo_nanpa_akesi_-_sike_mama_waso.png)

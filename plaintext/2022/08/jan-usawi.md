@@ -36,7 +36,7 @@ jan Kasona li toki e ni: "mi tawa kulupu Paje, la mi kama sona e ijo."
 "sina wile e seme?? sina nasa anu seme?? o kama tawa mi, o kama!"  
 la jan Kasona li tawa mama ona.  
 "jan lili mi o, kute e toki ni. usawi li pali ike. ijo ale li ken kama tan usawi. jan ala li sona e ijo ni. ken la, sina ken.. ken moli a!"  
-"mama, o toki ala e ni. o sona e ni: mi tawa jan Upasi, li toki tawa ona, ni li moli ala! o pilin monsuta ala. mi sona e pali mi, e jan ni."  
+"mama, o toki ala e ni. o sona e ni: mi tawa jan Upasi, li toki tawa ona, ni li moli ala! o pilin monsuta ala. mi sona e pali mi, e jan ni."
  
 sinpin pi mama pi jan Kasona li pakala, taso ona li toki utala ala. "sina wile la, o pali e ni. mi sona ala e sina."
  
@@ -58,7 +58,7 @@ jan <abbr title="pi tenpo sike mute a">majuna</abbr> pi sijelo suli li lon. luki
 jan Upasi li pana e mani mute tawa jan Kasona.  
 "ni li seme?"  
 "ni li mani pi moli .. a, sina jan ante"  
-"a. moli seme? mi... mi wile sona e usawi. o pana sona tawa mi."
+"a. moli seme? mi... mi wile sona e usawi. o pana sona tawa mi."  
 "...a a a, sina wile sona e usawi? taso, sina lili mute"  
 "mi ken sona. o pana sona tawa mi, mi wile mute!"  
 "a a a, mi ken lukin e ni. mi majuna mute taso mi ken pana sona tawa sina. o tawa insa"  
@@ -90,7 +90,7 @@ jan Kasona li tawa ma anpa, li pakala e sijelo ona.
 "sina pali. sina pali pona."  
 "mi wile pali e ijo mute! mi ken... mi ken kama e ken ala moli! ala, tenpo ni la mi ken ala moli!"  
 "o pini. o isipin ala e ijo ni. o ike ala."  
-"SINA KEN ALA PALI E IJO TAN MI! SINA PANA SONA E USAWI TAN MI LA SINA NASA MUTE! A, mi lukin e lipu ni a! mi lukin e ni: sina wile moli ala la o isipin e jan sewi, o toki tu e ni: mi jan sewi. mi ken ala moli. o toki luka e ni. o toki luka luka e ni."  
+"SINA KEN ALA PALI E IJO TAN MI! SINA PANA SONA E USAWI TAN MI LA SINA NASA MUTE! A, mi lukin e lipu ni a! mi lukin e ni: sina wile moli ala la o isipin e jan sewi, o toki tu e ni: mi jan sewi. mi ken ala moli. o toki luka e ni. o toki luka luka e ni."
  
 lukin la jan Kasona li nasa. jan Upasi li pali e nasa tawa jan Kasona anu seme? anu la, jan Kasona li nasa tan usawi ona sama?  
  

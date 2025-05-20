@@ -23,8 +23,9 @@ accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 
-!!! notes
-    lipu tu li lon taso ona li sama. lipu pi nanpa wan li lon sitelen Lasina. lipu pi nanpa tu li lon sitelen pona.
+> !!! note
+>
+> lipu tu li lon taso ona li sama. lipu pi nanpa wan li lon sitelen Lasina. lipu pi nanpa tu li lon sitelen pona.
 
 **nanpa ijo:** 055  
 **kulupu ijo:** monsuta
@@ -98,24 +99,24 @@ nasin sona li lon ala la, nasin pake li lon ala.
 kulupu alasa pi nanpa 19-055-127BXE li tawa insa tomo pi ijo 055 li lukin e ona. ona mute li sitelen e ████████████. ona mute li weka e tomo li pini e lipu tomo.
 
 jan sona Hughes li toki e sitelen ni tawa jan ████████.
-> jan sona Hughes: mi toki tawa sina e ijo 55.
-> jan ████████: ijo seme?
-> jan sona Hughes: tenpo pini lili la, sina lukin e ijo pi nanpa tu mute tu wan luka.
-> jan ████████: mi sona ala e toki sina. ijo nanpa 55 li lon ala.
-> jan sona Hughes: ni la, tenpo pini la sina lukin e seme?
+> jan sona Hughes: mi toki tawa sina e ijo 55.  
+> jan ████████: ijo seme?  
+> jan sona Hughes: tenpo pini lili la, sina lukin e ijo pi nanpa tu mute tu wan luka.  
+> jan ████████: mi sona ala e toki sina. ijo nanpa 55 li lon ala.  
+> jan sona Hughes: ni la, tenpo pini la sina lukin e seme?  
 > jan ████████: seme? mi…
 >
 > *jan ████████ li pilin ike lukin.*
 >
-> jan ████████: …mi sona ala.
-> jan sona Hughes: o toki insa. sina awen ala awen sona e ni?: ona li sike ala.
-> jan ████████: seme li… a! ni li lon! ona li sike ala kin! ijo 55 li sike ala kin.
-> jan sona Hughes: sina kama sona e ona anu seme?
-> jan ████████: mi awen sona ala. taso mi sona e ni: ijo li lon, li awen ala tawa sona, li sike ala.
-> jan sona Hughes: o awen. seme li sike ala?
-> jan ████████: ijo 55.
-> jan sona Hughes: ijo seme?
-> jan ████████: sina toki ala toki e ni?: ona li sike ala.
+> jan ████████: …mi sona ala.  
+> jan sona Hughes: o toki insa. sina awen ala awen sona e ni?: ona li sike ala.  
+> jan ████████: seme li… a! ni li lon! ona li sike ala kin! ijo 55 li sike ala kin.  
+> jan sona Hughes: sina kama sona e ona anu seme?  
+> jan ████████: mi awen sona ala. taso mi sona e ni: ijo li lon, li awen ala tawa sona, li sike ala.  
+> jan sona Hughes: o awen. seme li sike ala?  
+> jan ████████: ijo 55.  
+> jan sona Hughes: ijo seme?  
+> jan ████████: sina toki ala toki e ni?: ona li sike ala.  
 > jan sona Hughes: a! ni li lon kin!
 
 jan li ken awen sona e ni: “ijo 055 li ni ala”. jan li ken toki insa e ona tan awen sona ni.

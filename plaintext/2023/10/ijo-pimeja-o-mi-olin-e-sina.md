@@ -19,8 +19,9 @@ accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 
-!!! note
-update: i have come out of my break only to fix a grammar mistake in the title and ending line. sorry, lol.
+> !!! note
+>
+> update: i have come out of my break only to fix a grammar mistake in the title and ending line. sorry, lol.
 
 pimeja li jan pona mi.
 
@@ -34,5 +35,6 @@ mi lukin e pimeja.
 
 ijo Pimeja o, mi olin e sina.
 
-!!! note
-i'm trying to write for myself right now,but it's a little hard not considering the numbers that it does beforehand. i'll update "Marisa Discovers Jimmy Buffett" soon i swear, i just need a little motivation from myself first.
+> !!! note
+>
+> i'm trying to write for myself right now,but it's a little hard not considering the numbers that it does beforehand. i'll update "Marisa Discovers Jimmy Buffett" soon i swear, i just need a little motivation from myself first.

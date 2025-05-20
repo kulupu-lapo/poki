@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![waso li toki: kijetesantakalu o. kijetesantakalu li lape. waso li toki sin: a, sina lape, ni la sina ken ala toki. kijetesantakalu lape li pini ala e oko li toki: lon la mi lape](https://upload.wikimedia.org/wikipedia/commons/2/22/Kijetesantakalu_o%21_-_ep19.png)
+![waso li toki: kijetesantakalu o. kijetesantakalu li lape. waso li toki sin: a, sina lape, ni la sina ken ala toki. kijetesantakalu lape li pini ala e oko li toki: lon la mi lape](https://upload.wikimedia.org/wikipedia/commons/2/22/Kijetesantakalu_o%21_-_ep19.png)  
 ![waso li toki: kijetesantakalu o. kijetesantakalu li lape. waso li toki sin: a, sina lape, ni la sina ken ala toki. kijetesantakalu lape li pini ala e oko li toki: lon la mi lape](https://upload.wikimedia.org/wikipedia/commons/5/57/Kijetesantakalu_o%21_-_ep19_%28sitelen_pona%29.png)

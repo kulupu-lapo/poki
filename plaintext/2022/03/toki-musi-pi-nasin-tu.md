@@ -26,11 +26,11 @@ toki musi ni li kepeken nasin Leko Nimi. nasin ni la, sina ken lukin e toki sama
 .|.|.|.|.|.|.
 -|-|-|-|-|-|-
 pu||li|pana|e||toki
-|||||||.
+||||||.
 li||pana|e|nasin|.|sina
 pana||e|toki|pona||ante
 e||nasin|pona|la||o
-|||.
+|||.|||
 toki|.|mi|sama|o||pona
 
 kin
@@ -40,7 +40,7 @@ kin
 wile|sina|pi||toki pona
 mi|o|ike ala|.|mi
 pi|ike ala|li||tawa
-||.
+||.||
 toki pona|sina|lon||mi tu
 
 ![toki musi pi nasin tu](https://upload.wikimedia.org/wikipedia/commons/5/5a/Lipu_tenpo_nanpa_nimi_-_toki_musi_pi_nasin_tu.png)

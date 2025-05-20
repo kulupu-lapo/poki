@@ -47,13 +47,14 @@ PIMEJA.
 
 ##
 
-!!!note
-    monsuta Susi = Monster Susie  
-    ijo pimeja Lase = Darkner Ralsei
-
-    I find it interesting that in chapter 2 we see these two taking over the death screen dialogue, instead of exclusively Gaster speaking like in chapter 1.
-
-    mi la, ni li nasa: sitelen moli pi toki nanpa tu la, monsuta Susi en ijo pimeja Lase li toki. ijo Kasuta li toki ala. lon toki nanpa wan la, ijo Kasuta taso li toki.
+> !!! note
+>
+> monsuta Susi = Monster Susie  
+> ijo pimeja Lase = Darkner Ralsei
+>
+> I find it interesting that in chapter 2 we see these two taking over the death screen dialogue, instead of exclusively Gaster speaking like in chapter 1.
+>
+> mi la, ni li nasa: sitelen moli pi toki nanpa tu la, monsuta Susi en ijo pimeja Lase li toki. ijo Kasuta li toki ala. lon toki nanpa wan la, ijo Kasuta taso li toki.
 
 [monsuta Susi li toki]
 

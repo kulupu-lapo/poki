@@ -19,8 +19,9 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-    "Kiwen Kule" li "Crystal Gems"
+> !!! note
+>
+> "Kiwen Kule" li "Crystal Gems"
 
 kiwen telo li toki e soweli kili ona.
 
@@ -38,5 +39,6 @@ ona li open e lape poka e jan Lapis
 
 "sina pona mute e mi."
 
-!!! note
-    jan Lapis anu kiwen Lapis?
+> !!! note
+>
+> jan Lapis anu kiwen Lapis?

@@ -21,20 +21,20 @@ notes: null
 
 {{{sitelen "0031_moli-kala.svg" "moli kala" "jan Lim"}}}
 
-tenpo wan la
-    mi noka lon nasin wan
-    lon poka telo nasin wan.
-lon ma, lon poka telo la,
-             kala suli wan li awen.
-                                   li tawa ala.
-mi kama poka.
-     lukin e ona.
-uta ona li open lili.
+tenpo wan la  
+    mi noka lon nasin wan  
+    lon poka telo nasin wan.  
+lon ma, lon poka telo la,  
+             kala suli wan li awen.  
+                                   li tawa ala.  
+mi kama poka.  
+     lukin e ona.  
+uta ona li open lili.  
 moli.
 
-mi pilin utala.
-kala li moli tan seme a?
-jan li utala e ona tan musi taso anu seme?
+mi pilin utala.  
+kala li moli tan seme a?  
+jan li utala e ona tan musi taso anu seme?  
 jan alasa li sona ala sona e ken kala?
 
 jan mute li sona ala e ken kala. kala li ken ala toki la, ona li ken ala toki e ken ona. ni la, nasin seme la mi ken sona e ken kala?
@@ -45,26 +45,26 @@ lon. taso: kala li ken ala ken sona e ona kala?
 
 jan pi alasa sona li kama esun e kala mute. jan li pana e ilo supa pi sitelen sama lon insa poki telo. open la kala li wile utala e sitelen ona. tenpo suno ante la ona li kama sona e ni: "nnn pali ale pi kala ante li sama a mi". tenpo poka la ona li utala ala, li lukin taso e sitelen ona. ni la, jan li lape e kala. lape la, jan li kule lili e selo anpa kala. lape kala li pini la, kala li seme? kepeken ilo pi sitelen sama la, kala li kama lukin e kule nasa lon selo ona. kala li alasa weka e ona kepeken kiwen. tan ni la mi ken sona: kala li ken sona e ona.²
 
-taso... kala li ken ala ken olin e kala ante?
+taso... kala li ken ala ken olin e kala ante?  
      ona li ken.[^3]
 
-kala li ken ala ken kama sona?
+kala li ken ala ken kama sona?  
      ona li ken.[^4]
 
-kala li ken mute kin:
-        li ken nanpa[^4]
-        li ken sona ma[^4]
-        li ken musi[^5]
+kala li ken mute kin:  
+        li ken nanpa[^4]  
+        li ken sona ma[^4]  
+        li ken musi[^5]  
         li ken tonsi kin![^6]
 
-kala li wawa.
+kala li wawa.  
 kala li pona.
 
-wawa kala la,
-    pona ona la,
-o moli ala
-    e ona kala.
-o moku ala
+wawa kala la,  
+    pona ona la,  
+o moli ala  
+    e ona kala.  
+o moku ala  
     e kala pona.
 
 --- 

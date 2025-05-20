@@ -22,10 +22,11 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-    toki! for any Lemon Demon fans here unsure of what toki pona is: [here is a link!](https://en.m.wikipedia.org/wiki/Toki_Pona) for any toki pona speakers unsure of what Lemon Demon is: [here is another link!](https://en.m.wikipedia.org/wiki/Lemon_Demon)
-
-    hope you enjoy! right now there isn’t a commentary or anything but there will be… I just need to get this posted so I don’t have to remember all the CSS stuff I gotta do for that all at once!
+> !!! note
+>
+> toki! for any Lemon Demon fans here unsure of what toki pona is: [here is a link!](https://en.m.wikipedia.org/wiki/Toki_Pona) for any toki pona speakers unsure of what Lemon Demon is: [here is another link!](https://en.m.wikipedia.org/wiki/Lemon_Demon)
+>
+> hope you enjoy! right now there isn’t a commentary or anything but there will be… I just need to get this posted so I don’t have to remember all the CSS stuff I gotta do for that all at once!
 
 sike pipi  
 a toki pona translation of “Spiral of Ants” by Neil Cicierega  
@@ -89,10 +90,11 @@ kon li pana weka e jan ali
 mi toki ni:  
 sike li lawa e sina
 
-!!! note
-    this was directly inspired by jan Misali’s translations of various Rhythm Heaven/WarioWare songs. if you are jan Misali: sorry for stealing your typing pattern and general style. but I am crediting you for it! so anyone who likes this will go and check out [your YouTube channel](https://m.youtube.com/@HBMmaster), which has a lot of stuff that’s like this but in video format and better put-together, as well as a wide variety of other content! and perhaps even [your Bandcamp](https://conlangcritic.bandcamp.com/) which features many original songs!
-
-    resources used:
-    - [the lipu sona pona course](https://lipu-sona.pona.la/) (teaches toki pona in ~12 easy lessons!)
-    - [lipu Linku](https://linku.la/) (incredibly well put together dictionary and database!)
-    - [kulupu jan tenpo](https://m.youtube.com/watch?v=fWHZz7ZCXqw&pp=ygUQa3VsdXB1IGphbiB0ZW5wbw==) (my main inspiration! also sounds great!)
+> !!! note
+>
+> this was directly inspired by jan Misali’s translations of various Rhythm Heaven/WarioWare songs. if you are jan Misali: sorry for stealing your typing pattern and general style. but I am crediting you for it! so anyone who likes this will go and check out [your YouTube channel](https://m.youtube.com/@HBMmaster), which has a lot of stuff that’s like this but in video format and better put-together, as well as a wide variety of other content! and perhaps even [your Bandcamp](https://conlangcritic.bandcamp.com/) which features many original songs!
+>
+> resources used:
+> - [the lipu sona pona course](https://lipu-sona.pona.la/) (teaches toki pona in ~12 easy lessons!)
+> - [lipu Linku](https://linku.la/) (incredibly well put together dictionary and database!)
+> - [kulupu jan tenpo](https://m.youtube.com/watch?v=fWHZz7ZCXqw&pp=ygUQa3VsdXB1IGphbiB0ZW5wbw==) (my main inspiration! also sounds great!)

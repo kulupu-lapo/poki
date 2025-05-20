@@ -137,8 +137,8 @@ jan Josan li sona e sitelen pi toki Mikoma. ona li jo e kon lanpan li lon ni.
 
 kepeken sitelen ni la, jan Saki li pali e lipu. taso, mi en ona li pilin pi pona ala tan ni. jan Pensa li pali e lipu sama sitelen San. ni li open nasin e mi e ona. tenpo ni la mi en ona li kepeken e luka mute. tenpo poka la jan Saki li pali:
 
-![sitelen "lanpan" pi sin ala 2](https://upload.wikimedia.org/wikipedia/commons/1/15/Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_2.png)
-![sitelen "lanpan" pi sin ala 3](https://upload.wikimedia.org/wikipedia/commons/e/e5/Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_3.png)
+![sitelen "lanpan" pi sin ala 2](https://upload.wikimedia.org/wikipedia/commons/1/15/Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_2.png)  
+![sitelen "lanpan" pi sin ala 3](https://upload.wikimedia.org/wikipedia/commons/e/e5/Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_3.png)  
 ![sitelen "lanpan" pi sin ala 4](https://upload.wikimedia.org/wikipedia/commons/4/45/Lipu_tenpo_nanpa_toki_-_sitelen_%22lanpan%22_pi_sin_ala_4.png)
 
 ni li lon!

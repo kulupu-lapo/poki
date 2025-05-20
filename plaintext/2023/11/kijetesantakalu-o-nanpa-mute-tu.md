@@ -21,5 +21,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![kijetesantakalu li pana e poki tawa noka ona. waso li wile sona: a kijetesantakalu o, sina tawa anu seme? kijetesantakalu li pana e sona: tawa. waso li awen wile sona: sina tawa noka anu seme? kijetesantakalu li pana sin e sona: tawa. noka suli kiwen li lon.](https://upload.wikimedia.org/wikipedia/commons/a/a2/Kijetesantakalu_o%21_-_ep22.png)
+![kijetesantakalu li pana e poki tawa noka ona. waso li wile sona: a kijetesantakalu o, sina tawa anu seme? kijetesantakalu li pana e sona: tawa. waso li awen wile sona: sina tawa noka anu seme? kijetesantakalu li pana sin e sona: tawa. noka suli kiwen li lon.](https://upload.wikimedia.org/wikipedia/commons/a/a2/Kijetesantakalu_o%21_-_ep22.png)  
 ![kijetesantakalu li pana e poki tawa noka ona. waso li wile sona: a kijetesantakalu o, sina tawa anu seme? kijetesantakalu li pana e sona: tawa. waso li awen wile sona: sina tawa noka anu seme? kijetesantakalu li pana sin e sona: tawa. noka suli kiwen li lon.](https://upload.wikimedia.org/wikipedia/commons/9/9b/Kijetesantakalu_o%21_-_ep22_%28sitelen_pona%29.png)

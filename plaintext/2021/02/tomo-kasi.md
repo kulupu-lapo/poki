@@ -22,8 +22,8 @@ lon ma Olako (Oracle) pi ma Alisona (Arizona, U.S.) la, ma pi telo ala en weka p
 
 ![](/images/tomokasi/1.jpg) ![](/images/tomokasi/2.jpg)
 
-*sewi nanpa wan: ni li lukin lon selo pi tomo kasi nanpa tu. sina ken lukin e poki suli pi kiwen lukin; ni li jo e kasi mute. poka ona la tomo lawa pi tomo ni li lon. jan li ken tawa lon tomo ni, li ken kama sona e sona pi tomo ni.*
-*sewi nanpa tu: ni li lukin lon insa pi tomo kasi nanpa tu. ni li ma pi kasi mute, li ma suli tawa tomo ni.*
+*sewi nanpa wan: ni li lukin lon selo pi tomo kasi nanpa tu. sina ken lukin e poki suli pi kiwen lukin; ni li jo e kasi mute. poka ona la tomo lawa pi tomo ni li lon. jan li ken tawa lon tomo ni, li ken kama sona e sona pi tomo ni.*  
+*sewi nanpa tu: ni li lukin lon insa pi tomo kasi nanpa tu. ni li ma pi kasi mute, li ma suli tawa tomo ni.*  
 *sitelen nanpa wan li tan jan Jesuiseduardo.*
 
 lon tomo ni la, ma ante mute li lon. ma pi kasi mute en ma pi kasi lili li lon. lon poka ni la, telo suli li lon; telo ni li jo e kiwen kala mute. telo mute li awen lon ma kasi poka, li lon e kasi ante lon telo. lon poka pi ma ni, la ma pi telo lili li lon. pini la, ma pi telo ala li lon monsi tomo. o sona e ni: tomo ni li lon e kasi ante mute.
@@ -36,8 +36,8 @@ taso… ni li pali mute. tan seme la jan li wile pali e tomo suli pi kasi mute, 
 
 ![](/images/tomokasi/3.jpg) ![](/images/tomokasi/4.jpg)
 
-*sewi nanpa wan: ni li lukin lon insa pi tomo kasi nanpa tu. ma ni li ma kasi telo. kasi pi ma ni li lon lawa telo.*
-*sewi nanpa tu: ni li lukin lon insa pi tomo kasi nanpa tu. ni li ma pi telo lili, pi kasi lili.*
+*sewi nanpa wan: ni li lukin lon insa pi tomo kasi nanpa tu. ma ni li ma kasi telo. kasi pi ma ni li lon lawa telo.*  
+*sewi nanpa tu: ni li lukin lon insa pi tomo kasi nanpa tu. ni li ma pi telo lili, pi kasi lili.*  
 *sitelen nanpa wan li tan jan Colin Marquardt. sitelen nanpa tu li tan jan Aspersions.*
 
 jan li pali e tomo kasi nanpa tu lon tenpo sike nanpa 1991. open la, kulupu li tawa lon ona, li alasa sona e ni: jan li ken ala ken awen lon tomo kasi ni? sona ni li suli mute tawa ijo ante; jan li ken awen lon tomo ni, la jan li ken pali sama ni lon ma ante, li ken lon mun. ni la kulupu ni li alasa sona kepeken lon pi tenpo mute.
@@ -60,6 +60,6 @@ ni li tan pi awen ona! tenpo lon la, jan ale li ken awen tawa ona, li ken lukin 
 
 
 ## tan lipu
-“Fast Facts: Biosphere 2” biosphere2.org, https://biosphere2.org/visit/about-biosphere2/fast-facts. lon tenpo suno 25 pi tenpo mun wan pi tenpo sike 2021.
-“Biosphere 2” Wikipedia, tan tenpo suno 14 pi tenpo mun wan pi tenpo sike 2021, https://en.wikipedia.org/wiki/Biosphere_2. lon tenpo suno 25 pi tenpo mun wan pi tenpo sike 2021.
+“Fast Facts: Biosphere 2” biosphere2.org, https://biosphere2.org/visit/about-biosphere2/fast-facts. lon tenpo suno 25 pi tenpo mun wan pi tenpo sike 2021.  
+“Biosphere 2” Wikipedia, tan tenpo suno 14 pi tenpo mun wan pi tenpo sike 2021, https://en.wikipedia.org/wiki/Biosphere_2. lon tenpo suno 25 pi tenpo mun wan pi tenpo sike 2021.  
 tan jan Mark Nelson. “Biosphere 2: What Really Happened?” Darthmouth Alumni Magazine, tan tenpo mun luka wan pi tenpo sike 2018, https://dartmouthalumnimagazine.com/articles/biosphere-2-what-really-happened. lon tenpo suno 25 pi tenpo mun wan pi tenpo sike 2021.

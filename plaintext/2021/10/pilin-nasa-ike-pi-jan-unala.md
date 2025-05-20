@@ -19,12 +19,11 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-ilo ike li pana e nanpa pona mute tawa ni :( tenpo lon la, lipu ni li jo e nanpa pona pi mute 15 pi nimi ala.
-
-    mi pilin e ni: ona ale li tan ilo ike. mi wile jo e nanpa pona tan jan lon taso.
-
-    ~~mi pali e ni tawa pini ike: jan pi nimi ala li ken ala lukin e lipu ni. pilin mi la ilo li weka la, mi open e lipu tawa ale.~~ mi open. mi o lukin
+> !!! note
+> 
+> ilo ike li pana e nanpa pona mute tawa ni :( tenpo lon la, lipu ni li jo e nanpa pona pi mute 15 pi nimi ala.  
+> mi pilin e ni: ona ale li tan ilo ike. mi wile jo e nanpa pona tan jan lon taso.  
+> ~~mi pali e ni tawa pini ike: jan pi nimi ala li ken ala lukin e lipu ni. pilin mi la ilo li weka la, mi open e lipu tawa ale.~~ mi open. mi o lukin
 
 jan Unala li ken ala sona e ni: ona ken ala pilin pona tan seme?
 

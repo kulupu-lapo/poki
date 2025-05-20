@@ -22,7 +22,7 @@ notes: null
 
 lipu ni la mi toki lon ma tu tan ni: ma Tawi en ma Laso li sama mute. ante suli li tu taso. nanpa wan la ma Tawi li suli. ma Laso li lili. nanpa tu la tenpo pini la ma ala li jo e ma Tawi. taso tenpo pini la ma Kanse li lawa e ma Laso.
 
-![ma Tawi](https://upload.wikimedia.org/wikipedia/commons/6/6a/Lipu_tenpo_nanpa_pipi_-_ma_Tawi.png)
+![ma Tawi](https://upload.wikimedia.org/wikipedia/commons/6/6a/Lipu_tenpo_nanpa_pipi_-_ma_Tawi.png)  
 ![ma Laso](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lipu_tenpo_nanpa_pipi_-_ma_Laso.png)
 
 ma Tawi en ma Laso li ma musi li ma pona. ma Tawi la kulupu lili pi nasin sewi Isilan li lon nasin seli, taso jan ante pi ma Tawi li jan pi nasin sewi Puta. jan mute pi ma Laso kin li kepeken nasin sewi Puta. lon nasin ale la jan pi ma Tawi en jan pi ma Laso li suwi li pona. kin la ma tu ni li jo e toki pi sama mute. toki Tawi la ona li jo e kalama suwi li pona kute mute tawa mi. taso ona li ike mute pi kama sona a! nimi pi toki Tawi li ken jo e kalama luka a (toki Sonko li jo e kalama tu tu)! jan li kalama ike, la jan ante li ken ala sona! nasin sitelen kin pi toki Tawi li pona lukin, taso ona li ike mute tawa sitelen tawa lukin.

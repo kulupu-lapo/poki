@@ -14,7 +14,7 @@ sources:
   - https://lipukule.org/post/2021/02/01/ijo-lon-pi-lon-ala/
   - https://i.imgur.com/QcA5qgC.png
 archives: null
-preprocessing: null
+preprocessing: removed presumably-rogue U+0328
 accessibility-notes: null
 notes: null
 ---
@@ -22,7 +22,7 @@ notes: null
 tenpo mute la, jan li kepeken nasin tawa sona pi ijo lon. nasin ni la, jan li ken sona e ijo lon, li ken pali e ijo kepeken sona, li ken kama e sona sin. tenpo mute la, ni li lon: ijo li lon, anu ijo li powe. ona tu li ken ala lon tenpo sama. ni li nasin sona pi tenpo mute.
 
 taso tenpo sin la, jan sona nasin li open e toki ni: ken la, ni li lon ala. nasin ante ni la, ni li ken: ijo li lon li powe, anu ijo li lon taso, anu ijo li powe taso, anu ijo li powe ala li lon ala. ni li nasa mute tawa jan mute, taso nasin ni li sin ala! tenpo mute la, ona li awen. taso, nasin ni li seme? seme la ijo li ken lon li powe lon tenpo sama? tawa sona pi nasin sona ni la, o kama sona e nasin sona pi tenpo mute:
-̨
+
 nasin la, sina pali e ijo la, pali ni li ken pana e ijo sin. ni li *pali nasin*. o lukin:
 
 ijo li lon; sina wile sona e **kule** pi ijo ni. ona li ken loje, li ken jelo, li ken walo, li ken pimeja, li ken laso. ona li ken kule mute anu kule wan. ni la, **kule** li *pali nasin*.

@@ -23,8 +23,9 @@ notes: toki Inli li lon lipu ni; lipu open la sitelen `\n` mute li poka li lon e
   suli · nasin Markdown la ni li ken ala
 ---
 
-!!! note
-    Chapter 1 is for the default (non-special name, different non-special creator) text. Chapter 2 will show the variations in the naming section.
+> !!! note
+> 
+> Chapter 1 is for the default (non-special name, different non-special creator) text. Chapter 2 will show the variations in the naming section.
 
 SINA LON  
 ALA LON?

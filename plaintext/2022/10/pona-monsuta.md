@@ -24,11 +24,11 @@ notes: null
 
 .|.|.|.|.|.
 -|-|-|-|-|-
-ale||mi|la|nasa
-||.
-o||pona|monsuta|e
-nasa|.|ni|li|wawa
+ale||mi|la|nasa|
+||.|||
+o||pona|monsuta|e|
+nasa|.|ni|li|wawa|
 e||mi|taso|a|.
-||||.
+||||.|
 
 [^1]: "monsuta" li ike, li wile pakala e jan

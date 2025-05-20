@@ -15,7 +15,7 @@ sources:
   - https://commons.wikimedia.org/wiki/File:Lipu_tenpo_nanpa_pan_-_ilo_kon.png
   - https://lipu-sona.pona.la/lentan/nasin_juni
 archives: null
-preprocessing: null
+preprocessing: Removed soft linebreaks.
 accessibility-notes: null
 notes: null
 ---
@@ -43,34 +43,20 @@ tenpo ni la, ilo kon lawa mute li kama tan ilo Juni, li pali lon nasin sama. ilo
 
 # sona sin
 
-!!! note
-    sona ni li lon "lipu tenpo" ala. mi pali e ona tawa lipu ni.
+> !!! note
+> 
+> sona ni li lon "lipu tenpo" ala. mi pali e ona tawa lipu ni.
 
-mi pali e kulupu pi lipu kon mute. mi wile e ni: ilo sona li pali e lipu sin.
-lipu sin ni li jo e nimi nasin pi lipu ante ale. nimi nasin ni li kepeken e
-nasin nanpa ni: lipu pi tenpo pini lili li lon sewi. lipu pi tenpo pini suli li
-lon anpa. mi ken pali e ni kepeken lipu lili pi ilo Juni.
+mi pali e kulupu pi lipu kon mute. mi wile e ni: ilo sona li pali e lipu sin. lipu sin ni li jo e nimi nasin pi lipu ante ale. nimi nasin ni li kepeken e nasin nanpa ni: lipu pi tenpo pini lili li lon sewi. lipu pi tenpo pini suli li lon anpa. mi ken pali e ni kepeken lipu lili pi ilo Juni.
 
-!!! note
-    lipu mi ale li jo e linja sitelen tu wan ni: ona li open kepeken
-    sitelen "%". linja nanpa wan li toki e nimi lipu. linja nanpa tu li toki e ni:
-    jan seme li pali e lipu ni? linja nanpa tu wan li toki e ni: lipu ni li tan
-    tenpo seme?
-    
-    lipu ante ale li jo e sitelen toki pi lipu pini. ilo kon "`markdown`" li lukin
-    e lipu ni, li pali e lipu sin pi nasin HTML. mi ken pana e lipu sin tawa lipu
-    kon mi.
-   
-    mi wile pali e lipu sin tan sona pi lipu ale ni.
+> !!! note
+> 
+> lipu mi ale li jo e linja sitelen tu wan ni: ona li open kepeken sitelen "%". linja nanpa wan li toki e nimi lipu. linja nanpa tu li toki e ni: jan seme li pali e lipu ni? linja nanpa tu wan li toki e ni: lipu ni li tan tenpo seme?
+> 
+> lipu ante ale li jo e sitelen toki pi lipu pini. ilo kon "`markdown`" li lukin e lipu ni, li pali e lipu sin pi nasin HTML. mi ken pana e lipu sin tawa lipu kon mi.
+> 
+> mi wile pali e lipu sin tan sona pi lipu ale ni.
 
-ilo kon "`grep`" li lukin e lipu, li toki e ni: sitelen seme li open kepeken
-sitelen "%"? ilo kon "`sed`" li lukin e ona, li toki e ni: linja sitelen nanpa
-tu wan ona li toki e seme? ilo kon "`cut`" li weka e sona jaki tan linja sitelen
-ni. ilo kon "`date`" li lukin e ona, li toki e ni: ona li toki e tenpo pali
-seme? ilo ni li pali e nanpa tan tenpo ona. ilo sin mi li awen e nimi pi lipu
-kon, e tenpo pali ona lon lipu kon ante.
+ilo kon "`grep`" li lukin e lipu, li toki e ni: sitelen seme li open kepeken sitelen "%"? ilo kon "`sed`" li lukin e ona, li toki e ni: linja sitelen nanpa tu wan ona li toki e seme? ilo kon "`cut`" li weka e sona jaki tan linja sitelen ni. ilo kon "`date`" li lukin e ona, li toki e ni: ona li toki e tenpo pali seme? ilo ni li pali e nanpa tan tenpo ona. ilo sin mi li awen e nimi pi lipu kon, e tenpo pali ona lon lipu kon ante.
 
-ilo kon "`sort`" li ante e nasin pi linja sitelen ale lon lipu kon sin. ona li
-lukin e nanpa, li tawa e linja sitelen pi nanpa suli tawa sewi. ilo sin mi li
-lukin e sitelen ni, li pali e lipu pini. mi ken pana e lipu pini ni tawa kulupu
-pi lipu kon mi.
+ilo kon "`sort`" li ante e nasin pi linja sitelen ale lon lipu kon sin. ona li lukin e nanpa, li tawa e linja sitelen pi nanpa suli tawa sewi. ilo sin mi li lukin e sitelen ni, li pali e lipu pini. mi ken pana e lipu pini ni tawa kulupu pi lipu kon mi.

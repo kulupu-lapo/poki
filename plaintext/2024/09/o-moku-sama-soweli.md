@@ -43,5 +43,6 @@ jan Otakon li toki e ni: "mi moku a! o mama ala e mi. o mama e soweli sina. sowe
 
 akesi li tawa lupa tomo. pali suli ona li pini.
 
-!!! note
-    mi sitelen e lipu ni tan ni: it was easy to tokiponize both otacon and snake! had fun writing in tp again, it has been a while. you can point out any mistakes i've made.
+> !!! note
+>
+> mi sitelen e lipu ni tan ni: it was easy to tokiponize both otacon and snake! had fun writing in tp again, it has been a while. you can point out any mistakes i've made.

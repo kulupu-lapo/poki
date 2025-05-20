@@ -41,11 +41,11 @@ lipu ni li kepeken nimi nasa:
 
 <h2>kipisi nanpa wan: kon Jukidijan</h2>
 
-tenpo pini mute la jan *Euclid* li pali e kon Jukidijan.
-kon Jukidijan li supa.
-kon Jukidijan li jo e nasin lawa.
-jan *Euclid* li pali ala e nasin lawa.
-taso, ona li wan e nasin lawa.
+tenpo pini mute la jan *Euclid* li pali e kon Jukidijan.  
+kon Jukidijan li supa.  
+kon Jukidijan li jo e nasin lawa.  
+jan *Euclid* li pali ala e nasin lawa.  
+taso, ona li wan e nasin lawa.  
 nasin lawa li ni:
 <ul>
 <li>nanpa wan: ona li ken sitelen e palisa tawa sike lili tu.</li>
@@ -99,16 +99,16 @@ taso, **sike lili J** li lon ala pi **sike lili E**, lon ala pi **sike lili I**.
 </ul>
 <h2>kipisi nanpa tu: kon pi Jukidijan ala</h2>
 
-kon pi Jukidijan ala li pakala e palisa pi nasin sama.
-lon kon Jukidijan la palisa pi nasin sama li tawa ala.
-ni li ante lon kon pi Jukidijan ala.
-kon pi Jukidijan ala li jo e kipisi suli tu.
-kon Jukidijan li sike ala li supa.
-kon pi Jukidijan ala li sike.
+kon pi Jukidijan ala li pakala e palisa pi nasin sama.  
+lon kon Jukidijan la palisa pi nasin sama li tawa ala.  
+ni li ante lon kon pi Jukidijan ala.  
+kon pi Jukidijan ala li jo e kipisi suli tu.  
+kon Jukidijan li sike ala li supa.  
+kon pi Jukidijan ala li sike.  
 ni li kon Ipipolin li kon Elipin.
 
 <h3>kon Ipipolin</h3>
 
-jan li alasa pakala e nasin lawa nanpa luka la ona li pali e kon Ipipolin.
-palisa pi nasin sama li tawa weka tan palisa ante.
+jan li alasa pakala e nasin lawa nanpa luka la ona li pali e kon Ipipolin.  
+palisa pi nasin sama li tawa weka tan palisa ante.  
 nasin lawa nanpa tu tu tan wan li sama lon kon Ipipolin, lon kon Jukidijan.

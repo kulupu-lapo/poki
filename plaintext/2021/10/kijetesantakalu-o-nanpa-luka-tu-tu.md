@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![kijetesantakalu li toki: tan seme la sina lon nasin? waso li toki: mi wile tawa pini nasin. kijetesantakalu li toki: sina wile tawa pini nasin tan seme? waso li toki: mi lon nasin la mi wile tawa](https://upload.wikimedia.org/wikipedia/commons/0/0a/Kijetesantakalu_o%21_-_ep09.png)
+![kijetesantakalu li toki: tan seme la sina lon nasin? waso li toki: mi wile tawa pini nasin. kijetesantakalu li toki: sina wile tawa pini nasin tan seme? waso li toki: mi lon nasin la mi wile tawa](https://upload.wikimedia.org/wikipedia/commons/0/0a/Kijetesantakalu_o%21_-_ep09.png)  
 ![kijetesantakalu li toki: tan seme la sina lon nasin? waso li toki: mi wile tawa pini nasin. kijetesantakalu li toki: sina wile tawa pini nasin tan seme? waso li toki: mi lon nasin la mi wile tawa](https://upload.wikimedia.org/wikipedia/commons/9/92/Kijetesantakalu_o%21_-_ep09_%28sitelen_pona%29.png)

@@ -17,10 +17,10 @@ accessibility-notes: null
 notes: null
 ---
 
-toki a
-mi jan Silan
-mi olin e ilo nanpa e musi
+toki a  
+mi jan Silan  
+mi olin e ilo nanpa e musi  
 mi wile pana e lipu pona
 
-dylanbksp#2456
+dylanbksp#2456  
 <a href="https://toki.social/web/accounts/108779535039897242">toki.social</a>

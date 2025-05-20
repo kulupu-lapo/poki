@@ -27,7 +27,7 @@ jan li lukin.
 pali li kama la jan li wile weka e ona.  
 
 taso jan ante li lon pali ona li lawa e ona.  
-kin la jan ni li sama jaki suli li ike e pilin
+kin la jan ni li sama jaki suli li ike e pilin  
 pi jan pali.  
 ni ale li kama ante tan ijo kama
 

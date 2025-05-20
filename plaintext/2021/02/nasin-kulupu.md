@@ -43,5 +43,5 @@ o toki tawa kulupu pi olin sina, o kama sona e wile ona. kulupu ale li ante mute
 o sona e ni: kulupu mute la kulupu li ike ala; jan pi nasin kulupu li mute, li lili ala. mute ona li sama jan pi linja loje. musi la, sitelen la, jan kulupu li monsuta, li jo e jan monsuta lon lawa ona, taso tenpo lili lili lili lili la ni li lon. jan kulupu li jan taso, sama sina.
 
 ## tan lipu
-nasin suli pi lipu ni li tan lipu ni pi toki Inli: https://cdn.discordapp.com/attachments/430565568114851860/710370716842852413/IMG_20200514_005718.jpg
+nasin suli pi lipu ni li tan lipu ni pi toki Inli: https://cdn.discordapp.com/attachments/430565568114851860/710370716842852413/IMG_20200514_005718.jpg  
 kulupu pali pi lipu ni li lon ni: https://thepluralassociation.org/

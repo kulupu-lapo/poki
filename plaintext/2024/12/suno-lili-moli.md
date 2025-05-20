@@ -18,7 +18,7 @@ accessibility-notes: null
 notes: null
 ---
 
-mama o lukin e suno
+mama o lukin e suno  
 suno li lon sewi telo  
 lon pimeja kasi suli  
 mi o tawa suno lili

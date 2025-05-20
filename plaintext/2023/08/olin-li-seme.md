@@ -19,10 +19,11 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-    toki a! mi kama sona e toki pona lon tenpo mun tu. ni la mi sona ala e ale pi toki pona! mi pakala la o toki e ni tawa mi! taso mi toki insa e ni: jan ante ala li musi e musi Project Sekai li sona e toki pona, a a a. taso! mi wile e ni: lipu lili ni li pona tawa sina! ^\_^
-
-    mi ken ala tokiponize nimi wandahoi a a a. taso jan Luwi li Rui. jan Emu li… Emu a a a. tomo Wanta li Wonder Stage kin.
+> !!! note
+>
+> toki a! mi kama sona e toki pona lon tenpo mun tu. ni la mi sona ala e ale pi toki pona! mi pakala la o toki e ni tawa mi! taso mi toki insa e ni: jan ante ala li musi e musi Project Sekai li sona e toki pona, a a a. taso! mi wile e ni: lipu lili ni li pona tawa sina! ^\_^
+>
+> mi ken ala tokiponize nimi wandahoi a a a. taso jan Luwi li Rui. jan Emu li… Emu a a a. tomo Wanta li Wonder Stage kin.
 
 olin.
 
@@ -47,6 +48,7 @@ ona li tawa wawa. ona li pini lon tomo Wanta.
 jan Luwi li lanpan e kon li pana e kon. ona li pilin ike mute tan ni: jan Emu li awen lon monsi. jan Luwi li toki insa e ni: ona li ike e pilin pi jan Emu.
 
 ona li pilin e ni: tenpo ni la ona li olin ala e mi. mi pakala a. *pakala!*
+
 a. ona li pilin e ijo lon sinpin ona. *ni li seme..?* ona li pilin e telo. telo oko. jan Luwi li toki insa e ni: mi pana e telo oko tan seme?! tenpo ala la mi pana e telo oko… ni li ike…
 
 taso ona li pali e kalama pi telo oko. ni la ona li kute ala e ni: jan li tawa lon tomo Wanta.
@@ -71,5 +73,6 @@ ona li pini li toki insa li open sitelen. ona li sitelen e ni:
 
 lipu li jo e telo. telo? jan Luwi li pilin e sinpin ona kepeken luka ona. *a.* ona li pana e telo oko. taso telo oko ni li ala pi pilin ike. ona li pi pilin pona. ona li pi pilin… olin.
 
-!!! note
-    mi sitelen e ni la ni toki insa e lipu ni tan jan Misali a a a https://www.tumblr.com/hbmmaster/129216873653/the-problem-with-toki-pona
+> !!! note
+>
+> mi sitelen e ni la ni toki insa e lipu ni tan jan Misali a a a https://www.tumblr.com/hbmmaster/129216873653/the-problem-with-toki-pona
