@@ -4,8 +4,8 @@ description: jasima li lon ala lon
 authors:
   - lipamanka
 proofreaders: null
-date: 2001-01-01
-date-precision: none
+date: 2023-04-18
+date-precision: day
 tags: null
 original: null
 license: null

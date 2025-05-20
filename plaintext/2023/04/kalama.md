@@ -4,8 +4,8 @@ description: kalama li seme
 authors:
   - lipamanka
 proofreaders: null
-date: 2001-01-01
-date-precision: none
+date: 2023-04-17
+date-precision: day
 tags: null
 original: null
 license: null

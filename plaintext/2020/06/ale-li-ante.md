@@ -1,5 +1,5 @@
 ---
-title: ona li pona
+title: ale li ante
 description: null
 authors:
   - jan Nikoleta

@@ -4,8 +4,8 @@ description: lipamanka tries (not very hard) to explain what language is in toki
 authors:
   - lipamanka
 proofreaders: null
-date: 2001-01-01
-date-precision: none
+date: 2023-04-15
+date-precision: day
 tags: null
 original: null
 license: null

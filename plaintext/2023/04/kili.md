@@ -4,8 +4,8 @@ description: quill writes about how toki pona usage
 authors:
   - quill
 proofreaders: null
-date: 2001-01-01
-date-precision: none
+date: 2023-04-19
+date-precision: day
 tags: null
 original: null
 license: null

@@ -5,8 +5,8 @@ description: '"len tonsi" can have a specific double meaning that is profound an
 authors:
   - lipamanka
 proofreaders: null
-date: 2001-01-01
-date-precision: none
+date: 2023-04-14
+date-precision: day
 tags: null
 original: null
 license: null
