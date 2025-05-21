@@ -13,6 +13,7 @@ original:
 tags:
   - music
   - translation
+  - vocal sythesizer
   - vocaloid
   - utau
 license: null

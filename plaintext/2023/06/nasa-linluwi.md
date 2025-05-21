@@ -9,7 +9,7 @@ date-precision: day
 tags:
   - translation
   - music
-  - vocaloid
+  - vocal sythesizer
   - voiceroid
   - j-pop
   - japanese

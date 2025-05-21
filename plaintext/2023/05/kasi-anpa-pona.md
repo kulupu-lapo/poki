@@ -9,6 +9,7 @@ date-precision: day
 tags:
   - translation
   - music
+  - vocal sythesizer
   - vocaloid
   - anime
   - japanese
