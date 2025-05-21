@@ -1,6 +1,6 @@
 ---
 title: monsuta
-description: null
+description: a fun lil "goodbye but like fuck you" song in toki pona
 authors:
   - jan Usawi
 proofreaders: null

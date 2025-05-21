@@ -1,6 +1,9 @@
 ---
 title: o toki sin
-description: null
+description: |
+  toki ike kepeken toki pona li kokosila kin.
+  
+  a comeback song for when you gotta stand up for yourself and your jan pona.
 authors:
   - jan Usawi
 proofreaders: null
@@ -11,7 +14,7 @@ tags:
   - pop
   - rap
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
   - https://janusawi.bandcamp.com/track/o-toki-sin
   - https://www.youtube.com/watch?v=PneVDPe5da4

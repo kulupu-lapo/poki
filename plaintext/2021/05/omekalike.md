@@ -1,6 +1,6 @@
 ---
 title: omekalike
-description: null
+description: a fun lil "goodbye but like fuck you" song in toki pona
 authors:
   - jan Usawi
 proofreaders: null
@@ -10,7 +10,7 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
   - https://janusawi.bandcamp.com/track/omekalike
   - https://www.youtube.com/watch?v=AVqKaVc9U1c

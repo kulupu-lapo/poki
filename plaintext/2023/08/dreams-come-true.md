@@ -9,10 +9,13 @@ date-precision: day
 tags:
   - music
   - pop
-original: null
-license: CC BY-SA-NC 4.0
+original:
+  title: Dreams Come True
+  authors:
+  - S.E.S.
+license: CC-BY-NC-SA-3.0 AND LicenseRef-AllRightsReserved
 sources:
-  - https://janusawi.bandcamp.com/album/toki-gaming
+  - https://janusawi.bandcamp.com/track/dreams-come-true
 archives: null
 preprocessing: null
 accessibility-notes: null

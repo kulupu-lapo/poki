@@ -10,13 +10,17 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0 AND LicenseRef-AllRightsReserved
 sources:
-  - https://janusawi.bandcamp.com/album/toki-gaming
+  - https://janusawi.bandcamp.com/track/o-lanpan-pan-nanpa-wan
 archives: null
 preprocessing: null
 accessibility-notes: null
-notes: null
+notes: |
+  Consists of lyrics from:
+  - "o lape" by kala pona Tonyu
+  - "pan nanpa wan" by Noise and Bells
+  - "lanpan pan" by jan Temili
 ---
 
 o lape, o lape  \

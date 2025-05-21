@@ -1,6 +1,9 @@
 ---
 title: oww
-description: null
+description: |
+  sona pi lon sina li weka la o kute e kalama ni. ona li misikeke ala taso ona li ken musi e tenpo ni.
+  
+  don't try this at home kids
 authors:
   - jan Usawi
 proofreaders: null
@@ -10,7 +13,7 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
   - https://janusawi.bandcamp.com/track/oww
   - https://www.youtube.com/watch?v=zZNhdiWBp0M
