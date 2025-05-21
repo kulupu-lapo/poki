@@ -4,6 +4,7 @@ description: null
 authors:
   - jan Kipin
   - jan Misali
+proofreaders: null
 date: 2025-05-17
 date-precision: day
 tags:
@@ -13,6 +14,7 @@ tags:
   - pop music
   - vocals
   - english
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=BJ7UYEiX-ho

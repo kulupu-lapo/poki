@@ -1,8 +1,9 @@
 ---
 title: SITELEN
-description:
+description: null
 authors:
   - jan Kipin
+proofreaders: null
 date: 2025-05-17
 date-precision: day
 tags:
@@ -16,9 +17,10 @@ tags:
   - vocals
   - english
   - chicago
+original: null
 license: All Rights Reserved
 sources:
-  - https://sapaa.bandcamp.com/track/jan-seme
+  - https://sapaa.bandcamp.com/track/sitelen
 archives: null
 preprocessing: null
 accessibility-notes: null

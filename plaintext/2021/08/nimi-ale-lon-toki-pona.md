@@ -2,9 +2,10 @@
 title: the tokirap (nimi ale lon toki pona)
 description: null
 authors:
-  - jan Kipin
   - jan Misali
-date: 2025-05-17
+  - jan Kipin
+proofreaders: null
+date: 2021-08-07
 date-precision: day
 tags:
   - original
@@ -13,6 +14,7 @@ tags:
   - pop music
   - educational
   - vocals
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=mmM6pR3MxNQ  # creating the perfect tokirap \[epiku]
@@ -27,7 +29,7 @@ sources:
 archives: null
 preprocessing: null
 accessibility-notes: null
-notes: null
+notes: Inspired by the Pokérap by 4Kids Entertainment.
 ---
 
 toki! ni la mi toki musi e nimi ale pi toki pona!  \
@@ -94,11 +96,11 @@ kama, open, awen, pini  \
 wile, esun, mani, kipisi  \
 pana, jo, lanpan, tenpo  \
 weka, jaki, ale, meso  \
-pilin, uta, unpa, oko
+pilin, uta, unpa, oko  \
 ken, sin, namako, soko
 
 o kama sona! o kama sona! (a!)  \
-o kama sona! o kama sona e
+o kama sona! o kama sona e  \
 nimi ale lon toki pona
 
 len, taso, walo, pimeja  \
@@ -114,4 +116,4 @@ toki ni li jo e nimi ni  \
 nimi ale lon toki pona  \
 toki ni li jo e nimi ni  \
 nimi ale lon  \
-toki pona!
+toki pona!  \
