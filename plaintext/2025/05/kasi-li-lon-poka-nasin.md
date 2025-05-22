@@ -23,6 +23,22 @@ notes: >-
   website
 ---
 
-<p>kasi <br>li lon poka nasin <br> nasin ni li <br>pimeja li kiwen li seli <br> ilo li tawa wawa lon ni <br> taso kasi li awen</p>
-    <p>kasi <br>la jan li toki e ni <br> "jaki a! o weka e ni! <br> ni o lon ala lukin mi!" <br> ona li alasa pini e kasi <br>taso kasi li awen</p>
-    <p>kasi o! <br> wawa sina li tan seme? <br> o pana e sona tawa mi <br>sina lili, taso sina moli ala <br>o pana e sike sina tawa ma ale!</p>
+kasi  
+li lon poka nasin  
+nasin ni li  
+pimeja li kiwen li seli  
+ilo li tawa wawa lon ni  
+ taso kasi li awen
+
+kasi  
+la jan li toki e ni  
+ "jaki a! o weka e ni!  
+ ni o lon ala lukin mi!"  
+ ona li alasa pini e kasi  
+taso kasi li awen
+
+kasi o!  
+ wawa sina li tan seme?  
+ o pana e sona tawa mi  
+sina lili, taso sina moli ala  
+o pana e sike sina tawa ma ale!
