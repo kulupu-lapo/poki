@@ -17,9 +17,8 @@ tags:
   - monsuta
 license: CC BY-NC 4.0
 sources:
-  - >-
-    https://docs.google.com/document/d/14dHNTCuE64aliJjYAb9V6o6zxFRwGhtF6ZIgeVN87ak/edit?tab=t.0#heading=h.odo0z8hkl74t
-    https://denesszanto.itch.io/jan-laka
+  - https://docs.google.com/document/d/14dHNTCuE64aliJjYAb9V6o6zxFRwGhtF6ZIgeVN87ak/edit?tab=t.0#heading=h.odo0z8hkl74t
+  - https://denesszanto.itch.io/jan-laka
 archives: null
 preprocessing: null
 accessibility-notes: null
