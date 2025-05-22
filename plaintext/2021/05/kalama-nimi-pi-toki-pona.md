@@ -3,6 +3,7 @@ title: kalama nimi pi toki pona
 description: Inspired by Tom Lehrer's Elements, this song consists of every official
   word in Toki Pona, plus a few more.
 authors:
+  - soweli nata
   - kala Asi
 proofreaders: null
 date: 2021-05-06
@@ -18,7 +19,7 @@ sources:
 archives: null
 preprocessing: null
 accessibility-notes: null
-notes: null
+notes: "Original idea from kala Asi, lyrics put together by soweli nata, recorded by kala Asi"
 ---
 ni, nanpa, nasa, nasin, nena, nimi, noka, namako  
 sin, sike, sina, seme, sewi, seli, jaki, sijelo  
