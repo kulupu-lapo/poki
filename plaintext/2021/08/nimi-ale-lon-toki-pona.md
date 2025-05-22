@@ -11,7 +11,7 @@ tags:
   - original
   - music
   - album
-  - pop music
+  - pop
   - educational
   - vocals
 original: null

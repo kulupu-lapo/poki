@@ -13,7 +13,7 @@ tags:
   - alternative music
   - eletronic music
   - electronic pop
-  - pop music
+  - pop
   - vocals
   - english
   - chicago
