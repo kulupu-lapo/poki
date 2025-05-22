@@ -8,7 +8,10 @@ authors:
 proofreaders: null
 date: '2025-04-29'
 date-precision: day
-original: null
+original:
+  title: "If I Could be a Constellation"
+  authors:
+    - Kessoku Band
 tags:
   - music
   - translation
