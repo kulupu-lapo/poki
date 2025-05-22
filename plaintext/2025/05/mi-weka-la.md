@@ -7,7 +7,7 @@ proofreaders: null
 date: '2025-05-02'
 date-precision: day
 original:
-  title: "Cups (Pitch Perfect's "When I'm Gone")"
+  title: "Cups (Pitch Perfect's \"When I'm Gone\")"
   authors:
     - Anna Kendrick
 tags:
