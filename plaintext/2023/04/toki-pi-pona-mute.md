@@ -38,5 +38,6 @@ tenpo pini la, nimi mi li toki e ni: "ona li pona. ni li pona." tenpo ni la, ona
 
 ona pona. ni pona.
 
-!!! note
-toki pona la, sona mi li ale ala.
+> !!! note
+>
+> toki pona la, sona mi li ale ala.

@@ -18,7 +18,7 @@ notes: null
 ---
 
 <!-- "img_1923.jpg" by elPadawan (https://www.flickr.com/photos/elpadawan/2102792694/). CC BY -->
-![soweli li tawa sewi tan lupa](https://live.staticflickr.com/2157/2102792694_2a947afb48_b.jpg)
+![soweli li tawa sewi tan lupa](https://live.staticflickr.com/2157/2102792694_2a947afb48_b.jpg)  \
 soweli li tawa sewi tan lupa, *tan elPadawan*
 
 tenpo suno pini la soweli li lape lon anpa ma.  \

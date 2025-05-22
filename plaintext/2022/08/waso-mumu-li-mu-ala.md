@@ -40,7 +40,7 @@ taso waso Mumu li pilin ike ala. waso ante li ken ala toki la, ni li ijo sin ala
 ona li tawa kepeken tenpo lili li kama lukin e soweli.   
 soweli ni li lili li lon ma. ona li alasa e kili. waso li kama lon poka soweli li toki e ni tawa ona:  
 *“toki a, soweli ma o! mi waso Mumu!”*  
-… taso soweli li lukin e waso li toki e ni:
+… taso soweli li lukin e waso li toki e ni:  
 ***“mu!”***  
 waso li kama pilin ike lili. soweli kin li ken ala toki! ona li tawa li awen alasa e ijo toki.
 

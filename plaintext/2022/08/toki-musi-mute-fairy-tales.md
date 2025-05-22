@@ -25,8 +25,9 @@ notes: lipu open li kepeken sitelen Akesi kepeken sitelen Lasina · mi weka e si
 
 ## soweli pi tawa wawa suli en akesi pi tawa wawa ala - The Tortoise and the Hare
 
-!!! note
-Original Text: https://fablesofaesop.com/the-hare-and-the-tortoise.html
+> !!! note
+>
+> Original Text: https://fablesofaesop.com/the-hare-and-the-tortoise.html
 
 akesi li ken tawa wawa ala la soweli pi ken tawa wawa li toki e toki musi ike tawa akesi.
 

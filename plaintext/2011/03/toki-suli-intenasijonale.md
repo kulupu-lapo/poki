@@ -18,7 +18,7 @@ notes: null
 ---
 
 <!-- "File:Red flag II.svg" by Ssolbergj (https://commons.wikimedia.org/wiki/File:Red_flag_II.svg). GDDL. CC BY-SA 3.0. CC BY 2.5. -->
-![len loje](https://upload.wikimedia.org/wikipedia/commons/5/52/Red_flag_II.svg)
+![len loje](https://upload.wikimedia.org/wikipedia/commons/5/52/Red_flag_II.svg)  \
 len loje, *tan Ssolbergj*
 
 o kama! jan pali o kama!  \

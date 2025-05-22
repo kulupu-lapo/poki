@@ -68,7 +68,7 @@ sina kute e ni tan jan Ine  \
 sina la toki ona li powe  \
 lon tenpo mute, taso ni la ona li lon
 
-pali mi pi ike nanpa wan
+pali mi pi ike nanpa wan  \
 li ni tawa sina
 
 \[sike]  \

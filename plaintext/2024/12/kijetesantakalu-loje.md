@@ -32,8 +32,7 @@ kijetesantakalu li sama akesi li sama waso li sama pipi: ona li kulupu soweli li
 
 nimi “kierteishäntäkarhu” li nimi tu wan: “kierteinen” (palisa sike) en “häntä” (linja) en “karhu” (soweli wawa). jan Sonja li pali e nimi ni tan musi. taso jan li awen kepeken e ona. open la ona li pana e kon ni:
 
-> [...] "kijetesantakalu". toki Lasina la ni li toki e soweli ale pi kulupu Procyonidae. [...] mi kama e nimi ni tan toki Sumi tan nimi kierteishäntäkarhu. toki Sumi la nimi ni li soweli Potos.
-(ken la mi kama wile e ni: soweli ni kin li kijetesantakalu: ona li lili li loje li suwi li moku e kasi kiwen palisa lon ma Sonko. taso mi awen sona ala.)
+> [...] "kijetesantakalu". toki Lasina la ni li toki e soweli ale pi kulupu Procyonidae. [...] mi kama e nimi ni tan toki Sumi tan nimi kierteishäntäkarhu. toki Sumi la nimi ni li soweli Potos. (ken la mi kama wile e ni: soweli ni kin li kijetesantakalu: ona li lili li loje li suwi li moku e kasi kiwen palisa lon ma Sonko. taso mi awen sona ala.)
 
 kulupu Pokonite (Procyonidae) li suli a. kijetesantakalu mute li lon ona li kulupu luka. kijetesantakalu ale li kama tan ma Amelika. mute la seli li pona tawa ona. taso kijetesantakalu wan li tawa ma Elopa li tawa ma Nijon li pilin pona lon ma ni. sitelen pi sitelen pona li lukin sama kijetesantakalu ni. 
 

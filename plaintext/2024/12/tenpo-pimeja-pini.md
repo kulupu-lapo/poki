@@ -22,10 +22,11 @@ accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 
-!!! note
-    lipu tu li lon taso ona li sama. lipu pi nanpa wan li lon sitelen Lasina. lipu pi nanpa tu li lon sitelen pona.
-
-    mi anu e nimi ona pi sitelen pona kepeken pilin mute.
+> !!! note
+>
+> lipu tu li lon taso ona li sama. lipu pi nanpa wan li lon sitelen Lasina. lipu pi nanpa tu li lon sitelen pona.
+>
+> mi anu e nimi ona pi sitelen pona kepeken pilin mute.
 
 linja kiwen li pake e jan Temi. jan Ewitoni li luka e linja li ala e ona.
 

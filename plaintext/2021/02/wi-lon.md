@@ -145,7 +145,7 @@ JAN NEKO
 jan mute ni li kama tan ma Pute.
 
 JAN KOWI  
-*(li pake lili li open toki)*
+*(li pake lili li open toki)*  
 a! mi sona! ni li pona a!
 
 JAN NEKO  
@@ -230,7 +230,7 @@ JAN NEKO
 o lukin. sike ni li ken tawa lon ni li ken moku e sike *ni*.
 
 JAN KISON  
-*(li pilin e nena. sinpin li sitelen e musi pona.)*
+*(li pilin e nena. sinpin li sitelen e musi pona.)*  
 o! ni li pona a! ilo li pakala ala e mi.
 
 JAN NEKO  

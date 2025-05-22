@@ -89,11 +89,11 @@ taso, jan utala li poki ala li moku. ona li toki li musi.
 
 — sina ike! sina ale li ike!! mi moli e sina ale!!
 
-jan lawa ike li wile e ni: jan pi ma tomo li pilin ike. taso, ona li pilin ike ala. ona li moku, li toki, li kulupu. ona li pilin wawa.
-jan lili li toki.
-— ala! sina a ike!
-jan ante li toki.
-— jan lili li toki e lon! jan lawa li ike!
+jan lawa ike li wile e ni: jan pi ma tomo li pilin ike. taso, ona li pilin ike ala. ona li moku, li toki, li kulupu. ona li pilin wawa.  \
+jan lili li toki.  \
+— ala! sina a ike!  \
+jan ante li toki.  \
+— jan lili li toki e lon! jan lawa li ike!  \
 
 ni la, jan ale li pilin ike ala li pilin utala. jan pi ma tomo en jan utala li open tawa jan lawa! jan lawa li pilin ike li tawa! jan ale li kalama musi li toki.
 

@@ -36,5 +36,5 @@ tenpo ni la jan mute li olin e akesi Poko. taso jan li sona ala e akesi la pali 
 
 ni li lon pi akesi ni. akesi Poko li pilin pona tawa lon ona. mu a!
 
-![seli](https://upload.wikimedia.org/wikipedia/commons/1/15/Lipu_tenpo_nanpa_kasi_-_seli.png)
+![seli](https://upload.wikimedia.org/wikipedia/commons/1/15/Lipu_tenpo_nanpa_kasi_-_seli.png)  
 ![akesi seli](https://upload.wikimedia.org/wikipedia/commons/3/3e/Lipu_tenpo_nanpa_kasi_-_akesi_seli.png)

@@ -24,50 +24,50 @@ notes: null
 
 LIPUMAJA#1
 
-nasin awen sijelo
+nasin awen sijelo  
 suno nanpa MTW pi mun nanpa LLW
 
  
 
-tomo sona la mi kama sona e ijo pi jan Anapan. ni li musi ala tawa mi, taso ona li pana e ni tawa lawa mi: mi kin o sitelen e lipu tenpo sike sama jan Anapan. taso mi sitelen e "mi pilin wan taso li jo ala e pali musi" lon suno ale la lipu ni li kama sama sike ike, tan ni la ken la ni li pona: mi sitelen lon tenpo pi kulupu pi suno LTW, anu lon tenpo pi sike mun
+tomo sona la mi kama sona e ijo pi jan Anapan. ni li musi ala tawa mi, taso ona li pana e ni tawa lawa mi: mi kin o sitelen e lipu tenpo sike sama jan Anapan. taso mi sitelen e "mi pilin wan taso li jo ala e pali musi" lon suno ale la lipu ni li kama sama sike ike, tan ni la ken la ni li pona: mi sitelen lon tenpo pi kulupu pi suno LTW, anu lon tenpo pi sike mun  
  
 
-kulupu sona mi li wile musi e \~musi pona wawa\~ ni: sina esun e ijo pona len lon kulupu. mi o alasa e nasin weka pi musi ni lon tenpo ni a. jan Pipilonkon li weka tan musi tan ni: musi ni li ike tawa nasin sewi ona
-sona ona li lili a li nasa a, taso mi wile e ni: sona mi li lili kin li nasa kin. ni li nasa ala nasa?
+kulupu sona mi li wile musi e \~musi pona wawa\~ ni: sina esun e ijo pona len lon kulupu. mi o alasa e nasin weka pi musi ni lon tenpo ni a. jan Pipilonkon li weka tan musi tan ni: musi ni li ike tawa nasin sewi ona  
+sona ona li lili a li nasa a, taso mi wile e ni: sona mi li lili kin li nasa kin. ni li nasa ala nasa?  
  
 
-ni taso li ale... tenpo ni la tenpo sike pi open mi li lon sike mun pini tu. jan Koko li pali sama ni: ona li sona ala. pona la ken suli la ona li sona ala lon lon. taso mi o kepeken ala e nasin "o luka e monsi uta sina o pana e telo moku jaki" lon tenpo lon.
+ni taso li ale... tenpo ni la tenpo sike pi open mi li lon sike mun pini tu. jan Koko li pali sama ni: ona li sona ala. pona la ken suli la ona li sona ala lon lon. taso mi o kepeken ala e nasin "o luka e monsi uta sina o pana e telo moku jaki" lon tenpo lon.  
  
 
-mun nanpa LLT li lon poka a...
-nanpa wan la tenpo pi jan Jesu li tenpo pi kulupu pi mama sama, la mi kama moli a
-kin la suno nanpa LLLW li lon tenpo lape lili. tan ni la jan Koko li lukin kepeken e sona ni tawa wile ike ona.
+mun nanpa LLT li lon poka a...  
+nanpa wan la tenpo pi jan Jesu li tenpo pi kulupu pi mama sama, la mi kama moli a  
+kin la suno nanpa LLLW li lon tenpo lape lili. tan ni la jan Koko li lukin kepeken e sona ni tawa wile ike ona.  
  
 
-mi sona ala e ni: mi wile sitelen e seme
+mi sona ala e ni: mi wile sitelen e seme  
 taso, ni li suli ala
 
 *****************************************************************************
 
 LIPUMAJA#2
 
-toki tawa sijelo
+toki tawa sijelo  
 suno nanpa MLL pi mun nanpa LLW
 
  
 
-tenpo suno ni la mi awen kama sona e ijo mute pi jan Anapan. mi kama sona e ni:
-jan Anapan li jan BETA, ona li pona ala tawa lukin li lon insa pi tomo ona lon tenpo mute mute mute
+tenpo suno ni la mi awen kama sona e ijo mute pi jan Anapan. mi kama sona e ni:  
+jan Anapan li jan BETA, ona li pona ala tawa lukin li lon insa pi tomo ona lon tenpo mute mute mute  
 mi kama sona e ni la mi toki insa e ni: "a, lon pi jan ni li sama lon mi a!"
 
-taso
+taso  
  
 
-"a ona li toki suwi olin tawa jan mije lon tenpo len"
+"a ona li toki suwi olin tawa jan mije lon tenpo len"  
  
 
-jan Anapan li jo e lon olin suli lon poka pi lon olin mi
-taso jan li alasa e jan pi ma Elopa-Asija sama jan pi nasin Joten lon tenpo pi jan Anapan la lon olin mi li ken kama suli sama jan Anapan a a
+jan Anapan li jo e lon olin suli lon poka pi lon olin mi  
+taso jan li alasa e jan pi ma Elopa-Asija sama jan pi nasin Joten lon tenpo pi jan Anapan la lon olin mi li ken kama suli sama jan Anapan a a  
  
 
 kin la mi lukin ala pali tawa nasin weka pi musi esun tan ni: kulupu li wile ala e mi lon musi ni. lon la mi o pilin pona, taso mi pilin pona ala a
@@ -82,14 +82,14 @@ a, mi open sona a e ni: mun nanpa LLT li lon a. mi wile lape lon ale pi tenpo le
 
 LIPUMAJA#3
 
-mama kama sijelo
+mama kama sijelo  
 suno nanpa LT pi mun nanpa LLT
 
 suno nanpa luka li tenpo ni: sina open pi ijo pona len lon tomo mama. kin la taso la jan Pipilonkon en mi li lon ala musi esun pi kulupu sona. jan Pipilonkon li AWEN A PILIN A e ni: jan sewi Sinteka li lon a, kin la ijo len li "ike tawa sewi" tawa ona. mi lukin toki e lon lon pi jan Sinteka la ona li toki e ni: mi ike tawa sewi, kin la mi lon kulupu ike pi sona lon len sama jan ni: ona li "tawa e jan tawa mun suli"
 
 jan Koko li lukin sona e tan pi weka musi mi, la mi toki e ni: jan ala li toki e wile mi ona pi lon musi. taso ona li ni tawa jan ala, ona ale li tawa musi taso. jan Koko li wile pana e tu pi ijo ona pi musi esun tawa mi, taso ona li ni la mi en ona li jo e palisa wan taso la mi toki e "ala" taso.
 
-kin la lon tenpo pi open pi ijo len la jan ale o pali sama ni: jan Sinteka li lon,  tan pilin nasa pi jan Pipilonkon
+kin la lon tenpo pi open pi ijo len la jan ale o pali sama ni: jan Sinteka li lon,  tan pilin nasa pi jan Pipilonkon  
 mama mi li lukin sona e wile mi pi ijo len, taso wile lon ale mi li nasa mute a la mi toki e "mi wile moku lon tenpo lete la mi wile e pan namako lili mute taso". sona mi la sijelo mi li lili ike a tawa suli tenpo mi la mi moku mute la ni li ike ala tawa sijelo mi. pilin pi jan Pipilonkon la mi kama jo e pan taso tan pali ike mi, kin la kulupu lawa li utala sewi sin e pali ike tan ni: ona li wile awen e lon lon
 
 mi pilin pona tan ni: tenpo ni li weka, taso mi awen sona ala e nasin weka pona pi suno nanpa LLW...
@@ -100,7 +100,7 @@ pilin mi la pilin pona ni li toki e kama pi ike suli
 
 LIPUMAJA#4
 
-mun tawa sijelo
+mun tawa sijelo  
 suno nanpa LTT pi mun nanpa LLTT
 
  
@@ -113,25 +113,25 @@ tenpo ale la mi awen pilin e kama ona, tenpo poka la jan Koko li tawa tomo mi (l
 
  
 
-"tenpo sike musi mi li lon tenpo suno luka tu la mi sona ala e ni: mi wile e jan seme lon tenpo musi mi. tan ni la, mi pana e lipu pi wile kama tawa jan ale pi kulupu sona mi, ona li tawa tomo suli ni. mi sona e ni: jan ale ni li wile kama, taso mi sona ala e ni: sina wile ala wile kama? kin sina lon tomo ni, taso jan ale li kama. jan ale li kama la sina kama kin la ni li pona wawa tawa mi."
+"tenpo sike musi mi li lon tenpo suno luka tu la mi sona ala e ni: mi wile e jan seme lon tenpo musi mi. tan ni la, mi pana e lipu pi wile kama tawa jan ale pi kulupu sona mi, ona li tawa tomo suli ni. mi sona e ni: jan ale ni li wile kama, taso mi sona ala e ni: sina wile ala wile kama? kin sina lon tomo ni, taso jan ale li kama. jan ale li kama la sina kama kin la ni li pona wawa tawa mi."  
  
 
-mi sona pona a e wile ona, ona li ni tan ni taso: ona li lukin kepeken e wile ona pi kama mi tawa ijo ike a pi wile ona
+mi sona pona a e wile ona, ona li ni tan ni taso: ona li lukin kepeken e wile ona pi kama mi tawa ijo ike a pi wile ona  
  
 
-mi pali e ken tu wan ni lon lawa mi:
+mi pali e ken tu wan ni lon lawa mi:  
  
-1. mi kama la
+1. mi kama la  
 pona: jan Koko li jo ala e pilin ike pi wile pakala
 
 ike: tenpo ale ni la mi lon monsi tomo li pilin ike a li pilin anpa a li pilin nasa li taso li sona ala e wile toki mi, tan ni la jan ale li pilin ike tan lon mi
 
-2. mi kama ala la
+2. mi kama ala la  
 pona: mi kama ala
 
 ike: jan Koko li jo mute wawa a e pilin ike pi wile pakala, kin la mi awen lon tomo mi (mi o lon seme a) li kute e ni: jan ale li pilin pona musi a lon ala poka pi meli ike ni.
 
-3. mi ken ala kama la
+3. mi ken ala kama la  
 pona: mi kama ala,  jan Koko li pilin ike ala
 
 ike: seme?
@@ -153,7 +153,7 @@ mi kepeken e nasin nasa wawa la jan ala li pilin e ni: mi wile e pakala ike ni..
 
 LIPUMAJA #5
 
-kule weka sijelo
+kule weka sijelo  
 suno nanpa LLL pi mun nanpa LLTT
 
 
@@ -180,13 +180,13 @@ aa suno poka la mi sitelen e ale pi alasa mi- mi ken la mi ni a a
 
 LIPUMAJA #6
 
-toki weka sijelo
+toki weka sijelo  
 suno nanpa LLLW pi mun nanpa LLTT
 
 
  
 
-tenpo poka la mi kama sona e ni: wile pi ijo nasa wawa a li pona tawa ken. pali lon pi ijo nasa wawa li ike tawa ken.
+tenpo poka la mi kama sona e ni: wile pi ijo nasa wawa a li pona tawa ken. pali lon pi ijo nasa wawa li ike tawa ken.  
  
 
 lon ale pi tenpo pali pi nasin weka ni la mi toki a e ijo pona kama pi nasin ni tawa mi. taso mi lon selo pi supa sewi li lukin anpa la ijo ike ale li kama sin tawa lawa mi. mi awen lon tenpo lili luka. pini pi tenpo ni la toki ni li kama lon lawa mi: (lon la mi o pilin e ni lon tenpo open a):
@@ -210,17 +210,17 @@ tenpo pini la mi sitelen e ni:
 
  
 
-1. mi kama la
+1. mi kama la  
 pona: jan Koko li jo ala e pilin ike pi wile pakala
 
 ike: tenpo ale ni la mi lon monsi tomo li pilin ike a li pilin anpa a li piln nasa li taso li sona ala e wile toki mi, tan ni la jan ale li pilin ike tan lon mi
 
-2. mi kama ala la
+2. mi kama ala la  
 pona: mi kama ala
 
 ike: jan Koko li jo mute wawa a e pilin ike pi wile pakala, kin la mi awen lon tomo mi (mi o lon seme a) li kute e ni: jan ale li pilin pona musi a lon ala poka pi meli ike ni.
 
-3. mi ken ala kama la ni:
+3. mi ken ala kama la ni:  
 pona: mi kama ala. jan Koko li pilin ike ala
 
 ike: seme?
@@ -246,10 +246,10 @@ insa la mi wile e ni: mi pilin lili ala li ken tawa
 ona li pilin suwi pona a lon ala poka pi meli ike ni
 
 
-*****************************************************************************
+*****************************************************************************  
 LIPUMAJA #7
 
-musi weka sijelo
+musi weka sijelo  
 suno nanpa MW pi mun nanpa LLT
 
 tenpo lape suli ale la tenpo lape suli pi tenpo lete li ike nanpa wan. sina ken lape a, taso sina o lon tenpo kulupu mute ike lon poka pi kulupu pi mama sama li kute e kalama ike pi tenpo pi jan Jesu. tenpo kulupu pi open sike li ike sewi a kin. jan li moku mute e telo pi nasa lawa li mu mute a tan suli pi nanpa sike. tan ni ale la sina ken ala lape pona lon tu pi tenpo lape suli.
@@ -263,15 +263,15 @@ namako la mi alasa e lipu ni pona: sina pana e sona sina la lipu li poki e kon s
 lipu: https://cdn.discordapp.com/attachments/754933236798586882/1344393755653964017/lipukon.png
 
 
-*****************************************************************************
+*****************************************************************************  
 LIPUMAJA #8
 
-kule sin luka
+kule sin luka  
 suno nanpa MLT pi mun nanpa LLT
 
  
 
-a a a, jan Maja o, sina jan pi musi ala a
+a a a, jan Maja o, sina jan pi musi ala a  
 seme la tenpo suwi pi jan Jesu li ike tawa sina? kulupu sina pi mama sama li ike kin tawa sina anu seme-
 
  
@@ -288,10 +288,10 @@ a, kulupu pi mama sama li kama lon tomo a
 
  
 
-"OwO JaN kOKo O!! SinA MelI SUli loN AaA! siNA pIliN sEMe aA tAN nI A: sINa mUsI UtAlA SikE LOn Ma aNTE KepeKEn NiMI NeTElaN aA!! AA siNA siteLEN e SIteLEn PoNA PoNa WAwA nI anU sEme A!! SinA KeN KaLAMa WaWa AaaA loN kULuPU A!!! SinA WaWA WAwa aa!! Mi PilIn PoNA tAN Ni: mI maMa sINA"
+"OwO JaN kOKo O!! SinA MelI SUli loN AaA! siNA pIliN sEMe aA tAN nI A: sINa mUsI UtAlA SikE LOn Ma aNTE KepeKEn NiMI NeTElaN aA!! AA siNA siteLEN e SIteLEn PoNA PoNa WAwA nI anU sEme A!! SinA KeN KaLAMa WaWa AaaA loN kULuPU A!!! SinA WaWA WAwa aa!! Mi PilIn PoNA tAN Ni: mI maMa sINA"  
  
 
-"WawA AA JaN MeME O!! mI KuTe e nI: sInA KaMA jO aA e NanPA lUKa LukA a LoN lIPu sONA SinA pi tokI NeTElAN!!!! e NI kiN: SinA pInI PoNA WawA a E UTAla KulUpu A nI pI mUSI sIKE: sInA wIlE panA E SiKe TaWA PokI aA!!! E nI kIN: kUlUPU PalI pi mAni aLA lI alAsA paLi sAma SiNa Aa TaN Ni: SiNA pAlI pONA LOn kUlUpU SaMA!! o KalAMA kEpEkEN iLo lUkA Suli pI nAsIN kOn mUTe!! mi WiLE kUtE AA UwU"
+"WawA AA JaN MeME O!! mI KuTe e nI: sInA KaMA jO aA e NanPA lUKa LukA a LoN lIPu sONA SinA pi tokI NeTElAN!!!! e NI kiN: SinA pInI PoNA WawA a E UTAla KulUpu A nI pI mUSI sIKE: sInA wIlE panA E SiKe TaWA PokI aA!!! E nI kIN: kUlUPU PalI pi mAni aLA lI alAsA paLi sAma SiNa Aa TaN Ni: SiNA pAlI pONA LOn kUlUpU SaMA!! o KalAMA kEpEkEN iLo lUkA Suli pI nAsIN kOn mUTe!! mi WiLE kUtE AA UwU"  
  
 
  
@@ -311,7 +311,7 @@ a, kulupu pi mama sama li kama lon tomo a
 
 taso lon la seme la tenpo suwi pi jan Jesu li ike tawa sina a  a a a a
 
-*****************************************************************************
+*****************************************************************************  
 LIPUMAJA #9
 
 
@@ -325,7 +325,7 @@ jan ale pi kulupu kalama li lon kulupu sona mi, taso mi awen sona e nimi pi jan 
 
 ike nanpa tu li ni: jan pi linja pimeja li tawa tomo jaki. tenpo mute la mi weka tan tomo mi la mi alasa kute e ni: jan li lon ala lon nasin. taso mi ni ala lon tenpo ni. mi weka tan tomo mi la mi lukin e sinpin pi jan ni. a ken toki mi li weka a la mi awen lukin e ona, taso ona li toki ala kin. ona li lukin taso li tawa tomo pi jan Koko lon tenpo lili. jan ni li nasa ike a. tenpo ale la ona li toki lili sama mi, taso ona li suwi tawa jan li lon kulupu kalama a?? mi nasa ike namako anu seme? seme la mi ken ala jo e jan suwi?
 
-ni li ike, taso ike nanpa wan a li ni: ona li awen lon tomo lon ale pi tenpo pimeja. mi ken ala lape tan pilin ike awen pi tenpo pini la mi kute pi wile ala e ale pi musi ona e ale pi toki ona a. ona li sama ni tawa pilin: mi kute e lipu suli suli a ni: jan pi musi ala li toki lon ijo pi suli ala a lon ijo pi musi ala. pakala a, jan li toki e olin pi jan suwi sama ni: ona li pona wawa namako a nanpa wan. taso ona li sama ala ni lon lon
+ni li ike, taso ike nanpa wan a li ni: ona li awen lon tomo lon ale pi tenpo pimeja. mi ken ala lape tan pilin ike awen pi tenpo pini la mi kute pi wile ala e ale pi musi ona e ale pi toki ona a. ona li sama ni tawa pilin: mi kute e lipu suli suli a ni: jan pi musi ala li toki lon ijo pi suli ala a lon ijo pi musi ala. pakala a, jan li toki e olin pi jan suwi sama ni: ona li pona wawa namako a nanpa wan. taso ona li sama ala ni lon lon  
  
 
  
@@ -338,17 +338,17 @@ nnn....
 
 taso mi lon kulupu kalama la ni li pona tawa mi....
 
-*****************************************************************************
+*****************************************************************************  
 LIPUMAJA #10
 
 
 
-lete awen luka
+lete awen luka  
 suno nanpa MLT pi mun nanpa W
 
 nnnnnnn mi awen sitelen ala la lipu ni li pini a
 
-mi o sona e ni: mi ken ala awen e sike ni lon tenpo ale: mi sitelen lon kulupu pi suno luka tu.
+mi o sona e ni: mi ken ala awen e sike ni lon tenpo ale: mi sitelen lon kulupu pi suno luka tu.  
 mi lukin sona e toki Nipon. suno tu wan la mi sona pona e sitelen Ilikana e sitelen Katakana li awen wile kama sona a. taso mi lukin sona e sitelen Kansi la wile mi li weka. taso tenpo ilo luka wan la mi o pana e sona lon lipu sona utala lon tomo sona, taso mi wile ala lukin sona e ijo lipu a sama toki Nipon.
 
 tenpo lape li weka la ala musi sin li kama. taso ijo pi sin nanpa wan li ni: mama mi li toki e ni tawa mi "mama mama sina li wile e jan namako lon tomo esun ona, sina wile ala wile ona?" ona li toki e ni la pilin mi li tawa wawa a. ni li lon: mi o tawa tomo sona lon tenpo pali, taso mi wile ala tawa ma ante la mi tawa ala. ni taso li tan pi ijo ni: mi pakala ala e selo mi. mi sama kala ko nasa moli a, seme la mi pona tawa pali ni?
@@ -360,11 +360,11 @@ taso olin mama mi li PAKALA ala a, ni taso li lon: sama ala jan Koko la mi wile 
 TASO NI LI ANTE A! tan ni: suno luka luka luka wan la tenpo suno pi ike nanpa tu wan li lon a! wawa a! ona li lon tenpo pali kin a! mi open pakala e selo mi lon tenpo lon li awen pakala la sijelo mi li kama pakala suli tan weka pi telo loje mute, la mi ken lon ala tomo sona lon suno ike ni kepeken pakala ni a a a
 
 
-*****************************************************************************
+*****************************************************************************  
 LIPUMAJA #11
 
 
-moli tawa luka
+moli tawa luka  
 suno nanpa LLW pi mun nanpa T
 
 SUNO OLIN PI JAN WALENTEN LI IKE AAAA
@@ -435,7 +435,7 @@ tenpo ni la mi o lukin ijo
 
 *****************************************************************************
 
-nasin tawa luka
+nasin tawa luka  
 tenpo open pi tenpo Len
 
 

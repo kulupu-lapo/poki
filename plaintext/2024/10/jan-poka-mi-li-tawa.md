@@ -21,8 +21,8 @@ accessibility-notes: null
 notes: null
 ---
 
-![soweli lili li lukin e poki suli](https://upload.wikimedia.org/wikipedia/commons/4/41/Lipu_tenpo_nanpa_jan_-_soweli_en_poki_01.png)
-![soweli lili li tawa poki suli](https://upload.wikimedia.org/wikipedia/commons/6/64/Lipu_tenpo_nanpa_jan_-_soweli_en_poki_02.png)
+![soweli lili li lukin e poki suli](https://upload.wikimedia.org/wikipedia/commons/4/41/Lipu_tenpo_nanpa_jan_-_soweli_en_poki_01.png)  
+![soweli lili li tawa poki suli](https://upload.wikimedia.org/wikipedia/commons/6/64/Lipu_tenpo_nanpa_jan_-_soweli_en_poki_02.png)  
 ![soweli lili li lon poki suli](https://upload.wikimedia.org/wikipedia/commons/7/77/Lipu_tenpo_nanpa_jan_-_soweli_en_poki_03.png)
 
 tenpo pini mute la mi kama tawa tomo ni. mi awen lon ona. open la mi taso li lon tomo ni. taso jan sin li kama. mi sona ala e nimi pi jan ni. taso mi pana e nimi Jali tawa ona. tenpo suli la ona li awen lon tomo ni lon poka mi.

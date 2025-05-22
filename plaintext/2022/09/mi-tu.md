@@ -20,8 +20,9 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-    mi ken sitelen lili kepeken toki pona, taso mi sin. mi wile e sona mute.
+> !!! note
+>
+> mi ken sitelen lili kepeken toki pona, taso mi sin. mi wile e sona mute.
 
 ## kulupu Leki
 
@@ -73,9 +74,10 @@ ona li monsuta, taso li toki e -mi kulupu sama kulupu Leki.-
 
 -lon.-
 
-!!! note
-    sitelen lili ni li musi tawa mi. mi toki e ijo kulupu la, mama meli mi li toki e sama. -mi sona.- musi musi.  
-    nimi pi jan walo lete li ken ante. ken la, ona li jan Wasi? mi wile e sona sina.
+> !!! note
+
+> sitelen lili ni li musi tawa mi. mi toki e ijo kulupu la, mama meli mi li toki e sama. -mi sona.- musi musi.  
+> nimi pi jan walo lete li ken ante. ken la, ona li jan Wasi? mi wile e sona sina.
 
 ## jan ali
 
@@ -91,5 +93,6 @@ kulupu li pilin.
 
 -tenpo ni la, mi moku e moku pi jan mun.-
 
-!!! note
-    ni li pini a! sina pona, tan sina sitelen e ni. mi wile e sina sona. ^.^
+> !!! note
+>
+> ni li pini a! sina pona, tan sina sitelen e ni. mi wile e sina sona. ^.^

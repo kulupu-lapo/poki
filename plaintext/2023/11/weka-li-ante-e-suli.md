@@ -29,5 +29,5 @@ seme|li||kama||lili
 li|kama||weka|.|sina
 |||||.
 kama|poka||la||sina
-|.
+|.||||
 suli|mi|.|mi||tu

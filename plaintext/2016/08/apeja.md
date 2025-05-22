@@ -53,7 +53,7 @@ luka ona e ante.
 
 lawa jan li pakala  \
 li kama tawa weka.  \
-la ona li ijo lili
+la ona li ijo lili  \
 mute. ona li moli.
 
 tan ni la lawa jan  \

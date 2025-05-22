@@ -28,7 +28,7 @@ sona mute nimi li nasa li musi. mi pana e kepeken nasa pi sona nimi. ona li pona
 - **nimi “len”.** jan ante li ken sona e sona sina la sina wile ala la sina ken kepeken len. “jan lawa li ken kute ala e toki mi lon kulupu pi ilo sona. tan ni: mi jo e len”. (privacy layer)
 - **nimi “pona”.** ijo li jo e ijo mute la ona li pona ala. “sitelen ni li jo e sona mute li pona ala. taso, ken la ona li pona tawa sina”. (simple)
 - **nimi “mani”.** soweli suli li pali e pali jan la ona li mani. “jan mute li wile ala moku e telo walo. tan ni: ona li pakala e mani. mi wile e ni: mani li kama soweli”. (cattle)
-- **nimi “mun”.** tenpo pimeja la, suno lili mute li lon sewi. ni li mun. “tenpo pimeja la mi tawa nena la mi alasa lukin mute e mun tawa. ona li suwi”. (star)
+- **nimi “mun”.** tenpo pimeja la, suno lili mute li lon sewi. ni li mun. “tenpo pimeja la mi tawa nena la mi alasa lukin mute e mun tawa. ona li suwi”. (star)  
 ![mun](https://upload.wikimedia.org/wikipedia/commons/9/91/Lipu_tenpo_nanpa_soweli_-_mun.png)
 - **nimi “ali”.** ma en suno en mun li lon seme? ona li lon ali a! “ali li jo e sike suno mute (e mun mute)”. (universe)
 - **nimi “mute”.** ijo li lon. sina wile sona e ni: ijo la, nanpa suli anu nanpa lili li lon? sina wile sona e mute ona. “mi jo e kili tu tu la mi moku e kili wan la mi jo e kili pi mute seme? mi jo e kili tu wan a!) “. (amount)
@@ -36,10 +36,10 @@ sona mute nimi li nasa li musi. mi pana e kepeken nasa pi sona nimi. ona li pona
 - **nimi “toki”.** sina toki lon insa pi lawa sina la sina toki. “mi wile pana e sona lon tawa jan la tenpo wan la mi toki kepeken kalama ala. ten- po tu la mi sona la mi toki kalama”. (think)
 - **nimi “olin”.** jan li pali e ijo pona e ijo suli la sina pilin e ni: ona li sewi anu wawa anu pona. pilin ni li olin kin. “jan pali li toki e ijo lon li pali e ijo pona tawa jan ali. mi olin e ona”. (respect)
 - **nimi “insa”.** ijo pi insa sijelo sina li insa. “insa li alasa e ijo ike lon telo loje la insa ni mi li jo e kiwen lon tenpo pini. ona li weka la mi pilin pona”. (organ)
-- **nimi “pilin”.** pilin li insa loje pi tawa pi telo loje. “sina pilin e olin la pilin sina li tawa mute”. (heart)
+- **nimi “pilin”.** pilin li insa loje pi tawa pi telo loje. “sina pilin e olin la pilin sina li tawa mute”. (heart)  
 ![pilin](https://upload.wikimedia.org/wikipedia/commons/9/91/Lipu_tenpo_nanpa_soweli_-_pilin.png)
 - **nimi “wile”.** sona tu pi ante mute a. sina wile kute e jan lawa sina la sina wile pali. taso ken la ni li pona ala tawa sina la sina wile ala pali. “mi wile ala pali e ni taso mi wile”. (to have to)
-- **nimi “suno”:** sina pana e suno tawa ijo la suno li kama kin tawa sina la ijo li ijo suno. “tomo mi li jo e tomo telo. ona li jo e lipu suno lon sinpin. mi ken lukin e mi kepeken ona”. (shiny/reflective)
+- **nimi “suno”:** sina pana e suno tawa ijo la suno li kama kin tawa sina la ijo li ijo suno. “tomo mi li jo e tomo telo. ona li jo e lipu suno lon sinpin. mi ken lukin e mi kepeken ona”. (shiny/reflective)  
 ![suno](https://upload.wikimedia.org/wikipedia/commons/9/91/Lipu_tenpo_nanpa_soweli_-_suno_.png)
 
 __tenpo musi pi nanpa pini a. ali li kama a:__

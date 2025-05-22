@@ -76,8 +76,8 @@ taso mi awen pilin e ni:  \
  lete li sama seli.
 
 kama wawa la  \
- mi wile awen lukin e utala.
-mi o nimi e utala ni.
+ mi wile awen lukin e utala.  \
+mi o nimi e utala ni.  \
 ken la "utala Jo pi Pilin pi ma Kon".  \
  sina pilin seme tawa nimi ni?
 

@@ -19,20 +19,21 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-    sina lukin e lipu ni la sina o sona e ni !  
-    tenpo nanpa wan la, mi sitelen kepeken nasin pi toki Kanse. toki pona li jo ala e nasin sitelen la, mi kepeken e nasin sitelen mi.  
-    kin, toki pona pi pona ala lili li lon sitelen ni : wan nimi "Ewo" li ken ala lon toki pona. taso, mi sitelen e ni.
-
-    tenpo nanpa tu la, ni li lipu tawa jan suli li lipu musi unpa.  
-    musi ni li toki e pali pi jan tu :  
-    jan wan li jan soweli mije pi len walo. nimi ona li Ewo.  
-    tan ni, sina wile sona e ni : lawa pi jan Ewo li jo e palisa soweli tu. palisa ni li sike lili (li pona lukin a).  
-    jan tu li jan soweli meli alasa suwi. nimi ona li Mawa. o sona e ni : ona jo e linja monsi soweli (li pona lukin kin uwu)
-
-    tenpo pini meso la jan Ewo en jan Mawa li kama jan olin. musi ni li toki e unpa pi nanpa wan tan jan olin ni.
-
-    sina sona ala sona e ni ? pona ! ni la mi kama sitelen..
+> !!! note
+>
+> sina lukin e lipu ni la sina o sona e ni !  
+> tenpo nanpa wan la, mi sitelen kepeken nasin pi toki Kanse. toki pona li jo ala e nasin sitelen la, mi kepeken e nasin sitelen mi.  
+> kin, toki pona pi pona ala lili li lon sitelen ni : wan nimi "Ewo" li ken ala lon toki pona. taso, mi sitelen e ni.
+>
+> tenpo nanpa tu la, ni li lipu tawa jan suli li lipu musi unpa.  
+> musi ni li toki e pali pi jan tu :  
+> jan wan li jan soweli mije pi len walo. nimi ona li Ewo.  
+> tan ni, sina wile sona e ni : lawa pi jan Ewo li jo e palisa soweli tu. palisa ni li sike lili (li pona lukin a).  
+> jan tu li jan soweli meli alasa suwi. nimi ona li Mawa. o sona e ni : ona jo e linja monsi soweli (li pona lukin kin uwu)
+>
+> tenpo pini meso la jan Ewo en jan Mawa li kama jan olin. musi ni li toki e unpa pi nanpa wan tan jan olin ni.
+>
+> sina sona ala sona e ni ? pona ! ni la mi kama sitelen..
 
 
 tenpo tu pi tenpo suno ni li kama lili.. jan Ewo en jan Mawa li kama lon tomo lape pi jan Ewo. tenpo pini la jan Mawa li sona ala e tomo lape pi jan Ewo. sona e tomo lape ni la tenpo ni li tenpo sona wan tawa jan Mawa.
@@ -215,9 +216,10 @@ tenpo pi pini la, ko unpa lili li weka tan insa unpa. supa lape ale li jaki tan 
 
 wawa li weka tan jan olin. suno walo tan lupa li suwi e supa lape a. lape li suwi e jan olin a. jan olin li tawa ala tan supa lape. jan Mawa li awen supa lon jan Ewo. jan Ewo li awen supa lon noka jan Mawa. jan olin li kama lape a, kepeken e olin pi suli suwi... a.. pona..
 
-!!! note
-    musi mi li pini ! taso mi jo e toki pi pini ale tawa sina : o sona e ni lon musi sitelen ni, jan soweli li kepeken ala e ijo awen pi ike unpa…
-
-    tan ni : ni li musi pi lon ala ! sina li unpa lon la, o kepeken e miseke, anu e ijo awen anu sona e jan unpa sina pona ! o pakala ala e pona sijelo sina tan ike unpa..
-
-    mi tawa !
+> !!! note
+>
+> musi mi li pini ! taso mi jo e toki pi pini ale tawa sina : o sona e ni lon musi sitelen ni, jan soweli li kepeken ala e ijo awen pi ike unpa…
+>
+> tan ni : ni li musi pi lon ala ! sina li unpa lon la, o kepeken e miseke, anu e ijo awen anu sona e jan unpa sina pona ! o pakala ala e pona sijelo sina tan ike unpa..
+>
+> mi tawa !

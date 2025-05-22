@@ -54,7 +54,6 @@ weka pi lukin toki mi la mama mi li toki e ni: “a… ken taso sina ken awen so
 
 kalama ala li awen lili lon uta pi mama mi. taso pini pi weka kalama la ona li toki e ni: “awen la mi pilin e ni: toki pali Inli li nasa mute li pona ala tawa sina. tenpo sina o lon tawa pona sina. taso… mi wile ala lawa ike e sina. ni la sina ken awen kama sona e toki nasa pi wile sina. ante la ken pi toki nasa sina li suli ala. jan li kepeken ala e ona la ona li suli ala.”
 
-tawa mama mi la mi toki e ni: “mi mute li ken ala ken awen toki e ni lon tenpo
-kama? mi wile open moku e moku mi pi tenpo open.”
+tawa mama mi la mi toki e ni: “mi mute li ken ala ken awen toki e ni lon tenpo kama? mi wile open moku e moku mi pi tenpo open.”
 
 “ken, jan suwi mi o. o moku pona.”

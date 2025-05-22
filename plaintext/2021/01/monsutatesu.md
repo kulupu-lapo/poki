@@ -36,9 +36,7 @@ tenpo wan la, tenpo suli la - lon insa pi sike 2020 la - ike Pike li wile sona e
 
 jan wan la, 'sina kepeken nasin pi toki Inli lon toki pona! kon pi nimi "monsuta" li sama ala kon pi nimi "fear" pi toki Inli. toki Inli li nasa!' taso, jan ante la, 'nimi "monsuta" li ken kon mute! ona li nasa mute li pona a.'
 
-toki li awen suli. tenpo la, jan mute li kama pilin e ni: 'ona li monsuta e jan' li sama 'ona li ante e jan tawa monsuta'. ni li ike tan ni:
-jan mute li toki e 'ona li monsuta e jan' tawa 'ona li pana e pilin monsuta tawa jan'.
-ike ante li lon. 'pilin monsuta' li seme? ona li 'pilin pi wile pana ike', anu 'pilin pi kama ike'?
+toki li awen suli. tenpo la, jan mute li kama pilin e ni: 'ona li monsuta e jan' li sama 'ona li ante e jan tawa monsuta'. ni li ike tan ni: jan mute li toki e 'ona li monsuta e jan' tawa 'ona li pana e pilin monsuta tawa jan'. ike ante li lon. 'pilin monsuta' li seme? ona li 'pilin pi wile pana ike', anu 'pilin pi kama ike'?
 
 nasa la, toki ni li kama wawa mute. jan ale li toki. nasin mute li lon. lawa pi jan ale li kama pakala tan toki ni. ike Pike li weka tawa lape la, toki ni li awen lon, li awen pakala e lawa pi jan ale.
 

@@ -21,7 +21,7 @@ notes: null
 ---
 
 <!-- "Donkey Shadow.jpg" by Metteo Castelli (https://www.flickr.com/photos/travalicando/132043463). CC BY-NC 2.0. -->
-![pimeja soweli](https://live.staticflickr.com/56/132043463_d1bf9e8ab9_b.jpg)
+![pimeja soweli](https://live.staticflickr.com/56/132043463_d1bf9e8ab9_b.jpg)  \
 pimeja soweli, *tan Matteo Castelli*
 
 tenpo suli pini la jan li jo e soweli tawa pi nena kute suli. jan ni li wile esun e soweli li tawa esun. jan ante li lukin e soweli li toki e ni:  \

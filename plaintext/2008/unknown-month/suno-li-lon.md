@@ -20,51 +20,51 @@ preprocessing: transcribed manually
 accessibility-notes: null
 notes: null
 ---
-tenpo suno ni la mi pali ala
-mi wile tawa poka telo
-lon ni la mi musi a
+tenpo suno ni la mi pali ala  
+mi wile tawa poka telo  
+lon ni la mi musi a  
 mi pilin pona tan ni
 
-suno li lon
-pona a
-o musi lon poka telo
-(suno li lon!)
-pona a
+suno li lon  
+pona a  
+o musi lon poka telo  
+(suno li lon!)  
+pona a  
 o musi lon poka telo
 
-tenpo suno ni la mi pali ala
-mi wile tawa poka telo [tenpo suno ni la mi pali ala]
-lon ni la mi musi a [mi wile tawa poka telo]
-mi pilin pona tan ni [lon ni la mi musi a]
+tenpo suno ni la mi pali ala  
+mi wile tawa poka telo [tenpo suno ni la mi pali ala]  
+lon ni la mi musi a [mi wile tawa poka telo]  
+mi pilin pona tan ni [lon ni la mi musi a]  
 [mi pilin pona]
 
-suno li lon
-pona a
-o musi lon poka telo
-(suno li lon!)
-pona a
-o musi lon poka telo
-
-suno li lon
-pona a
-o musi lon poka telo
-(suno li lon!)
-pona a
+suno li lon  
+pona a  
+o musi lon poka telo  
+(suno li lon!)  
+pona a  
 o musi lon poka telo
 
-(suno!)
+suno li lon  
+pona a  
+o musi lon poka telo  
+(suno li lon!)  
+pona a  
+o musi lon poka telo
+
+(suno!)  
 o musi lon poka telo [o musi lon poka telo] (musi!)
 
-suno li lon
-pona a
-o musi lon poka telo
-(suno li lon!)
-pona a
+suno li lon  
+pona a  
+o musi lon poka telo  
+(suno li lon!)  
+pona a  
 o musi lon poka telo
 
-suno li lon
-pona a
-o musi lon poka telo
-(suno li lon!)
-pona a
+suno li lon  
+pona a  
+o musi lon poka telo  
+(suno li lon!)  
+pona a  
 o musi lon poka telo

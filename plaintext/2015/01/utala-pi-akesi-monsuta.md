@@ -21,9 +21,9 @@ ni li sitelen lili sin.
 
 ---open---
 
-mi lon seme?
-tenpo pini lili la mi lape. lape ni li suli li wawa. tenpo mute la mi lape. taso tenpo ni la mi lape ala.
-mi lon.
+mi lon seme?  
+tenpo pini lili la mi lape. lape ni li suli li wawa. tenpo mute la mi lape. taso tenpo ni la mi lape ala.  
+mi lon.  
 oko mi li open ala. mi lon seme? mi pilin e ni: mi lon anpa anu seme?
 
 mi open e oko mi li lukin e ni: mi lon anpa pi ma kasi. kasi suli li lon poka mi. kasi lili li lon ali. suno lili li lon tan kasi suli.
@@ -54,7 +54,7 @@ akesi monsuta li open e uta ona li pana e seli tawa mi. mi tawa poka mi. akesi l
 
 tenpo kama la mi tawa ma ali li utala e monsuta ali. mi wile e ni: ma ali li pona tawa jan ali.
 
----pini--- 
+---pini---
 
 <!-- 
 

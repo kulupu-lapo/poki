@@ -21,8 +21,9 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-mi wile e ni: sina pilin pona tawa lipu ni. :3
+> !!! note
+>
+> mi wile e ni: sina pilin pona tawa lipu ni. :3
 
 jan Jasija li tawa lon nasin sike pi tomo mun.  
 tenpo li tenpo mun la jan mute li lape.

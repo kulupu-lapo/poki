@@ -23,8 +23,7 @@ accessibility-notes: null
 notes: null
 ---
 
-tenpo suli kasi pi tenpo sike nanpa tu tu pi tenpo nimi Sinli la, jan Ten Sisin li kama anpa li tawa ma lili
-Palin. tenpo sike kama wan la, nasin lawa li sewi, jan ale li pona, ijo lili mute li suli. jan li pona e tomo suli pi ma tomo Jejan, li suli e ni, li sitelen e sitelen musi pi jan sona pi tenpo mute lon ni. ona li toki e ni tawa mi: mi wile sitelen e ni.
+tenpo suli kasi pi tenpo sike nanpa tu tu pi tenpo nimi Sinli la, jan Ten Sisin li kama anpa li tawa ma lili Palin. tenpo sike kama wan la, nasin lawa li sewi, jan ale li pona, ijo lili mute li suli. jan li pona e tomo suli pi ma tomo Jejan, li suli e ni, li sitelen e sitelen musi pi jan sona pi tenpo mute lon ni. ona li toki e ni tawa mi: mi wile sitelen e ni.
 
 mi lukin e ni: ijo pona ale lon ma lili Palin li lon telo Tonsin. telo ni li linja tawa nena weka, li moku e nasin telo Sansan. ona li lukin suno lon tenpo walo, li lukin mun lon tenpo pimeja, li jo e selo sewi mute mute. tomo suli pi ma tomo Jejan li jo e ijo sewi ni a. ni la, jan pi tenpo pini li toki e ale. taso, poka ona li jo e lupa ma U e nasin telo Sa e nasin telo San. jan anpa pi nasin lawa en jan sitelen pi pilin mute li kulupu lon ni. ona li lukin e ijo ni la, pilin ona li wile sama a!
 

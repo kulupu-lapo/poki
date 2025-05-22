@@ -58,7 +58,7 @@ o wan e ona lon tenpo wan taso
 
 ### nanpa tu wan: o seli e pan palisa
 
-![jan moku li sewi e pan linja tawa lukin](/images/panlinja/tu%20tu.jpg)
+![jan moku li sewi e pan linja tawa lukin](/images/panlinja/tu%20tu.jpg)  
 ![telo namako li lon pan linja](/images/panlinja/luka.jpg)
 
 anpa pi pan palisa li kama pimeja lili la o pana kulupu wan pi telo kili  

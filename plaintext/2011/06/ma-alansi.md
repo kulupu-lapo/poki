@@ -17,7 +17,7 @@ accessibility-notes: null
 notes: null
 ---
 
-![utala](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBXTB78Ep1dulL5KgKRnEmEvX-qe3DTFrKNoehjsqZuE2y-RwEUjG5ZdsmBudkY3FJ5qfV2Wx2EKS-nx2JS139RVca9tt2dJ3p7TxySL-8tDEJ6mHumlqRD2iqsAxcoY8C8hyrguW4UgYS/s320/utala.jpg)
+![utala](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBXTB78Ep1dulL5KgKRnEmEvX-qe3DTFrKNoehjsqZuE2y-RwEUjG5ZdsmBudkY3FJ5qfV2Wx2EKS-nx2JS139RVca9tt2dJ3p7TxySL-8tDEJ6mHumlqRD2iqsAxcoY8C8hyrguW4UgYS/s320/utala.jpg)  \
 utala, *tan ma tomo Pylos*
 
 tenpo suli pini la jan Palato li lon ma tomo Asina. ona li sitelen e toki ni:

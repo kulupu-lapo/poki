@@ -65,7 +65,7 @@ oko sina li  \
 sama linja kule  \
 mi ken lukin e walo ale
 
-kule olin
+kule olin  \
 sina kule olin
 
 \[ante]  \

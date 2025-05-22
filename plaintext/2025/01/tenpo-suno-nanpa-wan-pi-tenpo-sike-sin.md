@@ -20,10 +20,11 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-    pali li open lon tenpo tu wan pi palisa lili lon tenpo tu mute tu wan luka wan pi palisa suli lon tenpo suno ni
-
-    pali li pini lon tenpo tu tu wan pi palisa lili lon tenpo tu mute tu wan luka wan pi palisa suli lon tenpo suno ni
+> !!! note
+>
+> pali li open lon tenpo tu wan pi palisa lili lon tenpo tu mute tu wan luka wan pi palisa suli lon tenpo suno ni
+>
+> pali li pini lon tenpo tu tu wan pi palisa lili lon tenpo tu mute tu wan luka wan pi palisa suli lon tenpo suno ni
 
 
 ｢mije Walase o｣ li toki pi jan Sote, kin ｢o awen lili : mi wile e tenpo namako a｣
@@ -126,11 +127,12 @@ mije Walase li kalama musi : ｢a a a : awen｣
 
 ona tu li awen : ona li unpa tawa tenpo pi ken ala : ona li lape suwi
 
-!!! note
-    mi sona la ni li ike mute · o toki e ike ona tawa mi
-
-    o moku e kala pona
-
-    o moku e telo unpa
-
-    o moku e wile sina : mi sona ala
+> !!! note
+>
+> mi sona la ni li ike mute · o toki e ike ona tawa mi
+>
+> o moku e kala pona
+>
+> o moku e telo unpa
+>
+> o moku e wile sina : mi sona ala

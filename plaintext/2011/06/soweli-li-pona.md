@@ -17,7 +17,7 @@ accessibility-notes: null
 notes: null
 ---
 
-![akesi Kekon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWQJc8yrM79euNMnosvQax0GIrSm6EWEtVWk0dB66FI1zqehzHDbLoACg3w906k3QFkNYPT-fY6ooEEv_xJypQo4Qj1njNmjTn_2HIzJPjKfTOVCLZ3u01HD5wzXe4Y_uxF8gWRB_gQNBN/s320/akesi-kekon.jpg)
+![akesi Kekon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWQJc8yrM79euNMnosvQax0GIrSm6EWEtVWk0dB66FI1zqehzHDbLoACg3w906k3QFkNYPT-fY6ooEEv_xJypQo4Qj1njNmjTn_2HIzJPjKfTOVCLZ3u01HD5wzXe4Y_uxF8gWRB_gQNBN/s320/akesi-kekon.jpg)  \
 akesi Kekon
 
 jan lili mi li lon ma tomo ante. ona li toki e ni:

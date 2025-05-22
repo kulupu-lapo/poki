@@ -20,10 +20,11 @@ accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 
-!!! note
-    toki! mi jan Ki, jan pali pi lipu ni. tenpo mute la mi kama sona e toki pona li olin e "meli Sila en meli lili lawa pi wawa suli", mi pilin e ni: tan seme la mi ken ala wan e ona, ni la mi pali e ni :)
-
-    lipu nanpa wan li jo e sitelen Lasina, lipu nanpa tu li jo e sitelen pona. o moku e Kala pona, mi tawa!
+> !!! note
+>
+> toki! mi jan Ki, jan pali pi lipu ni. tenpo mute la mi kama sona e toki pona li olin e "meli Sila en meli lili lawa pi wawa suli", mi pilin e ni: tan seme la mi ken ala wan e ona, ni la mi pali e ni :)
+>
+> lipu nanpa wan li jo e sitelen Lasina, lipu nanpa tu li jo e sitelen pona. o moku e Kala pona, mi tawa!
 
 
 kulupu pi jan pona li lon tomo Tala la ona li moku li musi mute, taso moku pi jan Kilima li pini.

@@ -53,5 +53,6 @@ ona li lukin e jan Nusilesi. ona li wawa ala la ni li tenpo wan. “ni li pona. 
 
 jan Nusilesi en jan Sonli li sinpin pona li tawa. ona li sona ala e pilin pi jan Sonli. taso ona li sona e jan Sonli pona.
 
-!!! note
-mi sitelen tan kama sona e ni toki
+> !!! note
+>
+> mi sitelen tan kama sona e ni toki

@@ -19,11 +19,12 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-    mi ken ala pana e nimi jan tawa toki pona.
-    - jan Kije li Kris
-    - ijo Waseji li Ralsei
-    - monsuta Susi li Susie
+> !!! note
+>
+> mi ken ala pana e nimi jan tawa toki pona.
+> - jan Kije li Kris
+> - ijo Waseji li Ralsei
+> - monsuta Susi li Susie
 
 jan Kije li pilin ike. jan Kije wile e kama pilin pona. taso, jan seme ken pona e jan Kije?
 

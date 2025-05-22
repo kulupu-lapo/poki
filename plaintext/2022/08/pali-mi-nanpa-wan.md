@@ -27,17 +27,17 @@ pali open la, sijelo pi ilo palisa mi li ijo Pasi.  esun la ona li mani lili a! 
 
 taso, ilo ni li ike tawa mi. ona li wile e pali mute, li ike lili tawa luka mi. taso, mi awen pali. len mi li kama suli. lupa ike li kama lon ona, taso mi pona e ona kepeken linja pimeja. lukin la ona li nasa, taso lupa ike li weka :)
 
-![mi pona e lupa ike mi kepeken linja pimeja](https://i.ibb.co/z674QNr/mi-pona-e-lupa-ike-kepeken-linja-pimeja.jpg)
+![mi pona e lupa ike mi kepeken linja pimeja](https://i.ibb.co/z674QNr/mi-pona-e-lupa-ike-kepeken-linja-pimeja.jpg)  
 [o suli e sitelen ni](https://ibb.co/z674QNr)
 
 mi pali e len lon tenpo mute. taso... ilo mi li pakala a!! 
 
-![ilo palisa mi li pakala! ona li kama tu](https://i.ibb.co/wdb5NBT/pakala-li-lon-a.jpg)
+![ilo palisa mi li pakala! ona li kama tu](https://i.ibb.co/wdb5NBT/pakala-li-lon-a.jpg)  
 [o suli e sitelen ni](https://ibb.co/wdb5NBT)
 
 ni li ike mute tawa mi a! mi ken ala pali kepeken ona!! mi wile esun e ilo pona. ni la mi alasa e sona pi ilo mute. jan sona li toki e ni: ilo palisa sike li pona tawa pali pi ijo mute. ni la, mi esun e ni:
 
-![ilo sin mi](https://i.ibb.co/5sMnPCk/ilo-sin.jpg)
+![ilo sin mi](https://i.ibb.co/5sMnPCk/ilo-sin.jpg)  
 [o suli e sitelen ni](https://ibb.co/5sMnPCk)
 
 mi esun e ilo palisa pi sijelo kasi, e ilo palisa pi sijelo kiwen, e linja sike. linja ni li wan e ilo palisa tu. ona li kama ilo palisa sike. ilo ale ni li mani $38AUD. tenpo suno luka tu li kama la, ilo sin li kama. 
@@ -46,9 +46,9 @@ mi awen pali kepeken ilo sin. len ni la mi kepeken ilo palisa pi sijelo kasi. on
 
 mi pali... mi pali... mi pali...
 
-len mi li pini a!
-![len kule mi nanpa wan](https://i.ibb.co/zN0h889/len-mi.jpg)![len kule mi nanpa tu](https://i.ibb.co/kVLzzfP/len.jpg)
-[o suli e sitelen nanpa wan](https://ibb.co/zN0h889)
+len mi li pini a!  
+![len kule mi nanpa wan](https://i.ibb.co/zN0h889/len-mi.jpg)![len kule mi nanpa tu](https://i.ibb.co/kVLzzfP/len.jpg)  
+[o suli e sitelen nanpa wan](https://ibb.co/zN0h889)  
 [o suli e sitelen nanpa tu](https://ibb.co/kVLzzfP)
 
 pali ni li pona tawa sona mi. mi kama sona e ni: mi wile ala e len pi kule mute lon sijelo mi. ni la, pali mi nanpa tu li kule lili a a a 

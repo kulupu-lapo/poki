@@ -47,7 +47,7 @@ musi ni la nimi mute li ken. jan Non (い しだのん) li pali e ona ona li ken
 
 sina kin li wile ala wile musi? mi pana e musi ni kepeken sitelen pi toki pona.
 
-![musi nanpa wan](https://upload.wikimedia.org/wikipedia/commons/0/05/Lipu_tenpo_nanpa_ma_-_sitelen_Non_%28akesi%29.png)
-![musi nanpa tu](https://upload.wikimedia.org/wikipedia/commons/9/9d/Lipu_tenpo_nanpa_ma_-_sitelen_Non_%28kala%29.png)
-![musi nanpa tu wan](https://upload.wikimedia.org/wikipedia/commons/0/05/Lipu_tenpo_nanpa_ma_-_sitelen_Non_%28pipi%29.png)
+![musi nanpa wan](https://upload.wikimedia.org/wikipedia/commons/0/05/Lipu_tenpo_nanpa_ma_-_sitelen_Non_%28akesi%29.png)  
+![musi nanpa tu](https://upload.wikimedia.org/wikipedia/commons/9/9d/Lipu_tenpo_nanpa_ma_-_sitelen_Non_%28kala%29.png)  
+![musi nanpa tu wan](https://upload.wikimedia.org/wikipedia/commons/0/05/Lipu_tenpo_nanpa_ma_-_sitelen_Non_%28pipi%29.png)  
 ![musi nanpa tu tu](https://upload.wikimedia.org/wikipedia/commons/9/9e/Lipu_tenpo_nanpa_ma_-_sitelen_Non_%28waso%29.png)

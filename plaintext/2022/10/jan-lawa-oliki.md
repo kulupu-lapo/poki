@@ -34,4 +34,5 @@ soweli ni li pona tawa jan lawa Oliki. jan Oliki li pilin ike tan sona sin ni. t
 utala li pini. tenpo sike mute li pini la jan Oliki en jan utala mute ona li moku li toki. jan Oliki li toki e ni: “soweli tawa mi li pilin pona ala pona?” taso ona li kama sona e ni: tenpo pini suli la soweli ni li kama moli…
 
 ni li nasa mute tawa jan lawa. ona li toki e ni: “soweli mi li moli. taso mi awen lon. pakala! jan sona ni li ike li nasa! mi wile lukin e soweli moli!”
+
 jan Oliki li tawa li lukin e soweli moli. ona li kama lon soweli ona la… a! akesi linja li lon soweli moli! ona li moku lili e jan lawa li pana e telo moli. jan lawa Oliki li kama moli tan ni a.

@@ -20,8 +20,8 @@ notes: null
 
 jan mute li sona e ma tomo Setona (Sedona). ona li lon ma Jawapa (Yavapai) pi ma Alisona (Arizona). sina sona e ona, la tan pi sona sina li kiwen loje suli lon ona. ma tomo Setona li pona tawa jan mute tan kiwen suli ni. jan mute li tawa ona tan suwi ma, tan lukin pona. jan li ken tawa nena lon nasin, li ken sona e kasi mute, li ken lukin e ijo pi pona suwi. ma Setona li suwi mute tawa lukin. taso, jan tawa li sona ala e ni: jan lawa li pali e ijo mute tawa ma suwi ni.
 
-![](/images/lawapimasetona/1.jpg)
-*sewi: sitelen ni li kiwen loje pi ma Setona. jan mute li sona e ma tomo ni tan kiwen loje ni.*
+![](/images/lawapimasetona/1.jpg)  
+*sewi: sitelen ni li kiwen loje pi ma Setona. jan mute li sona e ma tomo ni tan kiwen loje ni.*  
 *sitelen li tan jan CGP Grey.*
 
 jan lawa pi ma tomo Setona li wile e ni: jan li tawa ma ni, li ken lukin e suwi ma. taso, ike ni li lon: jan li wile awen lon ma ni. ike suli, la jan li awen lon ma ni, la kulupu esun li wile pali e tomo esun e tomo suli ante lon ma ni. ni li ken pakala e suwi ma, li ken ike! ni li ike tawa wile pi jan lawa. ni la, ona li pake e pali ike pi kulupu esun.
@@ -30,9 +30,9 @@ tan ni, la jan lawa li lawa mute e pali tomo. jan li wile pali e tomo, la pali l
 
 ma tomo Setona li pali e nasin lawa mute. nasin lawa li lon tawa lukin tomo, tawa pali tomo, tawa suli tomo. suli la, nasin lawa li lawa e ken kule. tomo li ken ala kepeken kule ike; kule ona o sama kule pi tomo poka, pi kiwen loje. tan ni, la kule ale pi ma ni li sama. kule li ken ala wawa, li ken ala pakala e oko pi jan tawa. kin, la nasin lawa ni li weka e kule pi kulupu esun suli, la tomo Matono (McDonalds) li ken ala kepeken kule ona. tan ni, la ona li laso, li ante tawa ma ante ale.
 
-![](/images/lawapimasetona/2.jpg) ![](/images/lawapimasetona/3.jpg)
-*sewi nanpa wan: sitelen ni li tomo lon poka nasin pi ilo tawa. sina ken sona e nasin pi tomo ni.*
-*sewi nanpa tu: sitelen ni li laso pi sitelen pi tomo Matono. ona li ante tawa ma ante ale.*
+![](/images/lawapimasetona/2.jpg) ![](/images/lawapimasetona/3.jpg)  
+*sewi nanpa wan: sitelen ni li tomo lon poka nasin pi ilo tawa. sina ken sona e nasin pi tomo ni.*  
+*sewi nanpa tu: sitelen ni li laso pi sitelen pi tomo Matono. ona li ante tawa ma ante ale.*  
 *sitelen li tan jan Jpatokal.*
 
 ante, la nasin lawa li lawa e ijo pi tomo ala, li awen kepeken pali lawa mute. ma tomo ni ale, la ilo suno nasin li kepeken len. ona li len ala, la tomo esun li ken ala kepeken suno mute.

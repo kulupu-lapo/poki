@@ -18,7 +18,7 @@ sources:
   - https://github.com/raacz/utala/blob/main/lipu-lili/jan-posepomamuka-o.md
   - http://utala.pona.la/lipu-lili/jan-posepomamuka-o.html
 archives: null
-preprocessing: Removed text alignment and text colour
+preprocessing: Removed text styling
 accessibility-notes: null
 notes: null
 ---
@@ -63,7 +63,6 @@ pi
 - **La(pe)_Li(li)**: nimi #tu li toki e ijo pana. kulupu_nasin li pana e Selo_Pona sin tawa sina. tenpo weka la sina lon ala kulupu_nasin li jo e kulupu ala e ma ala e pona ala. nimi sina li Mewi. mi sona e ni kin: tenpo weka la, linja sina li pimeja. selo sina li walo. sina kama lon kulupu_nasin la sina weka e nimi e selo li kama jan Posepomamuka#52208 pi linja laso kasi pi selo laso telo. sina wile weka e jan Mewi pi linja pimeja pi selo walo la sina kama lon kulupu_nasin. sina lukin e ni lon lipu nasa: 
 
   > 「kulupu_nasin li kulupu wawa sona lon anpa telo li ken pali nasa wawa. sina alasa e ijo pi ken ala la o tawa kulupu_nasin. sina wile weka tan jan ale la o tawa kulupu_nasin. sina wile tawa kulupu_nasin la o weka e kon o moku e telo. ni li nasin pona.」
-  {: style="font-size: smaller"} 
 
   la kulupu_nasin li pana e ijo pi ken ala, e Selo_Pona tawa sina. mi la kulupu_nasin li pana e Lape_Lili. lape li ike e ken mi pi alasa sona la mi kama weka e lape ale mi. tenpo ni la sijelo mi li wile ala e lape. mi wawa mute. mi ken lukin e sina lon tenpo ale li ken sona e pilin ale sina. pilin sina li tawa tan pana pi telo loje la mi kute. mi kute e pilin sina lon tenpo ale, lon tenpo poka, lon tenpo ni.
 

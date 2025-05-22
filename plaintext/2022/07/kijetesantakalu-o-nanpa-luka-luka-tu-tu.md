@@ -22,5 +22,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![kijetesantakalu li tawa waso li toki: waso pi sona sijelo o, sina ken ala ken lukin e mi lon insa? waso li toki: o open e uta. kijetesantakalu li open e uta la ona lili li lon uta ona. kin la kijetesantakalu pi lili mute li lon insa pi uta pi kijetesantakalu lili. ona li toki e ni: aaaaaa](https://upload.wikimedia.org/wikipedia/commons/3/3b/Kijetesantakalu_o%21_-_ep14.png)
+![kijetesantakalu li tawa waso li toki: waso pi sona sijelo o, sina ken ala ken lukin e mi lon insa? waso li toki: o open e uta. kijetesantakalu li open e uta la ona lili li lon uta ona. kin la kijetesantakalu pi lili mute li lon insa pi uta pi kijetesantakalu lili. ona li toki e ni: aaaaaa](https://upload.wikimedia.org/wikipedia/commons/3/3b/Kijetesantakalu_o%21_-_ep14.png)  
 ![kijetesantakalu li tawa waso li toki: waso pi sona sijelo o, sina ken ala ken lukin e mi lon insa? waso li toki: o open e uta. kijetesantakalu li open e uta la ona lili li lon uta ona. kin la kijetesantakalu pi lili mute li lon insa pi uta pi kijetesantakalu lili. ona li toki e ni: aaaaaa](https://upload.wikimedia.org/wikipedia/commons/b/bc/Kijetesantakalu_o%21_-_ep14_%28sitelen_pona%29.png)

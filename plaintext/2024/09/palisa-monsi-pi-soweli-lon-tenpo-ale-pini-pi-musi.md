@@ -23,22 +23,23 @@ accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 
-!!! note
-A translation of [Eternal Tails: Game Over](http://archiveofourown.org/works/25424860) by [Pantalion](http://archiveofourown.org/users/Pantalion/pseuds/Pantalion)
-
-    I have a love hate relationship with Toki Pona, largely because, while I respect its minimalistic goals, I feel like it is absolutely useless in its current form. This whole story, or even most of the stories in this series could be translated in a single word: mu.
-
-    That being said, I do want to showcase the fact that I spent far too much time invested in this language. The result is not some half-hearted scramble to boost my own published stories count on this site but an effort of meticulously trying to hammer an English-sized peg into a Toki Pona-sized hole.
-
-    Ku lili words are utilized, as well as any words found on nimi.li. I did not create any new words to translate this story. I have no interest in translating the other stories of this series, or any other story, into Toki Pona after this.
-
-    - konwe - life
-    - oko - eye
-    - peto - tears, crying, sorrow
-    - powe - to lie, deceive
-    - puwa - fluffy, soft
-    - taki - bond, attach
-    - tuli - three
+> !!! note
+>
+> A translation of [Eternal Tails: Game Over](http://archiveofourown.org/works/25424860) by [Pantalion](http://archiveofourown.org/users/Pantalion/pseuds/Pantalion)
+>
+> I have a love hate relationship with Toki Pona, largely because, while I respect its minimalistic goals, I feel like it is absolutely useless in its current form. This whole story, or even most of the stories in this series could be translated in a single word: mu.
+>
+> That being said, I do want to showcase the fact that I spent far too much time invested in this language. The result is not some half-hearted scramble to boost my own published stories count on this site but an effort of meticulously trying to hammer an English-sized peg into a Toki Pona-sized hole.
+>
+> Ku lili words are utilized, as well as any words found on nimi.li. I did not create any new words to translate this story. I have no interest in translating the other stories of this series, or any other story, into Toki Pona after this.
+>
+> - konwe - life
+> - oko - eye
+> - peto - tears, crying, sorrow
+> - powe - to lie, deceive
+> - puwa - fluffy, soft
+> - taki - bond, attach
+> - tuli - three
 
 mi ken ala moli tan seme?
 

@@ -20,6 +20,6 @@ notes: null
 
 tenpo pini la mi lukin e  
 toki pona li wile mute  
-kama sona e ona. 
+kama sona e ona.  
 taso, pali li pana  
 e nasa nasin mute ike.

@@ -13,7 +13,7 @@ sources:
   - https://github.com/raacz/utala/blob/main/mamtt/lipu-musi/lipu-suli/toki-pi-ma-kasi.md
   - https://utala.pona.la/mamtt/lipu-musi/lipu-suli/toki-pi-ma-kasi.html
 archives: null
-preprocessing: null
+preprocessing: replaced soft linebreak with paragraph break
 accessibility-notes: null
 notes: null
 ---
@@ -57,6 +57,7 @@ tenpo lili la, soweli lili li kama tan kasi lili. soweli li jo e selo pi pimeja 
 jan Nijaka li lukin e kalu Oli li pilin pona. ona li soweli pona tawa jan Nijaka.
 
 “kalu Oli, o. sina lili mute. tenpo pini la mi ken ala lukin e sina.”
+
 “lon, a. jan Nijaka li suli mute. suwi la, o weka e toki lili ni! mi wile toki e sona suli mute!”
 
 “soweli suwi mi. o toki e sona sina.”

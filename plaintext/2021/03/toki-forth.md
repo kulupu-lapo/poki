@@ -66,47 +66,47 @@ nimi `+` li en e nanpa tu. ona li pana e nanpa sin tawa lawa.
 ## nasin toki
 
 jan:
-> nanpa wan: mi wile kepeken nasin toki ni tawa lipu pi lipu kule
-ona li pona ala pona tawa sina
+> nanpa wan: mi wile kepeken nasin toki ni tawa lipu pi lipu kule  
+ona li pona ala pona tawa sina  
 mi wile sitelen e lipu pi pali jan
 
 eris:
 > pona a!
 
 jan:
-> oke
-o toki e pali sina
-mi sona e ni: ona li ilo forth
+> oke  
+o toki e pali sina  
+mi sona e ni: ona li ilo forth  
 taso ona li seme
 
 eris:
-> a! ilo Forth li toki ilo. ona li toki lili.
+> a! ilo Forth li toki ilo. ona li toki lili.  
 ona li pasila mute!
 
 jan:
-> a
+> a  
 jan li ken toki e ni anu seme: ilo forth li ilo toki pona
 
 eris:
-> a a a
+> a a a  
 ken, ken
 
 jan:
 > ilo ante la ilo toki sina li ante tan seme?
 
 eris:
-> ilo forth la, ilo nanpa li monsi e nanpa!
-ilo C la, 1 + 1
+> ilo forth la, ilo nanpa li monsi e nanpa!  
+ilo C la, 1 + 1  
 taso, ilo Forth la, ni li 1 1 +
 
 jan:
 > a
 
 eris:
-> ilo forth la, ale li monsi!
-lipu " toki a!" toki li sitelen e toki a
-taso, ilo ante la, ni li print("toki a!");
-ilo ante la, sina ken ala sitelen kepeken toki pona
+> ilo forth la, ale li monsi!  
+lipu " toki a!" toki li sitelen e toki a  
+taso, ilo ante la, ni li print("toki a!");  
+ilo ante la, sina ken ala sitelen kepeken toki pona  
 sina sitelen kepeken toki Inli
 
 jan:
@@ -131,11 +131,11 @@ jan:
 > a
 
 eris:
-> ni li ilo forth nasin
+> ni li ilo forth nasin  
 mi wile ante!
 
 jan:
-> a
+> a  
 tan seme la sina pali e ilo ni
 
 eris:
@@ -145,11 +145,11 @@ jan:
 > tan ante li lon ala lon?
 
 eris:
-> mi wile sitelen pona
+> mi wile sitelen pona  
 nnn
 
 jan:
-> a
+> a  
 tan pona
 
 eris:
@@ -159,14 +159,14 @@ jan:
 > sina jo ala jo e ilo pi sitelen kepeken ilo ni?
 
 eris:
-> jo! mi sitelen kepeken ilo forth e ilo forth
+> jo! mi sitelen kepeken ilo forth e ilo forth  
 > sina wile la mi sitelen e ona?
 
 jan:
 > mi wile
 
 eris:
-> ona li sitelen kepeken toki Inli
+> ona li sitelen kepeken toki Inli  
 > ni li pona anu seme?
 
 jan:
@@ -178,17 +178,17 @@ eris:
 > nasin ilo forth la, ale li nimi!
 
 eris:
-> 'functions' en 'operators' li lon ala!
-ale li nimi - + li nimi, toki li nimi!
+> 'functions' en 'operators' li lon ala!  
+ale li nimi - + li nimi, toki li nimi!  
 nimi ale li kepeken e nasin sama
 
 jan:
-> a
+> a  
 pona en sama mute a
 
 eris:
-> a!
-nasin ni la, ilo li kepeken e ijo sinpin
+> a!  
+nasin ni la, ilo li kepeken e ijo sinpin  
 ken la ona li leko mute? anu lipu kiwen mute?
 
 jan:
@@ -198,22 +198,22 @@ eris:
 > a!
 
 jan:
-> ni li toki mute tawa lipu
-sina wile ala wile toki e ijo ante pi ilo sina?
+> ni li toki mute tawa lipu  
+sina wile ala wile toki e ijo ante pi ilo sina?  
 ona li ala la nasin toki ni li ken pini
 
 eris:
-> nnnn
-ilo mi la, lili li toki pona
-anu ken toki pona :pensive:
+> nnnn  
+ilo mi la, lili li toki pona  
+anu ken toki pona :pensive:  
 mi wile pini ala, taso mi ken ala toki :pensive:
 
 jan:
 > a
 
 eris:
-> ni li pona!
-sina pona
+> ni li pona!  
+sina pona  
 :)
 
 jan:

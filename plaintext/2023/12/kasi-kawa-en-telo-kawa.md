@@ -23,7 +23,7 @@ accessibility-notes: null
 notes: null
 ---
 
-![kasi Kawa](https://upload.wikimedia.org/wikipedia/commons/5/51/Lipu_tenpo_nanpa_sewi_-_kasi_Kawa.png)
+![kasi Kawa](https://upload.wikimedia.org/wikipedia/commons/5/51/Lipu_tenpo_nanpa_sewi_-_kasi_Kawa.png)  
 ![kili Kawa](https://upload.wikimedia.org/wikipedia/commons/b/bd/Lipu_tenpo_nanpa_sewi_-_kili_Kawa_01.png)
 
 ## tenpo pini
@@ -62,5 +62,5 @@ sina pana e telo kiwen lete la, telo Pape (Frappé) anu telo Late lete (Iced Lat
 
 ma ante la, telo Kawa ante li lon. ma Tuki la, telo Kawa Tuki li lon. telo Kawa Tuki la, jan li pana e namako. kin la, telo Moka li lon. toki mute la, nimi li nasa. ni la, mi pini lon tenpo ni. o awen pona, o moku pona e telo Kawa!
 
-![kili Kawa](https://upload.wikimedia.org/wikipedia/commons/7/74/Lipu_tenpo_nanpa_sewi_-_kili_Kawa_02.png)
+![kili Kawa](https://upload.wikimedia.org/wikipedia/commons/7/74/Lipu_tenpo_nanpa_sewi_-_kili_Kawa_02.png)  
 ![telo Kawa](https://upload.wikimedia.org/wikipedia/commons/0/09/Lipu_tenpo_nanpa_sewi_-_telo_Kawa.png)

@@ -42,7 +42,7 @@ toki
 **jan Nami** (2022-08-07):  
 toki a!
 
-**jan Nami** (2022-08-07):
+**jan Nami** (2022-08-07):  
 lipu pona li toki pona taso ala / toki pona taso?
 
 **jan Kita** (2022-08-08):  

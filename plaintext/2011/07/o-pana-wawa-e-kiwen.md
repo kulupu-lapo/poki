@@ -21,7 +21,7 @@ notes: null
 ---
 
 <!-- http://collecties.meermanno.nl/handschriften/showillu?id=10535 -->
-![sitelen lon ma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmUN23aZmW6LIxW8avhEdYz7iB-6Eu-dfWNov4WP1JuZWNsKA3L3BB6BQ6rkfpe4rB0GG0L-__5wfbGTyubRXzGOqt6vWvWTYQmrSe9JIqgjvPubCXfgL5FVYpHM7nYbUpBOM_k6O7irCS/s320/sitelen-lon-ma.jpg)
+![sitelen lon ma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmUN23aZmW6LIxW8avhEdYz7iB-6Eu-dfWNov4WP1JuZWNsKA3L3BB6BQ6rkfpe4rB0GG0L-__5wfbGTyubRXzGOqt6vWvWTYQmrSe9JIqgjvPubCXfgL5FVYpHM7nYbUpBOM_k6O7irCS/s320/sitelen-lon-ma.jpg)  \
 sitelen lon ma, *tan Bible Historiale, 1372*
 
 *kulupu lipu Pipija. lipu pi jan Jowane*

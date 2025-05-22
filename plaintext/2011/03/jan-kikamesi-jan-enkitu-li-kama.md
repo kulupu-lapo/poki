@@ -24,7 +24,8 @@ ma tomo Uluku li lon. sinpin pi ma tomo Uluku li sewi li suli. sinpin ni li kiwe
 meli sewi Ninsun en jan lawa Lukapanta li mama ona. jan Kikamesi li suli li pona lukin. ona li wawa li sama jan sewi. jan ala li wile utala e ona.
 
 jan pi ma tomo Uluku li pilin ike tawa jan Kikamesi. jan li tawa tomo pi jan sewi li toki e ni: "jan sewi o! jan Kikamesi li suli li sona. nimi ona li suli li wawa. jan Kikamesi li kulupu e mije. ona li lawa e jan ni tawa utala. tan ni la mama mute li pilin ike. jan Kikamesi li jan lawa pona ala pona? jan Kikamesi li kama jo e meli li unpa e ona. tan ni la jan mute li pana e telo oko. jan Kikamesi li jan lawa pona ala pona?".
-jan soweli Enkitu
+
+### jan soweli Enkitu
 
 jan sewi li kute e ni. jan sewi An li lawa e jan sewi. ona li toki tawa mama sewi Alulu li toki e ni: "tenpo pini la sina pali e jan. o pali e jan wawa sin. o pali e jan pi sama jan Kikamesi. mi wile e ni: ona li utala e jan Kikamesi. tan ni la jan pi ma tomo Uluku li ken pilin ike ala".
 
@@ -49,7 +50,8 @@ jan Sanka li lukin e jan soweli Enkitu li kama tawa ona. jan Sanka li weka e len
 jan Enkitu li pilin e ni: ona li ken sona. jan Enkitu li pilin e ni: "mi ken sona. mi pilin. mi jan". ona li kama tawa jan Sanka li anpa. ona li lukin e sinpin jan Sanka li kute.
 
 jan Sanka li toki tawa jan Enkitu. ona li toki e ni: "jan Enkitu o! sina sama jan sewi. sina tawa poka soweli tan seme? o kama".
-jan Enkitu
+
+### jan Enkitu
 
 jan Sanka li tu e len ona. ona li len e jan Enkitu kepeken len wan. jan Sanka li toki e ni: "o kama poka mi. o kama tawa jan".
 

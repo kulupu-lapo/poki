@@ -42,5 +42,6 @@ jan Peni li pilin e mute. ona li jan li jan li jan a! jan Pijeto li mama jan. ja
 
 ona li jo e ilo sona, taso ona li ni taso ala. jan Peni li jan.
 
-!!! note
-    i've learned...quite a bit about toki pona since my last fic (from participating in uta monsuta and speaking in ma pona), but i'm still learning. if you have any feedback, i'd love to hear it! concrit helps me grow.
+> !!! note
+>
+> i've learned...quite a bit about toki pona since my last fic (from participating in uta monsuta and speaking in ma pona), but i'm still learning. if you have any feedback, i'd love to hear it! concrit helps me grow.

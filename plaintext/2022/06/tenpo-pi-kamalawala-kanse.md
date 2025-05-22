@@ -66,7 +66,6 @@ ni la sina sona e nasin tenpo pi kamalawala Kanse. sina pilin e seme tan ona? lo
 
 # lipu ante
 
-lipu "nasin tenpo pi lawa jan" tan lipu Wikipesija
-<https://fr.wikipedia.org/wiki/Calendrier_r%C3%A9publicain>
-lipu pi jan Pape Ekansin <https://gallica.bnf.fr/ark:/12148/bpt6k48746z/f3.image.zoom>
+lipu "nasin tenpo pi lawa jan" tan lipu Wikipesija <https://fr.wikipedia.org/wiki/Calendrier_r%C3%A9publicain>  
+lipu pi jan Pape Ekansin <https://gallica.bnf.fr/ark:/12148/bpt6k48746z/f3.image.zoom>  
 lipu pi jan Sipe Kome <https://gallica.bnf.fr/ark:/12148/bpt6k487479/f3.image.zoom>

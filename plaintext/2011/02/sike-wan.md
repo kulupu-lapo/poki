@@ -18,7 +18,7 @@ notes: null
 ---
 
 <!-- "File:Unico Anello.png" by Xander. Public Domain. -->
-![sike wan](https://upload.wikimedia.org/wikipedia/commons/b/b7/Unico_Anello.png)
+![sike wan](https://upload.wikimedia.org/wikipedia/commons/b/b7/Unico_Anello.png)  \
 sike wan, *tan Xander*
 
 jan Eta sewi li jo e sike mute.  \
@@ -28,6 +28,6 @@ jan lawa pimeja li jo e sike wan  \
 li lon ma Moto pimeja.  \
 sike wan li lawa e ali. sike wan li lukin e ma ali.  \
 sike wan li kama jo e ali li wan e ali kepeken ike  \
-lon ma Moto pimeja.  \
+lon ma Moto pimeja.
 
 *jan Pije*

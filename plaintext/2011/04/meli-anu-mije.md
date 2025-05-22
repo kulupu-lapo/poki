@@ -17,7 +17,7 @@ accessibility-notes: null
 notes: null
 ---
 
-![ona li meli anu mije?](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwEYzHx_yyGgfZeyQKFUKu5fnVXY67HQyDQKHrs57zValEKaglrufX4e9iMVRy1Pq_HV4ciItu5NHm-ONJX3gsg1wAXW3taEYf99fPRwzMof7E46FeU4_YHfZJG0Cj4l6OF89sACG_5S5V/s320/meli-anu-mije.png)
+![ona li meli anu mije?](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwEYzHx_yyGgfZeyQKFUKu5fnVXY67HQyDQKHrs57zValEKaglrufX4e9iMVRy1Pq_HV4ciItu5NHm-ONJX3gsg1wAXW3taEYf99fPRwzMof7E46FeU4_YHfZJG0Cj4l6OF89sACG_5S5V/s320/meli-anu-mije.png)  \
 "ona li meli anu mije?"
 
 mama en jan lili ona li lon telo suli.  \

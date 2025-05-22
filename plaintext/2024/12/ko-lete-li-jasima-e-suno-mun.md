@@ -22,8 +22,9 @@ accessibility-notes: null
 notes: mi weka e lipu pi sitelen pona
 ---
 
-!!! note
-    lipu tu li lon taso ona li sama. lipu pi nanpa wan li lon sitelen Lasina. lipu pi nanpa tu li lon sitelen pona.
+> !!! note
+>
+> lipu tu li lon taso ona li sama. lipu pi nanpa wan li lon sitelen Lasina. lipu pi nanpa tu li lon sitelen pona.
 
 jan li toki e ni: “sina lete ala lete kin!”
 

@@ -38,27 +38,32 @@ sina ken pali e toki aku kepeken tenpo lili anu tenpo suli. tan lili ona la ona 
 
 ma Nipon li mama e toki musi ni. taso jan ali li ken sona e ona e pilin suwi tan nasin ona. o tawa ma suwi pi toki aku!
 
-> telo lili la
-> akesi li kama lon.
+> telo lili la  
+> akesi li kama lon.  
 > kalama telo.
+
 – jan Paso (Basho, tan ma Nipon)
 
-> ma ni li sama
-> telo lili wan taso –
+> ma ni li sama  
+> telo lili wan taso –  
 > ken o ken taso!
+
 – jan Isa (Issa, tan ma Nipon)
 
-> mun lili mute
-> o awen lon poka ma!
+> mun lili mute  
+> o awen lon poka ma!  
 > ma li wan li wan
+
 – soweli Eli
 
-> telo li anpa
-> laso li wawa tan ni
+> telo li anpa  
+> laso li wawa tan ni  
 > sewi li anpa
+
 – jan Jasepe
 
-> anpa kasi la
-> sina ken lape pona.
+> anpa kasi la  
+> sina ken lape pona.  
 > o pilin e kon
+
 – jan Lija

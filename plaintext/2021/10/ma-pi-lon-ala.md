@@ -38,7 +38,7 @@ tawa tomo mi  \
 sina lon insa  \
 li ken ala lukin
 
-jan li toki e olin  \ 
+jan li toki e olin  \
 sama ma pi lon ala  \
 taso ona li  \
 kama lon kepeken mi  \
@@ -69,7 +69,7 @@ ijo ante li  \
 sewi ala a  \
 lon tenpo ni
 
-jan li toki e olin  \ 
+jan li toki e olin  \
 sama ma pi lon ala  \
 taso ona li  \
 kama lon kepeken mi  \
@@ -96,7 +96,7 @@ la ale li kama pona  \
 mi tu li lape la  \
 ijo pi lon ala li kama lon a
 
-o open open e lupa   \
+o open open e lupa  \
 toki li ala lon uta mi  \
 o awen ala, o kama  \
 mi tu li o pali wile  \

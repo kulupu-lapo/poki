@@ -23,24 +23,26 @@ accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 
-!!! note
-wow! this is…a lot. thank you to ma pona for the help and encouragement. i hope i can get some more chapters out at some point but…no promises.
+> !!! note
+>
+> wow! this is…a lot. thank you to ma pona for the help and encouragement. i hope i can get some more chapters out at some point but…no promises.
 
 ##
 
-!!! note
-a handy dandy guide to the characters and such:
-
-    - jan Eponi: enoby
-    - jan Teko: drako
-    - jan moli Pota: vampire potter
-    - jan Losi Meli: b'loody mary
-    - jan Wilo: willow
-    - jan Lepen: raven
-    - kulupu pi olin seli mi: my chemical romance
-    - tomo esun Otopi: hot topic
-    - jan pi pilin pimeja: goffs
-    - jan pi nasin ike: prepz
+> !!! note
+>
+> a handy dandy guide to the characters and such:
+>
+> - jan Eponi: enoby
+> - jan Teko: drako
+> - jan moli Pota: vampire potter
+> - jan Losi Meli: b'loody mary
+> - jan Wilo: willow
+> - jan Lepen: raven
+> - kulupu pi olin seli mi: my chemical romance
+> - tomo esun Otopi: hot topic
+> - jan pi pilin pimeja: goffs
+> - jan pi nasin ike: prepz
 
 sitelen lili mama: meli pona mi (jaki a! nasin ni ala) li pona mute, tan ona li pali lili e sitelen musi ni. o sina pona a! o jan Juten, sina jan olin pi kon ike mi. o sina pona kin a! kulupu pi olin seli mi li pona.
 
@@ -56,5 +58,6 @@ taso tenpo ni la, mi kute e jan pona mi li wile weka a!
 
 sitelen lili mama: ni li pona ala pona? o toki tawa mi.
 
-!!! note
-feedback is greatly appreciated. i’m sure i made a ton of mistakes and i’d love corrections (and if you’re interested in helping write more, please say so, i’d love help).
+> !!! note
+>
+> feedback is greatly appreciated. i’m sure i made a ton of mistakes and i’d love corrections (and if you’re interested in helping write more, please say so, i’d love help).

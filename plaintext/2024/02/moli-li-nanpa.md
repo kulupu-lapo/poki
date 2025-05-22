@@ -25,9 +25,9 @@ notes: null
 
 .|.|.|.|.|.
 -|-|-|-|-|-
-moli|mi|o||kon
-|.
-li|pona|kama|.|o
-nanpa|o|lon||tenpo
+moli|mi|o||kon|
+|.||||
+li|pona|kama|.|o|
+nanpa|o|lon||tenpo|
 e|tawa|ni||kin|.
-||.||.
+||.||.|

@@ -18,7 +18,7 @@ notes: null
 ---
 
 <!-- "Eye care/4 one-a-month" by Luz Rivera (https://www.flickr.com/photos/nieve44/525817053/). CC BY 4.0. -->
-![oko](https://live.staticflickr.com/1247/525817053_4c0334e703_h.jpg)
+![oko](https://live.staticflickr.com/1247/525817053_4c0334e703_h.jpg)  \
 oko, *tan Luz Rivera*
 
 tenpo mun kama la mi wile jo e lipu sin pi ken lawa pi tomo tawa mi.  \

@@ -21,5 +21,5 @@ accessibility-notes: null
 notes: null
 ---
 
-![kijetesantakalu li lon seli li toki: seli li ike, tenpo lete taso li pona. kijetesantakalu li lon lete li toki: lete li ike, tenpo seli taso li pona](https://upload.wikimedia.org/wikipedia/commons/b/b4/Kijetesantakalu_o%21_-_ep23.png)
+![kijetesantakalu li lon seli li toki: seli li ike, tenpo lete taso li pona. kijetesantakalu li lon lete li toki: lete li ike, tenpo seli taso li pona](https://upload.wikimedia.org/wikipedia/commons/b/b4/Kijetesantakalu_o%21_-_ep23.png)  
 ![kijetesantakalu li lon seli li toki: seli li ike, tenpo lete taso li pona. kijetesantakalu li lon lete li toki: lete li ike, tenpo seli taso li pona](https://upload.wikimedia.org/wikipedia/commons/0/05/Kijetesantakalu_o%21_-_ep23_%28sitelen_pona%29.png)

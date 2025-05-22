@@ -33,9 +33,6 @@ sina wile sona e ijo mute ante la o lukin e lipu tan kulupu lawa pi ma sina.
 
 ![lipu awen](https://upload.wikimedia.org/wikipedia/commons/5/56/Lipu_tenpo_nanpa_suno_-_lipu_awen.png)
 
-[^1]: “pilin monsuta” li sama “pilin ike wawa
-tan ijo ni: ijo li ken pakala e jan.
-[^2]: “ijo kiki” li sama ijo ni: ona li ken tu e
-ijo li ken pakala e selo.
-[^3]: “ijo li pake” li sama “ijo tawa li kama
-awen”.
+[^1]: “pilin monsuta” li sama “pilin ike wawa tan ijo ni: ijo li ken pakala e jan.
+[^2]: “ijo kiki” li sama ijo ni: ona li ken tu e ijo li ken pakala e selo.
+[^3]: “ijo li pake” li sama “ijo tawa li kama awen”.

@@ -39,8 +39,7 @@ ma mi li ma Soni. ma Toli en ma Soni li utala mute. mi ken ala tawa lon ma Toli.
 
 ilo wawa ni li pona tawa jan pi ma Toli. ilo ni li ken pona e jan ike. ona li ken pana e lon tawa jan moli. jan lawa mi li wile e ni, tan ni : utala li ike. jan mute li moli. sijelo pi jan mute li kama ike li pakala. mi wile pona e ma mi. mi jan ike tawa jan pi ma Toli. taso, mi jan pona tawa jan pi ma Soni.  
 
- `***`
- {:.insa}
+<p class="insa"><code>`***`</code></p>
 
 ma Toli la, mi lon tomo pi jan lawa. jan ante li lukin ala e mi. jan ante li sona ala e ni : mi lon. jan ante li kute ala e mi.  
  
@@ -53,14 +52,12 @@ tenpo ni la, mi lon ma kasi pi jan lawa. taso, jan utala mute li lon. mi wile al
 mi toki : "o tawa, o tawa wawa. ilo ni li pona mute." 
 
 
- `***`
- {:.insa}
+<p class="insa"><code>`***`</code></p>
 
 
 mi lon ma tomo lawa pi ma Toli. jan li pilin ike tan ni : mi tawa wawa. mi jo e ilo ona. uta ona li kalama mute, lukin ona li telo mute... mi wile pona e ma Soni. taso, mi wile ala ike e ma Toli... 
 
- `***`
- {:.insa}
+<p class="insa"><code>`***`</code></p>
 
 mi tawa wawa lon ma kasi suli. jan pi ma Toli li lon ala. ale li pona. mi pilin lape, taso mi tawa. tenpo kama la, mi kama awen. 
 
@@ -70,8 +67,7 @@ mi sona ala e ni : jan li lon monsi mi. jan ni li  pakala e lawa mi kepeken pali
 
  
 
- `***`
- {:.insa}
+<p class="insa"><code>`***`</code></p>
 
 mi open e lukin mi. mi lon tomo pi jan ike. palisa kiwen li sinpin mi. mi jo ala e ilo wawa. mi ken ala pali e wile pi jan lawa mi.   
 lukin mi li kama telo. mi pilin ike mute. lawa mi li pakala.  
@@ -81,8 +77,7 @@ jan ni li open e tomo pi palisa kiwen. mi tawa lon poka sina.
 
  
 
- `***`
- {:.insa}
+<p class="insa"><code>`***`</code></p>
 
  
 
@@ -103,8 +98,7 @@ mi toki e ni : "sina wile ala wile moli e mi e jan ale pi ma Soni ?"
 
  
 
- `***`
- {:.insa}
+<p class="insa"><code>`***`</code></p>
 
  
 

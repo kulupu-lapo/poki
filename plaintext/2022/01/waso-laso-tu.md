@@ -19,8 +19,9 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-o pona tawa jan Sopi! ni li tawa sina <3
+> !!! note
+> 
+> o pona tawa jan Sopi! ni li tawa sina <3
 
 kalama musi pi ona li sama sitelen; ona toki e pilin sama kon toki lili.
 

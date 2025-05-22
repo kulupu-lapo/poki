@@ -19,8 +19,9 @@ accessibility-notes: null
 notes: null
 ---
 
-!!! note
-mi pini e ni la, mi lukin ala e ona. mi pakala a! o pona e sitelen mi.
+> !!! note
+>
+> mi pini e ni la, mi lukin ala e ona. mi pakala a! o pona e sitelen mi.
 
 jan Sasali la, olin li nasa. ona li olin ala a! on li pilin pona tawa jan ante, tawa ijo ante. ni li lon. taso, ona li olin ala e jan pona ona. ona li -jan olin- ala. ona li jan pona.
 

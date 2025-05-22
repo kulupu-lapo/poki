@@ -27,10 +27,11 @@ notes: ilo li sona ala e mi la ona li pana ala e nimi pi lipu open · ni la mi s
   ala e nimi · kin toki Inli lili li lon
 ---
 
-!!! note
-please forgive any mistakes, i am still very new to toki pona!
-
-    by the way, names are not translated for the sake of comprehension.
+> !!! note
+>
+> please forgive any mistakes, i am still very new to toki pona!
+>
+> by the way, names are not translated for the sake of comprehension.
 
 tenpo pimeja la jan Tim li supa lawa pona e kulupu pali. jan pali ma The Magnus Institute li lape monsi sama sike e supa. ona li pilin ike tan pali ike. jan Jon li moku pini e telo loje tu wan e alasa tu tu.
 
@@ -102,7 +103,8 @@ jan Martin li toki musi li lukin mute lon jan Jon. “kupulu seme?”
 
 jan Jon li moku e telo loje suli.
 
-!!! notes
-for the sake of my own sanity i have heavily simplified a lot of this fanfic. if you want to read the actual good one please do read the original! this was just so i could exercise my abilities and familiarize myself with some toki pona vocabulary.
-
-    thank you kindly for reading <3
+> !!! note
+> 
+> for the sake of my own sanity i have heavily simplified a lot of this fanfic. if you want to read the actual good one please do read the original! this was just so i could exercise my abilities and familiarize myself with some toki pona vocabulary.
+>
+> thank you kindly for reading <3

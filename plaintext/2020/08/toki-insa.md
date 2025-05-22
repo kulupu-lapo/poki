@@ -23,14 +23,4 @@ accessibility-notes: null
 notes: null
 ---
 
-toki insa li sama kon tawa anu lipu kasi
-anu telo sewi. ona li kama sama ni
-kepeken wile sona la mi en ona li ken
-pona tawa sma. sina utala toki e
-telo sewi anu seme? telo sewi li sina
-ala. sama la toki insa li sina ala.
-sina sona e pilin ike kepeken olin la
-tenpo kama la ona li kama e wile sona
-lon sina. tenpo ni la ike li musi a.
-ken la ona li weka tan sina.
-ni li wawa: sina olin e ijo lon.
+toki insa li sama kon tawa anu lipu kasi anu telo sewi. ona li kama sama ni kepeken wile sona la mi en ona li ken pona tawa sama. sina utala toki e telo sewi anu seme? telo sewi li sina ala. sama la toki insa li sina ala. sina sona e pilin ike kepeken olin la tenpo kama la ona li kama e wile sona lon sina. tenpo ni la ike li musi a. ken la ona li weka tan sina. ni li wawa: sina olin e ijo lon.

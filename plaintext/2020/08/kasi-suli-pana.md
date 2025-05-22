@@ -104,7 +104,7 @@ kili loje mi li weka.”  \
 “sijelo mi li weka,” kasi li toki e ni. “sina ken ala tawa sewi - “  \
 “mi pilin wawa ala, li ken ala tawa sewi,” li toki jan.  \
 “mi pakala.” kasi li pilin ike. “mi wile pana e ijo tawa sina... taso ijo ale mi li weka.  \
-mi anpa lili taso.
+mi anpa lili taso.  \
 mi pakala...”
 
 “mi wile ala e ijo mute,” li toki jan.  \

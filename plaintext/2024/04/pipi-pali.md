@@ -25,10 +25,10 @@ notes: null
 
 .|.|.|.|.|.|.|.
 -|-|-|-|-|-|-|-
-pipi||li|ken||kama|wile
-moku|.|moku|li||lon|pipi
-||||||.
-li||mute|pona|.|pipi|o
-|||.
+pipi||li|ken||kama|wile|
+moku|.|moku|li||lon|pipi|
+||||||.|
+li||mute|pona|.|pipi|o|
+|||.||||
 wile||e|pini||moku|pipi|.
-suli||ijo|li||tan ala|moku
+suli||ijo|li||tan ala|moku|

@@ -19,12 +19,12 @@ accessibility-notes: null
 notes: toki Inli li lon lipu ni
 ---
 
-!!! note
-    - George > Joje
-    - Susan > Susan
-
-    i'm new to toki pona so any corrections/feedback is very welcome!
-
+> !!! note
+>
+> - George > Joje
+> - Susan > Susan
+>
+> i'm new to toki pona so any corrections/feedback is very welcome!
 
 jan Joje li pona. tenpo pini lili la, jan Joje li lon poka meli Susan li ike. tenpo ni la meli Susan li moli.
 

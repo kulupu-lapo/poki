@@ -19,18 +19,19 @@ accessibility-notes: null
 notes: toki Inli li lon lipu
 ---
 
-!!! note
-    ante: pakala mi. nimi jan Kituno li pakala e 'jan kiruno'
-
-    edit: my mistake. the name of cirno is incorrect [i forgot that there is no r in toki pona.]
-
-    ante nanpa tu: mi sin e nimi 'nanpa'.
-
-    edit 2: i am adding the word 'nanpa' [i also forgot that you have to add nanpa when refering to numbers. i was very sleepy when i made this, ok?]
-
-    edit 3: ignore edit 2, my original was grammatically correct. nanpa only comes before the number when you are literally referring to the number. [ie. 'i'm going to be number 1 in this topic!'] not with simple count. eugh.
-
-    edit 4: general grammar changes, changed Kituno to Kiwino
+> !!! note
+>
+> ante: pakala mi. nimi jan Kituno li pakala e 'jan kiruno'
+>
+> edit: my mistake. the name of cirno is incorrect [i forgot that there is no r in toki pona.]
+>
+> ante nanpa tu: mi sin e nimi 'nanpa'.
+>
+> edit 2: i am adding the word 'nanpa' [i also forgot that you have to add nanpa when refering to numbers. i was very sleepy when i made this, ok?]
+>
+> edit 3: ignore edit 2, my original was grammatically correct. nanpa only comes before the number when you are literally referring to the number. [ie. 'i'm going to be number 1 in this topic!'] not with simple count. eugh.
+>
+> edit 4: general grammar changes, changed Kituno to Kiwino
 
 jan Kiwino li pali e kiwen telo.
 
