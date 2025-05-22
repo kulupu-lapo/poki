@@ -5,13 +5,12 @@ on:
     branches:
       - main
 
-
 jobs:
   update-submodule:
     runs-on: ubuntu-latest
 
     env:
-      PARENT_REPO: kulupu-lapo/open
+      PARENT_REPO: kulupu-lapo/lipu
       PARENT_BRANCH: main
       SUBMODULE_PATH: poki
 
