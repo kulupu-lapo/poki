@@ -6,7 +6,10 @@ authors:
 proofreaders: null
 date: '2025-05-02'
 date-precision: day
-original: null
+original:
+  title: "Cups (Pitch Perfect's "When I'm Gone")"
+  authors:
+    - Anna Kendrick
 tags:
   - music
   - translation
