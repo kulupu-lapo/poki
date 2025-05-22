@@ -12,7 +12,6 @@ tags:
   - dub
   - video
   - minecraft
-  - beginner
 original:
   title: Steve's Lava Chicken
   authors:
