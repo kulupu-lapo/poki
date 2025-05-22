@@ -14,9 +14,9 @@ tags:
   - openutau
   - japanese
 original:
-  title: Rolling Girl
+  title: ローリンガール (Rolling Girl)
   authors:
-    - iroha
+    - wowaka (ヲワカ)
 license: null
 sources:
   - https://www.youtube.com/watch?v=x0kLYZ6Hlg8
