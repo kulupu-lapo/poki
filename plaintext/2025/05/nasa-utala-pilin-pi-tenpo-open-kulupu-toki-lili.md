@@ -8,7 +8,10 @@ authors:
 proofreaders: null
 date: '2025-05-06'
 date-precision: day
-original: null
+original:
+  title: "Seishun Complex"
+  authors:
+    - Kessoku Band
 tags:
   - music
   - translation
