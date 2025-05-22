@@ -1,8 +1,8 @@
 ---
 title: sina li nanpa
-description: >-
-  sina li nanpa, anu seme?? (sitelen tawa ni li wile sama sitelen tawa “ilo pi
-  nanpa” tan soweli Kita)
+description: |
+  sina li nanpa, anu seme??
+  (sitelen tawa ni li wile sama sitelen tawa “ilo pi nanpa” tan soweli Kita)
 authors:
   - kili potato
 proofreaders: null
