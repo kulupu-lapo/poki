@@ -10,6 +10,7 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
+  - https://www.youtube.com/watch?v=YTJrly_uKSc
   - https://lipumonsuta.neocities.org/mun-monsuta/o-moku-pona
   - https://wikisource.org/wiki/Kalama_sin/26
 archives: null

@@ -11,6 +11,7 @@ tags: null
 original: null
 license: CC-BY-SA 4.0
 sources:
+  - https://www.youtube.com/watch?v=CcQQzeuSeZQ
   - https://docs.google.com/spreadsheets/d/e/2PACX-1vQtasUq60JG-ISBsO1hlEFv5JszjeI57wEyCNEGhnjDq8AeyzKE-tx1qdwWtuMT3FBlyzNcGPvkBntD/pubhtml
   - https://wikisource.org/wiki/Kalama_sin/14
 archives: null
