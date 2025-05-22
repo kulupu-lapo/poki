@@ -3,6 +3,7 @@ title: ijo moli
 description: null
 authors:
   - jan Okelijan  # Auriga-Thörkheirhanëtr
+proofreaders: null
 original: null
 date: 2025-04-03
 date-precision: day
