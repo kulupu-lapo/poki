@@ -6,7 +6,10 @@ authors:
 proofreaders: null
 date: '2025-05-13'
 date-precision: day
-original: null
+original:
+  title: "Pompeii"
+  authors:
+    - Bastille
 tags:
   - music
   - translation
