@@ -1,5 +1,5 @@
 ---
-title: pipi li lon
+title: pipi li kon
 description: null
 authors:
   - kala pona Tonyu
