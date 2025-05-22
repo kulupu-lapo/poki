@@ -10,7 +10,7 @@ items:
   - plaintext/2021/11/nasin-pona-lipu.md                # 08
   - plaintext/2021/11/o-toki-e-ijo-pi-toki-pona-ala.md  # 09
   - plaintext/2021/11/tu-lukin-lon.md                   # 10
-  # https://wikisource.org/wiki/Kalama_sin/11
+  - plaintext/2021/05/toki-pi-kon-pona.md               # 11
   - plaintext/2021/12/ike-li-ken-ike-ala.md             # 12
   - plaintext/2021/12/pu-tosi-kalama-sin.md             # 13
   - plaintext/2021/12/tenpo-santa-li-kama.md            # 14
@@ -26,11 +26,11 @@ items:
   - plaintext/2022/07/ijo-sin.md                        # 24
   - plaintext/2022/09/kalama-sin-suno-pi-toki-pona.md   # 25
   - plaintext/2022/10/o-moku-pona.md                    # 26
-  # https://wikisource.org/wiki/Kalama_sin/27
-  - plaintext/2023/06/ma-tomo-win.md                    # 27
-  # https://wikisource.org/wiki/Kalama_sin/29
-  # https://wikisource.org/wiki/Kalama_sin/30
-  # https://wikisource.org/wiki/Kalama_sin/31
-  # https://wikisource.org/wiki/Kalama_sin/32
-  # https://wikisource.org/wiki/Kalama_sin/33
-  # https://wikisource.org/wiki/Kalama_sin/34
+  # https://wikisource.org/wiki/Kalama_sin/27           # luka pona
+  - plaintext/2023/06/ma-tomo-win.md                    # 28
+  - plaintext/2023/08/pakala-li-lon-telo-sijelo-loje.md # 29
+  - plaintext/2024/02/suno-pi-toki-pona-pi-nanpa-3.md   # 30
+  # https://wikisource.org/wiki/Kalama_sin/31           # awaiting correct names for people
+  - plaintext/2024/06/ilo-tenpo-luka.md                 # 32
+  - plaintext/2024/06/musi-kalama-sin.md                # 33
+  - plaintext/2024/07/ma-mase.md                        # 34
