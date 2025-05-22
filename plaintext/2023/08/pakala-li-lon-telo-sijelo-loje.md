@@ -14,7 +14,6 @@ tags: null
 license: CC-BY-SA 4.0
 sources:
   - https://www.youtube.com/watch?v=uSBsrPiXr78
-  - ''
 archives: null
 preprocessing: null
 accessibility-notes: null
