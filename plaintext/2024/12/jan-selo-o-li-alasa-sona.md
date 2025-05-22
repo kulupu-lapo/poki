@@ -6,7 +6,10 @@ authors:
 proofreaders: null
 date: '2024-12-24'
 date-precision: day
-original: null
+original:
+  title: "The Adventure of the Blue Carbuncle"
+  authors:
+    - Arthur Conan Doyle
 tags:
   - translation
   - story
