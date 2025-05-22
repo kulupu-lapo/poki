@@ -440,8 +440,6 @@ jan Wata li kama pilin mute. ona li toki wawa e ni: “jan pona o\! sina ken ala
 
 jan Wata li kama anpa lon noka ona li luka e selo pi poki seli. jan O li open e poki awen e ona li jo e kiwen laso mani lon sewi. ona li jo e suno lete sama mun lili. jan Wata li awen lukin e ona li sona ala e ni: ona o toki e jo ona anu ona o toki e lon ala. 
 
-## 21
-
 jan O li toki e ni kepeken kalama lili: “musi li pini. jan Wata o. o awen\! 
 
 ante la sina kama lon seli. o tawa e ona tawa supa monsi\! jan Wason o\! ona li jo ala e wawa tawa ni: ona li kama lon tomo poki tan pali ike ona. o pana e telo nasa lili tawa ona\! ni la ona li jan lukin. lon la ona li jan ike.” 
