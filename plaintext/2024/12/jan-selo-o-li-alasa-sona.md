@@ -19,9 +19,8 @@ tags:
   - mystery
 license: CC BY-NC 4.0
 sources:
-  - >-
-    https://denesszanto.itch.io/jan-selo &
-    https://docs.google.com/document/d/1s_Rztd1D8XAdNt10YlEMSdfPWknHmheN9p1k7ZpSeGA/edit?tab=t.0#heading=h.mirqa9o773oq
+  - https://denesszanto.itch.io/jan-selo
+  - https://docs.google.com/document/d/1s_Rztd1D8XAdNt10YlEMSdfPWknHmheN9p1k7ZpSeGA/edit?tab=t.0#heading=h.mirqa9o773oq
 archives: null
 preprocessing: null
 accessibility-notes: null
