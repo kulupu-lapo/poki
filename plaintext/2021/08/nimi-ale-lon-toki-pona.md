@@ -14,6 +14,7 @@ tags:
   - pop
   - educational
   - vocals
+  - every word
 original: null
 license: null
 sources:

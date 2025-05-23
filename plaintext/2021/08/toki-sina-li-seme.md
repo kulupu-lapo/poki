@@ -17,7 +17,8 @@ original:
     - Órla Fallon
 license: null
 sources:
-  - 'https://www.youtube.com/watch?v=4wvSSBCwosU'
+  - https://www.youtube.com/watch?v=4wvSSBCwosU
+  - https://seka.pona.la/w/igWRkXa3w45hVSQJRx5sbW
 archives: null
 preprocessing: null
 accessibility-notes: null

@@ -6,7 +6,10 @@ authors:
 proofreaders: null
 date: '2023-03-05'
 date-precision: day
-original: null
+original:
+  title: The House of the Rising Sun
+  authors:
+    - unknown
 tags:
   - music
   - translation
@@ -17,8 +20,8 @@ archives: null
 preprocessing: null
 accessibility-notes: null
 notes: I'd license, but translations and copyright are wonky
-
 ---
+
 ma ike Wasinsan li lon  
 ma tomo Niwalin.  
 ona li anpa e jan mute  

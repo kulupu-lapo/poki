@@ -19,6 +19,7 @@ license: null
 sources:
   - https://www.youtube.com/watch?v=sjdAnoGLeF4
   - https://soundcloud.com/kala-pona/pipi-li-kon
+  - https://www.youtube.com/watch?v=dZPiTCulcEc  # cover by kala Asi
 archives: null
 preprocessing: null
 accessibility-notes: null
