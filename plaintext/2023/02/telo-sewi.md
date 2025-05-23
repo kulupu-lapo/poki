@@ -22,14 +22,14 @@ notes: null
 ---
 
  	
-kon li mu lon poka mi
-<br>palisa en kiwen li tawa lili
-<br>lon insa pi tomo mi
+kon li mu lon poka mi  
+palisa en kiwen li tawa lili  
+lon insa pi tomo mi
 
-<br>telo sewi lete li utala e lawa pi tomo mi
-<br>lon tenpo pi kama suno
+telo sewi lete li utala e lawa pi tomo mi  
+lon tenpo pi kama suno
 
-<br>mu li kama e mi tan lape
-<br>mi tawa ma telo tan supa
-<br>mi lukin lon poka telo
-<br>tomo sina li kama lon nasin suno
+mu li kama e mi tan lape  
+mi tawa ma telo tan supa  
+mi lukin lon poka telo  
+tomo sina li kama lon nasin suno
