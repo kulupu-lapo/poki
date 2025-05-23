@@ -8,6 +8,7 @@ date: 2024-12-16
 date-precision: day
 tags:
   - 'ao3'
+  - 'final fantasy'
 original:
   title: Shade
   authors:
