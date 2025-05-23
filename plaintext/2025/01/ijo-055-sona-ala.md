@@ -8,6 +8,7 @@ date: 2025-01-20
 date-precision: day
 tags:
   - 'ao3'
+  - 'scp foundation'
 original:
   title: SCP-055 - [unknown]
   authors:
