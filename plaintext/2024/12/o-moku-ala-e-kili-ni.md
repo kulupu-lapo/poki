@@ -1,5 +1,5 @@
 ---
-title:
+title: o moku ala e kili ni
 description: null
 authors:
   - jan Janpa Onjon
@@ -11,6 +11,7 @@ tags:
   - music
   - vocal synthesizer
   - utau
+original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=ay-iZbKSnlw
