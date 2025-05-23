@@ -22,9 +22,9 @@ accessibility-notes: null
 notes: null
 ---
 
-lon pimeja la mi lape ala, mi pilin
-<br>mi tawa ale ma tan ala tawa ala
-<br>tan wile taso
+lon pimeja la mi lape ala, mi pilin  
+mi tawa ale ma tan ala tawa ala  
+tan wile taso
 
-<br>lon poka sina la, mi lon nasin tomo len
-<br>lon ma pimeja, la mun ale li suno suwi li nasin e mi
+lon poka sina la, mi lon nasin tomo len  
+lon ma pimeja, la mun ale li suno suwi li nasin e mi
