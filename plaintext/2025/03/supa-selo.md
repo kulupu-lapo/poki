@@ -1,15 +1,19 @@
 ---
 title: supa selo
-description: A translation of Jay Foreman's 'Skin Sofa'
+description: null
 authors:
   - kala Asi
 proofreaders: null
 date: '2025-03-09'
 date-precision: day
-original: null
+original:
+  title: Skin Sofa
+  authors:
+    - Jay Foreman
 tags:
   - music
   - translation
+  - suno pi toki pona
 license: null
 sources:
   - https://www.youtube.com/watch?v=Q_V5_k6B5kQ
@@ -19,7 +23,6 @@ accessibility-notes: null
 notes: I'd license, but translations and copyright are wonky
 ---
 
-  
 esun la mi o pana e supa.  
 mani la ni li suli ala.  
 taso jan o pona sin e ona,  

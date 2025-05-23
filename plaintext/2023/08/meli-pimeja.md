@@ -19,7 +19,6 @@ accessibility-notes: null
 notes: I'd license, but translations and copyright are wonky. Includes Interslavic.
 ---
 
-  
 jan wan li kama lukin e tomo,  
 ona li suli sama sewi.  
 tomo suli la, jan li lukin e meli,  
