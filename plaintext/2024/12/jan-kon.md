@@ -32,11 +32,11 @@ tenpo ni la, ma tomo majuna li lon anpa telo. jan Juse o pana e poka tawa jan ko
 
 ona tu li lon supa sewi pi tomo suli. sewi pi kon sike la, kala suli li tawa.
 
-“o lukin!” kalama uta pi jan Jutotaju li pona. “kalama suli a.”
+“o lukin!” kalama uta pi jan Jutotaju li pona. “kala suli a.”
 
 jan Juse li lukin.
 
-jan Jutotaju li toki e ni: “ona mute li pona tawa mi.”
+jan Jutotaju li toki e ni: “ona ale li pona tawa mi.”
 
 jan Juse li toki jasima: “ona li pona? sina toki ala toki e lon?”
 
