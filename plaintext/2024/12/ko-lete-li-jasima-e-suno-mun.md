@@ -15,6 +15,7 @@ original:
 license: null
 sources:
   - https://archiveofourown.org/works/61370020/chapters/156866092
+  - https://locrian.zone/language/pona/mun-lete.html
 archives:
   - https://web.archive.org/web/20250211130006/https://archiveofourown.org/works/61370020/chapters/156866092
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
