@@ -22,17 +22,17 @@ accessibility-notes: null
 notes: null
 ---
 
-sina sona ala sona e nasin nasin
-<br>ale li esun li kama li tawa lon ni
-<br>mi awen lon nasin, mi nasa tan ni
+sina sona ala sona e nasin nasin  
+ale li esun li kama li tawa lon ni  
+mi awen lon nasin, mi nasa tan ni
 
-tomo mi li lon insa pi ma suli tu
-<br>jan li alasa e ken e wawa anu seme
-<br>ale li esun e kama e tawa lon ni
+tomo mi li lon insa pi ma suli tu  
+jan li alasa e ken e wawa anu seme  
+ale li esun e kama e tawa lon ni
 
-pali mi li pini la, tenpo mi li lape
-<br>mu pi tawa ale li musi tawa mi
-<br>mi olin e nasin
-<br>taso ona li pakala e mi
-<br>ale li tawa
-<br>sina taso kin li awen
+pali mi li pini la, tenpo mi li lape  
+mu pi tawa ale li musi tawa mi  
+mi olin e nasin  
+taso ona li pakala e mi  
+ale li tawa  
+sina taso kin li awen
