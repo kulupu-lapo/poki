@@ -15,6 +15,7 @@ original:
 license: null
 sources:
   - https://archiveofourown.org/works/61364728/chapters/156851422
+  - https://locrian.zone/language/pona/jan-kon.html
 archives:
   - https://web.archive.org/web/20250211125459/https://archiveofourown.org/works/61364728/chapters/156851422
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
