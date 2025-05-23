@@ -22,17 +22,17 @@ accessibility-notes: null
 notes: null
 ---
 
-wawa li lon wawa li awen kasi
-<br>mun o, wawa e mi kin
-<br>mi toki e ni
+wawa li lon wawa li awen kasi  
+mun o, wawa e mi kin  
+mi toki e ni
 
-sina wile ala wile tawa musi
-<br>lon nasin kalama
-<br>lon poka mi
+sina wile ala wile tawa musi  
+lon nasin kalama  
+lon poka mi
 
-mi tawa insa pi supa kalama
-<br>kulupu li mu, li open e musi ona
+mi tawa insa pi supa kalama  
+kulupu li mu, li open e musi ona
 
-o lon e kalama
-<br>o sitelen e ale ma
-<br>o sijelo e olin mi
+o lon e kalama  
+o sitelen e ale ma  
+o sijelo e olin mi
