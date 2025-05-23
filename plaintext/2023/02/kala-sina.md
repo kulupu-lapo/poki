@@ -22,18 +22,18 @@ accessibility-notes: null
 notes: null
 ---
 
-tomo sina li kala
-<br>lon supa telo la
-<br>ona li tawa
+tomo sina li kala  
+lon supa telo la  
+ona li tawa
 
-mi wile lon sina
-<br>taso sina o lon weka mi
-<br>mi kin li ken ala ken weka mi
-<br>o jo e mi lon poki ni
-<br>o lon sina e mi
+mi wile lon sina  
+taso sina o lon weka mi  
+mi kin li ken ala ken weka mi  
+o jo e mi lon poki ni  
+o lon sina e mi
 
-sina sona ala sona kama sin
-<br>e tenpo kama sin
+sina sona ala sona kama sin  
+e tenpo kama sin
 
-kala sina li pana e kon tan lawa ona
-<br>mi lukin e ni tawa pini ona
+kala sina li pana e kon tan lawa ona  
+mi lukin e ni tawa pini ona
