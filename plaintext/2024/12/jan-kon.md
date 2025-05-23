@@ -2,7 +2,7 @@
 title: jan kon
 description: jan Emese li weka sona.
 authors:
-  - axiomwitch
+  - jan Nowenpa
 proofreaders: null
 date: 2024-12-16
 date-precision: day
