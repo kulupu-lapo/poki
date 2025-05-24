@@ -1,6 +1,13 @@
 ---
 title: ilo wawa
-description: null
+description: |
+  This is the short story I submitted to the contest for the "suno pi toki pona" (the toki pona anniversary festival). 🏆
+  
+  It's a bit dark and therefore definitely not a suitable bedtime story for little kids, but it's still pretty tame and safe for the children.
+  
+  Subtitles are provided in toki pona, English, and French
+  
+  Do you recognize the background music? It's my adaptation of a song by someone else.
 authors:
   - jan Sepulon
 proofreaders: null
@@ -8,8 +15,9 @@ date: 2023-08-15
 date-precision: day
 tags: null
 original: null
-license: CC-BY-SA-4.0
+license: CC-BY-3.0 OR CC-BY-SA-4.0
 sources:
+  - https://www.youtube.com/watch?v=JRSqZdgwiSo
   - https://github.com/raacz/utala/blob/main/toki-en-lipu/toki-lili.md
   - http://utala.pona.la/toki-en-lipu/toki-lili.html
 archives: null
