@@ -2,19 +2,21 @@
 title: tenpo pimeja pini
 description: “tenpo ni li tenpo pini.”
 authors:
-  - axiomwitch
+  - jan Nowenpa
 proofreaders: null
 date: 2024-12-15
 date-precision: day
 tags:
   - 'ao3'
+  - 'final fantasy'
 original:
   title: The Final Night
   authors:
-    - axiomwitch
+    - jan Nowenpa
 license: null
 sources:
   - https://archiveofourown.org/works/61341418/chapters/156788023
+  - https://locrian.zone/language/pona/tenpo-pimeja-pini.html
 archives:
   - https://web.archive.org/web/20250211124952/https://archiveofourown.org/works/61341418/chapters/156788023
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML

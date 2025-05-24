@@ -2,19 +2,21 @@
 title: ko lete li jasima e suno mun
 description: jan Mana li lon ma Kalema li kama sona e mun ona.
 authors:
-  - axiomwitch
+  - jan Nowenpa
 proofreaders: null
 date: 2024-12-16
 date-precision: day
 tags:
   - 'ao3'
+  - 'final fantasy'
 original:
   title: The Moon on the Snows
   authors:
-    - axiomwitch
+    - jan Nowenpa
 license: null
 sources:
   - https://archiveofourown.org/works/61370020/chapters/156866092
+  - https://locrian.zone/language/pona/mun-lete.html
 archives:
   - https://web.archive.org/web/20250211130006/https://archiveofourown.org/works/61370020/chapters/156866092
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML

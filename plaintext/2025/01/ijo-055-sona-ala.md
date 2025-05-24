@@ -2,20 +2,22 @@
 title: ijo 055 - [sona ala]
 description: lipu pi ijo 055 lon toki pona.
 authors:
-  - axiomwitch
+  - jan Nowenpa
 proofreaders: null
 date: 2025-01-20
 date-precision: day
 tags:
   - 'ao3'
+  - 'scp foundation'
 original:
   title: SCP-055 - [unknown]
   authors:
     - qntm
     - CptBellman
-license: null
+license: CC-BY-SA
 sources:
   - https://archiveofourown.org/works/62356867
+  - https://locrian.zone/language/pona/scp-055.html
 archives:
   - https://web.archive.org/web/20250211132123/https://archiveofourown.org/works/62356867?view_full_work=true
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
