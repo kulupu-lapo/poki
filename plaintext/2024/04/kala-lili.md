@@ -11,7 +11,7 @@ tags:
 original:
   title: Baby Shark
   authors:
-    = unknown
+    - unknown
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=vMhf6FkY-cQ
