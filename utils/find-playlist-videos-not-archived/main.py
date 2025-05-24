@@ -2,6 +2,7 @@ import yaml
 from pathlib import Path
 import yt_dlp
 import re
+import pandas as pd
 
 
 # One of the common usecases we might have with poki Lapo is,
@@ -29,7 +30,13 @@ def get_playlist_links(playlist_url):
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(playlist_url, download=False)
         entries = info.get("entries", [])
-        return set(entry['id'] for entry in entries)
+        return {
+            entry["id"]: (
+                entry.get("uploader", "Unknown Author"),
+                entry.get("title", "Unknown Title")
+            ) for entry in entries
+        }
+        # return set(entry['id'] for entry in entries)
 
 
 # 2. Extract YouTube links from frontmatter in Markdown files
@@ -74,16 +81,28 @@ def extract_youtube_links_from_md_files(directory):
 
 # 3. Compare and display links in playlist but not in markdown files
 def show_unreferenced_links(playlist_url, md_directory):
-    playlist_ids = get_playlist_links(playlist_url)
+    playlist_items = get_playlist_links(playlist_url)
+    playlist_ids = set(playlist_items.keys())
     md_ids = extract_youtube_links_from_md_files(md_directory)
 
     print("Archived links:", len(md_ids))
     print("Playlist links:", len(playlist_ids))
 
     unreferenced = playlist_ids - md_ids
+
+    df = []
     print(f"Unreferenced links {len(unreferenced)}:")
-    for link in sorted(unreferenced):
-        print(f"https://youtu.be/{link}")
+    for id_ in sorted(unreferenced):
+        df.append([
+            f"https://youtu.be/{id_}",
+            str(playlist_items[id_][0]),
+            str(playlist_items[id_][1]),
+        ])
+
+    df = pd.DataFrame(df, columns=["link", "uploader", "title"])
+    df = df.sort_values("uploader")
+    df.to_csv("remaining-videos.csv", index=False)
+    print("Created remaining-videos.csv")
 
 
 show_unreferenced_links(PLAYLIST_URL, MD_DIRECTORY)
