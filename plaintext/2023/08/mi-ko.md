@@ -1,5 +1,5 @@
 ---
-title: "mi ko" (cold wave song in toki pona)
+title: '"mi ko" (cold wave song in toki pona)'
 description: |
   Huge thanks to jan Aleko for the awesome video!
   This is a dark wave post punk song about feeling crushed,  a worthless pile of mud. The language used is toki pona, a simple conlang (constructed language) with a growing community.

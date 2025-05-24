@@ -10,8 +10,9 @@ tags:
   - music
 original:
   title: Baby Shark
-  
-license: CC-BY-3.0 AND LicenseRef-AllRightsReserved
+  authors:
+    = unknown
+license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=vMhf6FkY-cQ
 archives: null
