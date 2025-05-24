@@ -1,26 +1,26 @@
----  
-title: jan moli tawa ("A Walking Corpse", dark toki pona song)  
-description: |  
-  New toki pona music, just in time for Halloween!  
+---
+title: jan moli tawa ("A Walking Corpse", dark toki pona song)
+description: |
+  New toki pona music, just in time for Halloween!
   
-  Maybe I'll provide an official translation as subtitles. It won't be an easy task since there are a few double meanings. For example, "mi monsuta" can both be translated as "I'm a monster" and "I'm scared", and the song has an intended vagueness about its meaning(s). It has a sad side and a frightening one.  
+  Maybe I'll provide an official translation as subtitles. It won't be an easy task since there are a few double meanings. For example, "mi monsuta" can both be translated as "I'm a monster" and "I'm scared", and the song has an intended vagueness about its meaning(s). It has a sad side and a frightening one.
   
-  Written in Le Vostok, best bar in town.  
-authors:  
-  - jan Sepulon  
-proofreaders: null  
-date: 2023-10-31  
-date-precision: day  
-tags:  
-  - music  
-original: null  
-license: CC-BY-3.0  
-sources:  
-  - https://www.youtube.com/watch?v=7eD1sZf8cAI  
-archives: null  
-preprocessing: null  
-accessibility-notes: null  
-notes: null  
+  Written in Le Vostok, best bar in town.
+authors:
+  - jan Sepulon
+proofreaders: null
+date: 2023-10-31
+date-precision: day
+tags:
+  - music
+original: null
+license: CC-BY-3.0
+sources:
+  - https://www.youtube.com/watch?v=7eD1sZf8cAI
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 
 mi jan moli tawa.  
