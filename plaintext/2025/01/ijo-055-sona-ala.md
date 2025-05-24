@@ -36,7 +36,7 @@ notes: mi weka e lipu pi sitelen pona
 
 ijo li lon insa tomo poki lili pi supa sewi anpa. sinpin tomo en supa sewi tomo li kiwen kiwen li pake suno.
 
-lupa tomo li suli li kiwen. jan li awen sona ala e lupa la, lupa li pini.
+lupa tomo li suli li kiwen. jan li awen open ala e lupa la, lupa li pini.
 
 jan ala li lukin awen e tomo pi ijo 055.
 
@@ -98,7 +98,7 @@ nasin sona li lon ala la, nasin pake li lon ala.
 
 **lipu sin nanpa 055-2 la jan sona John Marachek li toki e ni**
 
-kulupu alasa pi nanpa 19-055-127BXE li tawa insa tomo pi ijo 055 li lukin e ona. ona mute li sitelen e ████████████. ona mute li weka e tomo li pini e lipu tomo.
+kulupu alasa pi nanpa 19-055-127BXE li tawa insa tomo pi ijo 055 li lukin e ona. ona mute li sitelen e ████████████. ona mute li weka e tomo li pini e lupa tomo.
 
 jan sona Hughes li toki e sitelen ni tawa jan ████████.
 > jan sona Hughes: mi toki tawa sina e ijo 55.  
