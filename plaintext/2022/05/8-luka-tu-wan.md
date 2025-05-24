@@ -1,6 +1,9 @@
 ---
 title: 8 (luka tu wan)
-description: null
+description: |
+  mi jo ala e luka tu wan. taso mi ken pali e ijo mute pona kepeken luka tu ni.
+  
+  A vague telling of a true story of how I got to this whole "do-everything-perfect" situation. A version with crisper vocals and a cleaner performance and the guitar backup I had in mind may come one day, but maybe not. I think having it like this is the right move.
 authors:
   - jan Usawi
 proofreaders: null
@@ -10,9 +13,9 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
-  - https://janusawi.bandcamp.com/album/7-8
+  - https://janusawi.bandcamp.com/track/8-luka-tu-wan
   - https://www.youtube.com/watch?v=qo2hqYnTOlA
 archives: null
 preprocessing: null

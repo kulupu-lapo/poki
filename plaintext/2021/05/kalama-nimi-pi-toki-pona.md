@@ -10,12 +10,14 @@ date: 2021-05-06
 date-precision: day
 tags:
   - music
+  - every word
 original:
   title: null
   authors: null
 license: null
 sources:
-  - 'https://www.youtube.com/watch?v=MryDuToQMsg'
+  - https://www.youtube.com/watch?v=MryDuToQMsg
+  - https://seka.pona.la/w/cS1u6Eb8zbHLf9PU2pT4xW
 archives: null
 preprocessing: null
 accessibility-notes: null

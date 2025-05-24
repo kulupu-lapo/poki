@@ -1,6 +1,9 @@
 ---
 title: 7 (likujo)
-description: null
+description: |
+  likujo li kulijo! sama poki musi Polipijusi la, o kama usawi (anu usawi e ijo pi wile sina) tan kalama musi ni ^^
+  
+  The song where I just hype myself in, like, the most ridiculous ways I could think of. More often than not, I'm wayy too hard on myself instead, so while I try not to let stuff like this genuinely go to my head too much, I figure indulging in some all-in-good-fun overconfidence now and then can't hurt. Hope y'all have fun hyping yourselves up with this one too ^^
 authors:
   - jan Usawi
 proofreaders: null
@@ -10,9 +13,9 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
-  - https://janusawi.bandcamp.com/album/7-8
+  - https://janusawi.bandcamp.com/track/7-likujo
   - https://www.youtube.com/watch?v=VOSvCudF5A0
 archives: null
 preprocessing: null

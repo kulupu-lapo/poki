@@ -1,6 +1,9 @@
 ---
 title: kiwen suwi
-description: null
+description: |
+  pini la, mi toki e ona a a a.
+  
+  I'd been sitting on this track for a while, slowly building up the lyrics for it. Might've put it out sooner were it not for the whole 7/8 bit, but I like how it turned out given that time. This one's a bit of a doozy to be putting out; the vocals part was very demanding, and lyrically there's only so much this leaves to the imagination lol. But hey, the jan Usawi project is nothing if not experimental, anti-perfectionist, and a little bit :florshed: sometimes.
 authors:
   - jan Usawi
 proofreaders: null
@@ -10,9 +13,9 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
-  - https://janusawi.bandcamp.com/album/utala-ni-li-pona-a
+  - https://janusawi.bandcamp.com/track/kiwen-suwi
   - https://www.youtube.com/watch?v=3zzZ5v58aQI
 archives: null
 preprocessing: null

@@ -1,6 +1,9 @@
 ---
 title: tawa lon linja
-description: null
+description: |
+  kalama musi pi pali e ni: jan ni li toki e ni: "nimi anu li jo e kon wan." taso ona li kute e ni la ona li toki e ni: "ken la mi toki kepeken kon ante pi nimi anu."
+  
+  a song about choosing what's best for you in a complicated relationship.
 authors:
   - jan Usawi
 proofreaders: null
@@ -10,9 +13,9 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
-  - https://janusawi.bandcamp.com/album/lon
+  - https://janusawi.bandcamp.com/track/tawa-lon-linja
   - https://www.youtube.com/watch?v=Kcg8cOU-Eho
 archives: null
 preprocessing: null

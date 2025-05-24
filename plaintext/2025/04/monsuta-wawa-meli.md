@@ -1,12 +1,15 @@
 ---
 title: monsuta wawa meli
-description: A translation of PhemieC's 'Leviathan the Girl'.
+description: null
 authors:
   - kala Asi
 proofreaders: null
 date: '2025-04-13'
 date-precision: day
-original: null
+original:
+  title: Leviathan the Girl
+  authors:
+    - PhemieC
 tags:
   - music
   - translation
@@ -18,8 +21,8 @@ archives: null
 preprocessing: null
 accessibility-notes: null
 notes: I'd license, but translations and copyright are wonky
-
 ---
+
 sitelen pimeja kama  
 li kama tan wile mi ala  
 sona li open lon lawa  

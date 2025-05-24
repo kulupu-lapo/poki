@@ -9,10 +9,13 @@ date-precision: day
 tags:
   - music
   - pop
-original: null
-license: CC BY-SA-NC 4.0
+original:
+  title: Somebody That I Used To Know
+  authors:
+  - Gotye
+license: CC-BY-NC-SA-3.0 AND LicenseRef-AllRightsReserved
 sources:
-  - https://janusawi.bandcamp.com/album/toki-gaming
+  - https://janusawi.bandcamp.com/track/jan-pi-sona-weka
 archives: null
 preprocessing: null
 accessibility-notes: null

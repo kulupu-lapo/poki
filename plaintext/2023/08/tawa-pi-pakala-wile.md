@@ -6,7 +6,10 @@ authors:
 proofreaders: null
 date: '2023-08-12'
 date-precision: day
-original: null
+original:
+  title: Masochism Tango
+  authors:
+    - Tom Lehrer
 tags:
   - music
   - translation
@@ -19,7 +22,6 @@ accessibility-notes: null
 notes: Tom Lehrer songs are in the public domain.
 ---
 
-  
 mi wile pilin e uta sina  
 li wile e linja utala kin a  
 selo mi li loje  

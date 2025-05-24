@@ -10,7 +10,7 @@ tags:
   - translation
   - music
   - lyrics
-  - pop music
+  - pop
 original:
   title: Betty
   authors:

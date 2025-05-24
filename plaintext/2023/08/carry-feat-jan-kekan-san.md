@@ -10,10 +10,13 @@ date-precision: day
 tags:
   - music
   - pop
-original: null
-license: CC BY-SA-NC 4.0
+original:
+  title: Carry On Wayward Son
+  authors:
+  - Kansas
+license: CC-BY-NC-SA-3.0 AND LicenseRef-AllRightsReserved
 sources:
-  - https://janusawi.bandcamp.com/album/toki-gaming
+  - https://janusawi.bandcamp.com/track/carry-feat-jan-kekan-san
 archives: null
 preprocessing: null
 accessibility-notes: null

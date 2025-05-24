@@ -3,16 +3,20 @@ title: in order to play the spanish flea
 description: null
 authors:
   - jan Usawi
+  - ijo Son
 proofreaders: null
 date: 2023-08-05
 date-precision: day
 tags:
   - music
   - pop
-original: null
-license: CC BY-SA-NC 4.0
+original:
+  title: The Spanish Flea
+  authors:
+    - Herb Albert
+license: CC-BY-NC-SA-3.0
 sources:
-  - https://janusawi.bandcamp.com/album/toki-gaming
+  - https://janusawi.bandcamp.com/track/in-order-to-play-the-spanish-flea
 archives: null
 preprocessing: null
 accessibility-notes: null

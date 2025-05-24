@@ -1,6 +1,13 @@
 ---
 title: omekalikante
-description: null
+description: |
+  Happy birthday omekalike!
+  
+  I've been saving this remix up for quite a while, tweaking it and adding new elements over the course of like months. Two days ago I made a mad dash to write the lyrics (both in English and in Toki Pona, don't freak out!), yesterday I recorded and edited them, and today here we are ^^
+  
+  The drums, sfx, main vocals, and text-to-speech are all new additions on the track, but everything else was made using vocal clips from the original omekalike.
+  
+  Much love to all y'all. I'm still very much blown away by, like, all of what's happened with my music this year. This is not at all where I thought rejoining ma pona was going to lead me, but I'm so glad it did. sina ale li pona sewi a.
 authors:
   - jan Usawi
 proofreaders: null
@@ -10,7 +17,7 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
   - https://janusawi.bandcamp.com/album/omekalikante
   - https://www.youtube.com/watch?v=SBTiQG_NTY4
