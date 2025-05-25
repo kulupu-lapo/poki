@@ -18,9 +18,46 @@ license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=c6voAHEJRZI
   - https://open.spotify.com/track/3BfKSPlU2rdOlgqZdajuyU
+  - https://soundcloud.com/serotonergeek/jan-poka-li-ike
 archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
 ---
 
+mi o toki ala!  
+mi o tawa ala!
+
+jan poka li kute.  
+jan poka li ike.
+
+mi o musi ala!  
+mi o moku ala!  
+mi o toki ala!  
+mi o tawa ala!
+
+jan poka li kute.  
+jan poka li ike.
+
+mi o telo ala!  
+mi o lape ala!  
+mi o musi ala!  
+mi o moku ala!  
+mi o toki ala!  
+mi o tawa ala!
+
+jan poka li kute.  
+jan poka li ike.
+
+mi o moli ala!  
+mi o weka ala!  
+mi o telo ala!  
+mi o lape ala!  
+mi o musi ala!  
+mi o moku ala!  
+mi o toki ala!  
+mi o tawa ala!
+
+jan poka li kute.  
+jan poka li ike.  
+jan poka li ike.

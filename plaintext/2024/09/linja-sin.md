@@ -12,6 +12,8 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=SUxJjkn9f74
+  - https://open.spotify.com/track/6CtAvp82TWNRY2rwrP14Nl
+  - https://soundcloud.com/serotonergeek/linja-sin-6
 archives: null
 preprocessing: null
 accessibility-notes: null

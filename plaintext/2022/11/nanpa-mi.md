@@ -15,13 +15,39 @@ date: 2022-11-30
 date-precision: day
 tags:
   - music
+  - mortality
 original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=l3lBgRva3QU
+  - https://open.spotify.com/track/3H6qor83b6ApnPTg7DlS73
+  - https://soundcloud.com/serotonergeek/nanpa-mi-its-my-birthday
 archives: null
-preprocessing: null
+preprocessing: corrected "me wan ike" to "mi wan ike"
 accessibility-notes: null
 notes: null
 ---
 
+tenpo nasa.  
+nanpa suli.  
+pilin nasa.
+
+nanpa mi  
+li kama suli.
+
+tenpo ike.  
+mi tawa ma.  
+mi majuna.
+
+nanpa mi  
+li kama suli.
+
+tenpo anpa.  
+wawa weka.  
+mi wan ike.
+
+nanpa mi  
+li kama suli.
+
+nanpa mi  
+li kama suli.

@@ -15,9 +15,35 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=CC9mCC7pfMk
+  - https://open.spotify.com/track/4baxANcIV7tIvljbuLDrMI
+  - https://soundcloud.com/serotonergeek/nasa-o-tawa-weka-2022remix
 archives: null
-preprocessing: null
+preprocessing: lyrics in parentheses aren't written out in the video
 accessibility-notes: null
 notes: null
 ---
 
+pilin moli lon insa mi.  
+moli sina lon insa mi.  
+kalama sin lon lawa mi.  
+ni li moku e mi li anpa e mi  
+li jaki e lawa mi.  
+nasa o tawa weka!
+
+pilin ike lon insa mi.  
+pilin moli lon insa mi.  
+pakala sin lon lawa mi.  
+ni li moku e mi li anpa e mi  
+li jaki e lawa mi.  
+nasa o tawa weka!
+
+lili moli lon oko mi.  
+mama pini lon lawa mi.  
+pimeja sin lon pilin mi.  
+ni li moku e mi li anpa e mi  
+li jaki e lawa mi.  
+nasa o tawa weka!
+
+(nasa o tawa weka!)  
+(nasa o tawa weka!)  
+(nasa o tawa weka!)

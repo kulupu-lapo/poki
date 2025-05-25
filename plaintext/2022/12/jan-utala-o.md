@@ -18,6 +18,8 @@ original:
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=LnXjbB4EJb8
+  - https://open.spotify.com/track/1ULnuFWRMWmpFKVOpWoZJv
+  - https://soundcloud.com/serotonergeek/jan-utala-o-bella-ciao
 archives: null
 preprocessing: null
 accessibility-notes: null

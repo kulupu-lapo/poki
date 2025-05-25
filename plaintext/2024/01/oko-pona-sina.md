@@ -15,6 +15,8 @@ original:
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=i-DET08Wp3k
+  - https://open.spotify.com/track/3IIbpciJTW2KjVrmGFVCsl
+  - https://soundcloud.com/serotonergeek/oko-pona-sina-2
 archives: null
 preprocessing: null
 accessibility-notes: null

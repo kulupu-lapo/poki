@@ -17,6 +17,8 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=MPMO714NuB4
+  - https://open.spotify.com/track/0RUfSxClFtU2zMc6Li1S5I
+  - https://soundcloud.com/serotonergeek/poki-li-eliki
 archives: null
 preprocessing: null
 accessibility-notes: null

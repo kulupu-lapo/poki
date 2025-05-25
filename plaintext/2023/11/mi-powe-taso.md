@@ -19,6 +19,8 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=EjzLg0EO-84
+  - https://open.spotify.com/track/0Mel0D7xQTM0NlYKXcVDoN
+  - https://soundcloud.com/serotonergeek/mi-powe-taso-9
 archives: null
 preprocessing: null
 accessibility-notes: null

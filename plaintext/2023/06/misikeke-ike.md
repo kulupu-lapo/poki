@@ -15,13 +15,68 @@ date: 2023-06-26
 date-precision: day
 tags:
   - music
+  - anxiety
+  - medical malpractice
 original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=2GYGJBCWw-A
+  - https://open.spotify.com/track/0DuZQnp3vM97DpbArrT7A9
+  - https://soundcloud.com/serotonergeek/misikeke-ike
 archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
 ---
 
+kon utala;  
+pilin ike;  
+oko telo;  
+uta jaki;  
+tomo sike;  
+lawa nasa;  
+ike li ni:  
+mi moli lon!
+
+sina wile taso e pona.  
+taso sina powe tawa mi.  
+toki sina ni li pakala ... e mi!
+
+luka seli;  
+noka tawa;  
+insa lete;  
+pilin wawa;  
+weka ale;  
+sijelo ko;  
+tenpo ni la  
+mi moli lon!
+
+sina wile taso e pona.  
+taso sina powe tawa mi.  
+toki sina ni li pakala ... e mi!
+
+uta moli;  
+insa kiwen;  
+luka lete;  
+sinpin ike;  
+sona weka;  
+kalama mi;  
+ike li ni:  
+mi moli lon!
+
+sina wile taso e pona.  
+taso sina powe tawa mi.  
+toki sina ni li pakala ... e mi!
+
+mu pakala;  
+oko pini;  
+ijo nasa;  
+selo pipi;  
+insa tawa;  
+lawa pali;  
+tenpo ni la,  
+mi moli lon!
+
+sina wile taso e pona.  
+taso sina powe tawa mi.  
+toki sina ni li pakala ... e mi!

@@ -12,6 +12,8 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=JF1pUmIIjYE
+  - https://open.spotify.com/track/2cbERZzcOCTPDwQR6fOL7M
+  - https://soundcloud.com/serotonergeek/sinpin-tu-3
 archives: null
 preprocessing: null
 accessibility-notes: null

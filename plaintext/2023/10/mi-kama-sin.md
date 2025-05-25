@@ -23,6 +23,8 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=ijPzFEvfPFI
+  - https://open.spotify.com/track/4X2WBSNEzrFrAWPKj0l0JZ
+  - https://soundcloud.com/serotonergeek/mi-kama-sin
 archives: null
 preprocessing: null
 accessibility-notes: null

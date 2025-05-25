@@ -20,6 +20,8 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=KtJwzZmLFiY
+  - https://open.spotify.com/track/0kItwwiospaUavWW5eDANZ
+  - https://soundcloud.com/serotonergeek/ijo-weka-8
 archives: null
 preprocessing: null
 accessibility-notes: null

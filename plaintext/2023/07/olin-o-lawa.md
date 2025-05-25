@@ -23,9 +23,55 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=qSeOKbNLTgc
+  - https://open.spotify.com/track/73y97RU24tWD5AYLoWzQJX
+  - https://soundcloud.com/serotonergeek/olinolawa
 archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
 ---
 
+jan li pakala,  
+li kalama,  
+li monsuta.  
+mi wile pona la  
+mi toki ni:  
+jan ale o !  
+sina suli.  
+o toki e ni:
+
+olin o lawa !  
+olin o lawa !  
+olin o lawa !
+
+mi lon ma sama.  
+mi utala.  
+mi alasa lon ma pimeja.  
+o kute e mi.  
+olin taso li ken suno e nasin sina.
+
+olin o lawa !  
+olin o lawa !  
+olin o lawa !
+
+tenpo ike li ken weka.  
+o kama wawa !  
+o pilin pona !
+
+olin o lawa !  
+olin o lawa !  
+olin o lawa !
+
+mi lon ma sama.  
+mi utala.  
+mi alasa lon ma pimeja.  
+o kute e mi !  
+olin taso li ken suno e nasin sina.
+
+olin o lawa !  
+olin o lawa !  
+olin o lawa !
+
+olin o lawa !  
+olin o lawa !  
+olin o lawa !

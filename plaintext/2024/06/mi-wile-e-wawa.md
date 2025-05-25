@@ -12,6 +12,8 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=kl4TVymNDvg
+  - https://open.spotify.com/track/1m3pzsaGT5XGaPPSRxlUsR
+  - https://soundcloud.com/serotonergeek/mi-wile-e-wawa-13
 archives: null
 preprocessing: null
 accessibility-notes: null

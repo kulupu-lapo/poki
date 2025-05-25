@@ -17,6 +17,8 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=DMjE6s8r3cc
+  - https://open.spotify.com/track/0yICuzVuJpxVI2wNwufP49
+  - https://soundcloud.com/serotonergeek/mi-ko-1
 archives: null
 preprocessing: null
 accessibility-notes: null

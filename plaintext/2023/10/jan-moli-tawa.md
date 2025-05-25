@@ -17,6 +17,8 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=7eD1sZf8cAI
+  - https://open.spotify.com/track/7nFdD1eblwTtHBcEq3F89f
+  - https://soundcloud.com/serotonergeek/jan-moli-tawa-7
 archives: null
 preprocessing: null
 accessibility-notes: null

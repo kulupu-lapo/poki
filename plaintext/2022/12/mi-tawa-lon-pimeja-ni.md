@@ -17,9 +17,34 @@ original: null
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=KAJ1lMFy5DI
+  - https://open.spotify.com/track/7rEVanKTC0D84VSnNPc4zQ
+  - https://soundcloud.com/serotonergeek/mi-tawa-lon-pimeja-ni
 archives: null
-preprocessing: null
+preprocessing: lyrics in parentheses aren't written out in the video
 accessibility-notes: null
 notes: null
 ---
 
+wile lape mi li suli  
+taso mi ken ala lape  
+pona li lon kon mi ala
+
+mi tawa lon pimeja ni  
+mi tawa lon pimeja mi  
+(mi tawa lon pimeja ni)
+
+nasin li jo e jan ala  
+taso ni li pona mute  
+oko ike li lon ala
+
+mi tawa lon pimeja ni  
+mi tawa lon pimeja mi  
+(mi tawa lon pimeja ni)
+
+ken la jan ante li lape  
+taso mi weka e moli  
+ike li awen e lon mi
+
+mi tawa lon pimeja ni  
+mi tawa lon pimeja mi  
+(mi tawa lon pimeja ni)
