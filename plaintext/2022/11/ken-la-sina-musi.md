@@ -1,6 +1,7 @@
 ---
 title: ken la sina musi ("Maybe you're having fun") - Darkwave toki pona song
-description: "Maybe you're having fun". Who said toki pona was only for light and happy themes?
+description: >
+  "Maybe you're having fun". Who said toki pona was only for light and happy themes?
 authors:
   - jan Sepulon
 proofreaders: null

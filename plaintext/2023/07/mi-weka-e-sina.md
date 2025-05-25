@@ -1,5 +1,5 @@
 ---
-title: "mi weka e sina" (toki pona cover of "Je t'en remets au vent" by Hubert-Félix Thiéfaine)
+title: '"mi weka e sina" (toki pona cover of "Je t''en remets au vent" by Hubert-Félix Thiéfaine)'
 description: |
   This is more an adaptation of "Je t'en remets au vent" than a pure translation. I tried to keep the general meaning, but as he's a very poetic author, a lot has been lost to translation.
   

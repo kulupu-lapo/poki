@@ -1,5 +1,5 @@
 ---
-title: "olin o lawa!" 💖 (kalama musi sin lon toki pona) / "Let Love Lead" (original toki pona song)
+title: '"olin o lawa!" 💖 (kalama musi sin lon toki pona) / "Let Love Lead" (original toki pona song)'
 description: |
   💕Yep, I can write and sing happy stuff too! I hope that love will lead you on happy paths! 💕
   
