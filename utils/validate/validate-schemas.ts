@@ -103,7 +103,7 @@ function printIssues(error: Error, recursion: number = 0) {
       }
     }
   } else {
-    console.log(e.stack);
+    console.log(error.stack);
   }
 }
 
