@@ -81,7 +81,7 @@ function validateCollection(filepath: string) {
 }
 
 function printIssues(error: Error, recursion: number = 0) {
-  if error instanceof ZodError {
+  if (error instanceof ZodError) {
     for (let issue of error.issues) {
       if (issue.code == "invalid_type") {
         let log = `${issue.path.join(".")}:  ${issue.message}`;
