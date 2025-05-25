@@ -1,5 +1,5 @@
 ---
-title: "mi moku e kiwen" 🎶 ("I Eat Pebbles", an original toki pona song)
+title: '"mi moku e kiwen" 🎶 ("I Eat Pebbles", an original toki pona song)'
 description: |
   Why would someone eat pebbles???
   
