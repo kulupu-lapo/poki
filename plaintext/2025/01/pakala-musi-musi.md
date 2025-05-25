@@ -34,7 +34,7 @@ tenpo lili la, ni li weka
 
 o tawa musi musi, pona mute mute  \
 sina o pilin ike ala  \
-lawa sina li pakala, ni li musi 
+lawa sina li pakala, ni li musi  \
 mi toki la, o tawa musi tawa moli
 
 pali li pini, jan Jamata  \
@@ -57,7 +57,7 @@ tenpo lili la, ni li weka
 
 o tawa musi musi, pona mute mute  \
 sina o pilin ike ala  \
-lawa sina li pakala, ni li musi 
+lawa sina li pakala, ni li musi  \
 mi toki la, o tawa musi tawa moli
 
 wan tu, ilo suli, san po, o kipisi  \

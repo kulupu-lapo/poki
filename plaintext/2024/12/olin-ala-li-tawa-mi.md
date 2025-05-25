@@ -61,7 +61,7 @@ toki powe ni li lon tawa mi
 jan ni li weka tawa ma ante  \
 taso, sina lon ni lon poka mi la  \
 kalama mi li sama kiwen sama jan  \
-taso, tenpo ni la,
+taso, tenpo ni la,  \
 ona li kama kalama musi
 
 pona a  \

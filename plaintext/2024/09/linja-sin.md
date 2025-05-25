@@ -30,7 +30,7 @@ taso ale li pona.
 > e linja sin tawa mi.
 > 
 > mi pali e sike  
-> kepeken linja ni 
+> kepeken linja ni  
 > linja li sike e  
 > palisa lawa mi.
 
