@@ -1,8 +1,6 @@
 ---
 title: jan kala en jan pona
-description: |
-  mi pali e ni, taso nanpa wan li tan jan Pensiman Pisin. sina ken kute e ona lon ni: https://www.youtube.com/watch?v=0JtIjJp94Os
-  tenpo nanpa wan la nimi ona li Rustics and Fisherman. kalama musi ni li pona tawa mi. o kute e nanpa wan e kalama musi tan jan Pensiman Pisin. o pona a!
+description: null
 authors:
   - lipamanka
 proofreaders: null
@@ -16,12 +14,13 @@ original:
     - Benjamin Britten
 license: null
 sources:
-  - 'https://www.youtube.com/watch?v=9f1vCkl_Mg8'
+  - https://www.youtube.com/watch?v=9f1vCkl_Mg8
 archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
 ---
+
 tan ma kasi la  
 lon poki kasi  
 ona li kama li jo e ijo sin mute  
