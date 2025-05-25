@@ -1,5 +1,5 @@
 ---
-title: "sina wile uta la..." ("If You'd Like To Kiss...", a toki pona original synthwave song)
+title: '"sina wile uta la..." ("If You'd Like To Kiss...", a toki pona original synthwave song)'
 description: |
   Do you think there's still a chance for this couple I'm talking about?
   
