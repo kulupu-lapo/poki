@@ -80,26 +80,30 @@ function validateCollection(filepath: string) {
   }
 }
 
-function printIssues(error: ZodError, recursion: number = 0) {
-  for (let issue of error.issues) {
-    if (issue.code == "invalid_type") {
-      let log = `${issue.path.join(".")}:  ${issue.message}`;
-      console.log(`${"- ".repeat(recursion)}${log}`);
-    } else if (issue.code == "invalid_union") {
-      let log = `${issue.path.join(".")}:  ${issue.message}:`;
-      console.log(`${"- ".repeat(recursion)}${log}`);
-      for (let unionError of issue.unionErrors) {
-        printIssues(unionError, recursion + 1);
+function printIssues(error: Error, recursion: number = 0) {
+  if error instanceof ZodError {
+    for (let issue of error.issues) {
+      if (issue.code == "invalid_type") {
+        let log = `${issue.path.join(".")}:  ${issue.message}`;
+        console.log(`${"- ".repeat(recursion)}${log}`);
+      } else if (issue.code == "invalid_union") {
+        let log = `${issue.path.join(".")}:  ${issue.message}:`;
+        console.log(`${"- ".repeat(recursion)}${log}`);
+        for (let unionError of issue.unionErrors) {
+          printIssues(unionError, recursion + 1);
+        }
+      } else if (issue.code == "invalid_literal") {
+        let log = `${issue.path.join(".")}:  not ${issue.expected}`;
+        console.log(`${"- ".repeat(recursion)}${log}`);
+      } else if (issue.code == "unrecognized_keys") {
+        let log = `${issue.message}`;
+        console.log(`${"- ".repeat(recursion)}${log}`);
+      } else {
+        console.log(issue);
       }
-    } else if (issue.code == "invalid_literal") {
-      let log = `${issue.path.join(".")}:  not ${issue.expected}`;
-      console.log(`${"- ".repeat(recursion)}${log}`);
-    } else if (issue.code == "unrecognized_keys") {
-      let log = `${issue.message}`;
-      console.log(`${"- ".repeat(recursion)}${log}`);
-    } else {
-      console.log(issue);
     }
+  } else {
+    console.log(e.stack);
   }
 }
 
