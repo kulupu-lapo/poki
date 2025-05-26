@@ -4,7 +4,7 @@ description: null
 authors:
   - jan Ke Tami
 proofreaders: null
-date: 2025-04-27
+date: 2025-02-02
 date-precision: day
 tags:
   - music
@@ -15,6 +15,7 @@ original:
 license: null
 sources:
   - https://www.youtube.com/watch?v=77a8BiFyK9M
+  - https://discord.com/channels/301377942062366741/1335050179228864592/1335419812972855368
 archives: null
 preprocessing: null
 accessibility-notes: null

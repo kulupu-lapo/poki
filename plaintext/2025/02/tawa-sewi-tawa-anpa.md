@@ -4,17 +4,18 @@ description: null
 authors:
   - jan Ke Tami
 proofreaders: null
-date: 2025-02-24
+date: 2025-02-19
 date-precision: day
 tags:
   - music
 original:
-  title: Funiculì Funiculà
+  title: Funiculí Funiculà
   authors:
     - Peppino Turco
 license: CC-BY-3.0
 sources:
   - https://www.youtube.com/watch?v=AR_nASainOg
+  - https://discord.com/channels/301377942062366741/1335050179228864592/1341731558037651506
 archives: null
 preprocessing: null
 accessibility-notes: null
