@@ -1,6 +1,6 @@
 ---
 title: nasin o lon tomo
-description: pona tawa ijo Anonima Kota lon ma pona pi toki pona, tan ni: ona li kama e wile pi kalama ni tawa lawa mi
+description: "pona tawa ijo Anonima Kota lon ma pona pi toki pona, tan ni: ona li kama e wile pi kalama ni tawa lawa mi"
 authors:
   - jan Jami
 proofreaders: null
