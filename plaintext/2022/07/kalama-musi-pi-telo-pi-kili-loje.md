@@ -4,13 +4,17 @@ description: null
 authors:
   - jan Kapi
 proofreaders: null
-date: 2025-05-05
+date: 2022-07-06  # Rereleased on 2025-05-05
 date-precision: day
 tags:
   - translation
   - music
-  - kirby
+  - food
   - nintendo
+  - kirby
+  - kirby battle royale
+  - japanese
+  - english
 original:
   title: リンゴジュースのうた  # The Apple Juice Song
   authors:
@@ -19,7 +23,8 @@ original:
     - 中村朝羽
 license: null
 sources:
-  - https://www.youtube.com/watch?v=etyq8D4ZycU
+  - https://www.youtube.com/watch?v=etyq8D4ZycU  # kalama musi pi telo pi kili loje 🍎 The Apple Juice Song (Kirby) in Toki Pona
+  - https://www.youtube.com/watch?v=kAWOHKMTlKk  # OLD VER. | The Apple Juice Song (Kirby) 🍎 toki pona cover
 archives: null
 preprocessing: null
 accessibility-notes: null
