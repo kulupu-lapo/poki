@@ -1,21 +1,21 @@
----  
-title: sina jasima mi  
-description: null  
-authors:  
-  - jan Jami  
-proofreaders: null  
-date: 2023-10-09  
-date-precision: day  
-tags:  
-  - music  
-original: null  
-license: null  
-sources:  
-  - https://www.youtube.com/watch?v=oyIvlvVVj-A  
-archives: null  
-preprocessing: transcribed manually  
-accessibility-notes: null  
-notes: null  
+---
+title: sina jasima mi
+description: null
+authors:
+  - jan Jami
+proofreaders: null
+date: 2023-10-09
+date-precision: day
+tags:
+  - music
+original: null
+license: null
+sources:
+  - https://www.youtube.com/watch?v=oyIvlvVVj-A
+archives: null
+preprocessing: transcribed manually
+accessibility-notes: null
+notes: null
 ---
 
 tenpo pini la  
