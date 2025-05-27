@@ -1,6 +1,6 @@
 ---
 title: kalama musi pi jan sewi meli - A few toki pona Goddess chants
-description: kalama musi Pekan li pona mute tawa mi. mi kepeken ala e nasin sewi Pekan. taso, nasin ni li pona tawa mi. sina wile e ni: mi toki sin la o sitelen e ijo. mi toki kepeken e ijo sina.
+description: "kalama musi Pekan li pona mute tawa mi. mi kepeken ala e nasin sewi Pekan. taso, nasin ni li pona tawa mi. sina wile e ni: mi toki sin la o sitelen e ijo. mi toki kepeken e ijo sina."
 authors:
   - jan Minasa
 proofreaders: null
