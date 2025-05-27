@@ -3,8 +3,7 @@ title: soweli en sina
 description: null
 authors:
   - jan Ipinijane
-proofreaders:
-  - 
+proofreaders: null
 date: 2025-05-07
 date-precision: day
 tags:

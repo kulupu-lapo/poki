@@ -1,10 +1,10 @@
 ---
 title: kalama musi pi nimi Sitejin pi toki pona  # taken from title
-description:
+description: null
 authors:
   - 林虤
 proofreaders: null
-date: 20242-08-07
+date: 2022-08-07
 date-precision: day
 tags:
   - translation
