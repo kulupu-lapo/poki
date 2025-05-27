@@ -2,7 +2,7 @@
 title: ale li lon
 description: null
 authors:
-  - astrodonunt
+  - jan Minasa
 proofreaders: null
 date: 2019-02-17
 date-precision: day
@@ -15,12 +15,13 @@ original:
     - Olivia Olson
 license: null
 sources:
-  - 'https://www.youtube.com/watch?v=gEwKpqLNI34'
+  - https://www.youtube.com/watch?v=gEwKpqLNI34
 archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
 ---
+
 mi tawa ma kasi.  
 ijo li awen  
 lon ma pi pana mi  

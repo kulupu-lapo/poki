@@ -4,7 +4,7 @@ description: |
   mi weka e kasi ike tan ma mi.
   Off with their heads!
 authors:
-  - astrodonunt
+  - jan Minasa
 proofreaders: null
 date: 2019-12-24
 date-precision: day
@@ -15,12 +15,13 @@ original:
   authors: null
 license: null
 sources:
-  - 'https://www.youtube.com/watch?v=z6Q0B7ppwCw'
+  - https://www.youtube.com/watch?v=z6Q0B7ppwCw
 archives: null
 preprocessing: adapted from comment by author
 accessibility-notes: null
 notes: null
 ---
+
 kasi ike mute li lon ma mi.  
 kasi ike li looon!  
 mi weka e lawa.  
