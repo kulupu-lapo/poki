@@ -4,23 +4,22 @@ description: null
 authors:
   - Frums
 proofreaders: null
-date: 2021-04-25
-# preview posted on 2021-04-21
+date: 2021-04-25  # preview posted on 2021-04-21
 date-precision: day
 tags:
   - music
-original:
-  title: null
-  authors: null
-license: null
+  - electronic
+original: null
+license: LicenseRef-AllRightsReserved
 sources:
-  - 'https://strlabel.bandcamp.com/track/olin-en-pakala'
-  - 'https://www.youtube.com/watch?v=zXwddIf3sBM' # preview
+  - https://strlabel.bandcamp.com/track/olin-en-pakala
+  - https://www.youtube.com/watch?v=zXwddIf3sBM  # preview
 archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
 ---
+
 tenpo jaki a  
 mama mi li suno loje  
 tenpo ala a  
