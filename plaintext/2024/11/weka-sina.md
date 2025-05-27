@@ -22,6 +22,7 @@ sources:
   - https://www.newgrounds.com/audio/listen/1370368
   - https://soundcloud.com/tangermusic/weka-sina-with-jan-mika-stimkitten-1
   - https://open.spotify.com/track/2X34NX6YG6GZHaHnbFxiEI
+  - https://www.youtube.com/watch?v=CEmmqfK-0to  # individual song (YouTube Music)
   - https://www.youtube.com/watch?v=UbouNYelvoo&t=48m56s  # album playthrough
 archives: null
 preprocessing: null

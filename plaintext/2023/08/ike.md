@@ -13,7 +13,7 @@ tags:
 original: null
 license: null
 sources:
-  - https://www.youtube.com/watch?v=SFfcxqPBHQg  # individual song
+  - https://www.youtube.com/watch?v=SFfcxqPBHQg  # individual song (YouTube Music)
   - https://tangermusic.bandcamp.com/track/--7
   - https://drive.google.com/file/d/1h_6xzxI8q0NlvVlmH-l95REUOYPUkEwp/view
   - https://drive.google.com/drive/folders/1CtJGdQA4xdzza_gy3v6oJwcmVvhByNUP  # album
