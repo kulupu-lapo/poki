@@ -3,6 +3,7 @@ title: waso pimeja
 description: Translation of Blackbird into toki pona!
 authors:
   - toki_ike
+proofreaders: null
 date: 2025-03-17
 date-precision: day
 original:

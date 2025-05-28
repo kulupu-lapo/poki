@@ -5,7 +5,7 @@ authors:
   - ilo Kapikilo (TomatoRadio)
 proofreaders: null
 date: 2025-03-30
-date-precision: null
+date-precision: day
 original: null
 tags:
   - 'ao3'
