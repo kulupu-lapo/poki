@@ -1,9 +1,13 @@
 ---
 title: ma suno
+description: null
 authors:
   - soko Sijeni
+proofreaders: null
 date: 2001-01-01
 date-precision: none
+original: null
+tags: null
 license: null
 sources:
   - https://sijeni.neocities.org/ma-suno/
@@ -11,6 +15,8 @@ archives:
   - https://web.archive.org/web/99999999999999/https://sijeni.neocities.org/ma-suno/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
+accessibility-notes: null
+notes: null
 ---
 
 lipu te ma suno to li toki musi pi tenpo pini  

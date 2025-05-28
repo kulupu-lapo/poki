@@ -3,7 +3,10 @@ title: pana nimi la mi ike
 description: ma pi ijo Pin li ike tawa ona. ni la ona li wile tawa lon ma ante
 authors:
   - mostly_human_entity
+proofreaders: null
 date: 2025-04-21
+date-precision: day
+original: null
 tags:
   - 'ao3'
 license: null
@@ -12,6 +15,7 @@ sources:
 archives:
   - https://archive.ph/Nu3DV
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli li lon
 ---
 

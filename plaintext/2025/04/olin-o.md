@@ -3,7 +3,10 @@ title: olin o
 description: 'soweli Nalinte en soweli Lan li unpa nanpa open.'
 authors:
   - (anonymous)
+proofreaders: null
 date: 2025-04-11
+date-precision: day
+original: null
 tags:
   - 'ao3'
 license: null
@@ -12,6 +15,8 @@ sources:
 archives:
   - https://archive.ph/mZjuB
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 

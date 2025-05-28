@@ -1,12 +1,15 @@
 ---
 title: Jan Musi - kulupu Jowasopi
-original-title: Idol
-description: ' mi toki pona e kalama musi nanpa wan pi sitelen tawa Jan Lili Sewi! sina wile ante e ona la, sina ken toki lon anpa :) (mi lukin ala e sitelen tawa ni... mi wile lukin taso mi jo ala e tenpo :( ken la mi lukin lon tenpo kama......) '
+description: 'mi toki pona e kalama musi nanpa wan pi sitelen tawa Jan Lili Sewi! sina wile ante e ona la, sina ken toki lon anpa :) (mi lukin ala e sitelen tawa ni... mi wile lukin taso mi jo ala e tenpo :( ken la mi lukin lon tenpo kama......)'
 authors:
   - toki_ike
-original-authors:
-  - YOASOBI
+proofreaders: null
 date: 2025-03-17
+date-precision: day
+original:
+  title: Idol
+  authors:
+    - YOASOBI
 tags:
   - 'ao3'
   - 'music'
@@ -16,6 +19,7 @@ sources:
 archives:
   - https://archive.ph/5Ckjm
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli lili li lon
 ---
 

@@ -1,12 +1,14 @@
 ---
 title: waso pimeja
-original-title: Blackbird
 description: Translation of Blackbird into toki pona!
 authors:
   - toki_ike
-original-authors:
-  - The Beatles
 date: 2025-03-17
+date-precision: day
+original:
+  title: Blackbird
+  authors:
+    - The Beatles
 tags:
   - 'ao3'
   - 'music'
@@ -16,6 +18,8 @@ sources:
 archives:
   - https://archive.ph/VsFNG
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 waso kalama lon tenpo mun  

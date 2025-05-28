@@ -3,7 +3,10 @@ title: kasi kule tenpo
 description: 'jan Linku li lon ma pi kasi suli mute la ona li kute e kalama musi suwi...'
 authors:
   - TriforceTinkerer
+proofreaders: null
 date: 2025-03-06
+date-precision: day
+original: null
 tags:
   - 'ao3'
 license: null
@@ -12,6 +15,8 @@ sources:
 archives:
   - https://archive.ph/rLLdW
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 jan Linku li lon ma pi kasi suli mute.

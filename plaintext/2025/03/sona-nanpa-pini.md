@@ -1,12 +1,15 @@
 ---
 title: sona nanpa pini
-original-title: The Last Question
 description: 'mi toki pona e lipu "The Last Question" pi jan Issac Asimov. ona li toki lon tenpo kama jan, lon pini ale.'
 authors:
   - TakodaOS
-original-authors:
-  - Isaac Asimov
+proofreaders: null
 date: 2025-03-10
+date-precision: day
+original:
+  title: The Last Question
+  authors:
+    - Isaac Asimov
 tags:
   - 'ao3'
 license: null
@@ -15,6 +18,8 @@ sources:
 archives:
   - https://archive.ph/TCTsj
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML · mi sitelen Lasina e lipu li weka e sitelen ni → ona li nasin e lukin pi sitelen pona
+accessibility-notes: null
+notes: null
 ---
 
 !!! note

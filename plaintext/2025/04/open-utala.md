@@ -1,8 +1,13 @@
 ---
 title: open utala
+description: null
 authors:
   - soko Sijeni
+proofreaders: null
 date: 2025-04-15
+date-precision: day
+original: null
+tags: null
 license: null
 sources:
   - https://sijeni.neocities.org/open-utala/
@@ -10,6 +15,8 @@ archives:
   - https://web.archive.org/web/0/https://sijeni.neocities.org/open-utala/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
+accessibility-notes: null
+notes: null
 ---
 
 open la jan li pali e kulupu utala  

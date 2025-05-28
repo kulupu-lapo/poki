@@ -1,11 +1,16 @@
 ---
 title: sewi lili
-original-title: Small Gods
+description: null
 authors:
   - soko Sijeni
-original-authors:
-  - Terry Pratchett
+proofreaders: null
 date: 2025-04-18
+date-precision: day
+original:
+  title: Small Gods
+  authors:
+    - Terry Pratchett
+tags: null
 license: null
 sources:
   - https://sijeni.neocities.org/sewi-lili/
@@ -13,6 +18,8 @@ archives:
   - https://web.archive.org/web/0/https://sijeni.neocities.org/sewi-lili/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
+accessibility-notes: null
+notes: null
 ---
 
 o sona e akesi e waso

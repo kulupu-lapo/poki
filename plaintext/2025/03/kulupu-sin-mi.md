@@ -1,8 +1,12 @@
 ---
 title: kulupu sin mi
+description: null
 authors:
   - ilo Kapikilo (TomatoRadio)
+proofreaders: null
 date: 2025-03-30
+date-precision: null
+original: null
 tags:
   - 'ao3'
 license: null
@@ -11,6 +15,8 @@ sources:
 archives:
   - https://archive.ph/zeh1F
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 ## lipu nanpa wan

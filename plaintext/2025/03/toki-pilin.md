@@ -3,7 +3,10 @@ title: toki pilin
 description: 'jan Esa li pini olin e jan Tajenko la jan Tajenko en jan Se li toki e pilin.'
 authors:
   - (anonymous)
+proofreaders: null
 date: 2025-03-17
+date-precision: day
+original: null
 tags:
   - 'ao3'
 license: null
@@ -12,6 +15,8 @@ sources:
 archives:
   - https://archive.ph/I8Kpb
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
+notes: null
 ---
 
 jan Tajenko li kama lon tomo pi jan Se, li pilin ike.  

@@ -3,7 +3,10 @@ title: jan powe li pilin ala. (... ni li lon ala.)
 description: 'jan powe li toki e ni: "mi pilin ala." ... jan powe li jan pi toki powe.'
 authors:
   - DoctorDizzyspinner
+proofreaders: null
 date: 2025-02-18
+date-precision: day
+original: null
 license: null
 tags:
   - 'ao3'
@@ -12,6 +15,7 @@ sources:
 archives:
   - https://archive.ph/CmCBB
 preprocessing: mi nasin Markdown e lipu open pi nasin HTML
+accessibility-notes: null
 notes: toki Inli lili li lon
 ---
 

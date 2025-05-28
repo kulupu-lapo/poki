@@ -1,8 +1,13 @@
 ---
 title: jan Kisote pi ma Mansa
+description: null
 authors:
   - soko Sijeni
+proofreaders: null
 date: 2025-04-23
+date-precision: day
+original: null
+tags:; null
 license: null
 sources:
   - https://sijeni.neocities.org/jan-kisote-pi-ma-mansa/
@@ -10,6 +15,8 @@ archives:
   - https://web.archive.org/web/0/https://sijeni.neocities.org/jan-kisote-pi-ma-mansa/
 preprocessing: removed formatting characters for SP fonts e.g. square brackets for
   cartouches, word1 for alt glyph selection
+accessibility-notes: null
+notes: null
 ---
 
 ## kipisi nanpa wan - sona en pali pi jan Kisote
