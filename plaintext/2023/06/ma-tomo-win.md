@@ -126,7 +126,7 @@ kute pona.
 
 **jan Peja:** toki pona li pona tawa mi. jan pi toki pona li pona kin. toki tawa jan ni li pona tawa mi. taso toki pona li tok pi pana e sona ante tawa mi. mi li toki insa pi toki pona. mi kama sona e ijo ante pi tenpo toki pona. toki insa mi li pona.
 
-**jan Masije:** toki li pna mute tawa mi. kin la kulupu pi toki pona li pona mute.
+**jan Masije:** toki li pona mute tawa mi. kin la kulupu pi toki pona li pona mute.
 
 **jan Palento:** mi awen toki e jan pona mi. toki li musi.
 
