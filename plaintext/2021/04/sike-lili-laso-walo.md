@@ -16,11 +16,15 @@ original:
   title: The Pale Blue Dot
   authors:
     - Carl Sagan
-license: null
+license: CC-BY-SA 4.0
 sources:
+  - https://github.com/lipukule/site/blob/main/content/post/2021-06-13-sike_lili_laso_walo.md
+  - https://lipukule.org/post/2021/06/13/sike-lili-laso-walo/
+  - https://github.com/lipukule/site/blob/main/static/images/sikelililasowalo.png
   - https://discord.com/channels/301377942062366741/301380012156911616/827199410945392720
   - https://cdn.discordapp.com/attachments/301380012156911616/827199410454134824/sike_lili_laso_walo.pdf
-archives: null
+archives:
+  - https://web.archive.org/web/20250528123344/https://cdn.discordapp.com/attachments/301380012156911616/827199410454134824/sike_lili_laso_walo.pdf?ex=6837d13c&is=68367fbc&hm=3609f506692592ddea92144e3fa589fe98b051a8ef3df93c170a5d793211ff00&
 preprocessing: null
 accessibility-notes: null
 notes: null
