@@ -33,9 +33,9 @@ ona li musi mute la ona li pali lili
 ona li esun e ma ona li kama jo e lipu mute mute a  
 lipu nanpa wan tawa jan mani li tan jan Pelikano  
 lipu ni li toki e  
-te tan pi tan ala li tan e pali mi la tan mi li lili li ike e mi tan sina to  
+"tan pi tan ala li tan e pali mi la tan mi li lili li ike e mi tan sina"  
 e  
-te sewi la mun sewi sewi li awen e sina sewi li ken e ken sina pi ken suli to
+"sewi la mun sewi sewi li awen e sina sewi li ken e ken sina pi ken suli"
 
 tan ni la jan mani li kama nasa li lape ala tan lipu  
 tenpo mute la lipu li pini la ona li wile suli e lipu li sitelen e lipu sin  
@@ -65,10 +65,10 @@ len li telo la soweli li kepeken la nimi li wawa la ijo wan taso li weka
 jan utala ale o olin e meli  
 jan Kisote li toki e ni
 
-te tan ike anu tan pona la mi utala e jan suli li anpa e ona la jan suli o tawa meli suwi o toki e  
-te mi jan suli Monsijaki  
+"tan ike anu tan pona la mi utala e jan suli li anpa e ona la jan suli o tawa meli suwi o toki e  
+"mi jan suli Monsijaki  
 mi anpa tan jan wawa Kisote pi ma Mansa  
-suwi sina li pona e mi la ona li pana e mi tawa sina to to
+suwi sina li pona e mi la ona li pana e mi tawa sina""
 
 jan mani li pini toki li kama sona e nimi meli la ona li pilin wawa  
 ona li sona e meli lon ma poka  
@@ -90,23 +90,23 @@ nanpa wan la ona o kama jan utala tan jan lawa lili
 sin la ona li tawa
 
 jan Kisote li toki e ni tawa ona sama  
-te jan li kute e toki mi la jan sona li toki e ni tan tawa mi nanpa wan  
-te suno Apolo li open pana tawa ma suli e linja walo ona la  
+"jan li kute e toki mi la jan sona li toki e ni tan tawa mi nanpa wan  
+"suno Apolo li open pana tawa ma suli e linja walo ona la  
 waso lili kule li open toki kepeken kalama suwi tan sewi loje la  
 sewi li pini lape lon telo suli li lukin e jan moli la  
 jan wawa Kisote pi ma Mansa li weka tan tomo  
 li kepeken soweli Losinante  
-li open tawa lon ma kasi Mante to to  
+li open tawa lon ma kasi Mante""  
 lon la ona li tawa lon ma kasi ni  
 ona li toki kin e ni  
-te tenpo pi toki mi li tenpo pona a  
+"tenpo pi toki mi li tenpo pona a  
 jan pi tenpo kama li sitelen e sona mi lon kiwen mani  
 jan sona pona o  
-sina toki e sona mi la o weka ala e soweli pona mi Losinante to  
+sina toki e sona mi la o weka ala e soweli pona mi Losinante"  
 pilin olin la ona li toki wawa e ni  
-te meli suwi Jasuwi o  
+"meli suwi Jasuwi o  
 tan sina la open tawa li pali ike  
-pilin sina li pakala tan mi to
+pilin sina li pakala tan mi"
 
 sama la ona li toki nasa mute sama lipu  
 ni la ona li tawa lili lon tenpo suli  
@@ -128,29 +128,29 @@ mije ante lon tomo li lawa e soweli mani
 jan Kisote li kama la meli li pilin monsuta li tawa insa tomo  
 taso jan Kisote li toki suwi e ni
 
-te o monsuta ala  
-mi jan utala tawa lawa la mi pakala ala e meli suwi sama sina to
+"o monsuta ala  
+mi jan utala tawa lawa la mi pakala ala e meli suwi sama sina"
 
-meli li kute e te meli suwi to la ona li mu tan musi  
+meli li kute e "meli suwi" la ona li mu tan musi  
 ni la jan Kisote li toki sin
 
-te tan pona lukin la mu musi li kama tan lili to
+"tan pona lukin la mu musi li kama tan lili"
 
 meli li sona ala e nasin toki ni pi tenpo pini li mute e mu  
 tenpo ni la mije li kama  
 ona li lukin e sijelo linja e ilo utala li wan lon mu  
 taso ona li pilin monsuta kin tan ilo li toki
 
-te sina wile lape la o lon tomo mi to
+"sina wile lape la o lon tomo mi"
 
 jan Kisote li lukin e pona mije li toki
 
-te jan Kutopanja o  
+"jan Kutopanja o  
 ale li pona tawa mi  
-lape li utala mi to
+lape li utala mi"
 
-te supa lape sina li kiwen  
-ni la sina ken ala lape lon tomo ni lon tenpo pimeja lon tenpo ale to
+"supa lape sina li kiwen  
+ni la sina ken ala lape lon tomo ni lon tenpo pimeja lon tenpo ale"
 
 mije li pana e pona tawa jan Kisote  
 ona li moku ala la pali ale li wile e wawa suli
@@ -163,15 +163,15 @@ taso ona li ken ala weka e ale la ona li lape kepeken ni lon sijelo
 ona li musi lukin  
 meli li pona lukin tawa ona la ona li toki e ni
 
-te jan ala li kama  
+"jan ala li kama  
 e meli suwi sama  
 jan Kisote  
-lon tomo wawa to
+lon tomo wawa"
 
-te anu soweli Losinante  
+"anu soweli Losinante  
 ona li soweli mi  
 mi jan Kisote pi ma Mansa  
-o lawa e mi to
+o lawa e mi"
 
 toki li nasa kute tawa meli la ona li toki ala  
 ona li pana e moku

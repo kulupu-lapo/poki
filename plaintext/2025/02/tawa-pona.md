@@ -56,7 +56,7 @@ li lukin e mi
 a tawa pona tawa pona tawa pona pona a  
 jan li kama  
 li lukin e mi  
-la ona li toki e te kasi ni li pona to
+la ona li toki e "kasi ni li pona"
 
 ni li kasi  
 pi jan utala  

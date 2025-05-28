@@ -77,9 +77,9 @@ e wile suli
 jan Atali li monsuta ala e jan Nala  
 mute la ona tu li sama  
 pini toki la jan Atali li toki e ni  
-te o awen pona o moli ala  
+"o awen pona o moli ala  
 sina ken lawa e ma ale  
-pini ale la mi tu li toki lon tenpo sin to  
+pini ale la mi tu li toki lon tenpo sin"  
 jan Nala li sona ala e tan pi toki ni
 
 jan Nala li awen lon poki lon tenpo mute  
@@ -104,8 +104,8 @@ jan Atali li pona tawa ona
 lon la ona tu li sama  
 ona li kulupu e jan ale li pini e utala  
 jan Nala li toki  
-te mi tu li wan la mi ken lawa e ale  
-jan ala li ken pini e wawa ni to
+"mi tu li wan la mi ken lawa e ale  
+jan ala li ken pini e wawa ni"
 
 ma Nala en ma Atali li wan lon kulupu sama  
 jan mute li pilin ike tan ni  
@@ -133,25 +133,25 @@ ona li pilin ike a tan moli pi jan Sima
 li wile sona e tan  
 jan Nala en jan Atali en jan pi mama sama li kulupu  
 jan Atali li toki e ni  
-te jan Sima li len e ike ona  
-lon la ona li wile moli e sina to  
+"jan Sima li len e ike ona  
+lon la ona li wile moli e sina"  
 taso jan Nala li toki  
-te jan Sima li pona a tawa lawa mi tawa pilin mi  
+"jan Sima li pona a tawa lawa mi tawa pilin mi  
 ona li wile e ike ala  
 sina taso li lon e ike tan wile wawa  
-sina wile lawa e mi la sina kama e moli ona to  
+sina wile lawa e mi la sina kama e moli ona"  
 jan Atali li wile toki sin  
 taso wawa la jan Nala li moli e jan pi mama sama  
-te sina moli e jan mi la mi moli e jan sina to
+"sina moli e jan mi la mi moli e jan sina"
 
 jan Atali li pilin utala a  
 ona li alasa moli e jan Nala  
 taso ona li weka  
 jan Nala li toki tawa kulupu utala ona  
-te o moli e jan Atali to  
+"o moli e jan Atali"  
 taso jan mute lon kulupu li tan ma Atali  
 jan Atali li kama li toki tawa ona  
-te o moli e jan Nala to  
+"o moli e jan Nala"  
 kulupu li tu li utala  
 jan ala li ken awen
 
@@ -167,7 +167,7 @@ jan Atali li anpa
 jan Nala li wile moli e jan Atali  
 taso ona li awen ken ala  
 ona li weka e sike lukin wan tan jan Atali li toki  
-te o tawa ma sina o kama sin ala to
+"o tawa ma sina o kama sin ala"
 
 jan Atali li weka  
 pakala li suli  

@@ -28,7 +28,7 @@ li kama sona e tan ale
 li kute e kalama sewi
 
 jan pona li kulupu  
-ona li te jan suno to  
+ona li "jan suno"  
 li wile pana e sona tawa jan ale  
 ale o sona e tan sewi  
 taso jan li kute ala  
@@ -40,8 +40,8 @@ kulupu suno li tawa ma ante
 nena ma li awen e ona  
 jan mute li pilin ike  
 li toki e ni  
-te sewi li kama e moli taso tawa mi  
-mi o olin ala olin e ona to  
+"sewi li kama e moli taso tawa mi  
+mi o olin ala olin e ona"  
 taso ma nena la ale li pona  
 kasi li suli  
 soweli li suwi  
@@ -55,12 +55,12 @@ tenpo suno li kama pimeja lili
 
 jan li wile ala e sewi  
 ni la ona li toki e ni  
-te mi o weka  
-o tawa ma jan to  
+"mi o weka  
+o tawa ma jan"  
 jan ale ala li pilin sama  
 li toki  
-te ma jan la utala en moli taso li lon  
-sewi li awen e milon ma pona ni to  
+"ma jan la utala en moli taso li lon  
+sewi li awen e milon ma pona ni"  
 kulupu li tu  
 kulupu pi sewi ala li tawa  
 kulupu sewi li awen
@@ -99,19 +99,19 @@ li wile moli
 len ona li jelo  
 tenpo pimeja la ona li tawa ma sewi  
 li toki wawa tawa mun  
-te sewi o  
-sina jaki e mi mute tan seme a to  
+"sewi o  
+sina jaki e mi mute tan seme a"  
 jan pi len jelo li tawa moli
 
 taso kalama suli li pini e tawa  
 mun suli li suno suli  
 li toki  
-te jan o  
+"jan o  
 sina lukin e suno sewi  
 sina sona e tan sewi  
 ni la sewi li ken ala toki tawa sina  
 sona ale li lon pilin sina  
-o lukin e sewi lon insa sina to  
+o lukin e sewi lon insa sina"  
 mun suli li pini suno  
 jan pi len jelo li tawa moli ala  
 ona li toki tawa kulupu
