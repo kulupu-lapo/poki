@@ -7,7 +7,7 @@ proofreaders: null
 date: 2025-04-23
 date-precision: day
 original: null
-tags:; null
+tags: null
 license: null
 sources:
   - https://sijeni.neocities.org/jan-kisote-pi-ma-mansa/
