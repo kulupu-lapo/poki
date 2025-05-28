@@ -9,10 +9,11 @@ Poki Lapo is a library and monolingual corpus for Toki Pona. Our vision is to ex
 
 ### File metadata
 
-See also the [schema validation code](utils/validate-schemas.ts).
+See also the [schema validation code](utils/validate/validate-schemas.ts).
 
 ```yaml
 ---
+# If one of these fields is missing from your text, set its value to `null`
 title:
 description:
 authors:
@@ -21,13 +22,13 @@ proofreaders:
   - 
 date: # yyyy-mm-dd
 date-precision: # day, month, year, none
-tags:
-  -
 original:
   title:
   authors:
     -
-license: # `null` if no or unknown license
+tags:
+  -
+license:
 sources:
   - 
 archives:
