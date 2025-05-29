@@ -8,7 +8,7 @@ date: 2023-04-21
 date-precision: day
 tags:
   - music
-  - vocal synthesizer
+  - vocal synth
 original:
   title: Honey I'm Home
   authors:

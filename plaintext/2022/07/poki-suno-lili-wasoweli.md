@@ -10,7 +10,7 @@ date-precision: day
 tags:
   - original
   - music
-  - vocal synthesizer
+  - vocal synth
   - chiptune
   - sitelen telo
 original:

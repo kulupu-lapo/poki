@@ -10,7 +10,7 @@ tags:
   - original
   - music
   # - artificial intelligence
-  - speech synthesizer
+  - speech synth
 original: null
 license: null
 sources:

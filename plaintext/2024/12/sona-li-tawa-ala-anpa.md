@@ -9,7 +9,7 @@ date-precision: day
 tags:
   - translation
   - music
-  - vocal synthesizer
+  - vocal synth
   - utau
   - politics
   - protest

@@ -14,7 +14,7 @@ tags:
   # covers:
   - cover
   - music
-  - vocal synthizer
+  - vocal synth
   - utau
 original: null
 license: CC-BY-SA-4.0

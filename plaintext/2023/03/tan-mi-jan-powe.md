@@ -9,7 +9,7 @@ date-precision: day
 tags:
   - music
   - Danganronpa
-  - vocal synthesizer
+  - vocal synth
 original:
   title: "'Cause I'm a Liar"
   authors:

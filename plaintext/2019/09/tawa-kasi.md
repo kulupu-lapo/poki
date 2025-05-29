@@ -9,7 +9,7 @@ date-precision: day
 tags:
   - original
   - music
-  - vocal synthesizer
+  - vocal synth
   - death
 original: null
 license: null

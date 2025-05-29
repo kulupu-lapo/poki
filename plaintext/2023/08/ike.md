@@ -8,7 +8,7 @@ date: 2023-08-20
 date-precision: day
 tags:
   - music
-  - vocal synthesizer
+  - vocal synth
   - Vocaloid
 original: null
 license: null

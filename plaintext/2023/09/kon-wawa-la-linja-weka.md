@@ -9,7 +9,7 @@ date-precision: day
 tags:
   - translation
   - music
-  - music synthesizer
+  - music synth
   - utau
   - openutau
   - flute

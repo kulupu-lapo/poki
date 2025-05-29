@@ -10,7 +10,7 @@ tags:
   - translation
   - music
   - cover
-  - vocal synthesizer
+  - vocal synth
   - utau
   - openutau
   - lojban
