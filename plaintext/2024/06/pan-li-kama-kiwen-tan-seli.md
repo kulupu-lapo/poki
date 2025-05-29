@@ -4,7 +4,7 @@ description: null
 authors:
   - tetsusquared
 proofreaders: null
-date: 2025-06-05
+date: 2024-06-05
 date-precision: day
 tags:
   - translation
