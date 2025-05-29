@@ -12,7 +12,7 @@ tags:
 original:
   title: Strong in the Real Way
   authors:
-    - unknown # added automatically during reschema
+    - Rebecca Sugar
 license: All Rights Reserved
 sources:
   - https://www.youtube.com/watch?v=d8RR9O_FQdg
@@ -53,4 +53,4 @@ sina ken pona. o!
 mi pana e pona  \
 tawa sina taso.  \
 mi toki la  \
-sina ken pona. o!  \
+sina ken pona. o!

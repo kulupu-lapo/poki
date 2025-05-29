@@ -3,20 +3,34 @@ title: the tokirap (nimi ale lon toki pona)
 description: null
 authors:
   - jan Misali
-  - Sapaa
+  - jan Kipin
 proofreaders: null
 date: 2021-08-07
 date-precision: day
 tags:
+  - original
   - music
+  - album
+  - pop
+  - educational
+  - vocals
+  - every word
 original: null
-license: CC BY-NC 4.0
+license: null
 sources:
-  - https://www.youtube.com/watch?v=U_w0-VUMh2o
+  - https://www.youtube.com/watch?v=mmM6pR3MxNQ  # creating the perfect tokirap \[epiku]
+  - https://www.youtube.com/watch?v=U_w0-VUMh2o  # the tokirap (nimi ale lon toki pona)
+  - https://amazon.com/music/player/tracks/B09CJFZZGH
+  - https://music.apple.com/song/nimi-ale-lon-toki-pona/1581039014
+  - https://www.deezer.com/track/1463150862
+  - https://www.musixmatch.com/lyrics/Sapaa-Jan-Misali/nimi-ale-lon-toki-pona
+  - https://www.shazam.com/track/581274103/nimi-ale-lon-toki-pona
+  - https://soundcloud.com/sapaa/nimi-ale-lon-toki-pona
+  - https://open.spotify.com/album/1UQGFYmMgHXAk7XLNduOQc
 archives: null
 preprocessing: null
 accessibility-notes: null
-notes: null
+notes: Inspired by the Pokérap by 4Kids Entertainment.
 ---
 
 toki! ni la mi toki musi e nimi ale pi toki pona!  \

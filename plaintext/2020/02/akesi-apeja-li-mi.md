@@ -16,6 +16,12 @@ sources:
   - https://music.apple.com/us/artist/lija/1479631693
   # cover by jan Usawi, somewhat modified lyrics
   - https://janusawi.bandcamp.com/track/akesi-apeja-li-mi
+  # cover by jan Kepe
+  - https://www.youtube.com/watch?v=2gQ6aIdCNGo
+  - https://kepe.bandcamp.com/track/apeja-2
+  # another cover by jan Kepe
+  - https://www.youtube.com/watch?v=-vngMO_EoPA
+  - https://kepe.bandcamp.com/track/akesi-kku-jkepe
 archives: null
 preprocessing: null
 accessibility-notes: null

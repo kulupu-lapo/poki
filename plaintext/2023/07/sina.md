@@ -1,6 +1,9 @@
 ---
 title: sina
-description: null
+description: |
+  kalama musi sin(a) ^^
+  
+  A song about transgression, transformation, and love. One of those ones where at the current moment, my best attempts at explaining it further amount to gesturing semi-wildly at the lyrics with copious amounts of nodding and eyebrow-raising. Also puns! We love puns.
 authors:
   - jan Usawi
 proofreaders: null
@@ -10,7 +13,7 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
   - https://janusawi.bandcamp.com/track/sina
   - https://www.youtube.com/watch?v=EvEzwN35_LU

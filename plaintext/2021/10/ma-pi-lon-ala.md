@@ -1,6 +1,9 @@
 ---
 title: ma pi lon ala
-description: null
+description: |
+  olin li tan telo lawa ike taso la, telo lawa ni li ike ala.
+  
+  a song about a make-believe perfect love—by which, of course, i mean a perfect love that's made real by believing in it.
 authors:
   - jan Usawi
 proofreaders: null
@@ -10,9 +13,9 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
-  - https://janusawi.bandcamp.com/album/lon
+  - https://janusawi.bandcamp.com/track/ma-pi-lon-ala
   - https://www.youtube.com/watch?v=Pnbd0-4rUGE
 archives: null
 preprocessing: null

@@ -1,6 +1,9 @@
 ---
 title: tawa (sona pi telo nasa)
-description: null
+description: |
+  mi pilin ala e toki pi musi ni. sona li lon nasin pi jan ale. taso jan li pilin ala e ni la, sitelen musi pi jan ni li pona tawa mi.
+  
+  Got the title (or rather, the parenthetical title) for this one from the GPT-3 text generation demo, and it seemed to want to go in a very particular direction. This isn't the first time I've written a song with a similar sound and storyline, but I decided to experiment a good bit with how I did both this time around. Also I did promise I'd work beer girl into the cover art because of this one lol.
 authors:
   - jan Usawi
 proofreaders: null
@@ -10,9 +13,9 @@ tags:
   - music
   - pop
 original: null
-license: CC BY-SA-NC 4.0
+license: CC-BY-NC-SA-3.0
 sources:
-  - https://janusawi.bandcamp.com/album/utala-ni-li-pona-a
+  - https://janusawi.bandcamp.com/track/tawa-sona-pi-telo-nasa
   - https://www.youtube.com/watch?v=nsDLoDw9qp0
 archives: null
 preprocessing: null

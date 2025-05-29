@@ -11,9 +11,7 @@ date: 2020-05-12
 date-precision: day
 tags:
   - music
-original:
-  title: null
-  authors: null
+original: null
 license: CC-BY-3.0
 sources:
   - 'https://www.youtube.com/watch?v=12byK1Sc6Fw'
@@ -22,6 +20,7 @@ preprocessing: null
 accessibility-notes: null
 notes: null
 ---
+
 mi lape lili lon pimeja la  
 supa mi li toki tawa mi.  
 ona li toki e ni:

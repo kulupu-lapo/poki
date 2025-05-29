@@ -1,6 +1,6 @@
 ---
 title: pilin Weliko
-description: null
+description: wenta nasin esun li weka e sona pi suli lili ona.
 authors:
   - jan Usawi
 proofreaders: null

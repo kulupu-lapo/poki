@@ -5,10 +5,14 @@ description: 'ni li kalama musi wasoweli. isipin la, ni li tan sitelen tawa musi
 authors:
   - akesi kon Nalasuni
 proofreaders: null
-date: 2023-01-23
+date: 2022-07-25
 date-precision: day
 tags:
+  - original
   - music
+  - vocal synth
+  - chiptune
+  - sitelen telo
 original:
   title: null
   authors: null
@@ -17,11 +21,13 @@ sources:
   - 'https://nmccoy.net/wasoweli3.html'
   - 'https://www.lexaloffle.com/bbs/cart_info.php?cid=wasoweli3'
   - 'https://www.youtube.com/watch?v=u9rPtXM-tKA'
+  - 'https://www.youtube.com/watch?v=8grmP7HcmiQ'  # cover by jan Janpa Onjon
 archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
 ---
+
 tenpo li kama la  
 suno li lon  
 o lukin e sewi  

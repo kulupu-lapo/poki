@@ -58,6 +58,3 @@ kala-suli li awen tawa
 toki la, linja en kala en alasa li awen.  \
 jan esun li awen-toki  \
 tawa jan-tomo, tawa alasa!
-
-ante toki li tan mi.  \
-kalama uta li tan mi.

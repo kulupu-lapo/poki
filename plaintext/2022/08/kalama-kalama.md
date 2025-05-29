@@ -9,7 +9,7 @@ date-precision: day
 tags:
   - music
 original: null
-license: CC BY 4.0
+license: CC-BY-SA-3.0
 sources:
   - https://echoheo.bandcamp.com/track/kalama-kalama
 archives: null
