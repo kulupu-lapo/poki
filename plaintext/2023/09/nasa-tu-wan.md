@@ -12,7 +12,9 @@ tags:
   - vocal synthesizer
   - vocaloid
   - utau
-  - 
+  - hatsune miku
+  - kasane teto
+  - akita neru
 original:
   title: 驫麤～とりぷるばか～  # Triple Baka
   authors:
