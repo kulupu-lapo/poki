@@ -2,10 +2,10 @@
 title: Lion King
 description: Bilingual clip translation from *The Lion King* (1994).
 authors:
-  - soweli
+  - soweli nasa
 proofreaders: null
 date: 2019-08-21
-date-precision: # day, month, year, none
+date-precision: day
 tags:
   - translation
   - film
