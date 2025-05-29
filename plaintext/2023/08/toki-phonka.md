@@ -3,8 +3,10 @@ title: TOKI PHONKA
 description: "This song was a very unusual thing for me to do so I don't really want to release it on my standard platforms but it won't stop me from sharing it to you guys :D So there ya go, a phonk song in Toki Pona. Thanks to @prodstvrfire for the \"Ohio Dark Phonk\" production."
 authors:
   - D'Haelo
+proofreaders: null
 date: 2025-08-05
 date-precision: day
+original: null
 tags:
   - music
   - phonk
