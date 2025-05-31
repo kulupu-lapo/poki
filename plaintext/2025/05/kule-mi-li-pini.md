@@ -16,7 +16,7 @@ tags:
   - Onimai
 license: CC BY-SA-NC 4.0
 sources:
-  - https://youtu.be/1mPrDoonra8?si=MW4lx6WOJdVxheWw
+  - https://youtu.be/1mPrDoonra8
 archives: null
 preprocessing: null
 accessibility-notes: null
