@@ -9,11 +9,11 @@ date-precision: day
 tags: null
 original:
   title: Tower of Babel
-  authors:
-    - unknown # added automatically during reschema
+  authors: null
 license: CC BY-SA 3.0    # License from Wikipedia
 sources:
   - https://en.wikipedia.org/w/index.php?title=Toki_Pona&oldid=18194572
+  - https://olukin.blogspot.com/2011/04/ma-tomo-pape.html
 archives: null
 preprocessing: null
 accessibility-notes: null
