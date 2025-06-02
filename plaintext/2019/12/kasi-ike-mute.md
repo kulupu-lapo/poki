@@ -11,7 +11,7 @@ date-precision: day
 tags:
   - music
 original:
-  title: null
+  title: 99 Bottles of Beer
   authors: null
 license: null
 sources:
