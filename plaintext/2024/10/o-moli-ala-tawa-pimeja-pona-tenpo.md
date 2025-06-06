@@ -9,9 +9,9 @@ date-precision: day
 tags:
   - poetry
 original:
-  title: null
+  title: Do not go gentle into that good night
   authors:
-    - jan Silan Toma
+    - Dylan Thomas
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0029jan.pdf

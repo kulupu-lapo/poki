@@ -8,7 +8,10 @@ proofreaders: null
 date: 2022-06-10
 date-precision: day
 tags: null
-original: null
+original:
+  title: The Red Oni who Cried
+  authors:
+    - unknown
 license: CC-BY-SA 4.0
 sources:
   - https://www.youtube.com/watch?v=9VjPV9BpU2I

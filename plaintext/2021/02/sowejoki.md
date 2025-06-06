@@ -7,7 +7,10 @@ proofreaders: null
 date: 2021-02-16
 date-precision: day
 tags: null
-original: null
+original: 
+  title: Jaberwocky
+  authors:
+    - Lewis Carroll
 license: CC-BY-SA 4.0
 sources:
   - https://github.com/lipukule/site/blob/main/content/post/2021-02-16-sowejoki.md

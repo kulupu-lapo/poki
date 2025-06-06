@@ -11,7 +11,10 @@ date-precision: day
 tags:
   - 'ao3'
   - 'music'
-original: null
+original:
+  title: Spiral of Ants
+  authors:
+    - Lemon Demon
 license: null
 sources:
   - https://archiveofourown.org/works/61372846

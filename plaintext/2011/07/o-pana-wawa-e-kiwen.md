@@ -8,9 +8,9 @@ date: 2011-06-15
 date-precision: day
 tags: null
 original:
-  title: null
+  title: John
   authors:
-    - unknown # added automatically during reschema
+    - authors of the Bible
 license: null
 sources:
   - https://olukin.blogspot.com/2011/07/o-pana-wawa-e-kiwen.html

@@ -15,7 +15,7 @@ tags:
   - translation
   - artwork
 original:
-  title: null
+  title: Interview With Heene Family
   authors:
     - Wolf Blitzer  # jan Muwawa
     - Richard Heene # jan Wiko Jine
