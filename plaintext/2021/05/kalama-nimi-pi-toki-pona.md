@@ -12,8 +12,8 @@ tags:
   - music
   - every word
 original:
-  title: null
-  authors: null
+  title: The Elements
+  authors: Tom Lehrer
 license: null
 sources:
   - https://www.youtube.com/watch?v=MryDuToQMsg
