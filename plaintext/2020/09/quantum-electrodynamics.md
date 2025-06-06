@@ -8,7 +8,7 @@ date: 2020-09-24
 date-precision: day
 tags: null
 original:
-  title: null
+  title: Quantum electrodynamics
   authors:
     - Contributors to Wikipedia
 license: Unknown license
