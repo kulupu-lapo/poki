@@ -13,7 +13,8 @@ tags:
   - every word
 original:
   title: The Elements
-  authors: Tom Lehrer
+  authors: 
+    - Tom Lehrer
 license: null
 sources:
   - https://www.youtube.com/watch?v=MryDuToQMsg

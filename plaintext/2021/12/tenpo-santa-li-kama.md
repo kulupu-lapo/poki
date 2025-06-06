@@ -10,7 +10,8 @@ date-precision: day
 tags: null
 original:
   title: A Visit from St. Nicholas
-  authors: Clement Clarke Moore
+  authors: 
+    - Clement Clarke Moore
 license: CC-BY-SA 4.0
 sources:
   - https://www.youtube.com/watch?v=CcQQzeuSeZQ
