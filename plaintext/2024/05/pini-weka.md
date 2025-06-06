@@ -9,9 +9,9 @@ date-precision: day
 tags:
   - poetry
 original:
-  title: null
+  title: L'infinito
   authors:
-    - Giacomo Leopardi, 1798–1837 (jan Jakomo Lopate)
+    - Giacomo Leopardi (jan Jakomo Lopate)
 license: CC-BY-SA 4.0
 sources:
   - https://liputenpo.org/pdfs/0026jaki.pdf
