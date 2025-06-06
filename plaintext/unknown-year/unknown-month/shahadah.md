@@ -9,11 +9,11 @@ date-precision: none
 tags:
   - translation
   - religion
-  - islamRetro-Translation Back to English
+  - islam
+  - Retro-Translation Back to English
 original:
-  title: null
-  authors:
-    - unknown # added automatically during reschema
+  title: الشَّهَادَةُ
+  authors: null
 license: CC0 1.0
 sources:
   - http://tokipona.net/tp/janpije/shahadah.php  # dead link
