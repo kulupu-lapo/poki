@@ -13,7 +13,7 @@ original:
   title: The Ones Who Walk Away from Omelas
   authors:
     - Ursula K. Le Guin
-license: null
+license: All Rights Reserved
 sources:
   - https://discord.com/channels/301377942062366741/340307145373253642/785687922035654747
   - https://equa.space/toki-pona/omela/
