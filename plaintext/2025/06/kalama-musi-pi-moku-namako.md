@@ -16,7 +16,7 @@ tags:
   - Philippines
 license: CC BY-SA-NC 4.0
 sources:
-  - https://youtu.be/AaPWRQSmDyo?si=oylYZNYJgqdKsTsh
+  - https://youtu.be/AaPWRQSmDyo
 archives: null
 preprocessing: null
 accessibility-notes: null
