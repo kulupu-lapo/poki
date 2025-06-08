@@ -6,7 +6,10 @@ authors:
 proofreaders: null
 date: '2025-05-15'
 date-precision: day
-original: null
+original:
+  title: This is Bob  # or "This is Teddy"; https://www.reddit.com/r/OlderGenZ/comments/1imr5zf/does_anyone_remember_this_is_teddy/
+  authors:
+    - folk origin
 tags: null
 license: null
 sources: null
