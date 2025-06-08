@@ -18,7 +18,7 @@ tags:
   - lostwave
 license: CC BY-SA-NC 4.0
 sources:
-  - https://youtu.be/9IHkp_p7mX4?si=k1YCYdf2ullw68y9
+  - https://youtu.be/9IHkp_p7mX4
 archives: null
 preprocessing: null
 accessibility-notes: null
