@@ -10,9 +10,9 @@ tags:
   - translation
   - taoism
 original:
-  title: null
+  title: 非風非幡 (無門關)
   authors:
-    - unknown # added automatically during reschema
+    - 無門慧開
 license: CC0 1.0
 sources:
   - http://tokipona.net/tp/janpije/nasinpona-len.php  # dead link

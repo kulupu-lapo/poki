@@ -6,7 +6,10 @@ authors:
 proofreaders: null
 date: '2023-08-21'
 date-precision: day
-original: null
+original:
+  title: Madamoiselle Noir
+  authors:
+    - Peppina
 tags:
   - music
   - translation

@@ -1,15 +1,16 @@
 ---
 title: sitelen suwi
-# original-title: Unclear to proofreader
 description: null
 authors:
   - jan Kaja
-proofreaders: null
+proofreaders:
+  - jan Tepan
+  - jan Kipo
 date: 2020-07-26
 date-precision: day
 tags: null
 original:
-  title: null
+  title: unknown
   authors:
     - Ferenc Szilágyi
 license: null

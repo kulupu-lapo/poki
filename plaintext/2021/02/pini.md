@@ -1,6 +1,6 @@
 ---
 title: pini
-description: null
+description: kon toki pi kalama musi ni li kama tan toki musi 'The End Poem' tan musi Manka. musi Manka li pona mute a.
 authors:
   - kala pona Tonyu
 proofreaders: null
@@ -12,14 +12,17 @@ tags:
   - lyrics
   - poetry
   - minecraft
-original: null
+original:
+  title: The End Poem
+  authors:
+    - Julian Gough
 license: null
 sources:
   - https://www.youtube.com/watch?v=VHLoVd_AikE
 archives: null
 preprocessing: Section headers are wrapped inside square brackets.
 accessibility-notes: null
-notes: null
+notes: kon toki pi kalama musi ni li kama tan toki musi 'The End Poem' tan musi Manka. musi Manka li pona mute a.
 ---
 
 \[musi #1]  \

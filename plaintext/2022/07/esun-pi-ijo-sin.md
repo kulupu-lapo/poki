@@ -7,7 +7,10 @@ proofreaders: null
 date: 2022-07-16
 date-precision: day
 tags: null
-original: null
+original:
+  title: “AU MAGASIN DE NOUVEAUTES”
+  authors:
+    - 李箱
 license: CC-BY-SA 4.0
 sources:
   - https://github.com/lipukule/site/blob/main/content/post/2022-07-16-ante-toki-pi-au-magasin-de-nouveautes-esun-pi-ijo-sin.md
@@ -15,7 +18,7 @@ sources:
 archives: null
 preprocessing: null
 accessibility-notes: null
-notes: null
+notes: See https://en.namu.wiki/w/%EA%B1%B4%EC%B6%95%EB%AC%B4%ED%95%9C%EC%9C%A1%EB%A9%B4%EA%B0%81%EC%B2%B4 for more information on the original
 ---
 
 mi ante e toki pi toki lili “AU MAGASIN DE NOUVEAUTES” tan jan Isan. sina ken pilin e ni: ona li nasa lili. jan Isan li pali ala e toki lili kepeken lawa pi toki lili. ona li lukin pali e ona kepeken nasin sin. toki ni li lon kulupu pi toki lili “leko pi pali tomo pi pini ala”. mi wile pana e toki lili ante lon kulupu ni.
