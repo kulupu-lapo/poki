@@ -65,6 +65,6 @@ suli li pilin ike mute tan ni, taso ona li ken ala pali e ante. jan Hart li weka
 
 ...taso, tenpo lili la, ona li lanpan sin, li lon tomo poki, sin.
 
-<h2>tan lipu</h2>
+## tan lipu
 tan jan Gavin Newsham. “The wild life and death of the Old West’s feminist bandit, Pearl Hart ”New York Post, tan tenpo suno 30 pi tenpo mun luka luka pi tenpo sike 2021, https://nypost.com/2021/10/30/the-wild-life-and-death-of-old-west-feminist-bandit-pearl-hart/.</br>
 lon tenpo suno 23 pi tenpo mun luka pi tenpo sike 2022. tan jan Kimberly Matas. “Pearl Hart: Smooth-talking card shark led Pearl's slide to perdition” tucson.com, https://tucson.com/news/local/pearl-hart-smooth-talking-card-shark-led-pearls-slide-to-perdition/article_8cc72f57-2a7d-5618-a596-1d00b74975cb.html. lon tenpo suno 23 pi tenpo mun luka pi tenpo sike 2022.
