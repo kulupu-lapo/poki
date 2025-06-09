@@ -1,5 +1,5 @@
 ---
-title: The Star-Spangled Banner  # Made up for poki Lapo
+title: The Star-Spangled Banner  # Generated for poki Lapo
 description: null
 authors:
   - sojdrawe

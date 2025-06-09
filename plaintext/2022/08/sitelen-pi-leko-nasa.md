@@ -1,5 +1,5 @@
 ---
-title: sitelen pi leko nasa  # Made up for poki Lapo
+title: sitelen pi leko nasa  # Generated for poki Lapo
 description: null
 authors:
   - telosuwi

@@ -1,5 +1,5 @@
 ---
-title: nasin kalama nanpa  # Made up for poki Lapo
+title: nasin kalama nanpa  # Generated for poki Lapo
 description: null
 authors:
   - soweli-iki
