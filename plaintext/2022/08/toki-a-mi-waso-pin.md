@@ -1,5 +1,5 @@
 ---
-title: mi waso Pin  # Made up for poki Lapo
+title: mi waso Pin  # Generated for poki Lapo
 description: null
 authors:
   - waso-pin
