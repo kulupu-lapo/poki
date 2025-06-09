@@ -1,5 +1,5 @@
 ---
-title: toki kijetesantakalu  # Made up for poki Lapo
+title: toki kijetesantakalu  # Generated for poki Lapo
 description: null
 authors:
   - jan-tewan

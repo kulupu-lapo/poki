@@ -1,5 +1,5 @@
 ---
-title: mi toki e ma ni  # Made up for poki Lapo
+title: mi toki e ma ni  # Generated for poki Lapo
 description: null
 authors:
   - tuxysta
