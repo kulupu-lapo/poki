@@ -13,7 +13,7 @@ tags:
   - vocaloid
 license: CC BY-SA-NC 4.0
 sources:
-  - https://youtu.be/SVK0INvVy38?si=alnmMHLX-OlSFUqe
+  - https://youtu.be/SVK0INvVy38
 archives: null
 preprocessing: null
 accessibility-notes: null
