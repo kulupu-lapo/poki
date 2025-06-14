@@ -15,6 +15,7 @@ original:
 tags:
   - music
   - translation
+  - Bocchi the Rock!
 license: CC BY-SA-NC 4.0
 sources:
   - https://youtu.be/iriSjpeLmV4?si=3umc5z9-p__k5kAm
