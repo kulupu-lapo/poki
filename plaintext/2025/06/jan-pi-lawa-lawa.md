@@ -6,7 +6,10 @@ authors:
 proofreaders: null
 date: '2025-06-14'
 date-precision: day
-original: null
+original:
+  title: メズマライザー
+  authors:
+    - 32ki
 tags:
   - music
   - translation
