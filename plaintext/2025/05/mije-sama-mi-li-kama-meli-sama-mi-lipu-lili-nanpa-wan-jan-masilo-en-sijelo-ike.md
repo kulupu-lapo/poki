@@ -117,7 +117,7 @@ sina jaki li taso li pali ala.
 aaaaaaaaa!  
 
 **[jan Misali]**  
-sina lon tomi ni lon tenpo sike tu!  
+sina lon tomo ni lon tenpo sike tu!  
 sina lukin e lipu unpa taso!  
 sina wile e pali!  
 
