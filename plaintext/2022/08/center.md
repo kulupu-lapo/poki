@@ -1,5 +1,5 @@
 ---
-title: o kama sona e mi  # Made up for poki Lapo
+title: o kama sona e mi  # Generated for poki Lapo
 description: null
 authors:
   - waso-pin
