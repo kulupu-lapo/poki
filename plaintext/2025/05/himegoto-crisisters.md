@@ -18,6 +18,7 @@ tags:
   - lgbtq
   - pop
   - j-pop
+  - Onimai
 original:
   title: ひめごと*クライシスターズ
   authors:
