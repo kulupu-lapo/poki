@@ -126,7 +126,7 @@ pali? mi wile…
 mi sama ni tan…  
 mi pali kepeken sijelo mi…!?  
 
-*ni li pina la sina wile pana e mani*  
+*ni li pini la sina wile pana e mani*  
 
 **[jan Misali]**  
 ala!  
