@@ -6,12 +6,14 @@ authors:
 proofreaders: null
 date: '2025-05-14'
 date-precision: month
-original: null
+original:
+  title: Cotton 100%
 tags:
   - game
   - snes
 license: null
-sources: null
+sources:
+  - https://gitlab.com/ma-Meluken/musi-Koton-100/-/releases/permalink/latest
 archives: null
 preprocessing: null
 accessibility-notes: null
