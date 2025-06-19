@@ -60,8 +60,6 @@ items:
 | Personal websites                                     | various              | https://github.com/kulupu-lapo/poki/issues/17 | ijo vivi              |
 | Song collection ([yt][songs yt] / [docs][songs doc])  | jan Ke Tami          | No                                            | jan Juwan             |
 | [Wikisource]                                          | various              | No                                            |                       |
-| [Corpora]                                             | (sona pona)          | No                                            |                       |
-| [nltk-tp]                                             | davidar              | No                                            |                       |
 | [kijetesantakalu o!][kije o]                          | jan Ke Tami          | No                                            | ijo vivi              |
 | [Archive Of Our Own][AO3]                             | various              | No                                            | ijo vivi              |
 | [jan Lentan's blog posts][Lentan]                     | jan Lentan           | No                                            | jan Kita              |
@@ -81,14 +79,14 @@ items:
 [songs doc]:https://docs.google.com/spreadsheets/d/1qXextl70wJUo9xJ0VzECLXb3smiroQDT8U2_aAb_ycM/edit
 [tonyu lib]:https://docs.google.com/document/d/1IdMucmhPCzvoUF94Gp25XCwocWOl4PfQ_wfOkiU8cu8/edit?usp=sharing
 [Wikisource]:https://wikisource.org/wiki/Category:Toki_pona
-[Corpora]:https://sona.pona.la/wiki/Corpora
-[nltk-tp]:https://github.com/davidar/nltk-tp/tree/master/Corpus
 [kije o]:https://kijetesantakalu-o.tumblr.com/tagged/comic
 [AO3]:https://archiveofourown.org/works/search?work_search%5Blanguage_id%5D=tok
 [Lentan]:https://lipu-sona.pona.la/lentan/
 [lipu monsuta]:https://lipumonsuta.neocities.org/
 [Telakoman]:https://joelthomastr.github.io/tokipona/README_si
 [Storyweaver]:https://storyweaver.org.in/en/stories?language=Toki+Pona
+
+Sources like `ntlk-tp` are intensionally excluded from this list due to their scope being too different to our's and the lack of metadata in them.
 
 ## Contributing
 
