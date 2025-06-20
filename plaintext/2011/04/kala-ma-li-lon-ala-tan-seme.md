@@ -11,7 +11,8 @@ original: null
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/kala-ma-li-lon-ala-tan-seme.html
-archives: null
+archives:
+  - https://github.com/davidar/nltk-tp/blob/master/Corpus/Derivative%20Works%20of%20(C)/jan%20Ote%20Derivs/jan%20Mika%20-%20kala%20ma%20li%20lon%20ala%20tan%20seme.txt
 preprocessing: null
 accessibility-notes: null
 notes: null
