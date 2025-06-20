@@ -2,7 +2,7 @@
 title: kala ma li lon ala tan seme?
 description: null
 authors:
-  - anonymous
+  - jan Mika
 proofreaders: null
 date: 2011-04-01
 date-precision: day
