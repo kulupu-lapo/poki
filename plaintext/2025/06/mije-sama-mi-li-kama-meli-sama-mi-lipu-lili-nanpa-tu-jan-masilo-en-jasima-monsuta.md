@@ -19,7 +19,7 @@ tags:
   - translation
   - manga
   - Onimai
-license: CC BY-SA 3.0
+license: null
 sources:
   - https://www.reddit.com/r/OniichanOshimai/s/fGtbMK4UBf
 archives: null
