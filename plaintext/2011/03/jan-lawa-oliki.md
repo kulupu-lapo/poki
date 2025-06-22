@@ -2,12 +2,15 @@
 title: jan lawa Oliki
 description: null
 authors:
-  - jan Elepanto
+  - soweli Elepanto
 proofreaders: null
 date: 2011-03-25
 date-precision: day
 tags: null
-original: null
+original:
+  title: Песнь о вещем Олеге
+  authors:
+    - Александр Сергеевич Пушкин
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/jan-lawa-oliki.html

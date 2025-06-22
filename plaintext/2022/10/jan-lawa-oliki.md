@@ -7,12 +7,11 @@ authors:
 proofreaders: null
 date: 2022-10-01
 date-precision: day
-tags:
-  - original work
+tags: null
 original:
-  title: The Ones Who Walk Away from Omelas
+  title: Песнь о вещем Олеге
   authors:
-    - Alexander Pushkin
+    - Александр Сергеевич Пушкин
 license: CC BY 4.0
 sources:
   - https://wikisource.org/wiki/Jan_lawa_Oliki_(2022)
@@ -20,7 +19,7 @@ sources:
 archives: null
 preprocessing: null
 accessibility-notes: null
-notes: null
+notes: toki musi ni li tan tenpo pini weka a, li tan kulupu Lowan. jan Alesan Pusin li sitelen e toki musi ni lon tenpo poka. tenpo sike nanpa 2009 la soweli Elepanto li lukin e sitelen pi jan Alesan Pusin li pali e toki musi sama kepeken toki pona. tenpo sike nanpa 2022 la soweli Elepanto en jan Pensa li pona e toki musi ni li pana e ona tawa lipu pu pi toki Epelanto.
 ---
 
 jan lawa ma Oliki li kama tawa utala li tawa kepeken soweli tawa. tenpo wan la ona li kama lukin e jan pi sona mute li toki e ni: “jan sona o toki e ni tawa mi: tenpo kama la mi pilin pona ala pona? mi kama moli tan seme?”
