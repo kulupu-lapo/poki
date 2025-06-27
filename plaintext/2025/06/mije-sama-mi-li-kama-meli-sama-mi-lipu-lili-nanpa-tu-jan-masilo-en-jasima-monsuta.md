@@ -1,7 +1,7 @@
 ---
 title: >-
   mije sama mi li kama meli sama mi! (lipu lili nanpa tu: jan Masilo en jasima
-  monsuta
+  monsuta)
 description: >-
   A translation of the second chapter of the manga "Onii-chan wa Oshimai!"
   (ONIMAI: I'm Now Your Sister! / My Brother is Done For!), "Mahiro Faces The
@@ -19,7 +19,7 @@ tags:
   - translation
   - manga
   - Onimai
-license: CC BY-SA 3.0
+license: null
 sources:
   - https://www.reddit.com/r/OniichanOshimai/s/fGtbMK4UBf
 archives: null
