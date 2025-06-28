@@ -17,7 +17,7 @@ tags:
   - translation
   - manga
   - Onimai
-license: 'null'
+license: null
 sources:
   - https://www.reddit.com/r/OniichanOshimai/s/go2lDczlZN
 archives: null
