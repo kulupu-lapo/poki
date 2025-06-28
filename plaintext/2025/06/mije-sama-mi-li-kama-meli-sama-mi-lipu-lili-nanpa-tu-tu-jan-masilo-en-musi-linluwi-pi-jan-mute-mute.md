@@ -286,7 +286,7 @@ pona a. pona a. ni li suwi. suwi suli a
 si. sina...  
 ***sina ike a***
 
-[tenpo pini poka la, jan ante kulupu li utala lon jan Masilo. tan ni la, kulupu li lama kipisi]
+[tenpo pini poka la, jan ante kulupu li utala lon jan Masilo. tan ni la, kulupu li kama kipisi]
 
 **[jan Masilo]**  
 ......
