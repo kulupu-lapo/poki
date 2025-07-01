@@ -22,6 +22,7 @@ tags:
 license: null
 sources:
   - https://www.reddit.com/r/tokipona/s/DHT8AhJ0JQ
+  - https://bato.to/title/193481-mije-sama-mi-li-kama-meli-sama-mi/3440867-vol_1-ch_1
 archives: null
 preprocessing: null
 accessibility-notes: null
