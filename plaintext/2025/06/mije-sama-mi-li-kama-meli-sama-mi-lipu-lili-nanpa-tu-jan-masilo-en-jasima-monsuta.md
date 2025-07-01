@@ -22,6 +22,7 @@ tags:
 license: null
 sources:
   - https://www.reddit.com/r/OniichanOshimai/s/fGtbMK4UBf
+  - https://bato.to/title/193481-mije-sama-mi-li-kama-meli-sama-mi/3440931-vol_1-ch_2
 archives: null
 preprocessing: null
 accessibility-notes: null
