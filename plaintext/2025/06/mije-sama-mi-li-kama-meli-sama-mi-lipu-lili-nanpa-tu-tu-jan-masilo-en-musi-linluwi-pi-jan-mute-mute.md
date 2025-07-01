@@ -22,6 +22,7 @@ tags:
 license: null
 sources:
   - https://www.reddit.com/r/tokipona/s/Waui4U9GgB
+  - https://bato.to/title/193481-mije-sama-mi-li-kama-meli-sama-mi/3440981-vol_1-ch_4
 archives: null
 preprocessing: null
 accessibility-notes: null
@@ -286,7 +287,7 @@ pona a. pona a. ni li suwi. suwi suli a
 si. sina...  
 ***sina ike a***
 
-[tenpo pini poka la, jan ante kulupu li utala lon jan Masilo. tan ni la, kulupu li lama kipisi]
+[tenpo pini poka la, jan ante kulupu li utala lon jan Masilo. tan ni la, kulupu li kama kipisi]
 
 **[jan Masilo]**  
 ......
