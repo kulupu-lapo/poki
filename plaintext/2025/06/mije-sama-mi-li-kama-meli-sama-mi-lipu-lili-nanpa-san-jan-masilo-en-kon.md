@@ -20,6 +20,7 @@ tags:
 license: null
 sources:
   - https://www.reddit.com/r/OniichanOshimai/s/go2lDczlZN
+  - https://bato.to/title/193481-mije-sama-mi-li-kama-meli-sama-mi/3440963-vol_1-ch_3
 archives: null
 preprocessing: null
 accessibility-notes: null
