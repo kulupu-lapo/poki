@@ -1,5 +1,5 @@
 ---
-title: 'mije sama mi li kama meli sama mi! (lipu lili nanpa san: jan Masilo en kon)'
+title: 'mije sama mi li kama meli sama mi! (lipu lili nanpa tu wan: jan Masilo en kon)'
 description: >-
   A translation of the first chapter of the manga "Onii-chan wa Oshimai!"
   (ONIMAI: I'm Now Your Sister! / My Brother is Done For!), "Mahiro's Self
@@ -46,7 +46,7 @@ taso, pilin mi li kama suli tan ni
 **[jan Misali]**  
 *ike a…*
 
-# lipu lili nanpa san: jan Masilo en kon
+# lipu lili nanpa tu wan: jan Masilo en kon
 
 **[jan Masilo]**  
 mi pilin ike tan ni: pilin ni li lon mi
