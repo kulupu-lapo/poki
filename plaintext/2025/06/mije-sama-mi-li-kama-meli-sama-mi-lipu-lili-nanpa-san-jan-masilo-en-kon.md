@@ -26,7 +26,7 @@ accessibility-notes: null
 notes: null
 ---
 
-◾lipu lili nanpa san◾  
+◾lipu lili nanpa tu wan◾  
 **[jan Masilo]**  
 ike…  
 n…
