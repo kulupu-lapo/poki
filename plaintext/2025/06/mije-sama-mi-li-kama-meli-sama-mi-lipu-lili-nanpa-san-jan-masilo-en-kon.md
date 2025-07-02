@@ -1,7 +1,7 @@
 ---
 title: 'mije sama mi li kama meli sama mi! (lipu lili nanpa tu wan: jan Masilo en kon)'
 description: >-
-  A translation of the first chapter of the manga "Onii-chan wa Oshimai!"
+  A translation of the third chapter of the manga "Onii-chan wa Oshimai!"
   (ONIMAI: I'm Now Your Sister! / My Brother is Done For!), "Mahiro's Self
   Image".
 authors:
