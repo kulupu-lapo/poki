@@ -1,5 +1,5 @@
 ---
-title: mi jan Tukuta  # Made up for poki Lapo
+title: mi jan Tukuta  # Generated for poki Lapo
 description: null
 authors:
   - tuxysta
