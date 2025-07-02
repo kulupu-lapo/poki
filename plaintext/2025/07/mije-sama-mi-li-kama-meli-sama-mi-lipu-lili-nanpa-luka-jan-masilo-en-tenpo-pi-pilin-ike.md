@@ -161,7 +161,7 @@ ante la, o awen pilin pona a
 **[jan Masilo]**  
 ......n  
 Misali ni li ijo e seme  
-mi tawa tomk telo taso la, ona li monsuta–
+mi tawa tomo telo taso la, ona li monsuta–
 
 # ***aaaaaaaa***
 
