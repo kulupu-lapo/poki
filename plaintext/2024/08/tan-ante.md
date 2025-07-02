@@ -7,8 +7,8 @@ proofreaders: null
 date: '2024-08-25'
 date-precision: day
 original:
-title: From Beyond
-authors:
+  title: From Beyond
+  authors:
     - Howard Phillips Lovecraft
 tags:
   - translation
@@ -17,8 +17,8 @@ tags:
   - monsuta
 license: CC BY-NC 4.0
 sources:
-- >-
-  https://docs.google.com/document/d/14dHNTCuE64aliJjYAb9V6o6zxFRwGhtF6ZIgeVN87ak/edit?tab=t.0#heading=h.ell8bw8uqzvthttps://docs.google.com/document/d/14dHNTCuE64aliJjYAb9V6o6zxFRwGhtF6ZIgeVN87ak/edit?tab=t.0#heading=h.ell8bw8uqzvt
+  - >-
+    https://docs.google.com/document/d/14dHNTCuE64aliJjYAb9V6o6zxFRwGhtF6ZIgeVN87ak/edit?tab=t.0#heading=h.ell8bw8uqzvthttps://docs.google.com/document/d/14dHNTCuE64aliJjYAb9V6o6zxFRwGhtF6ZIgeVN87ak/edit?tab=t.0#heading=h.ell8bw8uqzvt
   - https://denesszanto.itch.io/jan-laka
 archives: null
 preprocessing: null
