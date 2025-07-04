@@ -1,9 +1,15 @@
-<img src="images/logo.svg" alt="Logo of poki Lapo" width="225" style="display: block; margin: 0 auto"/>
+<div align="center">
 
-# poki-lapo
+![Logo of poki Lapo](images/logo-optimized.svg)  
+# poki Lapo
+![GitHub repo size](https://img.shields.io/github/repo-size/kulupu-Lapo/poki?color=red)
+![Entry counte](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flipu.pona.la%2Fstats.json&query=%24.entries&label=entry%20count&color=green)
+[![Static Badge](https://img.shields.io/badge/browse%20on-lipu.pona.la-%230068d3)](https://lipu.pona.la)
+****
 
+</div>
 
-Poki Lapo is a library and monolingual corpus for Toki Pona. Our vision is to expand to include all types of media in Toki Pona, including books, poetry, music, comics, posts and more. Files are transcribed by volunteers into Markdown format with metadata as shown below.
+poki Lapo is a library and monolingual corpus for toki pona. Our vision is to expand to include all types of media in toki pona, including books, poetry, music, comics, posts and more. Files are transcribed by volunteers into Markdown format with metadata as shown below.
 
 ## Schemas
 
