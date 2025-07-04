@@ -81,7 +81,7 @@ ona li toki e ni: *“o pali!”* mi kute ala e ona li alasa pali. mi wile tawa 
 
 ona li pini la kalama ala li lon. mi awen toki tawa ona. taso mi kute ala e ona. mi sona ala e ni: mi awen lon tenpo seme. taso mi awen toki e ni: “jan Walen o! jan Walen o! o toki! sina lon ala lon?”
 
-pini la ijo monsuta ike nasa li kama tawa mi! mi pini toki la mi kute e kalama lili tan ilo toki. mi alasa kute mute. sin la mi toki e ni: “jan Walen o. sina lon ala lon?”. taso ijo ante li toki tawa mi. ijo ni li pakala e lawa mi. mi ken ala toki e ona. mi ken ala sona e ona. ona li weka e sona mi tan tenpo ike tawa tenpo mi pi kama lape ala lon tomo misikeke.  mi ken toki e ni taso: kalama ike li suli li jo ala e kon li weka li tan jan ala. taso mi o toki e seme sin? ni li pini pi sona mi. mi kute taso e ona. mi sona ala e ona. mi kute e kalama tan tomo moli tan anpa tan ma pi kon pimeja. ona li toki e ni:
+pini la ijo monsuta ike nasa li kama tawa mi! mi pini toki la mi kute e kalama lili tan ilo toki. mi alasa kute mute. sin la mi toki e ni: “jan Walen o. sina lon ala lon?”. taso ijo ante li toki tawa mi. ijo ni li pakala e lawa mi. mi ken ala toki e ona. mi ken ala sona e ona. ona li weka e sona mi tan tenpo ike tawa tenpo mi pi kama lape ala lon tomo misikeke. mi ken toki e ni taso: kalama ike li suli li jo ala e kon li weka li tan jan ala. taso mi o toki e seme sin? ni li pini pi sona mi. mi kute taso e ona. mi sona ala e ona. mi kute e kalama tan tomo moli tan anpa tan ma pi kon pimeja. ona li toki e ni:
 
 *“jan Walen li moli!”*
 
