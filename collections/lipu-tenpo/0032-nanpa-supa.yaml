@@ -1,0 +1,21 @@
+name: lipu tenpo nanpa kala
+sources:
+  - https://liputenpo.org/pdfs/0032supa.pdf
+  - https://liputenpo.org/lipu/nanpa-supa/
+  # - https://wikisource.org/wiki/Lipu_tenpo/nanpa_supa
+items:
+- plaintext/2025/06/esun-supa.md
+- plaintext/2025/06/soko-li-seme.md
+- plaintext/2025/06/tenpo-lon-ma-ante.md
+- plaintext/2025/06/jan-kasi-en-nasin-kasi.md
+- plaintext/2025/06/mun-li-jo-e-lupa-sike-tan-seme.md
+- plaintext/2025/06/pilin-sama.md
+- plaintext/2025/06/mi-jan-seme.md
+- plaintext/2025/06/seme-telo-li-supa-ala.md
+- plaintext/2025/06/supa-pi-toki-ante.md
+- plaintext/2025/06/musi-pi-utala-telo.md
+- plaintext/2025/06/musi-li-ken-kama-tan-pali.md
+- plaintext/2025/06/alasa-pakala.md
+- plaintext/2025/06/lon-telo-pi-waso-mute.md
+- plaintext/2025/06/seme-li-mi.md
+- plaintext/2025/06/kijetesantakalu-o.md
