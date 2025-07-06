@@ -9,9 +9,6 @@ date-precision: day
 original: null
 tags:
   - musi
----
-*supa li jo e ijo mute, taso telo li supa e waso. tenpo pini lili la mi tawa lon telo pi waso mute. ona li musi, li sewi e mi la mi wile toki ni.*
-
 license: 'CC BY-SA 4.0'
 sources:
   - https://liputenpo.org/lipu/nanpa-kala/
@@ -21,6 +18,9 @@ archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
+---
+*supa li jo e ijo mute, taso telo li supa e waso. tenpo pini lili la mi tawa lon telo pi waso mute. ona li musi, li sewi e mi la mi wile toki ni.*
+
 ---
 
 telo ni li suli ala,  

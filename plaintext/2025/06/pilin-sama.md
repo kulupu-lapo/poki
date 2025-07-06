@@ -9,6 +9,15 @@ date-precision: day
 original: null
 tags:
   - musi
+license: 'CC BY-SA 4.0'
+sources:
+  - https://liputenpo.org/lipu/nanpa-kala/
+  - https://liputenpo.org/pdfs/0031kala.pdf
+  - https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 ---
 jan ale li kipisi* pi sijelo wan  
 ona ale li lon tan kon wan  
@@ -23,15 +32,6 @@ sina li ken ala jan?
 *toki musi tan jan Sate (suwi a toki en) tan ma Ilan (insa lukin alasa namako)*  
 *ante toki tan jan Ali (ale li insa)*  
 
-license: 'CC BY-SA 4.0'
-sources:
-  - https://liputenpo.org/lipu/nanpa-kala/
-  - https://liputenpo.org/pdfs/0031kala.pdf
-  - https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki
-archives: null
-preprocessing: null
-accessibility-notes: null
-notes: null
 ---
 
 *kipisi: ijo lili tan ijo suli
