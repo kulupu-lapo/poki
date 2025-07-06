@@ -4,7 +4,7 @@ description: null
 authors:
   - tobiah
 proofreaders: null
-date: 2013-10-10
+date: 2002-10-04
 date-precision: day
 tags:
   - original
@@ -17,6 +17,7 @@ tags:
 original: null
 license: CC BY-SA 3.0
 sources:
+  - https://web.archive.org/web/20041209121406/http://tokipona.nytka.org/music/tokipona.zip
   - https://tobiah.bandcamp.com/track/toki-pona
   - https://www.youtube.com/watch?v=2jRtYBaZGgQ
 archives: null
