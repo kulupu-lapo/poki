@@ -127,7 +127,7 @@ toki e ni: 'lon la, lon la, mi toki tawa sina: tenpo kama la, sina lukin
 e ni: sewi li open. kon toki li tawa sewi, li tawa anpa lon mije lili
 jan.'
 
-kipisi lipu nanpa tu
+## kipisi lipu nanpa tu
 
 tenpo suno nanpa tu wan la, kulupu pona pi kama wan olin li lon ma tomo
 Kana, lon ma Kalili. mama meli pi jan Jesu li lon. 2 kin la, jan Jesu
@@ -177,7 +177,7 @@ Jesu li pilin pona ala tawa ona mute. jan Jesu li sona e jan ale. 25
 jan Jesu li wile ala e ni: jan wan li toki e jan ante tawa jan Jesu. jan
 Jesu li sona e ijo ale lon jan.
 
-kipisi lipu nanpa tu wan
+## kipisi lipu nanpa tu wan
 
 jan Palise wan li lon. nimi ona li Nikotemo. ona li jan lawa pi kulupu
 Juta. 2 tenpo pimeja la, jan Nikotemo li tawa jan Jesu. ona li toki e
@@ -252,7 +252,7 @@ ale tawa luka ona. 36 jan li sona e mije lili la, jan ni li jo e kon
 pi tenpo ale. taso jan li kute ala e mije lili la, jan ni li lukin ala e
 kon. pilin utala sewi li tawa ona.'
 
-kipisi lipu nanpa tu tu
+## kipisi lipu nanpa tu tu
 
 jan Palise mute li kama sona e ni: jan Jojane li jo e jan kute mute la,
 jan Jesu li kama jo jan kute mute mute. kin la, ona li telo sewi. jan
@@ -369,7 +369,7 @@ sona. jan ale lon tomo ona li sona.
 
 54 ni li sitelen nanpa tu pi jan Jesu lon ma Kalili.
 
-kipisi lipu nanpa luka
+## kipisi lipu nanpa luka
 
 ni pini la, tenpo sewi suli pi kulupu Juta li lon. jan Jesu li tawa ma
 tomo Jelusalen. 2 telo li lon ma tomo Jelusalen, lon poka pi lupa pi
@@ -462,7 +462,7 @@ sina sona e jan Mose la, sina sona e mi. tawa ni la, mi la, jan Mose li
 sitelen. 47 sina sona ala e sitelen ona la, sina sona e kon toki mi
 lon nasin seme?'
 
-kipisi lipu nanpa luka wan
+## kipisi lipu nanpa luka wan
 
 ni pini la, jan Jesu li tawa poka ante pi telo suli Kalili. (telo suli
 li jo e nimi kin: Tipelija.) 2 tenpo ni la, jan mute mute li kute e
@@ -600,7 +600,7 @@ luka luka tu anu seme? taso wan sina li kon ike.' 71 kon toki ona li
 ni: jan Jutasu, mije lili pi jan Simon Ikawijote. jan Jutasu li wan pi
 luka luka tu. taso tenpo kama la, ona li pali ike tawa jan Jesu.
 
-kipisi lipu nanpa luka tu
+## kipisi lipu nanpa luka tu
 
 ni pini la, jan Jesu li tawa ma Kalili. tawa ni la: ona li wile ala tawa
 ma Juta, tan ni: jan Juta mute li alasa e ona. ona mute li wile moli e
@@ -699,7 +699,7 @@ ona la, lipu lawa li kipisi lawa ala e jan ni.' 52 ona mute li toki e
 ni: 'sina kin kama tan ma Kalili anu seme? o alasa. jan toki sewi li
 kama ala tan ma Kalili.' \[ 53 ona ale li tawa tomo ona.
 
-kipisi lipu nanpa luka tu wan
+## kipisi lipu nanpa luka tu wan
 
 jan Jesu li tawa nena pi kili lili. 2 tenpo pi open suno la, ona li
 tawa tomo sewi. jan ale li kama tawa ona. jan Jesu li awen lon monsi, li
@@ -819,7 +819,7 @@ tawa sina: tenpo open la, mi li lon.' 59 ona mute li kama jo e kiwen.
 ona li wile pana wawa e kiwen tawa jan Jesu. taso jan Jesu li weka. ona
 li tawa tan tomo sewi, li weka.
 
-kipisi lipu nanpa luka tu tu
+## kipisi lipu nanpa luka tu tu
 
 jan Jesu li tawa. tenpo ni la, ona li lukin e jan. tenpo ale la, jan ni
 li ken ala lukin. 2 jan kute pi jan Jesu li toki e ni: 'jan Lapi o.
@@ -899,7 +899,7 @@ li kute e ni. ona li toki e ni: 'mi jan pi lukin ala kin anu seme?' 41
 jan Jesu li toki e ni: 'sina ken ala lukin la, sina pali ike ala. taso
 sina toki e ni: "mi lukin." tan ni, ike sina li awen.
 
-kipisi lipu nanpa luka luka
+## kipisi lipu nanpa luka luka
 
 'lon la, lon la, mi toki tawa sina: jan li tawa tomo pi soweli len
 kepeken ala lupa la, jan ni li jan ike, li jan lanpan. 2 taso jan li
@@ -976,7 +976,7 @@ toki e ni: 'jan Jojane li pali ala e sitelen. taso jan ni la, jan Jojane
 li toki e ijo la, ijo ni li lon.' 42 jan mute li sona e jan Jesu lon
 ni.
 
-kipisi lipu nanpa luka luka wan
+## kipisi lipu nanpa luka luka wan
 
 jan wan li lon ma Petani. ona li pilin jaki. nimi ona li Lasalo. jan
 Mawin en jan Mawa li lon ma tomo ona. jan Mawa li sama jan Mawin. 2
@@ -1087,7 +1087,7 @@ kama?' 57 tenpo pini la, jan sewi mute en jan Palise mute li lawa e
 ni: jan li sona e ma pi jan Jesu la, jan ni o toki e ni. ona mute li
 wile lanpan e jan Jesu.
 
-kipisi lipu nanpa luka luka tu
+## kipisi lipu nanpa luka luka tu
 
 tenpo suno luka wan kama la, tenpo sewi suli li lon. jan Jesu li kama
 tawa ma Petani. jan Lasalo li lon ni. tenpo pini la, jan Jesu li sewi
@@ -1190,7 +1190,7 @@ li pana e mi. ona li pana e lawa tawa mi. tan ni la, mi o toki. 50 mi
 sona e ni: lawa ona li kon pi tenpo ale. tan ni la, mama mije li toki e
 ijo tawa mi la, mi toki e ijo ni.'
 
-kipisi lipu nanpa luka luka tu wan
+## kipisi lipu nanpa luka luka tu wan
 
 tenpo ni la, tenpo sewi suli li kama. jan Jesu li sona e ni: tenpo ona
 li kama. tenpo kama la, ona li weka e ma. ona li tawa mama mije. tenpo
@@ -1269,7 +1269,7 @@ li toki e ni: 'sina wile ala wile pana anpa e kon sina tawa mi? lon la,
 lon la, mi toki tawa sina: tenpo kama la, tenpo tu wan la, mi la, sina
 toki e ni: "ala". ni pini la, waso mije li mu.
 
-kipisi lipu nanpa luka luka tu tu
+## kipisi lipu nanpa luka luka tu tu
 
 'o pilin ala ike. sina sona e sewi. o sona kin e mi. 2 tomo pi mama
 mije mi li jo e tomo mute. ni li lon ala la, mi toki e ni tawa sina. mi
@@ -1333,7 +1333,7 @@ lawa pi ma ni li kama tawa mi. ona li jo e ala lon mi. 31 taso ma o
 sona e ni: mi olin e mama mije. tan ni la, mama mije li lawa e mi. tan
 ni la, mi pali e lawa ona. o sewi! mi mute o tawa!
 
-kipisi lipu nanpa luka luka luka
+## kipisi lipu nanpa luka luka luka
 
 'mi kasi lon pi kili lili. mama mije mi li jan pi kasi pi kili lili. 2
 palisa li lon mi li jo ala e kili la, mama mije li weka e palisa ni.
@@ -1384,7 +1384,7 @@ lipu lawa ona li sitelen: "mi ike tawa ona mute, tan ala."
 ona tawa sina tan mama mije. ona li tawa tan mama mije. mi la, ona li
 toki. 27 kin la, sina toki, tan ni: tenpo open la, sina lon mi.
 
-kipisi lipu nanpa luka luka luka wan
+## kipisi lipu nanpa luka luka luka wan
 
 'mi toki e ni tawa sina tawa ni: sina awen. 2 tenpo kama la, ona mute
 li weka e sina tan tomo pi sona sewi. tenpo kama la, jan ale li pilin e
@@ -1449,7 +1449,7 @@ taso ala, tan ni: mama mije li lon mi. 33 mi toki e ijo ni tawa sina.
 tan ni la, sina ken jo e pona lon mi. sina jo e ijo ike lon ma. taso o
 monsuta ala a! ma li wawa lili la, mi wawa mute.'
 
-kipisi lipu nanpa luka luka luka tu
+## kipisi lipu nanpa luka luka luka tu
 
 toki ni pi jan Jesu pini la, ona li sewi e oko tawa sewi. ona li toki e
 ni: 'mama mije o. tenpo li kama. o sewi e mije lili sina, tawa ni: mije
@@ -1505,7 +1505,7 @@ sona e nimi sina tawa ona mute. tenpo kama la, mi pana sona e nimi sina.
 tan ni la, olin sina tawa mi la, olin ni li lon ona mute. kin la, mi lon
 ona mute.'
 
-kipisi lipu nanpa luka luka luka tu wan
+## kipisi lipu nanpa luka luka luka tu wan
 
 toki ni pini la, jan Jesu en jan kute ona li weka. ona li tawa poka ante
 pi nasin telo Keton. ma kasi li lon. jan Jesu en jan kute li tawa ma
@@ -1597,7 +1597,7 @@ kulupu Juta tawa sina?'
 40 ona mute li toki e ni: 'jan ni ala a! o pana e jan Pawapa!' jan
 Pawapa li jan lanpan.
 
-kipisi lipu nanpa luka luka luka tu tu
+## kipisi lipu nanpa luka luka luka tu tu
 
 tan ni la, jan Pilato li kama jo e jan Jesu. jan utala li utala e jan
 Jesu. 2 jan utala li pali e len lawa kepeken linja kiwen kasi. ona li
@@ -1695,7 +1695,7 @@ e ni.) 41 ma kasi li lon poka ma pi moli pi jan Jesu. lupa moli sin li
 lon ma kasi. jan ala li lon ona. 42 ona tu li pana e jan Jesu lon lupa
 moli ni, tan ni: tenpo suno sewi li kama.
 
-kipisi lipu nanpa mute
+## kipisi lipu nanpa mute
 
 tenpo suno nanpa wan pi tenpo esun li lon. tenpo open pi tenpo suno ni
 la, jan Mawi Makalan li kama tawa lupa moli. ona li lukin e ni: kiwen
@@ -1765,7 +1765,7 @@ sitelen ni li sitelen ala lon lipu ni. 31 mi sitelen e ni tawa ni:
 sina ken sona e ni: jan Jesu li jan pi ko sewi. ona li mije lili sewi.
 sina sona la, sina ken jo e kon lon nimi ona.
 
-kipisi lipu nanpa mute wan
+## kipisi lipu nanpa mute wan
 
 32 ni pini la, jan Jesu li pana lukin e ona tawa jan kute lon telo
 suli Tipelija. 2 jan Simon Petulo, en jan Toma Sisimu, en jan Natana
