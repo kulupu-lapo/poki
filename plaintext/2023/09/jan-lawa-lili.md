@@ -8,9 +8,9 @@ proofreaders: null
 date: '2023-09-23'
 date-precision: year
 original:
-  title: Antoine de Saint-Exupéry
+  title: The Little Prince
   authors:
-    - The Little Prince
+    - Antoine de Saint-Exupéry
 tags:
   - translation
   - prose
