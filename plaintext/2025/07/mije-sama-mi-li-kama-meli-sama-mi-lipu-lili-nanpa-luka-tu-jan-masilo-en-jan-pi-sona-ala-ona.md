@@ -1,7 +1,7 @@
 ---
 title: >-
   mije sama mi li kama meli sama mi! (lipu lili nanpa luka tu: jan Masilo en jan
-  pi sona ala ona
+  pi sona ala ona)
 description: >-
   A translation of the seventh chapter of the manga "Onii-chan wa Oshimai!"
   (ONIMAI: I'm Now Your Sister! / My Brother is Done For!), "Mahiro's Unexpected
