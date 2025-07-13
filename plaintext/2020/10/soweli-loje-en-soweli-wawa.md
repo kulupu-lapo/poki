@@ -1,13 +1,13 @@
 ---
 title: soweli loje en soweli wawa
-description: A translation of The Fox and the Goat
+description: A translation of The Fox and the Leopard
 authors:
   - jan Ne
 proofreaders: null
 date: '2020-10-29'
 date-precision: day
 original:
-  title: The Fox and the Goat
+  title: The Fox and the Leopard
   authors:
     - unknown
 tags:
