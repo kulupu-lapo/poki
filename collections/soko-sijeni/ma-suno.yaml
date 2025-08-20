@@ -1,12 +1,13 @@
 name: ma suno
 sources:
-  - https://sijeni.neocities.org/ma-suno/
+  - https://sijeni.li.pona.la/tp/
 items:
   # - toki open -
   - plaintext/2025/03/open-lon.md
   - plaintext/2025/04/open-jan.md
   - plaintext/2025/04/open-utala.md
   # - toki jan -
-  # (no items at the moment)
+  - plaintext/2025/08/olin-mama.md
   # - toki mun -
   - plaintext/2025/04/jan-suno.md
+  - plaintext/2025/04/ma-tomo.md
