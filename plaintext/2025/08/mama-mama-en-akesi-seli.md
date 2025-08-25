@@ -19,7 +19,7 @@ sources:
 archives: null
 preprocessing: null
 accessibility-notes: null
-notes: null
+notes: English version was provided by the submitter but removed by the maintainer. You can still read it in the source
 ---
 
 mama mama en akesi seli
@@ -41,25 +41,5 @@ jan Atala en akesi seli walo pimeja li kama lon ma tomo lili. akesi seli li mons
 tawa tenpo moli la mama mama mama mama li jan lawa pi akesi seli. taso ona li toki e ni: pona li suli. wawa li lili.
 
 toki ni li tenpo lon pi mama mama mama mama. sina li sona e lon ala la sina o ken sona e lon anu lon ala a!
-
------------------------
-
-Grandfather and the Dragon
-
-from Irina Rempt
-
-From the Book of Mailei Halla's Left Hand
-
-When my great-great-grandfather was a young man, he travelled out into the world. First he went west; there was only sand there. Then he went north; there was only snow there. Then he went east; there the mountains were too high and great-great-grandfather couldn't climb them. At last he decided to travel south, on foot, on horseback, by cart and by boat.
-
-In the south he saw the largest city in all the world. A large fleet was in. It occurred to great-great-grandfather - his name was Athal, Riei's son - to find work as a sailor. "Captain," he asked, "may I sail with you?" "You may not!" the captain said. So Athal went aboard without permission. Nobody saw him.
-
-Presently they arrived at a little island. Athal left the ship unseen. There he suddenly saw an enormous dragon! Horrified, Athal stepped back. It looked like the dragon was sitting on eggs. Athal was no coward, but he waited until the dragon left the nest. Then he counted the eggs. There were four eggs in the nest. Hungry as he was Athal thought he might eat an egg, but he didn't know if that would make him ill. Also he didn't know when the dragon would come back. He didn't eat the egg, but hid under it. When the dragon came back it didn't see Athal. After some time the eggs hatched. Athal decided to serve his own ends and made friends with the little dragons, pretending he was a young dragon himself.
-
-When he had been with the dragons for three years, he wanted to go home. The dragons were now grown up. The first one was white, the second yellow, the third red-brown and the fourth grey. He took a look at the white one: it was too weak. Then he took a look at the yellow one: it was too stupid. Then he took a look at the red-brown one: it was too cowardly. Finally he took a look at the grey one; there seemed to be nothing unhealthy or bad or dangerous about it. He would be able to ride it easily. He mounted it. The dragon flew north with him as fast as a crow.
-
-In the village everyone who saw him was frightened by the dragon, but Athal shouted that he had really come back. The dragon alighted in the centre of the village. Athal dismounted. The grey dragon took off. Soon it had disappeared into the sky.
-
-For the rest of his life my great-great-grandfather was called "dragonlord", though he used to say himself that friendship is better than power.
 
 These, then, are the adventures of my great-great-grandfather. If you think I'm only telling tales, then you find out if it's true!
