@@ -41,5 +41,3 @@ jan Atala en akesi seli walo pimeja li kama lon ma tomo lili. akesi seli li mons
 tawa tenpo moli la mama mama mama mama li jan lawa pi akesi seli. taso ona li toki e ni: pona li suli. wawa li lili.
 
 toki ni li tenpo lon pi mama mama mama mama. sina li sona e lon ala la sina o ken sona e lon anu lon ala a!
-
-These, then, are the adventures of my great-great-grandfather. If you think I'm only telling tales, then you find out if it's true!
