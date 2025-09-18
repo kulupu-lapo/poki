@@ -32,7 +32,7 @@ notes: >-
 
 mi wile ala toki pi kalama suli tan ni: monsuta ike li lon ni.
 
-mi toki pi kalama lili e ni: toki a. o weka pona. mi wile ala e ni: monsua ni li kama li pakala e sina li moli e sina li moku e sina.
+mi toki pi kalama lili e ni: toki a. o weka pona. mi wile ala e ni: monsuta ni li kama li pakala e sina li moli e sina li moku e sina.
 
 sina toki pi kalama lili e ni: monsuta ni li ken ni anu seme?
 
