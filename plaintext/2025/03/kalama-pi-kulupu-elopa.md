@@ -1,6 +1,6 @@
 ---
 title: kalama pi kulupu Elopa
-description: null
+description: mi toki pona e kalama musi pi kulupu Elopa tan toki Epanjo.
 authors:
   - soko Sijeni
 proofreaders: null
@@ -14,11 +14,10 @@ original:
     - Friedrich Schiller
 license: null
 sources:
-  - https://sijeni.neocities.org/elopa/
+  - https://sijeni.li.pona.la/tp/elopa/
 archives:
-  - https://web.archive.org/web/0/https://sijeni.neocities.org/elopa/
-preprocessing: removed formatting characters for SP fonts e.g. square brackets for
-  cartouches, word1 for alt glyph selection
+  - https://web.archive.org/web/0/https://sijeni.li.pona.la/tp/elopa/
+preprocessing: null
 accessibility-notes: null
 notes: null
 ---

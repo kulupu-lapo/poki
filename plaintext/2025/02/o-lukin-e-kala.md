@@ -1,6 +1,6 @@
 ---
 title: o lukin e kala
-description: null
+description: mi toki pona e kalama musi “los peces en el río” tan toki Epanjo.
 authors:
   - soko Sijeni
 proofreaders: null
@@ -9,16 +9,15 @@ date-precision: day
 tags:
   - music
 original:
-  title: LOS PECES EN EL RIO
+  title: Los peces en el rio
   authors:
     - (unknown)
 license: null
 sources:
-  - https://sijeni.neocities.org/kala/
+  - https://sijeni.li.pona.la/tp/kala/
 archives:
-  - https://web.archive.org/web/0/https://sijeni.neocities.org/kala/
-preprocessing: removed formatting characters for SP fonts e.g. square brackets for
-  cartouches, word1 for alt glyph selection
+  - https://web.archive.org/web/0/https://sijeni.li.pona.la/tp/kala/
+preprocessing: null
 accessibility-notes: null
 notes: null
 ---
