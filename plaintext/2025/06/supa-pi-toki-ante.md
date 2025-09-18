@@ -11,8 +11,8 @@ tags:
   - musi
 license: 'CC BY-SA 4.0'
 sources:
-  - https://liputenpo.org/lipu/nanpa-kala/
-  - https://liputenpo.org/pdfs/0031kala.pdf
+  - https://liputenpo.org/lipu/nanpa-supa/
+  - https://liputenpo.org/pdfs/0032supa.pdf
   - https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki
 archives: null
 preprocessing: removed HTML tags
