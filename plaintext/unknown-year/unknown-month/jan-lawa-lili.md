@@ -2,10 +2,10 @@
 title: jan lawa lili
 description: A translation of Antoine de Saint-Exupéry's The Little Prince
 authors:
-  - Micheal F.
+  - Michael F.
 proofreaders: null
-date: '2013-01-20'
-date-precision: day
+date: 2001-01-01
+date-precision: none
 original:
   title: The Little Prince
   authors:
@@ -18,7 +18,9 @@ license: CC BY-NC 4.0
 sources:
   - http://failbluedot.com/toki_pona/jan_lawa_lili/chap01
 archives:
+  - https://web.archive.org/web/20080719153012/http://anadder.com/toki_pona/jan_lawa_lili
   - https://web.archive.org/web/20151009153200/http://failbluedot.com/toki_pona/jan_lawa_lili/chap01
+  - https://github.com/davidar/nltk-tp/tree/master/Corpus/Derivative%20Works%20of%20(C)/Michael%20Freedman/LittlePrince
 preprocessing: null
 accessibility-notes: null
 notes: The older translation
