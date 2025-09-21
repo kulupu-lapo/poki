@@ -35,7 +35,7 @@ tenpo pi nasin sewi la, mi ken sona e ni: kulupu Jojane li utala lili e kulupu a
 
 ken suli la jan lukin ala li sitelen e lipu ni. taso, jan sona pi nasin sewi tan kulupu Jojane li pali e ni. kulupu ni li toki e ni: ona li tan “jan kute olin pi jan Jesu” (21:24). lipu li toki e jan kute ni tawa ni: ona li ken toki e lon lipu. lipu li toki ala e ona tan ni: ona li sitelen e lipu. lipu ni li kama ni tan pilin pi kulupu Jojane tawa nasin pi jan Jesu. weka, en utala, en kon, en pilin kulupu pi nasin sewi li ante lili e ona. 
 
-### toki ante pi jan Jesu
+## toki ante pi jan Jesu
 
 sama ala lipu “sona sin pona” tu wan ante la, lipu “sona sin pona tan jan sewi Jojane” li weka e toki sitelen pi nasin pona, e weka pi kon ike, e len sona sewi pi jen Jesu (lipu ni la, jan Jesu li len ala e sewi ona). taso, ona li pana e toki wawa sewi nasin pi jan Jesu. open la, jan Jesu li toki, li lon poka sewi, li sewi (1:1). toki open pi sona suli (1:1-18) li toki musi pi nasin sewi, li sitelen e pilin lipu pi suli nanpa wan: jan Jesu li tan nimi, li suno ma, li kama lon sewi.  
 lipu “sona sin pona tan jan sewi Jojane” la, jan Jesu li wawa, li sona, li sewi. ona li toki e toki sona suli, li toki pona tawa jan mute. tenpo mute la ona li toki pi len ala e lon ona, e wile ona kepeken toki “mi lon”. ni li sama nimi sewi (pi sitelen tu tu) tan lipu sewi Tanaku.
