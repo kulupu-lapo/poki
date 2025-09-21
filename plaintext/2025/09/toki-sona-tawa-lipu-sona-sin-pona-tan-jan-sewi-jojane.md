@@ -12,6 +12,9 @@ tags:
   - religion
   - nasin sewi
   - prose
+  - sona
+  - original
+  - essay
 license: CC BY-SA 4.0
 sources:
   - https://denesszanto.itch.io/lipu-sewi
