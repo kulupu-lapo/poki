@@ -35,21 +35,21 @@ suli ala li kama lon suno nanpa wan. ona li wile utala la ni li ike a. jan mute 
 tomo lili la meli tu li lon. ona li lili li pali. taso jan Kisote la ona li suli li lon tomo lawa suli. mije ante lon tomo li lawa e soweli mani. jan Kisote li kama la meli li pilin monsuta
 li tawa insa tomo. taso jan Kisote li toki suwi e ni:
 
----o monsuta ala! mi jan utala tawa lawa la mi pakala ala e meli suwi sama sina.
+—o monsuta ala! mi jan utala tawa lawa la mi pakala ala e meli suwi sama sina.
 
 meli li kute e «meli suwi» la ona li mu tan musi. ni la jan Kisote li toki sin.
 
----tan pona lukin la mu musi li kama tan lili.
+—tan pona lukin la mu musi li kama tan lili.
 
 meli li sona ala e nasin toki ni pi tenpo pini li mute e mu. tenpo ni la mije li kama. ona li lukin e sijelo linja e ilo utala, li wan lon mu. taso ona li pilin monsuta kin tan ilo li toki:
 
----sina wile lape la o lon tomo mi.
+—sina wile lape la o lon tomo mi.
 
 jan Kisote li lukin e pona mije li toki:
 
----jan kutopanja¹ o! ale li pona tawa mi. lape li utala mi.
+—jan kutopanja o! [nimi ni li nimi sin musi tan kulupu Epanja pi toki pona, li toki e kulupu ni. ona li nimi jan ala. mi kepeken nimi ni tan musi. lipu la kon nimi li «ijo li tan kulupu Kasija pi ma Epanja _` (castellano)`_».] ale li pona tawa mi. lape li utala mi.
 
----supa lape sina li kiwen. ni la, sina ken ala lape lon tomo ni lon tenpo pimeja lon tenpo ale.
+—supa lape sina li kiwen. ni la, sina ken ala lape lon tomo ni lon tenpo pimeja lon tenpo ale.
 
 mije li pana e pona tawa jan Kisote. ona li moku ala la pali ale li wile e wawa suli.
 
@@ -60,12 +60,8 @@ jan Kisote la mije o pona tawa soweli Losinante kin. ona li soweli nanpa wan taw
 > jan Kisote utala  
 > lon tomo a wawa.»
 
----anu soweli Losinante. ona li soweli mi mi jan Kisote pi ma Mansa. o lawa e mi.
+—anu soweli Losinante. ona li soweli mi mi jan Kisote pi ma Mansa. o lawa e mi.
 
 toki li nasa tawa meli la ona li toki ala. ona li pana e moku
 
 kala taso li lon. jan Kisote li awen lon supa. ona li moku lon nasin musi a. len kiwen li len e sinpin ona la, jan ante o pana e moku. ona li ken moku e telo kepeken palisa taso. jan ante li kama lon tomo li weka e ken mama tan soweli mani. ilo pali ona li kalama. jan Kisote la ni li kalama musi suwi li tawa wile ona. pini la ona li tawa. taso ona li awen jan utala ala tawa lawa la utala suli ala li ken.
-
----
-
-¹ nimi ni li nimi sin musi tan kulupu Epanja pi toki pona, li toki e kulupu ni. ona li nimi jan ala. mi kepeken nimi ni tan musi. lipu la kon nimi li «ijo li tan kulupu Kasija pi ma Epanja _` (castellano)`_».
