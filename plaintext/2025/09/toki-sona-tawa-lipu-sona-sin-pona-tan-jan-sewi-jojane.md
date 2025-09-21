@@ -41,6 +41,7 @@ ken suli la jan lukin ala li sitelen e lipu ni. taso, jan sona pi nasin sewi tan
 ## toki ante pi jan Jesu
 
 sama ala lipu “sona sin pona” tu wan ante la, lipu “sona sin pona tan jan sewi Jojane” li weka e toki sitelen pi nasin pona, e weka pi kon ike, e len sona sewi pi jen Jesu (lipu ni la, jan Jesu li len ala e sewi ona). taso, ona li pana e toki wawa sewi nasin pi jan Jesu. open la, jan Jesu li toki, li lon poka sewi, li sewi (1:1). toki open pi sona suli (1:1-18) li toki musi pi nasin sewi, li sitelen e pilin lipu pi suli nanpa wan: jan Jesu li tan nimi, li suno ma, li kama lon sewi.  
+
 lipu “sona sin pona tan jan sewi Jojane” la, jan Jesu li wawa, li sona, li sewi. ona li toki e toki sona suli, li toki pona tawa jan mute. tenpo mute la ona li toki pi len ala e lon ona, e wile ona kepeken toki “mi lon”. ni li sama nimi sewi (pi sitelen tu tu) tan lipu sewi Tanaku.
 
 ## wile en toki suli
