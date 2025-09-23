@@ -4,9 +4,9 @@ description: jan nasa li pali e kulupu nasa.
 authors:
   - ilo Kopisepi
 proofreaders: null
-date: '2023-06-02'<!-- from first source's `document.lastModified` property -->
+date: '2023-06-02'
 date-precision: none
-original:<!-- translation of an English poem by the same author -->
+original:
   title: (unknown)
   authors:
     - ilo Kopisepi
@@ -19,7 +19,7 @@ sources:
 archives: https://web.archive.org/web/20240620002305/https://cobyzaby.neocities.org/library/pona_1
 preprocessing: null
 accessibility-notes: null
-notes: null
+notes: A translation of an English poem by the same author. Date is taken from the first source's `document.lastModified` property
 ---
 
 jan lili nasa li sitelen e lipu suli  
