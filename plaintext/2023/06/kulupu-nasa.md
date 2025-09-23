@@ -4,15 +4,19 @@ description: jan nasa li pali e kulupu nasa.
 authors:
   - ilo Kopisepi
 proofreaders: null
-date: '2023-06-02'
+date: '2023-06-02'<!-- from first source's `document.lastModified` property -->
 date-precision: none
-original: null
-tags: null
+original:<!-- translation of an English poem by the same author -->
+  title: (unknown)
+  authors:
+    - ilo Kopisepi
+tags:
+  - poem
 license: null
 sources:
   - https://cobyzaby.neocities.org/library/pona_1
   - https://cobyzaby.neocities.org/shrines/ma_kasi
-archives: null
+archives: https://web.archive.org/web/20240620002305/https://cobyzaby.neocities.org/library/pona_1
 preprocessing: null
 accessibility-notes: null
 notes: null
@@ -54,3 +58,9 @@ o weka e ni: ijo li ike e lawa sina.
 o olin e sijelo sina.  
 o olin e lawa sina.  
 o weka e sinpin sina.
+
+!!! note
+    open la, mi sitelen e lipu ni kepeken toki Inli.
+    mi ante e ni tawa toki pona.
+    kulupu Discord pi kama sona li pona e ante mi.
+    
