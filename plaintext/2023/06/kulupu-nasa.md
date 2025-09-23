@@ -16,7 +16,8 @@ license: null
 sources:
   - https://cobyzaby.neocities.org/library/pona_1
   - https://cobyzaby.neocities.org/shrines/ma_kasi
-archives: https://web.archive.org/web/20240620002305/https://cobyzaby.neocities.org/library/pona_1
+archives:
+  - https://web.archive.org/web/20240620002305/https://cobyzaby.neocities.org/library/pona_1
 preprocessing: null
 accessibility-notes: null
 notes: A translation of an English poem by the same author. Date is taken from the first source's `document.lastModified` property
