@@ -9,7 +9,8 @@ date-precision: year # posted to the yahoo group 2004-06-11 with a line-by-line 
 tags: null
 original:
   title: Gospel of Matthew 16:18-19
-  authors: authors of the Bible
+  authors: 
+    - authors of the Bible
 license: null
 sources:
   - https://web.archive.org/web/20060211005042/http://geocities.com/silverwings_88/keiportal

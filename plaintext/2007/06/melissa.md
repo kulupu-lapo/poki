@@ -18,7 +18,7 @@ sources:
 archives:
   - https://web.archive.org/web/20070728134131/http://bknight0.myweb.uga.edu/toki/text/allman.html#Melissa
   - https://github.com/davidar/nltk-tp/blob/master/Corpus/Derivative%20Works%20of%20(C)/jan%20Pije/Allman_Melissa.txt
-preprocessing: 'jan Pije li toki e ni: "[These three lines are very poetic. Out of respect for the songwriter, I have chosen not to translate these lines because doing so would require an excessive manipulation of the songwriter's words.]". mi lili e ni tawa "[...]". mi poki tu tu e toki. mi weka e toki Inli tan.'
+preprocessing: "jan Pije li toki e ni: '[These three lines are very poetic. Out of respect for the songwriter, I have chosen not to translate these lines because doing so would require an excessive manipulation of the songwriter's words.]'. mi lili e ni tawa '[...]'. mi poki tu tu e toki. mi weka e toki Inli tan."
 accessibility-notes: null
 notes: null
 ---

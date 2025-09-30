@@ -10,7 +10,8 @@ tags:
   - translation
 original:
   title: Book of Genesis
-  authors: authors of the Bible
+  authors: 
+    - authors of the Bible
 license: null
 sources:
   - https://www.angelfire.com/weird2/helloworld/tokiponabible.html

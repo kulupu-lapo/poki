@@ -10,7 +10,8 @@ tags:
   - translation
 original:
   title: unknown # presumably it's some passage from the bible.
-  authors: unknown
+  authors: 
+    - unknown
 license: null
 sources:
   - https://www.angelfire.com/weird2/helloworld/tokiponabible.html

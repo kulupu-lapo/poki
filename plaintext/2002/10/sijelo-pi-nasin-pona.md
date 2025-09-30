@@ -5,7 +5,7 @@ authors:
   - Yves Prudhomme
 proofreaders: null
 date: 2002-10-10
-date-accuracy: day # posted on the yahoo forums. http://forums.tokipona.org/viewtopic.php?t=71
+date-precision: day # posted on the yahoo forums. http://forums.tokipona.org/viewtopic.php?t=71
 tags:
   - translation
   - taoism

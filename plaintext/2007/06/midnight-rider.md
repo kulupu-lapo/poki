@@ -18,7 +18,7 @@ sources:
 archives:
   - https://web.archive.org/web/20070728134131/http://bknight0.myweb.uga.edu/toki/text/allman.html#Midnight Rider
   - https://github.com/davidar/nltk-tp/blob/master/Corpus/Derivative%20Works%20of%20(C)/jan%20Pije/Allman%20Midnight%20Rider.txt
-preprocessing: 'jan Pije li toki e ni: "[I don't understand what the songwriter was trying to convey in this line. Therefore, I have chosen not to translate it.]". mi lili e ni tawa "[...]". mi poki tu wan e toki. mi weka e toki Inli tan.'
+preprocessing: "jan Pije li toki e ni: '[I don't understand what the songwriter was trying to convey in this line. Therefore, I have chosen not to translate it.]'. mi lili e ni tawa '[...]'. mi poki tu wan e toki. mi weka e toki Inli tan."
 accessibility-notes: null
 notes: null
 ---
