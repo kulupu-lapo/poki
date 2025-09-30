@@ -14,7 +14,8 @@ original:
 license: null
 sources:
   - https://olukin.blogspot.com/2011/04/jan-lawa-oliki.html
-archives: null
+archives:
+  - https://github.com/davidar/nltk-tp/blob/master/Corpus/Derivative%20Works%20of%20(C)/jan%20Ote%20Derivs/jan%20lawa%20Oliki%20Soweli%20Elepanto.txt
 preprocessing: null
 accessibility-notes: null
 notes: null
