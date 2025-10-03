@@ -21,6 +21,11 @@ license: CC BY-SA-NC 4.0
 sources:
   - >-
     https://discord.com/channels/301377942062366741/301377942062366741/1372206831954558996
+  - >-
+    https://pixelzyxel.neocities.org/translations-toki-pona
+  - >-
+    https://pixelzyxel.neocities.org/ante-toki-pi-toki-pona
+
 archives: null
 preprocessing: null
 accessibility-notes: null
