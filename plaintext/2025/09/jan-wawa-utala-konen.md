@@ -4,7 +4,7 @@ description: A translation of "The Tower of the Elephant" by Robert E. Howard
 authors:
   - jan Tene
 proofreaders: null
-date: '2025-09-23'
+date: '2025-10-05'
 date-precision: day
 original:
   title: The Tower of the Elephant
