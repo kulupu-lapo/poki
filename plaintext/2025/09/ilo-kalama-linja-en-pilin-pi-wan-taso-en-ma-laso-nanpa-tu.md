@@ -4,7 +4,7 @@ description: Translation of Guitar, Loneliness and Blue Planet into Toki Pona.
 authors:
   - jan Pikesike
 proofreaders: null
-date: '2025-09-11'
+date: '2025-09-12'
 date-precision: day
 original:
   title: Guitar, Loneliness and Blue Planet
@@ -14,7 +14,7 @@ tags:
   - music
   - translation
   - Bocchi the Rock!
-license: null
+license: CC BY-SA-NC 4.0
 sources:
   - https://www.youtube.com/watch?v=R5H9fiFQkQ4
 archives: null
