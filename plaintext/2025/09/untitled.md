@@ -1,5 +1,5 @@
 ---
-title: '[untitled]'
+title: 'tenpo wan la waso li lon'
 description: mi pali e toki musi. ona li pona ala pona?
 authors:
   - octonomial
