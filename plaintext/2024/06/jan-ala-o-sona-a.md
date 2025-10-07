@@ -9,6 +9,7 @@ date: 2024-06-08
 date-precision: day
 tags:
   - "fan fiction"
+  - Japanese
 original:
   title: Та ніхто не буде знати!
   authors:

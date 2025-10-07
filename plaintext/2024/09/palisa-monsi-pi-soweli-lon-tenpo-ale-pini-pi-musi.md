@@ -9,6 +9,7 @@ date: 2024-09-10
 date-precision: day
 tags:
   - "fan fiction"
+  - English
 original:
   title: "Eternal Tails: Game Over"
   authors:

@@ -9,6 +9,7 @@ date: 2022-09-29
 date-precision: day
 tags:
   - "fan fiction"
+  - English
 original:
   title: My Immortal
   authors:

@@ -8,6 +8,7 @@ date: 2024-06-08
 date-precision: day
 tags:
   - "fan fiction"
+  - English
 original:
   title: Deltarune - CONTACT
   authors:

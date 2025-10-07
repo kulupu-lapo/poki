@@ -9,6 +9,8 @@ date: 2023-08-22
 date-precision: day
 tags:
   - "fan fiction"
+  - English
+  - Esperanto
 original: null
 license: null
 sources:

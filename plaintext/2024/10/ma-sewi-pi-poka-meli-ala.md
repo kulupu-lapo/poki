@@ -8,6 +8,7 @@ date: 2024-10-15
 date-precision: day
 tags:
   - 'fan fiction'
+  - English
 original: null
 license: null
 sources:
