@@ -14,6 +14,7 @@ original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=Lp-yvBl_VM0
+  - https://youtu.be/wRW6XgP5xd4
   - https://open.spotify.com/track/1y6wjoZMvAbWvrz5aYOilZ
   - https://music.apple.com/song/toki-ala/1658209219
   - https://music.apple.com/song/toki-ala-nightcore-version/1658209220
