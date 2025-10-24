@@ -34,7 +34,7 @@ olin, loje, ona li pona
 o pana e pilin tawa mi, o-o-o
 
 [chorus]  
-sina wile e mi sama mi a
+sina wile e mi sama mi a  
 sina olin e mi - mi sama  
 lape lon kama, tenpo ni la mi nasa  
 ale la o kama tawa mi, mi lon
