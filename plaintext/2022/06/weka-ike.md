@@ -14,6 +14,7 @@ original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=iDpFcBKIAV8
+  - https://youtu.be/VCJo_gFHXm4
   - https://www.youtube.com/watch?v=kp4Kym4DNRU  # acoustic version
   - https://www.amazon.com/music/player/albums/B0B313PSKP
   - https://www.amazon.com/music/player/tracks/B0DB9MCCS9
