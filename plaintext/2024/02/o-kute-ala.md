@@ -14,6 +14,7 @@ original: null
 license: null
 sources:
   - https://www.youtube.com/watch?v=G0ASV68Z-GI
+  - https://youtu.be/V0c1tptPMAM
   - https://music.apple.com/album/o-kute-ala-ep/1731701505
   - https://music.apple.com/song/o-kute-ala/1731701506
   - https://music.apple.com/song/o-kute-ala-nightcore-version/1731701689
