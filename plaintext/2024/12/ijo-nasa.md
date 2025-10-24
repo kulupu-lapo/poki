@@ -6,7 +6,7 @@ description: >-
 authors:
   - 56independent
 proofreaders: null
-date: '2024-12-07'
+date: '2024-07-12'
 date-precision: day
 original:
   title: Anomaly
