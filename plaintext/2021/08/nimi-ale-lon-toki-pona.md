@@ -20,6 +20,7 @@ license: null
 sources:
   - https://www.youtube.com/watch?v=mmM6pR3MxNQ  # creating the perfect tokirap \[epiku]
   - https://www.youtube.com/watch?v=U_w0-VUMh2o  # the tokirap (nimi ale lon toki pona)
+  - https://youtu.be/xn_BsVr45AI # Sapaa, automatic song distribution
   - https://amazon.com/music/player/tracks/B09CJFZZGH
   - https://music.apple.com/song/nimi-ale-lon-toki-pona/1581039014
   - https://www.deezer.com/track/1463150862
