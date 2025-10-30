@@ -56,7 +56,7 @@ def dump_article(file):
         .replace(" 00:00:00", "")
     )
     with open(Path("../../") / LAPO_DIRECTORY / file.name, "w") as f:
-        f.write(f"{formatted_metadata}\n---\n{content}\n")
+        f.write(f"---{formatted_metadata}\n---\n{content}\n")
         return f"{LAPO_DIRECTORY / file.name}"
 
 
