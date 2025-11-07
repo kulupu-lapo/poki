@@ -16,7 +16,7 @@ import datetime as dt
 # === Usage ===
 LIPU_TENPO_TITLE = "lon"
 LIPU_TENPO_NANPA = "0034"
-DATE = "2025-10-31"
+DATE = "2025-11-08"
 
 LIPU_TENPO_DIRECTORY = "../../../../liputenpo/liputenpo.org/toki/"
 YEAR = int(DATE[:4])
@@ -55,8 +55,9 @@ def dump_article(file):
         .replace("\n- ", "\n  - ")
         .replace(" 00:00:00", "")
     )
+    (Path("../../") / LAPO_DIRECTORY).mkdir(exist_ok=True)
     with open(Path("../../") / LAPO_DIRECTORY / file.name, "w") as f:
-        f.write(f"---{formatted_metadata}\n---\n{content}\n")
+        f.write(f"---\n{formatted_metadata}\n---\n{content}\n")
         return f"{LAPO_DIRECTORY / file.name}"
 
 

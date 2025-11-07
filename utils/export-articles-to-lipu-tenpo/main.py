@@ -1,8 +1,8 @@
 from typing import Generator
 import yaml
 from pathlib import Path
-import datetime as dt
 import re
+import json
 
 
 ROOT = Path("../../")
@@ -26,19 +26,22 @@ def dump_article(file: Path):
     metadata = {
         "nimi-suli": data["title"],
         "jan-pali": data["authors"][0] if "translators" not in data else data["translators"][0],
-        "tags": data["tags"],
+        "tags": data["tags"] or ["REPLACE"],
     }
     formatted_metadata = (yaml
         .dump(metadata, sort_keys=False)
         .replace("\n- ", "\n  - ")
     )
-    return f"---\n{formatted_metadata}---\n{content}\n"
+    return f"---\n{formatted_metadata}---\n\n{content.strip()}\n"
 
 EXPORT.mkdir(exist_ok=True)
 for collection in sorted(LT.glob("*")):
-    for path in get_paths_from_collection(collection):
-        article = dump_article(path)
+    issue_title = re.search(r"nanpa\-\w+(?=\.yaml)", collection.name).group()
+    export_dir: Path = EXPORT / issue_title
+    export_dir.mkdir(exist_ok=True)
 
-        export_dir: Path = EXPORT / f"nanpa {re.search(r"(?<=nanpa\-)\w+(?=\.yaml)", collection.name).group()}"
-        export_dir.mkdir(exist_ok=True)
-        _ = (export_dir / path.name).write_text(article)
+    for path in get_paths_from_collection(collection):
+        _ = (export_dir / path.name).write_text(dump_article(path))
+
+    with open(export_dir / f"{issue_title}.11tydata.json", "w") as f:
+        json.dump({"tags": [issue_title.replace("-", " ")], "date": ""}, f, indent=4)
