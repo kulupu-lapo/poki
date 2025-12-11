@@ -45,7 +45,7 @@ lon ma suli la jan o monsuta
 e kalama suli e tawa kin
 
 waso o  
-o pana e sona tawa sina tawa mi
+o pana e sona sina tawa mi
 
 waso pi lukin suli li sona  
 waso pi lukin suli li sona pona
