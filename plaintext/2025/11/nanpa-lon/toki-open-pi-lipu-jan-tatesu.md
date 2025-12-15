@@ -11,6 +11,7 @@ license: CC BY-SA 4.0
 sources:
   - https://liputenpo.org/toki/nanpa-lon/toki-open-pi-lipu-jan-tatesu/
   - https://liputenpo.org/lipu/nanpa-lon/
+  - https://liputenpo.org/pdfs/0034lon.pdf
 archives: null
 preprocessing: null
 accessibility-notes: null
