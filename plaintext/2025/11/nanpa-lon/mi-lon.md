@@ -7,6 +7,14 @@ proofreaders: null
 date: 2025-11-09
 date-precision: day
 original: null
+license: CC BY-SA 4.0
+sources:
+  - ARTICLE_LINK
+  - https://liputenpo.org/lipu/nanpa-lon/
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
 tags:
   - musi
 ---
