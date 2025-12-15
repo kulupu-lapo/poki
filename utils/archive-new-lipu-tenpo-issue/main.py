@@ -5,20 +5,22 @@ import datetime as dt
 
 # lipu tenpo publishes a set of markdown files every 1-2 months,
 # so it is helpful to do this almost entirely automatically.
-# Change the consts to match the current date and issue.
+# Change the consts to match the current date and issue,
+# and the path of your local liputenpo.org repo.
 #
 # After dumping, make sure to go through manually and check
 # the metadata for errors or potential additions, e.g.:
 #  - references to original works;
-#  -  list of proofreaders;
-#  -  wikisource link.
+#  - list of proofreaders;
+#  - wikisource link;
+#  - order of works in collection file.
 
 # === Usage ===
 LIPU_TENPO_TITLE = "lon"
 LIPU_TENPO_NANPA = "0034"
-DATE = "2025-11-08"
+DATE = "2025-11-09"
+LIPU_TENPO_DIRECTORY = "../../../liputenpo.org/content/md/"
 
-LIPU_TENPO_DIRECTORY = "../../../../liputenpo/liputenpo.org/toki/"
 YEAR = int(DATE[:4])
 MONTH = int(DATE[5:7])
 DAY = int(DATE[8:10])
@@ -26,7 +28,7 @@ LAPO_DIRECTORY = Path(f"plaintext/{YEAR:02}/{MONTH:02}/")
 
 SOURCES_WEB = f"https://liputenpo.org/lipu/nanpa-{LIPU_TENPO_NANPA}/"
 SOURCES_PDF = f"https://liputenpo.org/pdfs/{LIPU_TENPO_NANPA}{LIPU_TENPO_TITLE}.pdf"
-SOURCES_GITHUB = "https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki"
+SOURCES_GITHUB = "https://github.com/lipu-tenpo/liputenpo.org/tree/main/content/md"
 
 
 def dump_article(file):
@@ -72,14 +74,18 @@ def dump_issue(paths):
         .dump(metadata, sort_keys=False)
         .replace("\n- ", "\n  - ")
     )
+    # create issue-specific collection file
     with open(Path("../../") / "collections" / "lipu-tenpo"
               / f"{LIPU_TENPO_NANPA}-nanpa-{LIPU_TENPO_TITLE}.yaml", "w") as f:
         f.write(f"{formatted_metadata}\n")
+    # append to main collection file
+    with open(Path("../../") / "collections" / "lipu-tenpo.yaml", "a") as f:
+        f.write(f"  - collections/lipu-tenpo/{LIPU_TENPO_NANPA}-nanpa-{LIPU_TENPO_TITLE}.yaml # {DATE}\n")
 
 
 def main():
 
-    md_files = Path(LIPU_TENPO_DIRECTORY) / f"nanpa-{LIPU_TENPO_TITLE}"
+    md_files = Path(LIPU_TENPO_DIRECTORY) / f"{LIPU_TENPO_NANPA}-{LIPU_TENPO_TITLE}"
 
     print(md_files)
 
