@@ -1,6 +1,9 @@
 ---
 title: jan ale li kama lon tan ko
-author: ijo Sikipele
+description: null
+authors:
+  - ijo Sikipele
+proofreaders: null
 tags:
   - musi
 ---

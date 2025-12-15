@@ -1,6 +1,9 @@
 ---
 title: soweli en waso
-author: jan Tumu
+description: null
+authors:
+  - jan Tumu
+proofreaders: null
 tags:
   - musi
 ---

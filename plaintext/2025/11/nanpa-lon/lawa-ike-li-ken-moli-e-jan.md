@@ -1,6 +1,9 @@
 ---
 title: lawa ike li ken moli e jan
-author: jan Asilu
+description: null
+authors:
+  - jan Asilu
+proofreaders: null
 tags:
   - sona
 ---

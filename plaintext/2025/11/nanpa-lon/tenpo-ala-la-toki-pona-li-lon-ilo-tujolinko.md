@@ -1,6 +1,9 @@
 ---
 title: tenpo ala la, toki pona li lon ilo Tujolinko
-author: jan Kapesi Pake
+description: null
+authors:
+  - jan Kapesi Pake
+proofreaders: null
 tags:
   - pilin
 ---

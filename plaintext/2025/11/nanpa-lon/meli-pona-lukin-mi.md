@@ -1,6 +1,9 @@
 ---
 title: meli pona lukin mi (kalama musi pi laso mute)
-author: jan Kekoli Nena
+description: null
+authors:
+  - jan Kekoli Nena
+proofreaders: null
 tags:
   - musi
 ---

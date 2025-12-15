@@ -1,6 +1,9 @@
 ---
 title: kijetesantakalu o!
-author: jan Ke Tami
+description: null
+authors:
+  - jan Ke Tami
+proofreaders: null
 tags:
   - musi
 ---

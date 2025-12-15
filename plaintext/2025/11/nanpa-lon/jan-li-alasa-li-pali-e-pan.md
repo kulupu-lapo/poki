@@ -1,6 +1,9 @@
 ---
 title: jan li alasa li pali e pan
-author: kala Asi
+description: null
+authors:
+  - kala Asi
+proofreaders: null
 tags:
   - sona
 ---

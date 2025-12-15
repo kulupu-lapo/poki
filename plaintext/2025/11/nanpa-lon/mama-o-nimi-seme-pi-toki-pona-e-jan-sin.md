@@ -1,6 +1,9 @@
 ---
 title: mama o nimi seme pi toki pona e jan sin?
-author: jan Nikola
+description: null
+authors:
+  - jan Nikola
+proofreaders: null
 tags:
   - pilin
 ---

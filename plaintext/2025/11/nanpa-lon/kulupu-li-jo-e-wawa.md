@@ -1,6 +1,9 @@
 ---
 title: kulupu li jo e wawa
-author: jan Ke Tami
+description: null
+authors:
+  - jan Ke Tami
+proofreaders: null
 tags:
   - kulupu
 ---

@@ -1,6 +1,9 @@
 ---
 title: seme li mi?
-author: jan Alonola
+description: null
+authors:
+  - jan Alonola
+proofreaders: null
 tags:
   - musi
 ---

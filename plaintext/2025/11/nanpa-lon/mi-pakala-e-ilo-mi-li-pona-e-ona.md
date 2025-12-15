@@ -1,6 +1,9 @@
 ---
 title: mi pakala e ilo mi li pona e ona
-author: kala Asi
+description: null
+authors:
+  - kala Asi
+proofreaders: null
 tags:
   - sona
 ---

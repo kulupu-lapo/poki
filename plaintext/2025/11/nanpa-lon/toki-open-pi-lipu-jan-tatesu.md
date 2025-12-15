@@ -1,6 +1,9 @@
 ---
 title: toki open pi lipu "jan Tatesu"
-author: jan Esuwa
+description: null
+authors:
+  - jan Esuwa
+proofreaders: null
 tags:
   - musi
 ---
