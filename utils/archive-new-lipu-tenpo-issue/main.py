@@ -11,10 +11,8 @@ import datetime as dt
 # After dumping, make sure to go through manually and check
 # the metadata for errors or potential additions, e.g.:
 #  - references to original works;
-#  -  list of proofreaders;
-#  -  wikisource link.
-#
-# The main collection file currently needs to be updated manually.
+#  - list of proofreaders;
+#  - wikisource link.
 
 # === Usage ===
 LIPU_TENPO_TITLE = "lon"
@@ -75,9 +73,13 @@ def dump_issue(paths):
         .dump(metadata, sort_keys=False)
         .replace("\n- ", "\n  - ")
     )
+    # create issue-specific collection file
     with open(Path("../../") / "collections" / "lipu-tenpo"
               / f"{LIPU_TENPO_NANPA}-nanpa-{LIPU_TENPO_TITLE}.yaml", "w") as f:
         f.write(f"{formatted_metadata}\n")
+    # append to main collection file
+    with open(Path("../../") / "collections" / "lipu-tenpo.yaml", "a") as f:
+    f.write(f"  - collections/lipu-tenpo/{LIPU_TENPO_NANPA}-nanpa-{LIPU_TENPO_TITLE}.yaml\n")
 
 
 def main():
