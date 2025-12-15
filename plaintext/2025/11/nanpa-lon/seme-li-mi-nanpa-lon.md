@@ -9,7 +9,7 @@ date-precision: day
 original: null
 license: CC BY-SA 4.0
 sources:
-  - ARTICLE_LINK
+  - https://liputenpo.org/toki/nanpa-lon/seme-li-mi-nanpa-lon/
   - https://liputenpo.org/lipu/nanpa-lon/
 archives: null
 preprocessing: null

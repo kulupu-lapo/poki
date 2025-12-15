@@ -9,7 +9,7 @@ date-precision: day
 original: null
 license: CC BY-SA 4.0
 sources:
-  - ARTICLE_LINK
+  - https://liputenpo.org/toki/nanpa-lon/mama-o-nimi-seme-pi-toki-pona-e-jan-sin/
   - https://liputenpo.org/lipu/nanpa-lon/
 archives: null
 preprocessing: null

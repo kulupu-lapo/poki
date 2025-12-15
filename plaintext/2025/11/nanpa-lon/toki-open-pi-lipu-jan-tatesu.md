@@ -9,7 +9,7 @@ date-precision: day
 original: null
 license: CC BY-SA 4.0
 sources:
-  - ARTICLE_LINK
+  - https://liputenpo.org/toki/nanpa-lon/toki-open-pi-lipu-jan-tatesu/
   - https://liputenpo.org/lipu/nanpa-lon/
 archives: null
 preprocessing: null

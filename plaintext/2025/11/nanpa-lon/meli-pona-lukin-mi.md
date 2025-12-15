@@ -9,7 +9,7 @@ date-precision: day
 original: null
 license: CC BY-SA 4.0
 sources:
-  - ARTICLE_LINK
+  - https://liputenpo.org/toki/nanpa-lon/meli-pona-lukin-mi/
   - https://liputenpo.org/lipu/nanpa-lon/
 archives: null
 preprocessing: null
