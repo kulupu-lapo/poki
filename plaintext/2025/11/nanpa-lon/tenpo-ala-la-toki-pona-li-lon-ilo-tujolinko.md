@@ -1,6 +1,6 @@
 ---
-nimi-suli: tenpo ala la, toki pona li lon ilo Tujolinko
-jan-pali: jan Kapesi Pake
+title: tenpo ala la, toki pona li lon ilo Tujolinko
+author: jan Kapesi Pake
 tags:
   - pilin
 ---

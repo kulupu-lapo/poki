@@ -1,6 +1,6 @@
 ---
-nimi-suli: toki open pi lipu "jan Tatesu"
-jan-pali: jan Esuwa
+title: toki open pi lipu "jan Tatesu"
+author: jan Esuwa
 tags:
   - musi
 ---

@@ -1,6 +1,6 @@
 ---
-nimi-suli: kulupu li jo e wawa
-jan-pali: jan Ke Tami
+title: kulupu li jo e wawa
+author: jan Ke Tami
 tags:
   - kulupu
 ---

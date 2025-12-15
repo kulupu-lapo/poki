@@ -1,6 +1,6 @@
 ---
-nimi-suli: suno wawa
-jan-pali: jan Ali
+title: suno wawa
+author: jan Ali
 tags:
   - musi
 ---

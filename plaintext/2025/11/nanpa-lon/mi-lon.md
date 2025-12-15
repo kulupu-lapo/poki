@@ -1,6 +1,6 @@
 ---
-nimi-suli: mi lon
-jan-pali: jan Alonola
+title: mi lon
+author: jan Alonola
 tags:
   - musi
 ---

@@ -1,6 +1,6 @@
 ---
-nimi-suli: jan ale li kama lon tan ko
-jan-pali: ijo Sikipele
+title: jan ale li kama lon tan ko
+author: ijo Sikipele
 tags:
   - musi
 ---

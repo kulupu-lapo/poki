@@ -1,6 +1,6 @@
 ---
-nimi-suli: lawa ike li ken moli e jan
-jan-pali: jan Asilu
+title: lawa ike li ken moli e jan
+author: jan Asilu
 tags:
   - sona
 ---

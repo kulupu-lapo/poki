@@ -1,6 +1,6 @@
 ---
-nimi-suli: meli pona lukin mi (kalama musi pi laso mute)
-jan-pali: jan Kekoli Nena
+title: meli pona lukin mi (kalama musi pi laso mute)
+author: jan Kekoli Nena
 tags:
   - musi
 ---

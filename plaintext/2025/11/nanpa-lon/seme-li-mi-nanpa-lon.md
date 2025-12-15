@@ -1,6 +1,6 @@
 ---
-nimi-suli: seme li mi?
-jan-pali: jan Alonola
+title: seme li mi?
+author: jan Alonola
 tags:
   - musi
 ---

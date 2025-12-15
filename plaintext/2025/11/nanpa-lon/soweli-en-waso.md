@@ -1,6 +1,6 @@
 ---
-nimi-suli: soweli en waso
-jan-pali: jan Tumu
+title: soweli en waso
+author: jan Tumu
 tags:
   - musi
 ---

@@ -1,6 +1,6 @@
 ---
-nimi-suli: jan li alasa li pali e pan
-jan-pali: kala Asi
+title: jan li alasa li pali e pan
+author: kala Asi
 tags:
   - sona
 ---

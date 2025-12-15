@@ -1,6 +1,6 @@
 ---
-nimi-suli: kijetesantakalu o!
-jan-pali: jan Ke Tami
+title: kijetesantakalu o!
+author: jan Ke Tami
 tags:
   - musi
 ---

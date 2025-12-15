@@ -1,6 +1,6 @@
 ---
-nimi-suli: mi pakala e ilo mi li pona e ona
-jan-pali: kala Asi
+title: mi pakala e ilo mi li pona e ona
+author: kala Asi
 tags:
   - sona
 ---

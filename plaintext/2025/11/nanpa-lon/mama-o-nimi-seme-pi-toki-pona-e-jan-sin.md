@@ -1,6 +1,6 @@
 ---
-nimi-suli: mama o nimi seme pi toki pona e jan sin?
-jan-pali: jan Nikola
+title: mama o nimi seme pi toki pona e jan sin?
+author: jan Nikola
 tags:
   - pilin
 ---
