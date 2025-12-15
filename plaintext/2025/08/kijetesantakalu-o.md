@@ -9,6 +9,7 @@ date-precision: day
 original: null
 tags:
   - musi
+  - comic
 license: 'CC BY-SA 4.0'
 sources:
   - https://liputenpo.org/lipu/nanpa-pilin/

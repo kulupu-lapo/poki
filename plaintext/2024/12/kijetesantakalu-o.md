@@ -6,7 +6,8 @@ authors:
 proofreaders: null
 date: 2024-12-29
 date-precision: day
-tags: null
+tags: 
+  - comic
 original: null
 license: CC-BY-SA 4.0
 sources:
