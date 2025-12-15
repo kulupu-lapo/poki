@@ -4,6 +4,9 @@ description: null
 authors:
   - jan Ke Tami
 proofreaders: null
+date: 2025-11-09
+date-precision: day
+original: null
 tags:
   - kulupu
 ---
