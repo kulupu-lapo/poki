@@ -16,9 +16,9 @@ import datetime as dt
 # === Usage ===
 LIPU_TENPO_TITLE = "lon"
 LIPU_TENPO_NANPA = "0034"
-DATE = "2025-11-08"
+DATE = "2025-11-09"
 
-LIPU_TENPO_DIRECTORY = "../../../../liputenpo/liputenpo.org/toki/"
+LIPU_TENPO_DIRECTORY = "../../../liputenpo.org/content/md/"
 YEAR = int(DATE[:4])
 MONTH = int(DATE[5:7])
 DAY = int(DATE[8:10])
@@ -26,7 +26,7 @@ LAPO_DIRECTORY = Path(f"plaintext/{YEAR:02}/{MONTH:02}/")
 
 SOURCES_WEB = f"https://liputenpo.org/lipu/nanpa-{LIPU_TENPO_NANPA}/"
 SOURCES_PDF = f"https://liputenpo.org/pdfs/{LIPU_TENPO_NANPA}{LIPU_TENPO_TITLE}.pdf"
-SOURCES_GITHUB = "https://github.com/lipu-tenpo/liputenpo.org/tree/main/toki"
+SOURCES_GITHUB = "https://github.com/lipu-tenpo/liputenpo.org/tree/main/content/md"
 
 
 def dump_article(file):
@@ -79,7 +79,7 @@ def dump_issue(paths):
 
 def main():
 
-    md_files = Path(LIPU_TENPO_DIRECTORY) / f"nanpa-{LIPU_TENPO_TITLE}"
+    md_files = Path(LIPU_TENPO_DIRECTORY) / f"{LIPU_TENPO_NANPA}-{LIPU_TENPO_TITLE}"
 
     print(md_files)
 
