@@ -79,7 +79,7 @@ def dump_issue(paths):
         f.write(f"{formatted_metadata}\n")
     # append to main collection file
     with open(Path("../../") / "collections" / "lipu-tenpo.yaml", "a") as f:
-    f.write(f"  - collections/lipu-tenpo/{LIPU_TENPO_NANPA}-nanpa-{LIPU_TENPO_TITLE}.yaml\n")
+        f.write(f"  - collections/lipu-tenpo/{LIPU_TENPO_NANPA}-nanpa-{LIPU_TENPO_TITLE}.yaml\n")
 
 
 def main():
