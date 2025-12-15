@@ -12,7 +12,8 @@ import datetime as dt
 # the metadata for errors or potential additions, e.g.:
 #  - references to original works;
 #  - list of proofreaders;
-#  - wikisource link.
+#  - wikisource link;
+#  - order of works in collection file.
 
 # === Usage ===
 LIPU_TENPO_TITLE = "lon"
