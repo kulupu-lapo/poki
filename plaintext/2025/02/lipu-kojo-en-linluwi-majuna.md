@@ -19,7 +19,7 @@ accessibility-notes: null
 notes: null
 ---
 
-{{{sitelen "0031_linluwi.png" "ilo linluwi" "kije Weku"}}}
+![ilo linluwi](https://upload.wikimedia.org/wikipedia/commons/f/f0/Lipu_tenpo_nanpa_kala_-_linluwi_majuna.png "kije Weku")
 
 tenpo pini lili la, lipu Kojo (Cohost) li moli. 
 
@@ -33,7 +33,7 @@ tenpo ni la, nasin mute pi kama sona li ken pana e sona tawa sina. sina wile e l
 
 pilin tawa moli pi lipu Kojo li anpa. taso, mi pilin e ni: jan mute li pali e lipu pona la, jan mute li pilin pona mute tawa linluwi! lipu mi li pona mute tawa mi, tan ni: mi ken pali e ijo pona mute tawa mi. mi mute li wile la, mi mute li ken pali e linluwi pona, sama linluwi majuna.
 
-{{{sitelen "0031_eggbug.png" "pipi sike" "kije Weku"}}}
+![pipi sike](https://upload.wikimedia.org/wikipedia/commons/6/6c/Lipu_tenpo_nanpa_kala_-_lipu_Kojo.png "kije Weku")
 
 pipi sike o tenpo ale a!
 

@@ -20,7 +20,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "0034-nanpa-lon/seme-li-mi-kule.png" "" "jan Alonola"}}}
+![](https://upload.wikimedia.org/wikipedia/commons/0/05/Lipu_tenpo_nanpa_lon_-_sitelen_sitelen.png "jan Alonola")
 
 mi wile lon taso mi ken ala
 mi ken tawa musi lon linja

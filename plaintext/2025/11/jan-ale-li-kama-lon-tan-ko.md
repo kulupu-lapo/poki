@@ -44,4 +44,4 @@ ijo ni li ken pali e jan sin kepeken pakala pi pali ona
 
 tenpo ale la ni li lon
 
-{{{sitelen "0034-nanpa-lon/tenpo-kule.png" "ma li pakala" "kije Weku"}}}
+![ma li pakala](https://upload.wikimedia.org/wikipedia/commons/8/82/Lipu_tenpo_nanpa_lon_-_ma_pakala.png "kije Weku")

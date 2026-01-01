@@ -49,4 +49,4 @@ suno wawa o,
 sina moli lon tenpo pini.  
 sina pana e ijo ale tawa mi.
 
-{{{sitelen "0034-nanpa-lon/suno-wawa-kule.png" "suno li pakala wawa" "jan Ke Tami"}}}
+![suno li pakala wawa](https://upload.wikimedia.org/wikipedia/commons/3/39/Lipu_tenpo_nanpa_lon_-_open.png "jan Ke Tami")

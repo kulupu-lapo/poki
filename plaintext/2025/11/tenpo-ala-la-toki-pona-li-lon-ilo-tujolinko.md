@@ -20,7 +20,7 @@ tags:
   - pilin
 ---
 
-{{{sitelen "0034-nanpa-lon/duo-kule.png" "waso Tujolinko" "jan Alonola"}}}
+![waso Tujolinko](https://upload.wikimedia.org/wikipedia/commons/c/c1/Lipu_tenpo_nanpa_lon_-_ilo_Tujolinko.png "jan Alonola")
 
 **→ ilo Tujolinko**¹ li ilo pi kama sona toki. jan li kepeken ilo Tujolinko tawa open pi kama sona toki. nasin ona pi pana sona li ni: jan o ante toki e nimi pi toki ante. tawa ni la, jan kepeken o pana e nimi wile lon linja nimi pi ilo Tujolinko. toki mute li lon ijo Tujolinko. toki pali kin li lon ijo Tujolinko. toki pali ni li toki Epelanto li toki Walelijan sewi li toki Sinan. toki pali ni li lon ilo Tujolinko la, toki pona o lon ala lon ilo Tujolinko?
 

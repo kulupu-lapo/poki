@@ -31,7 +31,7 @@ taso telo li open tawa wawa. kon li awen li tawa ala. telo li tawa tan seme? jan
 
 jan li kute e mu. mu li sama kalama suli pi soweli mute. tenpo ni la ijo li lon sinpin telo. seme li ni? ijo li sama linja suli li tawa lon telo pimeja. ona li kama tan telo. ijo linja li jo e lawa. lawa ona li suli sama tomo sewi. oko ona li suli sama jan. uta ona li lupa pimeja li suli sama tomo tawa telo. sijelo ona li suli sama nasin telo li lon insa telo pimeja. monsuta li lon telo! monsuta li lukin li alasa moku e tomo tawa telo!
 
-{{{sitelen "0031_monsuta_kala.png" "monsuta kala linja" "jan Meki"}}}
+![monsuta kala linja](https://upload.wikimedia.org/wikipedia/commons/7/7c/Lipu_tenpo_nanpa_kala_-_monsuta_telo.png "jan Meki")
 
 jan pona mi li tawa kepeken tenpo lili li lanpan e kala ona tan supa. wawa mute la ona li pana kon e kala mute tawa monsuta. monsuta o moku e kala o moku ala e tomo!
 

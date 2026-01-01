@@ -21,7 +21,7 @@ notes: null
 ---
 
 
-{{{sitelen "0033_kasi_en_soweli.png" "soweli li lon poka kasi" "kije Weku"}}}
+![soweli li lon poka kasi](https://upload.wikimedia.org/wikipedia/commons/2/2a/Lipu_tenpo_nanpa_pilin_-.png "kije Weku"
 
 🌱 kasi li kama lon  
 ona li lon ma laso  

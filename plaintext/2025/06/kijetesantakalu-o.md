@@ -20,4 +20,4 @@ preprocessing: null
 accessibility-notes: null
 notes: null
 ---
-{{{sitelen "0032_kijetesantakalu-o.png" "kijetesantakalu o comic" "jan Ke Tami"}}}
+![kijetesantakalu o comic](https://upload.wikimedia.org/wikipedia/commons/7/73/Kijetesantakalu_o%21_-_ep31.png "jan Ke Tami")

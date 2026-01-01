@@ -21,7 +21,7 @@ notes: null
 
 waso li ken ijo seme? ijo seme li ken waso? nimi Waso li ken toki pona e ijo seme? jan mute li pilin wawa: ni en ni en ni li lon ijo la ijo li waso. jan ante mute kin li pilin wawa: ni ante en ni ante en ni ante li lon ijo la ijo li waso. nasin wan taso ala li lon. taso mi kama wile sona e nasin suli la mi pana e lipu tawa kulupu mute. lipu la sitelen ijo mute li lon li ken waso li ken waso ala. kulupu o toki: seme li ken waso, seme li waso ala? pini la, kulupu li ken toki e nasin ona pi nimi ni.
 
-{{{sitelen "0031_kala_li_waso.png" "kala li tawa sama waso" "kije Weku"}}}
+![kala li tawa sama waso](https://upload.wikimedia.org/wikipedia/commons/e/ea/Lipu_tenpo_nanpa_kala_-_kala_waso.png "kije Weku")
 
 lon la lipu la kulupu li pana e nasin mute a. ijo li lon sewi la ona li waso. ijo li jo e luka lipu li tawa e lipu ni la ona li waso. ijo li tawa lon kon la ona li waso. ijo li tawa lon kon kepeken wawa ona taso la ona li waso. ijo li jo e linja mute pi tawa kon lon selo ona la ona li waso. ilo li waso ala. ilo li ken waso. ilo li waso ala, taso ona li ken sama waso. pipi li waso ala. pipi li ken waso. ijo li ken ala kama moli la ona li waso ala. uta waso li kiwen. 
 

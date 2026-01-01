@@ -19,7 +19,7 @@ preprocessing: null
 accessibility-notes: null
 notes: null
 ---
-{{{sitelen "0032_ilo_Enejakama.jpg" "ilo Enejakama" "jan Palisona"}}}
+![ilo Enejakama](https://upload.wikimedia.org/wikipedia/commons/a/ac/Lipu_tenpo_nanpa_supa_-_ilo_Enejakama.png "jan Palisona")
 
 ilo Enejakama la, jan luka tu tu li lon. o sona pona e toki mi! jan ale li ante, taso mi ale li wile e ijo sama. mi wile e moku e tomo e jan pona e pali pona. ike li sama kin. mi monsuta e pakala e ike e jaki.  
 nimi Enejakama li ni: “sitelen pi ijo luka tu tu”. sitelen li kama tan sike tan linja. sitelen ni li tan tenpo pini suli li lon lipu pi jan sona Pitakola¹, taso ona li pali ala e sona pi kon jan. mama ona li jan Oka Isaso². ona li wan e sona pi nasin sewi ante mute. ona li nasin sewi ala, li alasa sona e jan. jan sona li lukin e nasin jan li kama lukin e ijo mute sama. ken la, sina sona e ike moli luka tu³. ona li kama tan sona. sona ni li mama e ilo Enejakama kin; taso ona li ante.

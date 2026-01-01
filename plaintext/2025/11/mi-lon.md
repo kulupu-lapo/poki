@@ -170,7 +170,7 @@ nasa.
 
 **k-k-k-kipisi**
 
-{{{sitelen "0034-nanpa-lon/mi-lon-kule.png" "nimi li lon kasi" "jan Alonola"}}}
+![nimi li lon kasi](https://upload.wikimedia.org/wikipedia/commons/1/10/Lipu_tenpo_nanpa_lon_-_ma.png "jan Alonola")
 
 mi pini.
 > mi sona.

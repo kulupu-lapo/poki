@@ -20,7 +20,7 @@ accessibility-notes: null
 notes: null
 ---
 
-{{{sitelen "0031_seme_li_mi.png" "sitelen sitelen pi toki ni" "jan Alonola"}}}
+![sitelen sitelen pi toki ni](https://upload.wikimedia.org/wikipedia/commons/c/c1/Lipu_tenpo_nanpa_kala_-_sitelen_sitelen.png "jan Alonola")
 
 insa mi la ilo pilin tu wan li lon  
 mi moku e telo, sina moku e kon  

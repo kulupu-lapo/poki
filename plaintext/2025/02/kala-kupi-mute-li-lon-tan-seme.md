@@ -19,7 +19,7 @@ accessibility-notes: null
 notes: null
 ---
 
-{{{sitelen "0031_kala_kupi.png" "kala Kupi mute" "jan Alonola"}}}
+![kala Kupi mute](https://upload.wikimedia.org/wikipedia/commons/b/b2/Lipu_tenpo_nanpa_kala_-_kala_Kupi.png "jan Alonola")
 
 tenpo suli la mi jo e kala lon poki telo lon tomo mi. mi jo e kala Kupi tan ni taso: mi wile ala pali mute tan kala mi. 
 

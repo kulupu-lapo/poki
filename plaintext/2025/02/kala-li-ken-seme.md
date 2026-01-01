@@ -19,7 +19,7 @@ accessibility-notes: null
 notes: null
 ---
 
-{{{sitelen "0031_moli-kala.svg" "moli kala" "jan Lim"}}}
+![moli kala](https://upload.wikimedia.org/wikipedia/commons/7/79/Lipu_tenpo_nanpa_kala_-_moli_kala.svg "jan Lim")
 
 tenpo wan la  
     mi noka lon nasin wan  

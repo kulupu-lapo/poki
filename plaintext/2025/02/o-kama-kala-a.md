@@ -19,7 +19,7 @@ accessibility-notes: null
 notes: null
 ---
 
-{{{sitelen "0031_jan_li_kala.png" "jan li tawa sama kala" "jan Alonola"}}}
+![jan li tawa sama kala](https://upload.wikimedia.org/wikipedia/commons/f/f4/Lipu_tenpo_nanpa_kala_-_jan_telo.png "jan Alonola")
 
 tenpo esun ale la mi en jan mute a li tawa lon telo suli lete sama kala. ni li musi a tawa mi li pona e sijelo mi. mi wile e ni: jan mute sin li ken musi ni. taso, mi ni tan seme?
 

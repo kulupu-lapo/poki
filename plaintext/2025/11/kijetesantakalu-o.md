@@ -20,4 +20,4 @@ tags:
   - musi
 ---
 
-{{{sitelen "0034-nanpa-lon/kijetesantakalu32-kule.png" "kijetesantakalu o comic" "jan Ke Tami"}}}
+![kijetesantakalu o comic](https://upload.wikimedia.org/wikipedia/commons/4/44/Kijetesantakalu_o%21_-_ep33.png "jan Ke Tami")

@@ -22,7 +22,7 @@ notes: null
 
 ma ale la jan li wile supa e monsi ona anu ijo ante. sina moku la sina pali e moku lon supa li moku e ona lon supa li weka e jaki lon supa. ken la sina lukin e toki ni lon supa. supa li lon tomo ale. taso supa li kama tan ma seme? jan seme anu ijo seme li pali e supa? mute la jan li pali ala e supa li esun e supa.
 
-{{{sitelen "0032_ikea.png" "tomo esun Ikeja" "jan Alonola"}}}
+![tomo esun Ikeja](https://upload.wikimedia.org/wikipedia/commons/f/fe/Lipu_tenpo_nanpa_supa_-_esun_ike_a.png "jan Alonola")
 
 esun supa la tomo esun suli li lon. ike a! ala. esun Ikeja! esun supa ale la esun Ikeja li suli a. tenpo pini mute (1943) la jan sin Inwa Kanpa (toki Sensa la Ingvar Kamprad) li open e esun Ikeja. tenpo ni la jan Inwa li lon tenpo sike luka luka luka tu taso! open la ona li esun e ijo lili taso. kama la ona li esun e supa. nimi Ikeja li kama tan sitelen open pi nimi tu wan ni: nimi pi jan lawa: **I**ngvar **K**amprad. nimi pi tomo ona: **E**lmtaryd. nimi pi ma tomo ona: **A**gunnaryd. ni li pali e nimi IKEA; toki pona la ona li nimi Ikeja. esun Ikeja li kama suli tan ni: ona li pana e supa lon poki lili. ni la jan li pali e supa lon tomo ona. kin la esun li ken pana e supa kepeken mani lili. kama lili (1958) la esun Ikeja li open e tomo esun nanpa wan lon ma Sensa. tomo esun sin li open lon ma poka: ma Nosiki (1963) en ma Tansi (1969) en ma Suwasi (1973) en ma ante mute.
 

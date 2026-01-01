@@ -20,7 +20,7 @@ accessibility-notes: null
 notes: null
 ---
 
-{{{sitelen "0033_seme_li_mi.png" "sitelen sitelen pi toki ni" "jan Alonola"}}}
+![sitelen sitelen pi toki ni](https://upload.wikimedia.org/wikipedia/commons/2/2e/Lipu_tenpo_nanpa_pilin_-_sitelen_sitelen.png "jan Alonola")
 
 mi wile lon taso mi ken ala  
 mi ken tawa musi lon linja  

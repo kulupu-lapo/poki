@@ -20,7 +20,7 @@ tags:
   - pilin
 ---
 
-{{{sitelen "0034-nanpa-lon/jan-supa-kule.png" "jan lili li lon supa li tawa e luka ona" "jan Alonola"}}}
+![jan lili li lon supa li tawa e luka ona](https://upload.wikimedia.org/wikipedia/commons/c/c9/Lipu_tenpo_nanpa_lon_-_jan_lili.png "jan Alonola")
 
 *sitelen pona li lon [lipu ni](https://jan-nikola.gitlab.io/jan-lili-anu-seme)*
 

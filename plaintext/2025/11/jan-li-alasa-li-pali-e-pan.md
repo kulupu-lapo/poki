@@ -38,4 +38,4 @@ tags:
 
 **kulupu ale li pali e pan sama anu seme?** sama ala. ma Apika la, pan wan li lon. ma Asija la, pan ante. ma Amelika la, pan ante kin. ma Papuwa la, jan li pali e kili pan. ma Oseja la, jan li kama wile ala pali e pan. nasin alasa li awen pona tawa ona. tenpo lon la jan li ken esun e pan ale lon ma ale. ona ale li pona tawa uta.
 
-{{{sitelen "0034-nanpa-lon/dibujo-kule.png" "pan mute" "jan Meki"}}}
+![pan mute](https://upload.wikimedia.org/wikipedia/commons/0/03/Lipu_tenpo_nanpa_lon_-_poki_pan.png "jan Meki")

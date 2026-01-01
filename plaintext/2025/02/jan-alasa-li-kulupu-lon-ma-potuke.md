@@ -19,7 +19,7 @@ accessibility-notes: null
 notes: null
 ---
 
-{{{sitelen "0031_len_jan_alasa.png" "len pi jan alasa" "jan Meki"}}}
+![len pi jan alasa](https://upload.wikimedia.org/wikipedia/commons/e/e3/Lipu_tenpo_nanpa_kala_-_kulupu_Mu.png "jan Meki")
 
 sike ni la jan alasa pi ma ale li kama kulupu lon ma Potuke. ni li kulupu alasa Mu (Moot) pi ma ale. ni li suli a tawa mi tan ni: mi kin li jan alasa li kama lon kulupu ni. taso nanpa wan la jan alasa li seme a?
 

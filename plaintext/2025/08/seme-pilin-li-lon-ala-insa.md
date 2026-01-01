@@ -22,7 +22,7 @@ notes: null
 
 mi lon supa. jan poka pona kin li lon. anpa supa la, telo li suli li jo e mute li mute e jo. sewi supa la, kon li suli li wile ala awen jo e ijo. ijo ante li lon ala poka. jan ante ala li lon. ni li ike ala. mi wile la, mi ken toki anu mu tawa jan weka kepeken ilo. moku ala li lon. ni li ike ala. mi moku suli lon open pi tenpo supa. ma ala li lon. taso supa li lon la, ma li ken lon tenpo ante. ijo wan taso li ike: tawa ala li lon.
 
-{{{sitelen "0033_jan_pona.png" "jan pona tu li toki" "kije Weku"}}}
+![jan pona tu li toki](https://upload.wikimedia.org/wikipedia/commons/1/1c/Lipu_tenpo_nanpa_pilin_-_pilin_jan.png "kije Weku")
 
 jan poka li mu ike – “ni li ike. mi wile e ante” – “ante a o lon” – “mi pilin pi musi ala. pilin mi li ike lon insa mi” – lon toki ona ni la, mi lukin e ona – “seme? pilin li lon ala lon insa?” – “lon” – “ni li ken ala” – lon toki mi ni la, ona li lukin e mi – “a. o toki e ken ala”
 

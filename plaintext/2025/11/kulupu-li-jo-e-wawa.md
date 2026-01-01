@@ -31,7 +31,7 @@ tomo lawa pi ma Elopa li lon ma Sapu la, mi kulupu li wile lon ona. kulupu li�
 
 tenpo li seli la, ma kasi li pona. taso ike la, tenpo open la, sewi li utala e kulupu kepeken telo. ni la, mi tawa insa tomo. jan mute li pana e sitelen nimi ale tawa lipu ona wan. taso kin la, kulupu li pana e sitelen nimi ale tawa lipu kulupu wan. ni la, ale li ken kepeken ona lon ilo. o alasa e nimi ni: “sitelen pona Elopa pi ma Sapu”. mi mute mute tu li pana e sitelen tawa lipu kulupu.
 
-{{{sitelen "0034-nanpa-lon/kulupu-sapu-toki-pimeja.png" "kulupu li pana e sitelen mute la sina ken kepeken sitelen ona" "jan Ke Tami"}}}
+![kulupu li pana e sitelen mute la sina ken kepeken sitelen ona](https://upload.wikimedia.org/wikipedia/commons/7/72/Lipu_tenpo_nanpa_lon_-_sitelen_kulupu.png "jan Ke Tami")
 
 mi pini e pali sitelen la, kulupu li kama sona, li kama tu. kulupu wan la, jan pona sona Olipija li pana e ijo pi luka pona tawa sona kulupu. ni la kulupu li ken toki kepeken kalama uta ala, kepeken sijelo, kepeken tawa, li ken sona e nasin pi toki ante, e nasin pi kulupu ante. kulupu ante li alasa e nasin pi sitelen suwi, li kama sitelen kule e lipu kepeken ona.
 

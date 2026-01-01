@@ -20,7 +20,7 @@ accessibility-notes: null
 notes: null
 ---
 
-{{{sitelen "0032_seme_li_mi.png" "sitelen sitelen pi toki ni" "jan Alonola"}}}
+![sitelen sitelen pi toki ni](https://upload.wikimedia.org/wikipedia/commons/d/d3/Lipu_tenpo_nanpa_supa_-_sitelen_sitelen.png "jan Alonola")
 
 sina supa e mi lon supa mute  
 mi pana e kon la sina ken kute  
