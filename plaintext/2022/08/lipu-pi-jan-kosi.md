@@ -3,7 +3,7 @@ title: lipu pi jan Kosi
 description: jan sin li kama lon kulupu pi toki pona. o lukin e lipu tenpo ona kepeken
   sitelen pona!
 authors:
-  - jan Temili
+  - pan Temili
 proofreaders: null
 date: 2022-08-06
 date-precision: day

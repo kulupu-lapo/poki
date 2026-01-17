@@ -20,7 +20,7 @@ notes: |
   Consists of lyrics from:
   - "o lape" by kala pona Tonyu
   - "pan nanpa wan" by Noise and Bells
-  - "lanpan pan" by jan Temili
+  - "lanpan pan" by pan Temili
 ---
 
 o lape, o lape  \
