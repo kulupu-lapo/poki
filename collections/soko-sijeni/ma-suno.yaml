@@ -2,6 +2,7 @@ name: ma suno
 sources:
   - https://sijeni.li.pona.la/tp/
 items:
+  - plaintext/2025/10/ma-suno.md
   # - toki open -
   - plaintext/2025/03/open-lon.md
   - plaintext/2025/04/open-jan.md
