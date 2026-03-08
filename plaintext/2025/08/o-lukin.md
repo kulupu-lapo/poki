@@ -18,10 +18,11 @@ accessibility-notes: null
 notes: null
 ---
 
-o lukin! sina lukin e ale. kasi en telo en soweli li lon. sina ken kama sona.
+o lukin! sina lukin e ale. ijo mute li lon. sina ken kama sona.
 
 o lukin! sina lukin e ala. pimeja taso li lon. sina ken lape.
 
-o lukin! sina lukin e suno. walo taso li lon. sina ken ala kama sona. sina ken ala lape.
+o lukin! sina lukin e suno. walo taso li lon. sina ken ala sona. sina ken ala lape.
 
 sina wile e suno tan seme?
+
