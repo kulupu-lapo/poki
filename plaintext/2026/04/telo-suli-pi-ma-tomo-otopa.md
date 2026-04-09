@@ -35,6 +35,6 @@ ma ni li lon ma Maja. ma tomo Otopa li jo e telo suli pi kala mute. tenpo pi kas
 
 soweli suli pi telo suli li lon ma ni. soweli ni li tawa insa telo tan seli suno. ona li wile e lete telo tawa sijelo ona. lukin la, soweli ni li pona mute.
 
-ma tomo Otopa li ma supa suli li pona lukin. ilo tawa suli li tawa poka telo. jan tawa li ken kama tawa ma pi waso mute kepeken ilo ni. mi la, ma Otopa li ma pi pona mute. o kama tawa ma ni, o lukin e waso en soweli. mi wile e ni: tenpo kama la, mi mute o lukin e ma ante kin. 
+ma tomo Otopa li ma supa suli li pona lukin. ilo tawa suli li tawa poka telo. jan tawa li ken kama tawa ma pi waso mute kepeken ilo ni. mi la, ma tomo Otopa li ma pi pona mute. o kama tawa ma ni, o lukin e waso en soweli. mi wile e ni: tenpo kama la, mi mute o lukin e ma ante kin. 
 
 tenpo ni la, mi tawa. pona tawa sina!
