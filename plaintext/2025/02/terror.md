@@ -11,10 +11,10 @@ tags:
 original: null
 license: null
 sources:
-  /* original */
+  # original
   - 'https://www.youtube.com/watch?v=xiPduc7z4lc'
   - 'https://kepe.bandcamp.com/track/terror'
-  /* "clean mix", differently arranged lyrics */
+  # "clean mix", differently arranged lyrics
   - 'https://www.youtube.com/watch?v=GHFwzqEK4Ho'
   - 'https://kepe.bandcamp.com/track/terror-clean-mix'
 archives: null
