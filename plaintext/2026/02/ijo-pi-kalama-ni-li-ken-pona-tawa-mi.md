@@ -11,7 +11,7 @@ tags:
 original:
   title: A Drop of Nelson's Blood
   authors:
-    - folk
+    - folk origin
 license: null
 sources:
   - 'https://www.youtube.com/watch?v=4DKp3RWsT_A'
