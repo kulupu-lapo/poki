@@ -5,7 +5,7 @@ authors:
   - jan Tumu
 proofreaders: null
 date: 2001-01-01
-date-precision: null
+date-precision: none
 original: null
 tags:
   - translation
