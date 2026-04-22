@@ -3,8 +3,7 @@ title: musi Soneto tan jan Wilijan Sepi
 description: null
 authors:
   - jan Tumu
-proofreaders:
-  - 
+proofreaders: null
 date: 2001-01-01
 date-precision: none
 original:
