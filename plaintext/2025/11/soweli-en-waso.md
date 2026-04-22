@@ -12,12 +12,15 @@ sources:
   - https://liputenpo.org/toki/nanpa-lon/soweli-en-waso/
   - https://liputenpo.org/lipu/nanpa-lon/
   - https://liputenpo.org/pdfs/0034lon.pdf
+  - https://dhooth.neocities.org/musi/lili
 archives: null
 preprocessing: null
 accessibility-notes: null
 notes: null
 tags:
   - musi
+  - poetry
+  - original
 ---
 
 soweli en waso li lon utala  
