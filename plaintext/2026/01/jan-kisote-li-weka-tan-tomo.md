@@ -4,7 +4,7 @@ description: mi toki pona e lipu “Don Quijote” pi kon Sewante tan toki Epanj
 authors:
   - soko Sijeni
 proofreaders: null
-date: 2025-01-04
+date: 2026-01-04
 date-precision: day
 original:
   title: El ingenioso hidalgo don Quijote de la Mancha
