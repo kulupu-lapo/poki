@@ -152,7 +152,7 @@ jan Selo O li open e uta ona tawa toki. taso tenpo sama la lupa li kama open. ja
 
 ![jan olin mi li kama lukin e ni lon insa ona!!](https://upload.wikimedia.org/wikipedia/commons/4/45/SH_BLUE-03.png "jan olin mi li kama lukin e ni lon insa ona!")
 
-jan Selo O li sewi e sijelo ona. ona li toki e ni: “sewi Jupite a\! jan Pitesona o\! ni li ijo pi mani mute. sina sona e ijo ni anu seme?” 
+jan Selo O li sewi e sijelo ona. ona li toki e ni: “sewi Jupite a\! jan Piteson o\! ni li ijo pi mani mute. sina sona e ijo ni anu seme?” 
 
 “kiwen laso mani anu seme? kiwen pi mani mute. ona li ken kipisi e kiwen lukin sama ko moku.” 
 
