@@ -160,7 +160,7 @@ jan Konen li toki e ni: “mi lukin e suno ala.” anpa pi tomo suli li sama ona
 
 jan Talu li toki e ni: “lupa pi pali wawa sona li lon. taso ona ale li pini. jan utala li jo e kon tan sewi tomo taso.”
 
-ma kasi li poki nasa pi kon pimeja. ona la kasi lili en kasi suli anpa li tawa sama telo pimeja pi suno mun. kon pi jan Konen li pilin e ni: kon monsuta kama li awen lon sewi ona. ona li pilin e lukin pi nimi ala lon monsi pi lawa ona. ona li kama pilin e kon lili nasa monsuta la linja lili pi monsi lawa ona li kama awen. soweli alasa li kama pilin e kon soweli majuna pi wile ona la ona li sama. jan Talu li toki e ni: “o kama. sina wila awen lon la o awen lon monsi mi.”
+ma kasi li poki nasa pi kon pimeja. ona la kasi lili en kasi suli anpa li tawa sama telo pimeja pi suno mun. kon pi jan Konen li pilin e ni: kon monsuta kama li awen lon sewi ona. ona li pilin e lukin pi nimi ala lon monsi pi lawa ona. ona li kama pilin e kon lili nasa monsuta la linja lili pi monsi lawa ona li kama awen. soweli alasa li kama pilin e kon soweli majuna pi wile ona la ona li sama. jan Talu li toki e ni: “o kama. sina wile awen lon la o awen lon monsi mi.”
 
 jan pi ma Nemesija li kama jo e palisa pi kiwen loje tan linja len ona la ona li tawa kasi anpa pi insa sinpin. jan Konen li lon monsi ona li jo e ilo utala ona. taso jan Talu li luka e ona tawa sinpin li wile ala tawa. ale ona li awen. lukin ona li sama ona pi jan Konen li awen lukin e kasi lili pimeja pi poka ona. kasi lili ni li kama tawa. taso kon tawa li pini. lukin tu suli li seli tan kon pimeja tawa. monsi ona la seli ante li suno lon pimeja.
 
