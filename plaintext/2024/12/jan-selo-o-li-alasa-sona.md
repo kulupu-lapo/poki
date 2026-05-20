@@ -454,7 +454,7 @@ ona li toki e ni kepeken kalama wawa ala: “jan Kesuwin Kuse li toki e ona tawa
 
 sina ken kama jan pi ike mute. sina sona e ni: jan One li pali ike lon tenpo pini. ni la jan lawa li ken lukin e ona tawa kiwen. sina pali e seme tan ni? 
 
-sina pali e pakala lili lon tomo pi jan lawa Moka—sina en jan Kusa—sina pali e ni kin: jan One li pona e pakala ni. ona li tawa weka la sina open e poki kiwen. sina toki e ona li poki e jan ni. ni la sina—” 
+sina pali e pakala lili lon tomo pi jan lawa Moka—sina en jan Kuse—sina pali e ni kin: jan One li pona e pakala ni. ona li tawa weka la sina open e poki kiwen. sina toki e ona li poki e jan ni. ni la sina—” 
 
 jan Wata li kama anpa lon len anpa. ona li luka e noka pi jan pona mi li toki wawa e ni: “sewi a\! o pana pona\! o sona e mama mi\! pilin ona li kama pakala\! mi pali ala e ike lon tenpo ante\! mi o pali ike lon tenpo kama\! mi toki e lon\! mi toki e lon kepeken lipu sewi\! o toki ala e ona tawa kulupu lawa\! sewi a\! o ala\!” 
 
