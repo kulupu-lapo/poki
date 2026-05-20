@@ -15,7 +15,7 @@ tags:
   - video
 license: CC BY 4.0
 sources:
-  - https://youtube.com/RBpYKMeCdAQ
+  - https://www.youtube.com/watch?v=RBpYKMeCdAQ
   - https://seka.pona.la/w/23psFTc4uRiYuK4GFZA8PE
 archives: null
 preprocessing: null
