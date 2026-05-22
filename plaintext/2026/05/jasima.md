@@ -2,8 +2,8 @@
 title: jasima
 description: >-
   Translation of the *Minecraft* song "Revenge" (informally "Creeper, Aw Man")
-  by American YouTuber Captainsparklez, parody of "DJ Got Us Fallin' in Love" by
-  American singer Usher, featuring American rapper Pitbull
+  by American YouTuber Captainsparklez, parody of "DJ Got Us Fallin' in Love"
+  by American singer Usher, featuring American rapper Pitbull
 authors:
   - jan Jami
 proofreaders: null
@@ -24,7 +24,8 @@ tags:
   - Minecraft
   - English
   - United States
-license: 'null'
+  - YouTube
+license: null
 sources:
   - https://www.youtube.com/watch?v=CnQD1v099vE
 archives: null
