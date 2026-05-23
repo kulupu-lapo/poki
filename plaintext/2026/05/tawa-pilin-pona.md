@@ -4,7 +4,7 @@ description: null
 authors:
   - u/Francucelo
 proofreaders: null
-date: '2026-05-28'
+date: '2026-04-28'
 date-precision: day
 original:
   title: Ode to Joy
