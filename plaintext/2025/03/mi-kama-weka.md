@@ -15,7 +15,7 @@ tags:
   - utau
   - suicide
 original:
-  title: Goobye
+  title: Goodbye
   authors:
     - VocaCircus  # CircusP
 license: null
