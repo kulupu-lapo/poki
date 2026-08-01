@@ -16,9 +16,9 @@ import datetime as dt
 #  - order of works in collection file.
 
 # === Usage ===
-LIPU_TENPO_TITLE = "suwi"
-LIPU_TENPO_NANPA = "0037"
-DATE = "2026-05-10"
+LIPU_TENPO_TITLE = "sitelen-nasa"
+LIPU_TENPO_NANPA = "0036.5"
+DATE = "2026-04-01"
 LIPU_TENPO_DIRECTORY = "../../../liputenpo.org/content/md/"
 
 YEAR = int(DATE[:4])
