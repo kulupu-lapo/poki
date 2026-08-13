@@ -1,5 +1,5 @@
 ---
-title: jan Poki li kalama wawa - lipu nanpa ala
+title: jan Poki li kalama wawa - lipu open pi kulupu lipu nanpa wan
 description: Translation of the one shot of Volume 1 of Bocchi the Rock!
 authors:
   - jan Pikesike
