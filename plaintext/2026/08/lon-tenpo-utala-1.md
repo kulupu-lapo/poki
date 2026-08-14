@@ -12,7 +12,7 @@ tags:
   - Ike
 license: null
 sources:
-  - www.ggzwnb.nl
+  -
 archives: null
 preprocessing: null
 accessibility-notes: null
