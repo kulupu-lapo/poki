@@ -23,7 +23,7 @@ sources:
 archives: null
 preprocessing: null
 accessibility-notes: null
-notes: Transcription of the latest version (April 9, 2026
+notes: Transcription of the latest version (April 9, 2026)
 ---
 
 ![lipu lili #1](https://dl.dropboxusercontent.com/scl/fi/6ffbopnxkabyztqhnzrxf/1.png?rlkey=tjsd3kmybzisscufzq3u5bcmg&st=jfott9oi&dl=0)
