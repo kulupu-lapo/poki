@@ -9,7 +9,7 @@ date-precision: day
 original:
   title: ぼっち・ざ・ろっく！第1巻のワンショット
   authors:
-    - jan Amasi Aki
+    - はまじあき
 tags:
   - translation
   - manga
