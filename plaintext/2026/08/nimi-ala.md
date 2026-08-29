@@ -30,7 +30,7 @@ ona li kama e ala lon pilin mi. taso, mi kama poka
 
 mi sona ala e nimi anu sijelo sina  
 taso, pilin la, mi sona e pilin sina a  
-mi wile pona e ike pi weka sona la,  
+mi wile pona e ike pi tenpo pini la,  
 mi mu musi wawa, mi pilin pona a  
 
 lon ma-a-a-a-a-a-a ni la, mi sona e ni: sina lon ona  
@@ -44,7 +44,7 @@ mi awen pilin e sina lon ale, li awen e sina lon mi
 mi sona ala e nimi anu sijelo sina  
 “omekapo” la, ale li kama pini a  
 sina ala lon mi la, ala li kama suli  
-lon ijo ale la, mi o kama poka sin  
+lon ijo ale la, mi o poka sin a  
 
 lon ma-a-a-a-a-a-a ni la, mi sona ala e ni: sina lon seme  
 ni la-a-a-a-a-a, mi wan li lon ma ni kepeken nimi ala  
@@ -54,8 +54,8 @@ lon tenpo sama la, mi tawa wawa kin
 mi nimi ala la, mi kama weka tan  
 sona pi jan ale ma  
 taso, sina alasa a e mi taso la,  
-lon ala ni pi pilin mi ni la,  
-kon li kama tan mi, li tawa sina la,  
+lon ala suli pi pilin mi la,  
+kon wawa li kama tan mi, li tawa sina la,  
 waso lili li tawa wawa li kama lon poka sina a  
 
 lon ma-a-a-a-a-a-a ni la, mi sona e ni: sina lon ona  
