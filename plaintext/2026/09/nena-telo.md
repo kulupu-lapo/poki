@@ -6,9 +6,7 @@ authors:
 proofreaders: null
 date: 2026-09-04
 date-precision: day
-original:
-  title: null
-  authors: null
+original: null
 tags:
   - poetry
 license: CC-BY-SA 4.0
