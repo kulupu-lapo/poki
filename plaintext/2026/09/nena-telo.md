@@ -1,0 +1,44 @@
+---
+title: nena telo
+description: >-
+  A poem about the passing of time from the perspective of an outsider: the
+  poet. 
+authors:
+  - jan Mako
+proofreaders: null
+date: '2026-09-04'
+date-precision: day
+original: null
+tags:
+  - poetry
+  - poem
+  - nature
+  - existentialism
+  - time
+license: CC BY 4.0
+sources:
+  - https://toki-musi.vercel.app/poems/nena-telo.html
+archives: null
+preprocessing: null
+accessibility-notes: null
+notes: null
+---
+
+nena telo li kama weka  
+lon ma ko pimeja.  
+kon pi tenpo suno pona,  
+sina sewi e kon soko,  
+e kon telo jaki lon ma mute.  
+  
+jan majuna li tawa tan supa lon telo.  
+supa li kalama tan tawa noka ale.  
+jan li tawa kepeken tomo tawa telo,  
+tomo li pakala tan tenpo mute.  
+  
+ni ale li kama tawa kute sina:  
+kalama lili pi jan lili.  
+jan li musi lon supa kasi.  
+sina awen lon tenpo ni  
+la ona li pini, anu seme?  
+  
+sina mi.  
