@@ -1,6 +1,6 @@
 ---
 title: jan Poki li kalama wawa - lipu nanpa tu
-description: Translation of the Chapter 2 of Bocchi the Rock!
+description: Translation of Chapter 2 of Bocchi the Rock!
 authors:
   - jan Pikesike
 proofreaders:
