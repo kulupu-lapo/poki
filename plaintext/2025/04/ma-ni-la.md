@@ -1,6 +1,6 @@
 ---
 title: ma ni la
-description: null
+description: "toki a, jan ale o! mi jan Janpa Onjon. \U0001F9C5\n\nmi en kalama musi sin mi li kama. \U0001F3A7\U0001F31F\n\nsina sona ala sona e soweli ni: soweli ni li laso, li jo e palisa lili mute, li tawa kepeken tenpo lili. ona li tawa kepeken tenpo lili la, ona li nanpa wan! \U0001F994\U0001F4A8\n\nsina toki e ni: \"a! ona li soweli Soni!\" ni la, sona sina li lon! musi ona li jo e kalama musi nanpa wan. mi o ante toki e kalama ni tawa toki pona! \U0001F60E\n\nkin la, mi wile pana e pona tawa akesi Kilo tan ni: ona li pana e pali majuna ona pi kalama sama. ona li pona e pali mi. sina pona, akesi Kilo o! \U0001F618\n\no musi! \U0001F499\n\nhello everyone! this is jan Janpa Onjon. \U0001F9C5\n\nI'm back with my new song cover in toki pona, \U0001F3A7✨️\n\ndo you know that famous animal character? he's blue, has many spiky quills and can move faster than anyone in the world! \U0001F994\U0001F4A8\n\nif you said \"hey, it's Sonic the Hedgehog!\" - you're right. the Sonic the Hedgehog series has one of the best soundtracks in the entire gaming history, so of course I had to cover it in toki pona. \U0001F60E\n\nplus, I leave a special thanks to akesi Kilo, for handing me his wip translation on this song! it became a good reference when i'm translating this song. thank you, akesi Kilo! \U0001F618\n\nplease enjoy! \U0001F499\n"
 authors:
   - jan Janpa Onjon
 proofreaders: null
