@@ -1,5 +1,5 @@
 ---
-title: jan Poki li kalama wawa - lipu nanpa luka luka wan
+title: jan Poki li kalama wawa - lipu nanpa luka luka tu
 description: Translation of Chapter 12 of Bocchi the Rock!
 authors:
   - jan Pikesike
