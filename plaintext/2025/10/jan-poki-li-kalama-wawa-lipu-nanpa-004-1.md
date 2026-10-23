@@ -18,7 +18,6 @@ license: null
 sources:
   - >-
     https://cubari.moe/read/gist/cmF3L1BpeGVsWnl4ZWwvamFuLVBva2ktbGkta2FsYW1hLXdhd2EvbWFpbi9qYW4lMjBQb2tpJTIwbGklMjBrYWxhbWElMjB3YXdhIS5qc29u/4/
-  - https://www.reddit.com/r/BocchiTheRock/s/WFW2Mh8shY
 archives: null
 preprocessing: null
 accessibility-notes: Untranscribed
