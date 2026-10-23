@@ -3,7 +3,7 @@ title: jan Poki li kalama wawa - lipu nanpa mute
 description: Translation of Chapter 20 of Bocchi the Rock!
 authors:
   - jan Pikesike
-proofreaders: null
+proofreaders: [jan Sijali]
 date: '2026-05-04'
 date-precision: day
 original:
