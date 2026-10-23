@@ -25,11 +25,13 @@ accessibility-notes: Untranscribed
 notes: Images are of the latest version (July 29, 2026)
 ---
 
-![lipu lili nanpa 1](https://dl.dropboxusercontent.com/scl/fi/83262y5lmkwex0suj35nm/1.png?rlkey=a8wytavngclkpju8o4u7b4lcp&st=i3k5hj03&dl=0)
-![lipu lili nanpa 2](https://dl.dropboxusercontent.com/scl/fi/ki5irfm83coy0gm3c6fjq/2.png?rlkey=vydu11ferjf2ybyw19xxf3mco&st=u2rxi4eo&dl=0)
-![lipu lili nanpa 3](https://dl.dropboxusercontent.com/scl/fi/epmcznk62um9cc1z9msnz/3.png?rlkey=xh9qum8m79qjggjso8929j5wp&st=4u60xly2&dl=0)
-![lipu lili nanpa 4](https://dl.dropboxusercontent.com/scl/fi/194yvvw0psl8e1iiht7w7/4.png?rlkey=cm1wwbrek6lnnl8k8155v77ta&st=rbzg908a&dl=0)
-![lipu lili nanpa 5](https://dl.dropboxusercontent.com/scl/fi/ur41w4iu0tuvtx55so5xh/5.png?rlkey=vwrjm6rldl9r6yrytav0kneua&st=hgln73mo&dl=0)
-![lipu lili nanpa 6](https://dl.dropboxusercontent.com/scl/fi/vqc8hkdefno0svt1erru7/6.png?rlkey=xfobokrt9z2owjxbugqxno9ic&st=d4bfzgv5&dl=0)
-![lipu lili nanpa 7](https://dl.dropboxusercontent.com/scl/fi/8x2t5ydk2xpc61o4p8m47/7.png?rlkey=pdv4xqx0xhej2bg7n6exq19xp&st=t67fj1r2&dl=0)
-![lipu lili nanpa 8](https://dl.dropboxusercontent.com/scl/fi/u1hplgnkzr28gdsnvk4ky/8.png?rlkey=evesw8vqkrwpko5uy8dq668rn&st=hdrwdjrf&dl=0)
+![lipu lili nanpa 1](https://dl.dropboxusercontent.com/scl/fi/maiepq711bd16oa04yyu2/1.png?rlkey=9uow1y252zh1psyk2q8vry6n0&st=93n5s9ce&dl=0",
+![lipu lili nanpa 2](https://dl.dropboxusercontent.com/scl/fi/nu63qcf7639h581h2j9g6/2.png?rlkey=bx4i228tr9vxni9qj25wkujzq&st=xun5ht2j&dl=0",
+![lipu lili nanpa 3](https://dl.dropboxusercontent.com/scl/fi/fqh7q48r9pq104u2843d4/3.png?rlkey=qxqckjmfm23g2bdpr1lrr81ge&st=l05km0rv&dl=0",
+![lipu lili nanpa 4](https://dl.dropboxusercontent.com/scl/fi/lse5uiukqlu9xkcpmzyey/4.png?rlkey=5h6y8nuseeeqp79tjhbg1i6fs&st=qn833ann&dl=0",
+![lipu lili nanpa 5](https://dl.dropboxusercontent.com/scl/fi/a14ashikm78zaezi1n10p/5.png?rlkey=weuztl79znph9ynadjlcqa0w4&st=2v4gamjv&dl=0",
+![lipu lili nanpa 6](https://dl.dropboxusercontent.com/scl/fi/i8oz8eitql8libqn2lui3/6.png?rlkey=9tuioj40c5fypk27az5ba121z&st=zcqtsnud&dl=0",
+![lipu lili nanpa 7](https://dl.dropboxusercontent.com/scl/fi/1rhgkblm81kvbc510r9pq/7.png?rlkey=pneq4w29tuam60hj2fu075asm&st=wv90fswp&dl=0",
+![lipu lili nanpa 8](https://dl.dropboxusercontent.com/scl/fi/r9c1ixkpgapxot8vyzhk3/8.png?rlkey=k96civ07cswgtdlnptv9qzah8&st=rtfwylc6&dl=0",
+![lipu lili nanpa 9](https://dl.dropboxusercontent.com/scl/fi/te91kbbxyc0lc40cfskwe/9.png?rlkey=mjm1ha0ecyqgxfyrokygdfcv8&st=491cv8g7&dl=0",
+![lipu lili nanpa 10](https://dl.dropboxusercontent.com/scl/fi/b6mch12rtn62w8lbq8opy/10.png?rlkey=nvy0c5ltdhvsut00gr005pu61&st=xs4cmu12&dl=0"
