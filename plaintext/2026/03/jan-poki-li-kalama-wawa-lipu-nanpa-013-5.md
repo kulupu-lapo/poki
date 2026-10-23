@@ -1,5 +1,5 @@
 ---
-title: jan Poki li kalama wawa - lipu nanpa luka luka tu wan
+title: jan Poki li kalama wawa - sitelen namako pi kulupu lipu nanpa wan
 description: Translation of the Volume 1 Extras of Bocchi the Rock!
 authors:
   - jan Pikesike
