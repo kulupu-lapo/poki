@@ -22,7 +22,7 @@ sources:
 archives: null
 preprocessing: null
 accessibility-notes: Untranscribed
-notes: null
+notes: Transcription of the latest version with some minor revisions (September 08, 2026)
 ---
 
 ![lipu lili nanpa 1](https://dl.dropboxusercontent.com/scl/fi/gjpt6w3vyge6fgjr6lutz/1.png?rlkey=eeruoa0yqx5soh0ebbbcnnuhv&st=3aohwmse&dl=0)
