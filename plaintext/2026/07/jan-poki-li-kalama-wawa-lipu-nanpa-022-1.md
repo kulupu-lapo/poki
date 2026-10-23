@@ -17,8 +17,8 @@ tags:
 license: null
 sources:
   - >-
-    https://cubari.moe/read/gist/cmF3L1BpeGVsWnl4ZWwvamFuLVBva2ktbGkta2FsYW1hLXdhd2EvbWFpbi9qYW4lMjBQb2tpJTIwbGklMjBrYWxhbWElMjB3YXdhIS5qc29u/21/
-  - https://www.reddit.com/r/BocchiTheRock/s/1u8kPGEAb6
+    https://cubari.moe/read/gist/cmF3L1BpeGVsWnl4ZWwvamFuLVBva2ktbGkta2FsYW1hLXdhd2EvbWFpbi9qYW4lMjBQb2tpJTIwbGklMjBrYWxhbWElMjB3YXdhIS5qc29u/22/
+  - https://www.reddit.com/r/tokipona/s/QbVc9UA1ax
 archives: null
 preprocessing: null
 accessibility-notes: Untranscribed
