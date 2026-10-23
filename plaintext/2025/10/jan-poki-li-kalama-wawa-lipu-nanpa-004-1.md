@@ -1,5 +1,5 @@
 ---
-title: jan Poki li kalama wawa - lipu nanpa tu
+title: jan Poki li kalama wawa - lipu nanpa tu tu
 description: Translation of Chapter 4 of Bocchi the Rock!
 authors:
   - jan Pikesike
