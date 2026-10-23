@@ -3,7 +3,7 @@ title: jan Poki li kalama wawa - lipu nanpa luka wan
 description: Translation of Chapter 6 of Bocchi the Rock!
 authors:
   - jan Pikesike
-proofreaders: [jan Sijali]
+proofreaders: null
 date: '2025-11-10'
 date-precision: day
 original:
