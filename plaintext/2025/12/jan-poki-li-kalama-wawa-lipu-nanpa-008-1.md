@@ -1,5 +1,5 @@
 ---
-title: jan Poki li kalama wawa - lipu nanpa luka tu
+title: jan Poki li kalama wawa - lipu nanpa luka tu wan
 description: Translation of Chapter 8 of Bocchi the Rock!
 authors:
   - jan Pikesike
