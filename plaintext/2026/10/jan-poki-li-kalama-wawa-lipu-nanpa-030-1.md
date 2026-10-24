@@ -1,5 +1,5 @@
 ---
-title: jan Poki li kalama wawa - lipu nanpa mute luka tu tu
+title: jan Poki li kalama wawa - lipu nanpa mute luka luka
 description: Translation of Chapter 30 of Bocchi the Rock!
 authors:
   - jan Pikesike
