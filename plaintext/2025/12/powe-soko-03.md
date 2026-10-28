@@ -1,4 +1,3 @@
-powe-soko-03-0.md
 ---
 title: powe soko - Chapter 3 - pali lupa
 description:
