@@ -1,8 +1,7 @@
 ---
 title: ko sin
 description: >-
-  A translation of former Hololive talent Gawr Gura's "Ash Again" written by
-  Casey Edwards.
+  A translation of former Hololive talent Gawr Gura's "Ash Again" written by Casey Edwards.
 authors:
   - jan Pikesike
 proofreaders: null
@@ -16,7 +15,7 @@ tags:
   - music
   - translation
   - Gawr Gura
-  - Hololive
+  - hololive
   - V-Tuber
 license: CC BY-SA-NC 4.0
 sources:
