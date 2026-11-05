@@ -20,7 +20,4 @@ accessibility-notes: null
 notes: null
 
 ---
-
-
-{{{sitelen "0037-nanpa-suwi/kijetesantakalu36.png" "kijetesantakalu o comic" "jan Ke Tami"}}}
-
+![kijetesantakalu o](https://github.com/lipu-tenpo/liputenpo.org/blob/main/content/img/0038-nanpa-pakala/kijetesantakalu37.png?raw=true)
